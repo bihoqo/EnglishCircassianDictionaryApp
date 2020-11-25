@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import { SearchBar } from 'react-native-elements';
 import React from 'react';
 import { View, Text, StyleSheet, StatusBar } from 'react-native';
 import AutocompleteSection from './AutocompleteSection.js';
 import WordSection from './WordSection.js';
 import circassianDict from './../dictionary/CircassianDict.js';
+import { SearchBar } from 'react-native-elements';
 
 const HomePage = () => {
     const [searchedText, setSearchedText] = useState('');
