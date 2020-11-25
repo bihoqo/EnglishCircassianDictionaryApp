@@ -29,9 +29,8 @@ const HomePage = () => {
         // get new word's object from the dictionary json
         let key = getJsonKey(searchedText);
         const newWordObj = circassianDict[key].find((wordObj) => {
-            return wordObj['word'] === newWord;
+            return wordObj['searchWord'] === newWord;
         });
-        console.log(newWordObj);
         setSelectedWordObj(newWordObj);
     }
 
@@ -49,8 +48,8 @@ const HomePage = () => {
         try {
             let key = getJsonKey(searchedText);
             circassianDict[key].forEach((wordObj) => {
-                if (wordObj['word'].startsWith(searchedText)) {
-                    filteredWords.push(wordObj['word']);
+                if (wordObj['searchWord'].startsWith(searchedText)) {
+                    filteredWords.push(wordObj['searchWord']);
                 }
             });
         } catch (arr) {

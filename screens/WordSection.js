@@ -11,8 +11,8 @@ const WordSection = (props) => {
             const translation = highlightTextBetweenQuotes(example['translation']);
             return (
                 <ListItem.Content key={index} style={styles.definitionContainer}>
-                    <ListItem.Title style={styles.exampleText}>{sentence}</ListItem.Title>
-                    <ListItem.Title style={styles.exampleText}>{translation}</ListItem.Title>
+                    <ListItem.Title style={styles.sentenceText}>{sentence}</ListItem.Title>
+                    <ListItem.Title style={styles.translationText}>{translation}</ListItem.Title>
                 </ListItem.Content>
             );
         });
@@ -92,12 +92,17 @@ const styles = StyleSheet.create({
         marginRight: 20
     },
     meaningText: {
-        fontSize: 20,
+        fontSize: 23,
         color: '#585858'
     },
-    exampleText: {
-        fontSize: 16,
+    sentenceText: {
+        fontSize: 19,
         color: 'black'
+    },
+    translationText: {
+        fontSize: 19,
+        color: '#4a4a4a',
+        fontStyle: 'italic'
     }
 });
 
