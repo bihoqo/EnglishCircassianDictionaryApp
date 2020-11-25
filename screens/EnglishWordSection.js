@@ -19,16 +19,25 @@ const EnglishWordSection = (props) => {
 
     const createHeader = (title) => (
         <View>
-            <Text style={styles.header}>
-                {title}
+            <Text style={styles.typeHeader}>
+                {title}:
             </Text>
-            <View style={styles.hr} />
         </View>
     )
 
+    const header = (
+        <View>
+            <Text style={styles.header}>
+                <Text style={styles.word}>{wordObj['searchWord']}</Text>
+            </Text>
+            <View style={styles.hr}/>
+            {wordObj['meaning']['lemma'].length > 0 ? createHeader('Lemmas') : null}
+        </View>
+    );
+
     const listOfLemmmas = () => {
         return <FlatList
-            ListHeaderComponent={wordObj['meaning']['lemma'].length > 0 ? createHeader('Lemmas') : null}
+            ListHeaderComponent={header}
             ListFooterComponent={wordObj['meaning']['verb'].length > 0 ? createHeader('Verbs') : null}
             data={wordObj['meaning']['lemma']}
             keyExtractor={(item, index) => index.toString()}
@@ -54,6 +63,16 @@ const styles = StyleSheet.create({
         paddingTop: 10,
         paddingLeft: 10,
         fontSize: 30
+    },
+    typeHeader: {
+        paddingTop: 20,
+        paddingLeft: 10,
+        fontSize: 25,
+        textDecorationLine: 'underline'
+    },
+    word: {
+        fontSize: 30,
+        fontWeight: "bold"
     },
     hr: {
         borderBottomColor: 'black',
