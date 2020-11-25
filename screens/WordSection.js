@@ -11,9 +11,9 @@ const WordSection = (props) => {
         if (split.length > 0) {
             split.forEach((part, index) => {
                 if (index % 2 == 0) {
-                    result.push(<Text>{part}</Text>);
+                    result.push(<Text key={index}>{part}</Text>);
                 } else {
-                    result.push(<Text style={styles.highlight}>{part}</Text>);
+                    result.push(<Text key={index} style={styles.highlight}>{part}</Text>);
                 }
             });
         } else {
@@ -48,17 +48,24 @@ const WordSection = (props) => {
 
     const header = (
         <View>
-            <Text style={styles.header}>{wordObj['word']}</Text>
+            <Text style={styles.header}>
+                <Text style={styles.word}>{wordObj['word']}</Text>
+                <Text>  [{wordObj['ipa']}]</Text>
+                <Text> ({wordObj['type']})</Text>
+            </Text>
+            <View style={styles.hr}/>
         </View>
     );
 
     const footerFun = () => {
         const shapsugWord = wordObj['shapsug'] != null ? wordObj['shapsug'] : '-';
         const kabardianWord = wordObj['kabardian'] != null ? wordObj['kabardian'] : '-';
+        const synonymsWords = wordObj['synonyms'] != null ? wordObj['synonyms'].join(', ') : '-';
         return (
-            <View>
-                <Text>Shapsug: {shapsugWord}</Text>
-                <Text>Kabardian: {kabardianWord}</Text>
+            <View style={styles.footer}>
+                <Text style={styles.footerText}><Text style={styles.highlight}>Synonyms</Text>: {synonymsWords}</Text>
+                <Text style={styles.footerText}><Text style={styles.highlight}>Shapsug</Text>: {shapsugWord}</Text>
+                <Text style={styles.footerText}><Text style={styles.highlight}>Kabardian</Text>: {kabardianWord}</Text>
             </View>
         );
     };
@@ -78,13 +85,28 @@ const styles = StyleSheet.create({
         padding: 10
     },
     header: {
-        padding: 10,
+        paddingTop: 10,
+        paddingLeft: 10
+    },
+    word: {
         fontSize: 30,
-        fontWeight: "bold",
-        textDecorationLine: 'underline'
+        fontWeight: "bold"
     },
     highlight: {
         fontWeight: "bold",
+    },
+    footer: {
+        paddingLeft: 10
+    },
+    footerText: {
+        fontSize: 18,
+        paddingBottom: 15
+    },
+    hr: {
+        borderBottomColor: 'black',
+        borderBottomWidth: 1,
+        marginLeft: 10,
+        marginRight: 20
     }
 });
 

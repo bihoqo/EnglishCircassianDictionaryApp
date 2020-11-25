@@ -71,6 +71,31 @@ const circassianDict = [
         ipa: "qapət͡ʃan"
     },
     {
+        word: "малъхъо",
+        lang: "Adyghe",
+        definitions: [
+            {
+                meaning: "son-in-law (daughter's husband)",
+                examples: []
+            },
+            {
+                meaning: "brother-in-law (sister's husband)",
+                examples: []
+            }
+        ],
+        synonyms: [
+            "махълъэ",
+            "махъулъэ",
+            "пщыкъу",
+            "ш1упщыкъу",
+            "л1ымыш",
+            "малхъо",
+            "малъхъэ"
+        ],
+        type: "noun",
+        ipa: "maːɬχʷa"
+    },
+    {
         word: "шъун",
         lang: "Adyghe",
         definitions: [
