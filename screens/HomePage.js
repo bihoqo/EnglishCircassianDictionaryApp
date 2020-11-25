@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import React from 'react';
-import { View, Text, StyleSheet, StatusBar } from 'react-native';
+import { View, Text, StyleSheet, ToastAndroid, StatusBar } from 'react-native';
 import AutocompleteSection from './AutocompleteSection.js';
 import CircassianWordSection from './CircassianWordSection.js';
 import EnglishWordSection from './EnglishWordSection.js';
@@ -25,18 +25,32 @@ const HomePage = () => {
 
     const newWordSelectionHandlder = (newWord) => {
         newWord = newWord.toLowerCase();
-        searchedTextLowCase = searchedText.toLowerCase();
         setShowAutocomplete(false);
 
         // get new word's object from the dictionary json
-        let key = getJsonKey(searchedTextLowCase);
-        if (getFittingDictionary(searchedTextLowCase).hasOwnProperty(key)) {
-            const newWordObj = getFittingDictionary(searchedTextLowCase)[key].find((wordObj) => {
+        let key = getJsonKey(newWord);
+        if (getFittingDictionary(newWord).hasOwnProperty(key)) {
+            const newWordObj = getFittingDictionary(newWord)[key].find((wordObj) => {
                 return wordObj['searchWord'].toLowerCase() === newWord;
             });
-            setSelectedWordObj(newWordObj);
+            if (newWordObj == undefined) {
+                showToastWithText(newWord);
+            } else {
+                setSelectedWordObj(newWordObj);
+            }
+        } else {
+            showToastWithText(newWord);
         }
     }
+
+    const showToastWithText = (textToDisplay) => {
+        const message = "Couldn't find the word: " + textToDisplay;
+        ToastAndroid.showWithGravity(
+            message,
+            ToastAndroid.SHORT,
+            ToastAndroid.BOTTOM
+        );
+    };
 
     const isWordInEnglish = (searchedText) => {
         const firstLetter = searchedText.charAt(0).toLowerCase();
@@ -60,14 +74,14 @@ const HomePage = () => {
     }
 
     // filter current displayed word options
-    const getFilteredWords = () => {
-        const searchedTextLowCase = searchedText.toLowerCase();
+    const getFilteredWords = (text) => {
+        text = text.toLowerCase();
         let filteredWords = [];
-        if (searchedTextLowCase.length >= 1) {
-            let key = getJsonKey(searchedTextLowCase);
-            if (getFittingDictionary(searchedTextLowCase).hasOwnProperty(key)) {
-                getFittingDictionary(searchedTextLowCase)[key].forEach((wordObj) => {
-                    if (wordObj['searchWord'].toLowerCase().startsWith(searchedTextLowCase)) {
+        if (text.length >= 1) {
+            let key = getJsonKey(text);
+            if (getFittingDictionary(text).hasOwnProperty(key)) {
+                getFittingDictionary(text)[key].forEach((wordObj) => {
+                    if (wordObj['searchWord'].toLowerCase().startsWith(text)) {
                         filteredWords.push(wordObj['searchWord']);
                     }
                 });
@@ -95,7 +109,7 @@ const HomePage = () => {
     }
 
     const autocompleteView = () => {
-        return <AutocompleteSection data={getFilteredWords()}
+        return <AutocompleteSection data={getFilteredWords(searchedText)}
             selectNewWord={newWordSelectionHandlder} />;
     }
 
@@ -106,7 +120,7 @@ const HomePage = () => {
             return numberOfWordsView();
         } else {
             if (isWordInEnglish(selectedWordObj['searchWord'])) {
-                return <EnglishWordSection selectedWordObj={selectedWordObj} />
+                return <EnglishWordSection selectNewWord={newWordSelectionHandlder} selectedWordObj={selectedWordObj} />
             } else {
                 return <CircassianWordSection selectedWordObj={selectedWordObj} />
             }

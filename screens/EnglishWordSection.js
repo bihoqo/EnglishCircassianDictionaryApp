@@ -7,7 +7,7 @@ const EnglishWordSection = (props) => {
 
     const renderWords = ({ item, index }) => {
         return (
-            <ListItem>
+            <ListItem onPress={() => props.selectNewWord(item)}>
                 <ListItem.Content>
                     <ListItem.Title style={styles.meaningText}>
                         {(index + 1) + '. ' + item}
