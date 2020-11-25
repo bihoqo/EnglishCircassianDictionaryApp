@@ -25,12 +25,13 @@ const HomePage = () => {
 
     const newWordSelectionHandlder = (newWord) => {
         newWord = newWord.toLowerCase();
+        searchedTextLowCase = searchedText.toLowerCase();
         setShowAutocomplete(false);
 
         // get new word's object from the dictionary json
-        let key = getJsonKey(searchedText);
-        if (getFittingDictionary(searchedText).hasOwnProperty(key)) {
-            const newWordObj = getFittingDictionary(searchedText)[key].find((wordObj) => {
+        let key = getJsonKey(searchedTextLowCase);
+        if (getFittingDictionary(searchedTextLowCase).hasOwnProperty(key)) {
+            const newWordObj = getFittingDictionary(searchedTextLowCase)[key].find((wordObj) => {
                 return wordObj['searchWord'].toLowerCase() === newWord;
             });
             setSelectedWordObj(newWordObj);
@@ -60,13 +61,13 @@ const HomePage = () => {
 
     // filter current displayed word options
     const getFilteredWords = () => {
-        const insertedText = searchedText.toLowerCase();
+        const searchedTextLowCase = searchedText.toLowerCase();
         let filteredWords = [];
-        if (insertedText.length >= 1) {
-            let key = getJsonKey(insertedText);
-            if (getFittingDictionary(insertedText).hasOwnProperty(key)) {
-                getFittingDictionary(insertedText)[key].forEach((wordObj) => {
-                    if (wordObj['searchWord'].toLowerCase().startsWith(insertedText)) {
+        if (searchedTextLowCase.length >= 1) {
+            let key = getJsonKey(searchedTextLowCase);
+            if (getFittingDictionary(searchedTextLowCase).hasOwnProperty(key)) {
+                getFittingDictionary(searchedTextLowCase)[key].forEach((wordObj) => {
+                    if (wordObj['searchWord'].toLowerCase().startsWith(searchedTextLowCase)) {
                         filteredWords.push(wordObj['searchWord']);
                     }
                 });
