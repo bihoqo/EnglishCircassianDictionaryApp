@@ -5,31 +5,14 @@ import { ListItem } from 'react-native-elements';
 const WordSection = (props) => {
     const wordObj = props.selectedWordObj;
 
-    const highlightTextBetweenQuotes = (text) => {
-        const split = text.split("'''");
-        let result = [];
-        if (split.length > 0) {
-            split.forEach((part, index) => {
-                if (index % 2 == 0) {
-                    result.push(<Text key={index}>{part}</Text>);
-                } else {
-                    result.push(<Text key={index} style={styles.highlight}>{part}</Text>);
-                }
-            });
-        } else {
-            result = [<Text>{text}</Text>];
-        }
-        return result;
-    }
-
     const renderDefinitions = ({ item, index }) => {
         const examples = item['examples'].map((example, index) => {
             const sentence = highlightTextBetweenQuotes(example['sentence']);
             const translation = highlightTextBetweenQuotes(example['translation']);
             return (
-                <ListItem.Content key={index} style={styles.container}>
-                    <ListItem.Title>{sentence}</ListItem.Title>
-                    <ListItem.Title>{translation}</ListItem.Title>
+                <ListItem.Content key={index} style={styles.definitionContainer}>
+                    <ListItem.Title style={styles.exampleText}>{sentence}</ListItem.Title>
+                    <ListItem.Title style={styles.exampleText}>{translation}</ListItem.Title>
                 </ListItem.Content>
             );
         });
@@ -37,7 +20,7 @@ const WordSection = (props) => {
         return (
             <ListItem>
                 <ListItem.Content>
-                    <ListItem.Title>
+                    <ListItem.Title style={styles.meaningText}>
                         {(index + 1) + '. ' + item['meaning']}
                     </ListItem.Title>
                     {examples}
@@ -81,8 +64,8 @@ const WordSection = (props) => {
 }
 
 const styles = StyleSheet.create({
-    container: {
-        padding: 10
+    definitionContainer: {
+        paddingTop: 20
     },
     header: {
         paddingTop: 10,
@@ -107,7 +90,32 @@ const styles = StyleSheet.create({
         borderBottomWidth: 1,
         marginLeft: 10,
         marginRight: 20
+    },
+    meaningText: {
+        fontSize: 20,
+        color: '#585858'
+    },
+    exampleText: {
+        fontSize: 16,
+        color: 'black'
     }
 });
+
+const highlightTextBetweenQuotes = (text) => {
+    const split = text.split("|");
+    let result = [];
+    if (split.length > 0) {
+        split.forEach((part, index) => {
+            if (index % 2 == 0) {
+                result.push(<Text key={index}>{part}</Text>);
+            } else {
+                result.push(<Text key={index} style={styles.highlight}>{part}</Text>);
+            }
+        });
+    } else {
+        result = [<Text>{text}</Text>];
+    }
+    return result;
+}
 
 export default WordSection;
