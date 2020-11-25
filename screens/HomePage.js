@@ -2,16 +2,16 @@ import { useState } from 'react';
 import React from 'react';
 import { View, Text, StyleSheet, StatusBar } from 'react-native';
 import AutocompleteSection from './AutocompleteSection.js';
-import WordSection from './WordSection.js';
+import CircassianWordSection from './CircassianWordSection.js';
+import EnglishWordSection from './EnglishWordSection.js';
 import circassianDict from './../dictionary/CircassianDict.js';
+import englishDict from './../dictionary/EnglishDict.js';
 import { SearchBar } from 'react-native-elements';
 
 const HomePage = () => {
     const [searchedText, setSearchedText] = useState('');
     const [selectedWordObj, setSelectedWordObj] = useState({});
     const [showAutocomplete, setShowAutocomplete] = useState(false);
-
-    const words = ['Adam', 'John', 'Dina', 'Saw', 'Zed'];
 
     // a funciton that handles the inserted text in the search bar
     const updateSearch = (insertedText) => {
@@ -28,10 +28,25 @@ const HomePage = () => {
 
         // get new word's object from the dictionary json
         let key = getJsonKey(searchedText);
-        const newWordObj = circassianDict[key].find((wordObj) => {
-            return wordObj['searchWord'] === newWord;
-        });
-        setSelectedWordObj(newWordObj);
+        if (getFittingDictionary(searchedText).hasOwnProperty(key)) {
+            const newWordObj = getFittingDictionary(searchedText)[key].find((wordObj) => {
+                return wordObj['searchWord'] === newWord;
+            });
+            setSelectedWordObj(newWordObj);
+        }
+    }
+
+    const isWordInEnglish = (searchedText) => {
+        const firstLetter = searchedText.charAt(0).toLowerCase();
+        return firstLetter.match(/[a-z]/i);
+    }
+
+    const getFittingDictionary = (searchedText) => {
+        if (isWordInEnglish(searchedText)) {
+            return englishDict;
+        } else {
+            return circassianDict;
+        }
     }
 
     const getJsonKey = (word) => {
@@ -43,32 +58,54 @@ const HomePage = () => {
     }
 
     // filter current displayed word options
-    let filteredWords = [];
-    if (searchedText.length >= 1) {
-        try {
+    const getFilteredWords = () => {
+        let filteredWords = [];
+        if (searchedText.length >= 1) {
             let key = getJsonKey(searchedText);
-            circassianDict[key].forEach((wordObj) => {
-                if (wordObj['searchWord'].startsWith(searchedText)) {
-                    filteredWords.push(wordObj['searchWord']);
-                }
-            });
-        } catch (arr) {
-            console.log(arr);
+            if (getFittingDictionary(searchedText).hasOwnProperty(key)) {
+                getFittingDictionary(searchedText)[key].forEach((wordObj) => {
+                    if (wordObj['searchWord'].startsWith(searchedText)) {
+                        filteredWords.push(wordObj['searchWord']);
+                    }
+                });
+            }
         }
+        return filteredWords;
+    }
+
+    const numberOfWordsView = () => {
+        let numberOfCircassianWords = 0;
+        let numberOfEnglishWords = 0;
+        Object.keys(circassianDict).forEach((key) => {
+            numberOfCircassianWords += circassianDict[key].length;
+        });
+        Object.keys(englishDict).forEach((key) => {
+            numberOfEnglishWords += englishDict[key].length;
+        });
+        return (
+            <View>
+                <Text style={styles.numberOfWordsText}>Number of Circassian words: {numberOfCircassianWords}</Text>
+                <Text style={styles.numberOfWordsText}>Number of English words: {numberOfEnglishWords}</Text>
+            </View>
+        )
+    }
+
+    const autocompleteView = () => {
+        return <AutocompleteSection data={getFilteredWords()}
+            selectNewWord={newWordSelectionHandlder} />;
     }
 
     const displayedSection = () => {
         if (showAutocomplete) {
-            return <AutocompleteSection data={filteredWords}
-                selectNewWord={newWordSelectionHandlder} />;
+            return autocompleteView();
         } else if (Object.keys(selectedWordObj).length === 0 && selectedWordObj.constructor === Object) {
-            let numberOfWords = 0;
-            Object.keys(circassianDict).forEach((key) => {
-                numberOfWords += circassianDict[key].length;
-            });
-            return <Text style={styles.numberOfWordsText}>Number of Circassian words: {numberOfWords}</Text>
+            return numberOfWordsView();
         } else {
-            return <WordSection selectedWordObj={selectedWordObj} />
+            if (isWordInEnglish(selectedWordObj['searchWord'])) {
+                return <EnglishWordSection selectedWordObj={selectedWordObj} />
+            } else {
+                return <CircassianWordSection selectedWordObj={selectedWordObj} />
+            }
         }
     };
 
