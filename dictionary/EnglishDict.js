@@ -1,3 +1,4 @@
+
 const englishDict = {
   "pr": [
     {
@@ -40,7 +41,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пагэ",
-          "зызыш1ош1ыжьырэ"
+          "зызышӏошӏыжьырэ"
         ],
         "verbs": []
       },
@@ -50,9 +51,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "елъэ1ун (to pray to)",
-          "нэмаз ш1ын (to do prayer)",
-          "тхьэм елъэ1ун (to pray to god)"
+          "елъэӏун (to pray to)",
+          "нэмаз шӏын (to do prayer)",
+          "тхьэм елъэӏун (to pray to god)"
         ]
       },
       "word": "pray"
@@ -87,7 +88,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офы",
+          "ӏофы",
           "проблэм",
           "бырсыр (trouble)"
         ],
@@ -138,7 +139,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эфызык1ын / хэфызык1ын"
+          "кӏэфызыкӏын / хэфызыкӏын"
         ]
       },
       "word": "press out"
@@ -176,7 +177,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьапсэч1эс"
+          "хьапсэчӏэс"
         ],
         "verbs": []
       },
@@ -185,8 +186,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьак1э-къуак1э",
-          "цунтхъак1у"
+          "хьакӏэ-къуакӏэ",
+          "цунтхъакӏу"
         ],
         "verbs": []
       },
@@ -195,7 +196,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьэл1ык1о",
+          "тхьэлӏыкӏо",
           "пегъэмбар"
         ],
         "verbs": []
@@ -216,8 +217,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "тетын",
-          "темык1ын",
-          "пхырыгъэк1ын",
+          "темыкӏын",
+          "пхырыгъэкӏын",
           "зыригъэнэн / зегъэнэн (to persist)",
           "инатэу фэхъун (to become persistent for)"
         ]
@@ -228,7 +229,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "те1унк1эн (to press/click on something)",
+          "теӏункӏэн (to press/click on something)",
           "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible))"
         ]
       },
@@ -268,8 +269,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1эгъэхьан, егъэгъотын",
-          "1эк1эгъэхьан",
+          "ӏэкӏэгъэхьан, егъэгъотын",
+          "ӏэкӏэгъэхьан",
           "егъэгъотын"
         ]
       },
@@ -278,7 +279,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъуз ш1ой",
+          "шъуз шӏой",
           "(Kfar Kama dialect) шэмгьэн"
         ],
         "verbs": []
@@ -288,7 +289,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "те1унк1эныгъ"
+          "теӏункӏэныгъ"
         ],
         "verbs": []
       },
@@ -316,9 +317,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэ1атынгъэ",
+          "шъхьэӏатынгъэ",
           "пэгэныгъ",
-          "зыш1ош1ыжьыныгъ",
+          "зышӏошӏыжьыныгъ",
           "зыщытхъужьыныгъ"
         ],
         "verbs": []
@@ -339,7 +340,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "на1э тегъэтын",
+          "наӏэ тегъэтын",
           "ухъумэн",
           "къэгъэгъунэн"
         ]
@@ -351,7 +352,7 @@ const englishDict = {
         "lemmas": [
           "джырэ (time)",
           "(dialectal) иджырэ (time)",
-          "ш1ухьафтын (gift)"
+          "шӏухьафтын (gift)"
         ],
         "verbs": []
       },
@@ -363,7 +364,7 @@ const englishDict = {
         "verbs": [
           "къыхэщын (to stick out from among)",
           "къищын (to stick out from inside something)",
-          "къыч1эщын (to stick out from under something)",
+          "къычӏэщын (to stick out from under something)",
           "къытещын (to stick out from above something)",
           "къыпыщын (to stick out from a tree, to stick out from the tip of something)",
           "къыкъощын (to stick out from behind something)",
@@ -384,7 +385,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ыхьэ-лыхь (slow and prolonged)"
+          "кӏыхьэ-лыхь (slow and prolonged)"
         ],
         "verbs": []
       },
@@ -393,8 +394,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ок1э куу",
-          "къое-ч1ай",
+          "тӏокӏэ куу",
+          "къое-чӏай",
           "тауташ"
         ],
         "verbs": []
@@ -404,7 +405,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1ап"
+          "гущыӏап"
         ],
         "verbs": []
       },
@@ -432,7 +433,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ык1ай"
+          "шӏыкӏай"
         ],
         "verbs": []
       },
@@ -442,7 +443,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "нахь къигъэк1ын",
+          "нахь къигъэкӏын",
           "нахь къыхэхын",
           "нахь къэштэн"
         ]
@@ -453,7 +454,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тек1он (to overcome, to surpass)",
+          "текӏон (to overcome, to surpass)",
           "фикъун"
         ]
       },
@@ -462,7 +463,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1эпапк1"
+          "цӏэпапкӏ"
         ],
         "verbs": []
       },
@@ -472,7 +473,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гущы1эм фэ1он",
+          "гущыӏэм фэӏон",
           "енэгуен (to think but not be absolutely sure)"
         ]
       },
@@ -483,7 +484,7 @@ const englishDict = {
         "lemmas": [
           "дэхэт (it is probabil that, it is likely that)",
           "щытын (that is probably the case)",
-          "ч1эк1ын (it would turn out to be)",
+          "чӏэкӏын (it would turn out to be)",
           "енэгуй (probably)",
           "енэгуягъо (probably)"
         ],
@@ -496,7 +497,7 @@ const englishDict = {
         "lemmas": [
           "дэхэт (it is probabil that, it is likely that)",
           "щытын (that is probably the case)",
-          "ч1эк1ын (it would turn out to be)",
+          "чӏэкӏын (it would turn out to be)",
           "енэгуй (probably)",
           "енэгуягъо (probably)"
         ],
@@ -508,8 +509,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шэк1он",
-          "ешэк1он (to hunt something)",
+          "шэкӏон",
+          "ешэкӏон (to hunt something)",
           "убытын / къэубытын (to be hunting something)"
         ]
       },
@@ -519,7 +520,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыш1ын"
+          "зышӏын"
         ]
       },
       "word": "pretend"
@@ -528,10 +529,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъык1отэн (to advance, to progress, to proceed)",
-          "лъыгъэк1отэн (to advance something, to progress something, to proceed something)",
+          "лъыкӏотэн (to advance, to progress, to proceed)",
+          "лъыгъэкӏотэн (to advance something, to progress something, to proceed something)",
           "(dialectal) игъэкъун",
-          "хэк1отэн (to proceed with time)"
+          "хэкӏотэн (to proceed with time)"
         ]
       },
       "word": "proceed"
@@ -540,8 +541,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъык1отэн (to advance, to progress, to proceed)",
-          "лъыгъэк1отэн (to advance something, to progress something, to proceed something)",
+          "лъыкӏотэн (to advance, to progress, to proceed)",
+          "лъыгъэкӏотэн (to advance something, to progress something, to proceed something)",
           "(dialectal) игъэкъун"
         ]
       },
@@ -560,7 +561,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ын"
+          "шӏын"
         ]
       },
       "word": "produce"
@@ -568,10 +569,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1э"
+          "гущыӏэ"
         ],
         "verbs": [
-          "гущы1э етын"
+          "гущыӏэ етын"
         ]
       },
       "word": "promise"
@@ -600,7 +601,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэ1ун"
+          "хэӏун"
         ]
       },
       "word": "prick"
@@ -610,7 +611,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэбк1э"
+          "къэбкӏэ"
         ],
         "verbs": []
       },
@@ -651,7 +652,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "егъэк1ун"
+          "егъэкӏун"
         ]
       },
       "word": "put in place"
@@ -677,9 +678,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1ур",
-          "к1элэеджак1о",
-          "еджак1о"
+          "пӏур",
+          "кӏэлэеджакӏо",
+          "еджакӏо"
         ],
         "verbs": []
       },
@@ -698,8 +699,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэт1ылъын",
-          "ч1ыгум телъхьан"
+          "гъэтӏылъын",
+          "чӏыгум телъхьан"
         ]
       },
       "word": "put down"
@@ -708,25 +709,25 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэт1ылъын (to put down)",
+          "гъэтӏылъын (to put down)",
           "илъхьан (to put inside)",
           "телъхьан (to put on)",
-          "ч1элъхьан (to put under)",
-          "1улъхьан (to put near)",
+          "чӏэлъхьан (to put under)",
+          "ӏулъхьан (to put near)",
           "къолъхьан (to put behind)",
           "пылъхьан (to hang, to attach)",
           "голъхьан / бгъодэлъхьан (to put besides)",
           "дэлъхьан (to put between or to put inside another object)",
           "хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something)",
-          "к1оц1ылъхьан (to put something within something)",
+          "кӏоцӏылъхьан (to put something within something)",
           "гъэуцун (to put something somewhere)",
           "тегъэуцун (to put on)",
           "дэгъэуцон (to put between)",
-          "1угъэуцон (to put something near)",
+          "ӏугъэуцон (to put something near)",
           "зэтелъхьан (to put on each other)",
-          "к1элъырыгъэуцон (to put something next to)",
+          "кӏэлъырыгъэуцон (to put something next to)",
           "жэхэлъхьан (to intensively put something against something)",
-          "зэк1элъхьан (to put stuff under each other)",
+          "зэкӏэлъхьан (to put stuff under each other)",
           "зэкъолъхьан (to put stuff behind each other)",
           "зэдэлъхьан (to put stuff in each other)",
           "зэрилъхьан (to put stuff inside each other)",
@@ -734,17 +735,17 @@ const englishDict = {
           "зэпылъхьан (to attach stuff to each other)",
           "итэкъон (to put/throw stuff inside something)",
           "тетэкъон (to put/throw stuff on something)",
-          "ч1этэкъон (to put/throw stuff under something)",
+          "чӏэтэкъон (to put/throw stuff under something)",
           "дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between)",
           "къотэкъон (to put/throw stuff behind something)",
           "хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid)",
           "готэкъон / бгъодэтэкъон (to put/throw stuff besides something)",
           "жэхэтэкъон (to put/throw stuff against something)",
-          "1оф хэдзэн (to put/throw someone in a troublesome situation)",
-          "къегъэт1ылъэк1ын (to put around)",
+          "ӏоф хэдзэн (to put/throw someone in a troublesome situation)",
+          "къегъэтӏылъэкӏын (to put around)",
           "телъхьажьын (to put the blame on)",
-          "егъэуцол1эн (to put something next to)",
-          "хэгъэтк1он (to put liquid drops into another liquid, substance, food, fire, etc.)"
+          "егъэуцолӏэн (to put something next to)",
+          "хэгъэткӏон (to put liquid drops into another liquid, substance, food, fire, etc.)"
         ]
       },
       "word": "put"
@@ -778,17 +779,17 @@ const englishDict = {
           "къудыин / къэкъудыин (to pull, to apply a force to (an object) so that it comes toward the person or thing applying the force)",
           "дэтхъын (to pull out from inside another object that can be opened)",
           "итхъын (to pull out from the ground or from inside something)",
-          "икъудыик1ын / къикъудыик1ын (to pull something from inside something)",
-          "ч1экъудыик1ын / къыч1экъудыик1ын (to pull something from under something)",
+          "икъудыикӏын / къикъудыикӏын (to pull something from inside something)",
+          "чӏэкъудыикӏын / къычӏэкъудыикӏын (to pull something from under something)",
           "къэлъэшъун (to pull something to oneself, to gravitate something to oneself)",
-          "хэтхъын (to pull/tear a part/portion of something)",
-          "пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull a body part off)",
+          "хэтхъын (to pull or tear a portion out of something)",
+          "пытхъын (to pull or tear off a part of something on the tip, to pull or tear off something attached, to pull a body part off)",
           "пычын (to pick a fruit or flower)",
           "дэлъэшъоен (to pull up)",
           "елъэшъохын / къелъэшъохын (to pull down, to gravitate downward)",
           "дэтхъын (to pull out from inside another object like a book)",
           "хэщын (to pull someone out of a certain situation)",
-          "к1ырыун (to tug, to pull hard)",
+          "кӏырыун (to tug, to pull hard)",
           "хэдзын / къыхэдзын (to pull something out of a mass of gas or liquid)"
         ]
       },
@@ -816,9 +817,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1уфын",
-          "1удзын",
-          "1угъэбыбын"
+          "ӏуфын",
+          "ӏудзын",
+          "ӏугъэбыбын"
         ]
       },
       "word": "push away"
@@ -855,7 +856,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щэ1эн"
+          "щэӏэн"
         ]
       },
       "word": "put up with"
@@ -892,9 +893,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ухын (to put away)",
+          "ӏухын (to put away)",
           "техын (to put away from above something)",
-          "ч1эхын (to put away from under something)",
+          "чӏэхын (to put away from under something)",
           "дэхын (to put away from betweem, to put away from inside another object)",
           "ихын (to put away from inside something)",
           "гохын / бгъодэхын (to put away from besides something)",
@@ -902,7 +903,7 @@ const englishDict = {
           "пыхын (to put away from a hanger or tree)",
           "итэкъун / къитэкъун (to put/throw away stuff from inside something)",
           "тетэкъун / къытетэкъун (to put/throw away stuff from on something)",
-          "ч1этэкъун / къыч1этэкъун (to put/throw away stuff from under something)",
+          "чӏэтэкъун / къычӏэтэкъун (to put/throw away stuff from under something)",
           "дэтэкъун / къыдэтэкъун (to put/throw away stuff from inside another object, to put/throw away stuff from between)",
           "къотэкъун / къыкъотэкъун (to put/throw away stuff from behind something)",
           "хэтэкъун / къыхэтэкъун (to put/throw away stuff from among other objects/people, to put/throw away stuff from an area with fire, gas or liquid)",
@@ -983,24 +984,24 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1унк1эн",
-          "е1унк1ын (to push someone)",
+          "ӏункӏэн",
+          "еӏункӏын (to push someone)",
           "фын (to push something)",
-          "т1ыргун",
-          "ет1ыргун (to push someone)",
-          "(Shapsug) егук1эн",
+          "тӏыргун",
+          "етӏыргун (to push someone)",
+          "(Shapsug) егукӏэн",
           "ифын (to drive/push from an area, to drive/push from inside)",
-          "1уфын (to drive/push from near)",
+          "ӏуфын (to drive/push from near)",
           "дэфыен (to drive/push up)",
           "ефэхын (to drive/push down)",
           "блэфын (to drive/push pass)",
-          "ч1эфын (to drive/push from under)",
+          "чӏэфын (to drive/push from under)",
           "тефын (to drive/push from above)",
           "хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field)",
           "дэфын (to drive/push from a defined area such as a yard, area, village, etc.)",
           "къофын (to drive/push from behind)",
-          "е1эн (to push with might)",
-          "егъэк1отыл1эн (to push something closer to something)"
+          "еӏэн (to push with might)",
+          "егъэкӏотылӏэн (to push something closer to something)"
         ]
       },
       "word": "push"
@@ -1010,7 +1011,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэпщынэн",
-          "пшъэдэк1ыжь егъэхьын"
+          "пшъэдэкӏыжь егъэхьын"
         ]
       },
       "word": "punish"
@@ -1020,7 +1021,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "угъонын",
-          "гъуанэ фэш1ын"
+          "гъуанэ фэшӏын"
         ]
       },
       "word": "puncture"
@@ -1038,7 +1039,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "папыщ",
-          "1ул (in horses)"
+          "ӏул (in horses)"
         ],
         "verbs": []
       },
@@ -1076,15 +1077,15 @@ const englishDict = {
       "word": "qafe"
     }
   ],
-  "10": [
+  "ӏ0": [
     {
       "meaning": {
         "lemmas": [
-          "л1эш1эгъу"
+          "лӏэшӏэгъу"
         ],
         "verbs": []
       },
-      "word": "100 years"
+      "word": "ӏ00 years"
     }
   ],
   "ab": [
@@ -1129,7 +1130,7 @@ const englishDict = {
         "lemmas": [
           "бгынагъэ",
           "бгынэжьыгъэ",
-          "ч1эдзыжьыгъэ"
+          "чӏэдзыжьыгъэ"
         ],
         "verbs": []
       },
@@ -1138,7 +1139,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэк1ай"
+          "бэкӏай"
         ],
         "verbs": []
       },
@@ -1147,7 +1148,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущык1ыгъо (loathsome)",
+          "гущыкӏыгъо (loathsome)",
           "гуштэгъуадж"
         ],
         "verbs": []
@@ -1158,9 +1159,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "теуфагъэу",
-          "ехьыл1агъэу",
+          "ехьылӏагъэу",
           "егъэпхыгъэу",
-          "ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+          "ащ теуфагъэу / ащ ехьылӏагъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
         ],
         "verbs": []
       },
@@ -1191,11 +1192,11 @@ const englishDict = {
           "телъын (to be above something in a lying position)",
           "ыпшъэ",
           "ышъхьагъы",
-          "ык1ы1у (the surface of)",
+          "ыкӏыӏу (the surface of)",
           "ышъхьэ (the surface of)",
-          "ыпшъэк1э",
-          "ышъхьагък1э",
-          "ык1ы1ук1э"
+          "ыпшъэкӏэ",
+          "ышъхьагъкӏэ",
+          "ыкӏыӏукӏэ"
         ],
         "verbs": []
       },
@@ -1215,8 +1216,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ок1э куу",
-          "къушъхьэт1ок1э къое-ч1ай",
+          "тӏокӏэ куу",
+          "къушъхьэтӏокӏэ къое-чӏай",
           "тауташ"
         ],
         "verbs": []
@@ -1227,7 +1228,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьак1о ехын"
+          "шъхьакӏо ехын"
         ]
       },
       "word": "abase"
@@ -1235,7 +1236,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ащ рик1орэр"
+          "ащ рикӏорэр"
         ],
         "verbs": []
       },
@@ -1266,7 +1267,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мышк1у"
+          "мышкӏу"
         ],
         "verbs": []
       },
@@ -1307,7 +1308,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "узын",
-          "хэузык1ын  (to feel pain in general)"
+          "хэузыкӏын  (to feel pain in general)"
         ]
       },
       "word": "ache"
@@ -1316,7 +1317,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нахь (actaully it is)",
-          "шъыпкъэмк1э"
+          "шъыпкъэмкӏэ"
         ],
         "verbs": []
       },
@@ -1327,8 +1328,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэджэгун (to act as an actor)",
-          "зек1он (to act in a certain behavior)",
-          "зыш1ын (to act like)"
+          "зекӏон (to act in a certain behavior)",
+          "зышӏын (to act like)"
         ]
       },
       "word": "act"
@@ -1337,8 +1338,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэцэк1эн",
-          "къыфигъэк1ын (to accomplish something successfully)"
+          "гъэцэкӏэн",
+          "къыфигъэкӏын (to accomplish something successfully)"
         ]
       },
       "word": "accomplish"
@@ -1374,9 +1375,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1и1эн",
-          "к1итхъун",
-          "нахь гъэпсынк1эн"
+          "кӏиӏэн",
+          "кӏитхъун",
+          "нахь гъэпсынкӏэн"
         ]
       },
       "word": "accelerate"
@@ -1384,7 +1385,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэ1уасэ"
+          "нэӏуасэ"
         ],
         "verbs": []
       },
@@ -1394,7 +1395,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зек1он"
+          "зекӏон"
         ]
       },
       "word": "act like"
@@ -1411,8 +1412,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъыпкъэмк1э",
-          "шъыпкъэ п1ощтымэ"
+          "шъыпкъэмкӏэ",
+          "шъыпкъэ пӏощтымэ"
         ],
         "verbs": []
       },
@@ -1431,9 +1432,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1эхьан / къы1эк1эхьан",
-          "1эгъэк1эхьан (to make someone acquire something)",
-          "зы1эк1эгъэхьажьын (to make oneself acquire something)",
+          "ӏэкӏэхьан / къыӏэкӏэхьан",
+          "ӏэгъэкӏэхьан (to make someone acquire something)",
+          "зыӏэкӏэгъэхьажьын (to make oneself acquire something)",
           "къэгъэхъэн (to obtain, to acquire, to gain)"
         ]
       },
@@ -1443,7 +1444,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1ыгъун"
+          "кӏыгъун"
         ]
       },
       "word": "accompany"
@@ -1470,7 +1471,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьэгъош1ыгъу"
+          "хьэгъошӏыгъу"
         ],
         "verbs": []
       },
@@ -1499,7 +1500,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "адыгэл1"
+          "адыгэлӏ"
         ],
         "verbs": []
       },
@@ -1528,8 +1529,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "егъэк1ун (to adapt to)",
-          "фэш1оу ш1ын"
+          "егъэкӏун (to adapt to)",
+          "фэшӏоу шӏын"
         ]
       },
       "word": "adapt"
@@ -1538,8 +1539,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "егъэк1ун (to adjust to)",
-          "фэш1оу пш1ын (to adjust to one\u0027s needs)"
+          "егъэкӏун (to adjust to)",
+          "фэшӏоу пшӏын (to adjust to one\u0027s needs)"
         ]
       },
       "word": "adjust"
@@ -1548,7 +1549,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "п1ун"
+          "пӏун"
         ]
       },
       "word": "adopt"
@@ -1557,7 +1558,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "нэпц1ыгъэк1э щытхъун"
+          "нэпцӏыгъэкӏэ щытхъун"
         ]
       },
       "word": "adulate"
@@ -1565,8 +1566,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэпц1 щытхъуа1у",
-          "1ордегъашт"
+          "нэпцӏ щытхъуаӏу",
+          "ӏордегъашт"
         ],
         "verbs": []
       },
@@ -1594,7 +1595,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэк1эрэк1эн"
+          "гъэкӏэрэкӏэн"
         ]
       },
       "word": "adorn"
@@ -1612,7 +1613,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэзек1он"
+          "гъэзекӏон"
         ]
       },
       "word": "administrate"
@@ -1632,7 +1633,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "плъышъуац1"
+          "плъышъуацӏ"
         ],
         "verbs": []
       },
@@ -1642,8 +1643,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "унашъо ш1ын (to address someone in order to bring to attention, to bring to attention)",
-          "унашъо фэш1ын (to address something to someone in order to bring an attention to the subject)"
+          "унашъо шӏын (to address someone in order to bring to attention, to bring to attention)",
+          "унашъо фэшӏын (to address something to someone in order to bring an attention to the subject)"
         ]
       },
       "word": "address"
@@ -1671,8 +1672,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъык1отэн (to advance, to progress, to proceed)",
-          "лъыгъэк1отэн (to advance something, to progress something, to proceed something)",
+          "лъыкӏотэн (to advance, to progress, to proceed)",
+          "лъыгъэкӏотэн (to advance something, to progress something, to proceed something)",
           "(dialectal) игъэкъун"
         ]
       },
@@ -1681,7 +1682,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ащ къыдак1оу"
+          "ащ къыдакӏоу"
         ],
         "verbs": []
       },
@@ -1699,8 +1700,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "уфэупц1э",
-          "лант1э"
+          "уфэупцӏэ",
+          "лантӏэ"
         ],
         "verbs": []
       },
@@ -1740,12 +1741,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "упч1э"
+          "упчӏэ"
         ],
         "verbs": [
-          "упч1эн",
-          "еупч1ын (to question someone)",
-          "к1эупч1эн (to question around)"
+          "упчӏэн",
+          "еупчӏын (to question someone)",
+          "кӏэупчӏэн (to question around)"
         ]
       },
       "word": "question"
@@ -1805,7 +1806,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пл1анэ"
+          "плӏанэ"
         ],
         "verbs": []
       },
@@ -1814,9 +1815,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псынк1э",
-          "(dialectal) чъык1ай",
-          "псык1э (Shapsug)"
+          "псынкӏэ",
+          "(dialectal) чъыкӏай",
+          "псыкӏэ (Shapsug)"
         ],
         "verbs": []
       },
@@ -1855,7 +1856,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пл1энэбзы"
+          "плӏэнэбзы"
         ],
         "verbs": []
       },
@@ -1873,8 +1874,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псынк1эу",
-          "ш1эхэу",
+          "псынкӏэу",
+          "шӏэхэу",
           "елбэтэу (in a blink of an eye)"
         ],
         "verbs": []
@@ -1885,12 +1886,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэнэжьын / к1энэжьын / щыун (to quit doing something, to get out of the habit of)",
-          "хэгъэнэжьын / к1эгъэнэжьын (to make someone quit something)",
-          "1ук1ыжьын (to quit job)",
+          "хэнэжьын / кӏэнэжьын / щыун (to quit doing something, to get out of the habit of)",
+          "хэгъэнэжьын / кӏэгъэнэжьын (to make someone quit something)",
+          "ӏукӏыжьын (to quit job)",
           "уцужьын (to stop doing something)",
-          "умыш1эжьын (to not do something any longer)",
-          "щысэхъук1ын (to quit doing a habit)"
+          "умышӏэжьын (to not do something any longer)",
+          "щысэхъукӏын (to quit doing a habit)"
         ]
       },
       "word": "quit"
@@ -1900,7 +1901,7 @@ const englishDict = {
         "lemmas": [
           "губжыпх",
           "губжыл",
-          "губжыгъош1у"
+          "губжыгъошӏу"
         ],
         "verbs": []
       },
@@ -1957,9 +1958,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ыкъынэуж",
-          "ет1анэ",
-          "ет1анэк1э",
-          "(dialectal) ет1уанэ"
+          "етӏанэ",
+          "етӏанэкӏэ",
+          "(dialectal) етӏуанэ"
         ],
         "verbs": []
       },
@@ -1969,8 +1970,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ыуж",
-          "ыужк1э",
-          "къык1элъык1орэ",
+          "ыужкӏэ",
+          "къыкӏэлъыкӏорэ",
           "ыужырэ"
         ],
         "verbs": []
@@ -1981,8 +1982,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ыуж",
-          "ыужк1э",
-          "къык1элъык1орэ",
+          "ыужкӏэ",
+          "къыкӏэлъыкӏорэ",
           "ыужырэ"
         ],
         "verbs": []
@@ -1993,11 +1994,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ыуж",
-          "ыужык1э",
+          "ыужыкӏэ",
           "ыужырэ (the one after)",
           "(dialectal) иуж",
-          "ыкъынэуж / ыкъынэужк1э (after someone/something else)",
-          "акъынэуж / акъынэужк1э (after everyone else)",
+          "ыкъынэуж / ыкъынэужкӏэ (after someone/something else)",
+          "акъынэуж / акъынэужкӏэ (after everyone else)",
           "къэсыгъахэу (after it reaches a certain time)",
           "ыкъынэуж (afterward)"
         ],
@@ -2032,7 +2033,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ягъэ егъэк1ын",
+          "ягъэ егъэкӏын",
           "къин егъэхъун",
           "пшъэбы дэсын",
           "шъхьэ тесын"
@@ -2043,7 +2044,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ыжъыгъу",
+          "лӏыжъыгъу",
           "жъыгъо",
           "жъышъхьэ"
         ],
@@ -2058,7 +2059,7 @@ const englishDict = {
           "дэштэн (to agree with)",
           "дегъэштэн (to agree with)",
           "зэдэштэн (to agree with each other)",
-          "дэн, еуцол1эн"
+          "дэн, еуцолӏэн"
         ]
       },
       "word": "agree"
@@ -2075,7 +2076,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "техак1у"
+          "техакӏу"
         ],
         "verbs": []
       },
@@ -2095,7 +2096,7 @@ const englishDict = {
         "lemmas": [
           "джыри",
           "джызэ",
-          "ик1эрык1эу (over again)"
+          "икӏэрыкӏэу (over again)"
         ],
         "verbs": []
       },
@@ -2104,7 +2105,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эбжъэнэдак1"
+          "ӏэбжъэнэдакӏ"
         ],
         "verbs": []
       },
@@ -2133,7 +2134,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэч1ынат1 / къыпэ1ут",
+          "пэчӏынатӏ / къыпэӏут",
           "жэхэ- (prepositional verval suffix)"
         ],
         "verbs": []
@@ -2143,7 +2144,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьэмыш1э"
+          "тхьэмышӏэ"
         ],
         "verbs": []
       },
@@ -2172,14 +2173,14 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпы1эгъу",
-          "1эпы1эгъу"
+          "ӏэпыӏэгъу",
+          "ӏэпыӏэгъу"
         ],
         "verbs": [
-          "дэ1эпы1эн",
-          "1эпы1эгъоу фэхъун",
-          "де1эн",
-          "дечъэк1ын"
+          "дэӏэпыӏэн",
+          "ӏэпыӏэгъоу фэхъун",
+          "деӏэн",
+          "дечъэкӏын"
         ]
       },
       "word": "aid"
@@ -2201,7 +2202,7 @@ const englishDict = {
           "къухьэлъатэ",
           "къухьэбыб",
           "ошъоку",
-          "гъуч1ыбзыу",
+          "гъучӏыбзыу",
           "быбылъ"
         ],
         "verbs": []
@@ -2211,7 +2212,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "быбып1"
+          "быбыпӏ"
         ],
         "verbs": []
       },
@@ -2248,7 +2249,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жьынэ1у"
+          "жьынэӏу"
         ],
         "verbs": []
       },
@@ -2302,7 +2303,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жьыдзап1э"
+          "жьыдзапӏэ"
         ],
         "verbs": []
       },
@@ -2320,7 +2321,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жьыдзак1о"
+          "жьыдзакӏо"
         ],
         "verbs": []
       },
@@ -2343,7 +2344,7 @@ const englishDict = {
           "ренэу",
           "зэпыт",
           "-зэпыт (verbal suffix indicating always)",
-          "сыд щыгъок1и",
+          "сыд щыгъокӏи",
           "енэу (Shapsug)",
           "сыдигъуи (always, never)"
         ],
@@ -2357,7 +2358,7 @@ const englishDict = {
           "ренэу",
           "зэпыт",
           "-зэпыт (verbal suffix indicating all the time)",
-          "сыд щыгъок1и",
+          "сыд щыгъокӏи",
           "енэу (Shapsug)"
         ],
         "verbs": []
@@ -2377,7 +2378,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхъок1ын"
+          "зэхъокӏын"
         ]
       },
       "word": "alter"
@@ -2385,7 +2386,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэхъок1ыгъ"
+          "зэхъокӏыгъ"
         ],
         "verbs": []
       },
@@ -2414,7 +2415,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дэгъу (okay, sure, no problem, all right)",
-          "зэк1эр дэгъу (everything is good)"
+          "зэкӏэр дэгъу (everything is good)"
         ],
         "verbs": []
       },
@@ -2441,11 +2442,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэсэк1эн"
+          "гъэсэкӏэн"
         ],
         "verbs": []
       },
-      "word": "alternative form of \"гъэцэк1эн\""
+      "word": "alternative form of \"гъэцэкӏэн\""
     },
     {
       "meaning": {
@@ -2460,9 +2461,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ерагъэу",
-          "ерагък1э / ерагъэк1э",
+          "ерагъкӏэ / ерагъэкӏэ",
           "егъэзыгъэу",
-          "л1ыгъэк1э",
+          "лӏыгъэкӏэ",
           "зыгорашъоу (somehow)"
         ],
         "verbs": []
@@ -2490,7 +2491,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъон к1уач1э",
+          "шъон кӏуачӏэ",
           "шъуатэ"
         ],
         "verbs": []
@@ -2527,7 +2528,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1упк1э"
+          "пӏупкӏэ"
         ],
         "verbs": []
       },
@@ -2547,7 +2548,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1э",
+          "зэкӏэ",
           "(Shapsug) зэужэу"
         ],
         "verbs": []
@@ -2557,7 +2558,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьай / шъхьак1э"
+          "шъхьай / шъхьакӏэ"
         ],
         "verbs": []
       },
@@ -2566,7 +2567,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ешъуак1о",
+          "ешъуакӏо",
           "ешъорый"
         ],
         "verbs": []
@@ -2578,7 +2579,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ык1о"
+          "лӏыкӏо"
         ],
         "verbs": []
       },
@@ -2587,8 +2588,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэш1эгъон",
-          "(slang) ц1ап1э (amazing, awesome, nice, cool)"
+          "гъэшӏэгъон",
+          "(slang) цӏапӏэ (amazing, awesome, nice, cool)"
         ],
         "verbs": []
       },
@@ -2629,10 +2630,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэк1эн",
+          "лъэкӏэн",
           "лъашъхьэ",
-          "лъэк1эн",
-          "лъэк1эн"
+          "лъэкӏэн",
+          "лъэкӏэн"
         ],
         "verbs": []
       },
@@ -2641,7 +2642,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гумэк1ыл"
+          "гумэкӏыл"
         ],
         "verbs": []
       },
@@ -2686,7 +2687,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ягъэ егъэк1ын",
+          "ягъэ егъэкӏын",
           "къин егъэхъун",
           "пшъэбы дэсын",
           "шъхьэ тесын"
@@ -2716,7 +2717,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ык1и"
+          "ыкӏи"
         ],
         "verbs": []
       },
@@ -2762,8 +2763,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ет1анэ / ет1анэк1э",
-          "(dialectal) ет1уанэ / ет1уанэк1э"
+          "етӏанэ / етӏанэкӏэ",
+          "етӏуанэ / етӏуанэкӏэ"
         ],
         "verbs": []
       },
@@ -2794,8 +2795,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэлэ1ич",
-          "тхьэ1офыт"
+          "мэлэӏич",
+          "тхьэӏофыт"
         ],
         "verbs": []
       },
@@ -2804,7 +2805,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къухьэт1ысып1"
+          "къухьэтӏысыпӏ"
         ],
         "verbs": []
       },
@@ -2835,7 +2836,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гумэк1ыгъу"
+          "гумэкӏыгъу"
         ],
         "verbs": []
       },
@@ -2845,8 +2846,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эджэн (to announce out loud)",
-          "макъэ егъэ1ун (to announce someone), къэбар егъэш1эн (to announce someone)"
+          "кӏэджэн (to announce out loud)",
+          "макъэ егъэӏун (to announce someone), къэбар егъэшӏэн (to announce someone)"
         ]
       },
       "word": "announce"
@@ -2863,8 +2864,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэмык1 / пэмык1",
-          "(Shapsug) нэмык1ыр",
+          "нэмыкӏ / пэмыкӏ",
+          "(Shapsug) нэмыкӏыр",
           "ехъурэ"
         ],
         "verbs": []
@@ -2874,7 +2875,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ап1э"
+          "ӏапӏэ"
         ],
         "verbs": []
       },
@@ -2902,8 +2903,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ащ нэмык1",
-          "нэмык1эу",
+          "ащ нэмыкӏ",
+          "нэмыкӏэу",
           "фэшъхьафэу",
           "ехъурэ",
           "щэхъу"
@@ -2936,7 +2937,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжьа1о"
+          "бжьаӏо"
         ],
         "verbs": []
       },
@@ -2956,7 +2957,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1ыц1ын"
+          "цӏыцӏын"
         ]
       },
       "word": "apply pressure"
@@ -2965,12 +2966,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ек1ун / ек1ол1эн (to approach someone)",
+          "екӏун / екӏолӏэн (to approach someone)",
           "еблэгъэн (to get closer)",
-          "ыдэжь к1он (to go near someone)",
-          "1ухьан (to go near a certain place such as a shop)",
+          "ыдэжь кӏон (to go near someone)",
+          "ӏухьан (to go near a certain place such as a shop)",
           "(slang) дэублэн (to approach and speak to someone, seeking romance, love, etc.)",
-          "ыпхэк1ы ихьан (to approach something\u0027s back)",
+          "ыпхэкӏы ихьан (to approach something\u0027s back)",
           "(vulgar) ышъуты ихьан (to approach something\u0027s rear)"
         ]
       },
@@ -2979,7 +2980,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ек1у",
+          "екӏу",
           "дахэ"
         ],
         "verbs": []
@@ -2992,9 +2993,9 @@ const englishDict = {
         "verbs": [
           "къэлъэгъон (to be visible",
           "to start to appear)",
-          "къыхэк1ын (to appear in)",
-          "къы1ухъон (to appear from nowhere)",
-          "щы1эу хъун (to start to exist)"
+          "къыхэкӏын (to appear in)",
+          "къыӏухъон (to appear from nowhere)",
+          "щыӏэу хъун (to start to exist)"
         ]
       },
       "word": "appear"
@@ -3002,7 +3003,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мы1эрыс",
+          "мыӏэрыс",
           "мые (wild apple)"
         ],
         "verbs": []
@@ -3025,9 +3026,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э",
-          "итеплъэк1э",
-          "ынахэк1э"
+          "зэрэкъэлъагъорэмкӏэ",
+          "итеплъэкӏэ",
+          "ынахэкӏэ"
         ],
         "verbs": []
       },
@@ -3036,7 +3037,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1алъэ"
+          "пӏалъэ"
         ],
         "verbs": []
       },
@@ -3063,7 +3064,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мы1эрысэпсы"
+          "мыӏэрысэпсы"
         ],
         "verbs": []
       },
@@ -3073,7 +3074,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "фитыныгъ",
-          "1изын"
+          "ӏизын"
         ],
         "verbs": []
       },
@@ -3083,7 +3084,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъык1ошъэн"
+          "лъыкӏошъэн"
         ]
       },
       "word": "approach slowly"
@@ -3092,7 +3093,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъык1ошъэн"
+          "лъыкӏошъэн"
         ]
       },
       "word": "approach quietly"
@@ -3111,7 +3112,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "дэн",
-          "къаблэу ш1ын"
+          "къаблэу шӏын"
         ]
       },
       "word": "approve"
@@ -3149,7 +3150,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "нэм къыпэш1ош1ыхьан"
+          "нэм къыпэшӏошӏыхьан"
         ]
       },
       "word": "appear the eye"
@@ -3160,7 +3161,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "тыпсэ",
-          "т1ы"
+          "тӏы"
         ],
         "verbs": [
           "дэгъэзыхьан (to forcefully ram something in between, to forcefully ram something inside another object)",
@@ -3188,8 +3189,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "марк1о",
-          "къэцмарк1о"
+          "маркӏо",
+          "къэцмаркӏо"
         ],
         "verbs": []
       },
@@ -3198,7 +3199,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1ымазэ"
+          "нэкӏымазэ"
         ],
         "verbs": []
       },
@@ -3216,7 +3217,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэ1эбжъан (garden tool)"
+          "пхъэӏэбжъан (garden tool)"
         ],
         "verbs": [
           "тхъун"
@@ -3236,7 +3237,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэлыджак1э"
+          "бэлыджакӏэ"
         ],
         "verbs": []
       },
@@ -3256,15 +3257,15 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "дэщэен",
-          "дэ1этэен",
-          "1этын",
+          "дэӏэтэен",
+          "ӏэтын",
           "(Shapsug) чӏыхын",
-          "(Shapsug) ч1ыгъэк1ын",
-          "дэгъэк1оен",
-          "те1этык1ын (to lift from above something)",
+          "(Shapsug) чӏыгъэкӏын",
+          "дэгъэкӏоен",
+          "теӏэтыкӏын (to lift from above something)",
           "дэхьыен",
-          "гъэ1эн",
-          "п1ун (to adopt a child)"
+          "гъэӏэн",
+          "пӏун (to adopt a child)"
         ]
       },
       "word": "raise"
@@ -3321,7 +3322,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьэшхъурэ1у"
+          "хьэшхъурэӏу"
         ],
         "verbs": []
       },
@@ -3330,7 +3331,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьэшхъурэ1у"
+          "хьэшхъурэӏу"
         ],
         "verbs": []
       },
@@ -3339,7 +3340,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъуч1ахъу"
+          "гъучӏахъу"
         ],
         "verbs": []
       },
@@ -3358,7 +3359,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэк1эплъыхьан (to get furious)"
+          "зэкӏэплъыхьан (to get furious)"
         ]
       },
       "word": "rage"
@@ -3366,8 +3367,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джэрыуак1о",
-          "къэк1ухьал"
+          "джэрыуакӏо",
+          "къэкӏухьал"
         ],
         "verbs": []
       },
@@ -3388,7 +3389,7 @@ const englishDict = {
           "зэпачъэ",
           "зэфачъэ (Shapsug)",
           "лъэпкъ (ethnic group)",
-          "л1эужыгъу (type, kind, kin, species)"
+          "лӏэужыгъу (type, kind, kin, species)"
         ],
         "verbs": []
       },
@@ -3399,7 +3400,7 @@ const englishDict = {
         "lemmas": [
           "хъэдэн",
           "бзыхьаф (scrap)",
-          "хъэдэн ц1ынэ"
+          "хъэдэн цӏынэ"
         ],
         "verbs": []
       },
@@ -3408,7 +3409,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1уак1э",
+          "тӏуакӏэ",
           "хъоу (deep ravine)"
         ],
         "verbs": []
@@ -3418,7 +3419,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъо1удж",
+          "шъоӏудж",
           "чэпатхъ",
           "туснакъ"
         ],
@@ -3429,7 +3430,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъо1удж",
+          "шъоӏудж",
           "чэпатхъ",
           "туснакъ"
         ],
@@ -3441,7 +3442,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1э1отык1ын"
+          "кӏэӏотыкӏын"
         ]
       },
       "word": "rat out"
@@ -3449,8 +3450,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьак1умк1ыхь",
-          "(Shapsug) тхьак1умэк1эхь"
+          "тхьакӏумкӏыхь",
+          "(Shapsug) тхьакӏумэкӏэхь"
         ],
         "verbs": []
       },
@@ -3460,11 +3461,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэк1ухьан (to talk around)",
-          "къэц1энлъыхьан",
-          "(dialectal) къэц1элъыхьан",
+          "къэкӏухьан (to talk around)",
+          "къэцӏэнлъыхьан",
+          "(dialectal) къэцӏэлъыхьан",
           "джэрыон",
-          "пш1эпш1эн"
+          "пшӏэпшӏэн"
         ]
       },
       "word": "ramble"
@@ -3472,7 +3473,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ынэ"
+          "цӏынэ"
         ],
         "verbs": []
       },
@@ -3523,7 +3524,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "арап",
-          "лъэкъуапц1э"
+          "лъэкъуапцӏэ"
         ],
         "verbs": []
       },
@@ -3532,13 +3533,13 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1э",
-          "зыу1эшын"
+          "ӏэ",
+          "зыуӏэшын"
         ],
         "verbs": [
-          "у1эшын",
-          "зыу1эшын (to arm oneself)",
-          "1ашэк1э зыузэндын"
+          "уӏэшын",
+          "зыуӏэшын (to arm oneself)",
+          "ӏашэкӏэ зыузэндын"
         ]
       },
       "word": "arm"
@@ -3573,7 +3574,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ашэ"
+          "ӏашэ"
         ],
         "verbs": []
       },
@@ -3583,7 +3584,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пагэ",
-          "зызыш1ош1ыжьырэ"
+          "зызышӏошӏыжьырэ"
         ],
         "verbs": []
       },
@@ -3593,8 +3594,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ашъо (chain mail)",
-          "мэ1у (shield)",
-          "1ашэ-шъуашэхэр"
+          "мэӏу (shield)",
+          "ӏашэ-шъуашэхэр"
         ],
         "verbs": []
       },
@@ -3606,7 +3607,7 @@ const englishDict = {
         "verbs": [
           "зэпыгъэфэн (to arrange plans/deals/meetings)",
           "зэгъэфэн (to put things in place/order)",
-          "зэ1эхын (to clean up)"
+          "зэӏэхын (to clean up)"
         ]
       },
       "word": "arrange"
@@ -3615,7 +3616,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зэгъэфагъэ",
-          "зэ1эхыгъэ",
+          "зэӏэхыгъэ",
           "зэгъэфагъ",
           "зэгъэзэфагъэ"
         ],
@@ -3627,7 +3628,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бжыб",
-          "1эбжыб"
+          "ӏэбжыб"
         ],
         "verbs": []
       },
@@ -3636,7 +3637,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1этек1эн"
+          "ӏэтекӏэн"
         ],
         "verbs": []
       },
@@ -3645,7 +3646,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1этек1эн"
+          "ӏэтекӏэн"
         ],
         "verbs": []
       },
@@ -3665,9 +3666,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "блыгу",
-          "блыгу ч1эгъ (under armpit)",
-          "блыгуч1",
-          "гужъуак1э"
+          "блыгу чӏэгъ (under armpit)",
+          "блыгучӏ",
+          "гужъуакӏэ"
         ],
         "verbs": []
       },
@@ -3676,7 +3677,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ып1э"
+          "чӏыпӏэ"
         ],
         "verbs": []
       },
@@ -3697,8 +3698,8 @@ const englishDict = {
         "verbs": [
           "нэкъокъон",
           "зэнэкъокъун / зэдэон (to argue with each other)",
-          "пэгущы1эжьын (to argue back)",
-          "пэ1ууцожьын (to go against)",
+          "пэгущыӏэжьын (to argue back)",
+          "пэӏууцожьын (to go against)",
           "енэкъокъун (to argue with someone)"
         ]
       },
@@ -3710,7 +3711,7 @@ const englishDict = {
           "шъуты",
           "пхэ",
           "шъутыпашъо (butt skin)",
-          "пхэк1",
+          "пхэкӏ",
           "(vulgar) шъуты",
           "(vulgar) пхэ",
           "шъутыпашъо (arsecheek)"
@@ -3754,7 +3755,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэнт1эк1ущыхьэ"
+          "пхъэнтӏэкӏущыхьэ"
         ],
         "verbs": []
       },
@@ -3763,8 +3764,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ап1э",
-          "1апл1э"
+          "ӏапӏэ",
+          "ӏаплӏэ"
         ],
         "verbs": []
       },
@@ -3773,7 +3774,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ашэнчъэ (one that has no arms/weapons)"
+          "ӏашэнчъэ (one that has no arms/weapons)"
         ],
         "verbs": []
       },
@@ -3782,13 +3783,13 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1утын (to be around in a standing position)",
-          "1улъын (to be around in a lying position)",
+          "ӏутын (to be around in a standing position)",
+          "ӏулъын (to be around in a lying position)",
           "ыдэжь (around someone or something)",
           "благъэ (close)",
           "пэблагъ (close to)",
           "пэгъунэгъу (close to)",
-          "1у- (prepositional verval suffix)"
+          "ӏу- (prepositional verval suffix)"
         ],
         "verbs": []
       },
@@ -3797,7 +3798,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьагъэпц1ы",
+          "тхьагъэпцӏы",
           "хъоршэр"
         ],
         "verbs": []
@@ -3807,7 +3808,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыбгъэ"
+          "чӏыбгъэ"
         ],
         "verbs": []
       },
@@ -3816,7 +3817,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыбгъэ"
+          "чӏыбгъэ"
         ],
         "verbs": []
       },
@@ -3828,8 +3829,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пшъэрылъ",
-          "1офш1эн",
-          "гъэцэк1эны"
+          "ӏофшӏэн",
+          "гъэцэкӏэны"
         ],
         "verbs": []
       },
@@ -3847,8 +3848,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпы1эгъу",
-          "1эпы1эгъу"
+          "ӏэпыӏэгъу",
+          "ӏэпыӏэгъу"
         ],
         "verbs": []
       },
@@ -3858,9 +3859,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "упч1эн",
-          "еупч1ын (to ask someone)",
-          "к1эупч1эн (to ask around)"
+          "упчӏэн",
+          "еупчӏын (to ask someone)",
+          "кӏэупчӏэн (to ask around)"
         ]
       },
       "word": "ask"
@@ -3878,7 +3879,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэнак1о"
+          "бэнакӏо"
         ],
         "verbs": []
       },
@@ -3887,7 +3888,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэегъэзып1э"
+          "шъхьэегъэзыпӏэ"
         ],
         "verbs": []
       },
@@ -3896,7 +3897,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жъогъо щы1эныгъэл1"
+          "жъогъо щыӏэныгъэлӏ"
         ],
         "verbs": []
       },
@@ -3914,9 +3915,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ордегъашт",
-          "бзэяк1о",
-          "ц1ыфэу афибзаерэр"
+          "ӏордегъашт",
+          "бзэякӏо",
+          "цӏыфэу афибзаерэр"
         ],
         "verbs": []
       },
@@ -3949,7 +3950,7 @@ const englishDict = {
           "шъуты",
           "пхэ",
           "шъутыпашъо (butt skin)",
-          "пхэк1",
+          "пхэкӏ",
           "(vulgar) шъуты",
           "(vulgar) пхэ",
           "шъутыпашъо (asscheek)"
@@ -3982,9 +3983,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "теуфагъэу",
-          "ехьыл1агъэу",
+          "ехьылӏагъэу",
           "егъэпхыгъэу",
-          "ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+          "ащ теуфагъэу / ащ ехьылӏагъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
         ],
         "verbs": []
       },
@@ -3993,7 +3994,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жъогъо ш1эныгъ"
+          "жъогъо шӏэныгъ"
         ],
         "verbs": []
       },
@@ -4003,7 +4004,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эупк1эн"
+          "кӏэупкӏэн"
         ]
       },
       "word": "ask around"
@@ -4012,11 +4013,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "де1эн",
-          "дэ1эпы1эн",
-          "1эпы1эгъоу фэхъун",
-          "де1эн",
-          "дечъэк1ын"
+          "деӏэн",
+          "дэӏэпыӏэн",
+          "ӏэпыӏэгъоу фэхъун",
+          "деӏэн",
+          "дечъэкӏын"
         ]
       },
       "word": "assist"
@@ -4034,7 +4035,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэш1эгъоны"
+          "гъэшӏэгъоны"
         ],
         "verbs": []
       },
@@ -4053,11 +4054,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ук1ытэн (to be ashamed, to feel shame)",
-          "къэгъэук1ытэжьын (to make someone feel ashamed)",
-          "щыук1ытэн (to be ashamed of)",
+          "укӏытэн (to be ashamed, to feel shame)",
+          "къэгъэукӏытэжьын (to make someone feel ashamed)",
+          "щыукӏытэн (to be ashamed of)",
           "напэ техын (ынапэ техын) (to disgrace someone)",
-          "хьайнапэу ш1ын (to shame someone)"
+          "хьайнапэу шӏын (to shame someone)"
         ]
       },
       "word": "ashame"
@@ -4098,7 +4099,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ай"
+          "кӏай"
         ],
         "verbs": []
       },
@@ -4108,7 +4109,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зэрэфаеу",
-          "зэрэш1оигъэу",
+          "зэрэшӏоигъэу",
           "зэребылэу"
         ],
         "verbs": []
@@ -4120,7 +4121,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "енэгуен (to think but not be absolutely sure)",
-          "гущы1эм фэ1он (to presume, to assume or suggest to be true (without proof))"
+          "гущыӏэм фэӏон (to presume, to assume or suggest to be true (without proof))"
         ]
       },
       "word": "assume"
@@ -4131,7 +4132,7 @@ const englishDict = {
         "verbs": [
           "зэхэлъхьан (to compound, to compose, to put together, to assemble (ingredients or parts) into a whole, to combine, mix, or unite)",
           "зэхэгъэуцон (to compound, to compose, to assemble, to build by puting together parts)",
-          "зэк1эугъоен (to gather people/stuff together, to concentrate people/stuff together)"
+          "зэкӏэугъоен (to gather people/stuff together, to concentrate people/stuff together)"
         ]
       },
       "word": "assemble"
@@ -4181,7 +4182,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "джаргъэн (horse)",
-          "гумэк1ыл"
+          "гумэкӏыл"
         ],
         "verbs": []
       },
@@ -4191,11 +4192,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэгъок1ын (to welcome someone as a host)",
-          "1ук1эхьан / къы1ук1эхьан (to receive something)",
-          "1эк1эхьан / къы1эк1эхьан",
-          "1эгъэк1эхьан (to make someone receive something)",
-          "зы1эк1эгъэхьажьын (to make oneself receive something)"
+          "пэгъокӏын (to welcome someone as a host)",
+          "ӏукӏэхьан / къыӏукӏэхьан (to receive something)",
+          "ӏэкӏэхьан / къыӏэкӏэхьан",
+          "ӏэгъэкӏэхьан (to make someone receive something)",
+          "зыӏэкӏэгъэхьажьын (to make oneself receive something)"
         ]
       },
       "word": "receive"
@@ -4203,8 +4204,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэгъок1ыгъ (welcomed)",
-          "къы1ук1эхьагъ (received)"
+          "пэгъокӏыгъ (welcomed)",
+          "къыӏукӏэхьагъ (received)"
         ],
         "verbs": []
       },
@@ -4222,7 +4223,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэхъок1ыгъ",
+          "зэхъокӏыгъ",
           "зэблэхъугъ"
         ],
         "verbs": []
@@ -4232,7 +4233,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзыук1эплъ"
+          "бзыукӏэплъ"
         ],
         "verbs": []
       },
@@ -4243,8 +4244,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "нэсын / къэсын (to successfully reach)",
-          "лъы1эбэн / лъы1эсын (to attempt to reach, to reach out one\u0027s hand toward something)",
-          "нэ1эбэсын (to successful reach with the hands or legs)",
+          "лъыӏэбэн / лъыӏэсын (to attempt to reach, to reach out one\u0027s hand toward something)",
+          "нэӏэбэсын (to successful reach with the hands or legs)",
           "нэгъэсын (to make/let someone reach)"
         ]
       },
@@ -4254,7 +4255,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "егъэк1ун",
+          "егъэкӏун",
           "фэгъэшъошэн",
           "епэсын"
         ]
@@ -4275,9 +4276,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэлэнлэн",
-          "т1упщын",
-          "ит1упщыхьан (to release inside something)",
-          "хэт1упщыхьан (to release something into the water, sea, gas, fire, forest)"
+          "тӏупщын",
+          "итӏупщыхьан (to release inside something)",
+          "хэтӏупщыхьан (to release something into the water, sea, gas, fire, forest)"
         ]
       },
       "word": "release"
@@ -4286,7 +4287,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъэлэнлагъэ",
-          "т1упщыгъэ"
+          "тӏупщыгъэ"
         ],
         "verbs": []
       },
@@ -4306,9 +4307,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэтэрэзыжьын (recorrect)",
-          "ш1ыжьын (to fix)",
-          "дыжьын (to sew up), гъэцэк1эжьын (to mend)",
-          "гъэк1эжьын (to repair by renewing)"
+          "шӏыжьын (to fix)",
+          "дыжьын (to sew up), гъэцэкӏэжьын (to mend)",
+          "гъэкӏэжьын (to repair by renewing)"
         ]
       },
       "word": "repair"
@@ -4317,7 +4318,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пытэу ш1ын / гъэпытэн",
+          "пытэу шӏын / гъэпытэн",
           "тегъэпытыхьан (to reinforce on)"
         ]
       },
@@ -4419,7 +4420,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ык1о"
+          "лӏыкӏо"
         ],
         "verbs": []
       },
@@ -4441,7 +4442,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жьаугъуадж / жьауш1(from the wind or sun)"
+          "жьаугъуадж / жьаушӏ(from the wind or sun)"
         ],
         "verbs": []
       },
@@ -4467,16 +4468,16 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къы1унэн (to remain behind)",
+          "къыӏунэн (to remain behind)",
           "къэгъэнэн / къэгъэнэжьын (to remain something, to remain leftovers, to leave leftovers)",
           "къэнэн / къэнэжьын (something to remain as a leftover)",
           "къинэжьын (something to remain inside as a leftovers)",
           "къытенэжьын (to remain something above, to leave behind something above)",
-          "къыч1энэжьын (to remain something under, to leave behind something under)",
+          "къычӏэнэжьын (to remain something under, to leave behind something under)",
           "хэнэн / къыхэнэн (to remain in a company, bushes, forest, liquid, gas or solid)",
           "тенэн / къытенэн (to remain on above something)",
           "инэн / къинэн (to remain inside something)",
-          "ч1энэн / къыч1энэн (to remain under something)",
+          "чӏэнэн / къычӏэнэн (to remain under something)",
           "пынэн / къыпынэн (to remain attached)"
         ]
       },
@@ -4494,13 +4495,13 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэ1у",
-          "гук1ае"
+          "лъэӏу",
+          "гукӏае"
         ],
         "verbs": [
-          "гук1ае е1он",
-          "еуч1ын (to ask for a request)",
-          "к1эдэун (to demand)"
+          "гукӏае еӏон",
+          "еучӏын (to ask for a request)",
+          "кӏэдэун (to demand)"
         ]
       },
       "word": "request"
@@ -4508,7 +4509,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эежъ",
+          "ӏэежъ",
           "гуштэгъуадж"
         ],
         "verbs": []
@@ -4539,9 +4540,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "теуфагъэу",
-          "ехьыл1агъэу",
+          "ехьылӏагъэу",
           "егъэпхыгъэу",
-          "ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+          "ащ теуфагъэу / ащ ехьылӏагъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
         ],
         "verbs": []
       },
@@ -4551,9 +4552,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "теуфагъэу",
-          "ехьыл1агъэу",
+          "ехьылӏагъэу",
           "егъэпхыгъэу",
-          "ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+          "ащ теуфагъэу / ащ ехьылӏагъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
         ],
         "verbs": []
       },
@@ -4563,9 +4564,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "теуфагъэу",
-          "ехьыл1агъэу",
+          "ехьылӏагъэу",
           "егъэпхыгъэу",
-          "ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+          "ащ теуфагъэу / ащ ехьылӏагъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
         ],
         "verbs": []
       },
@@ -4576,12 +4577,12 @@ const englishDict = {
         "lemmas": [
           "лъытэныгъ",
           "пхъатэ (importance, value)",
-          "шъхьэк1афэ"
+          "шъхьэкӏафэ"
         ],
         "verbs": [
           "лъытэн",
           "пхъатэ етын",
-          "пхъатэ фэш1ын"
+          "пхъатэ фэшӏын"
         ]
       },
       "word": "respect"
@@ -4601,8 +4602,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэбар егъэ1уныр, къэбар егъэш1эныр",
-          "1опщын"
+          "къэбар егъэӏуныр, къэбар егъэшӏэныр",
+          "ӏопщын"
         ]
       },
       "word": "report"
@@ -4671,7 +4672,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1э1ул1эн"
+          "кӏэӏулӏэн"
         ]
       },
       "word": "resole"
@@ -4680,8 +4681,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щык1эн (to require, to need something required)",
-          "ищык1агъ (required)"
+          "щыкӏэн (to require, to need something required)",
+          "ищыкӏагъ (required)"
         ]
       },
       "word": "require"
@@ -4689,7 +4690,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щагуик1ып1э"
+          "щагуикӏыпӏэ"
         ],
         "verbs": []
       },
@@ -4700,9 +4701,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэгъэзэжьын (to return back to where one came)",
-          "к1ожьын (to go back there)",
-          "къэк1ожьын (to return back here)",
-          "зэк1ежьэжьын",
+          "кӏожьын (to go back there)",
+          "къэкӏожьын (to return back here)",
+          "зэкӏежьэжьын",
           "дэхьажьын (to head back)",
           "ежьэжьын (to head back)",
           "етыжьын / егъэзэжьын (to return something to, to give back something to)",
@@ -4736,8 +4737,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэш1эжьын",
-          "зыкъэш1эжьын (to recognize themselves)"
+          "къэшӏэжьын",
+          "зыкъэшӏэжьын (to recognize themselves)"
         ]
       },
       "word": "recognize"
@@ -4746,8 +4747,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гукъэк1ыжьын (to suddenly remember)",
-          "къэш1эжьын"
+          "гукъэкӏыжьын (to suddenly remember)",
+          "къэшӏэжьын"
         ]
       },
       "word": "remember"
@@ -4767,7 +4768,7 @@ const englishDict = {
         "verbs": [
           "къэрэхьатын (to be relieved)",
           "гъэрэхьатын (to make someone relieved)",
-          "унэк1ын"
+          "унэкӏын"
         ]
       },
       "word": "relieve"
@@ -4790,8 +4791,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гуш1он",
-          "щыгуш1ук1ын (to rejoice for)"
+          "гушӏон",
+          "щыгушӏукӏын (to rejoice for)"
         ]
       },
       "word": "rejoice"
@@ -4800,11 +4801,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ч1эгъэк1ын / къыч1эгъэк1ын (to solve something)",
-          "зэпэк1эгъэк1ын (to resolve a task/problem)",
-          "зэш1охын (to resolve tasks/conflicts)",
-          "еш1ужьын (to make peace with someone)",
-          "зэш1ужьын (to make peace with each other)"
+          "чӏэгъэкӏын / къычӏэгъэкӏын (to solve something)",
+          "зэпэкӏэгъэкӏын (to resolve a task/problem)",
+          "зэшӏохын (to resolve tasks/conflicts)",
+          "ешӏужьын (to make peace with someone)",
+          "зэшӏужьын (to make peace with each other)"
         ]
       },
       "word": "resolve"
@@ -4821,9 +4822,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эу",
-          "бэ блэмык1эу",
-          "бэ мыш1эу",
+          "кӏэу",
+          "бэ блэмыкӏэу",
+          "бэ мышӏэу",
           "джырэблагъэ"
         ],
         "verbs": []
@@ -4834,9 +4835,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэгъэк1ын (to remove someone/something from a group)",
+          "хэгъэкӏын (to remove someone/something from a group)",
           "хэдзын (to remove someone/something from a group)",
-          "гъэуш1оин (to erase)"
+          "гъэушӏоин (to erase)"
         ]
       },
       "word": "remove"
@@ -4853,7 +4854,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дзак1о"
+          "дзакӏо"
         ],
         "verbs": []
       },
@@ -4872,7 +4873,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гукъэгъэк1ын"
+          "гукъэгъэкӏын"
         ]
       },
       "word": "remind"
@@ -4899,7 +4900,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зэпэзэдакъ",
-          "зэпэпл1эмый"
+          "зэпэплӏэмый"
         ],
         "verbs": []
       },
@@ -4909,7 +4910,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыфи1орэр (what (s)he refers to)"
+          "зыфиӏорэр (what (s)he refers to)"
         ]
       },
       "word": "refer"
@@ -4918,8 +4919,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эбэн",
-          "лъы1эбэн (to reach out for)"
+          "ӏэбэн",
+          "лъыӏэбэн (to reach out for)"
         ]
       },
       "word": "reach out"
@@ -4928,8 +4929,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эгъожьын",
-          "к1эгъэгъожьын (to make someone regret)"
+          "кӏэгъожьын",
+          "кӏэгъэгъожьын (to make someone regret)"
         ]
       },
       "word": "regret"
@@ -4947,7 +4948,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къык1эгъэщын (to reveal something)",
+          "къыкӏэгъэщын (to reveal something)",
           "къэгъэлъэгъон (to showcase)"
         ]
       },
@@ -4978,8 +4979,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къытегъэзэн (to repeat something)",
-          "къэ1ожьын (to repeat a saying)",
-          "к1эрык1эу ш1ыжьын (to do something again from the start)"
+          "къэӏожьын (to repeat a saying)",
+          "кӏэрыкӏэу шӏыжьын (to do something again from the start)"
         ]
       },
       "word": "repeat"
@@ -4997,7 +4998,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъы1эсын"
+          "лъыӏэсын"
         ]
       },
       "word": "reach for"
@@ -5043,10 +5044,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ык1ыбык1э (in the back)",
-          "пхэк1 (rear)",
-          "ыпхэк1ык1э (from the rear)",
-          "(vulgar) ышъутык1э (from the rear)"
+          "ыкӏыбыкӏэ (in the back)",
+          "пхэкӏ (rear)",
+          "ыпхэкӏыкӏэ (from the rear)",
+          "(vulgar) ышъутыкӏэ (from the rear)"
         ],
         "verbs": []
       },
@@ -5064,7 +5065,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэш1агъ",
+          "хэшӏагъ",
           "егъэпхыгъ"
         ],
         "verbs": []
@@ -5075,7 +5076,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэш1эн / егъэпхын (to relate someone/something to)"
+          "хэшӏэн / егъэпхын (to relate someone/something to)"
         ]
       },
       "word": "relate"
@@ -5083,7 +5084,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэучъы1алъэ"
+          "гъэучъыӏалъэ"
         ],
         "verbs": []
       },
@@ -5093,9 +5094,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "еш1ужьын (to reconcile oneself with, to make peace with)",
-          "зэгъэш1ужьын (to reconcile between)",
-          "зэш1ужьын (to make peace with each other)"
+          "ешӏужьын (to reconcile oneself with, to make peace with)",
+          "зэгъэшӏужьын (to reconcile between)",
+          "зэшӏужьын (to make peace with each other)"
         ]
       },
       "word": "reconcile"
@@ -5104,7 +5105,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэгъэш1ужьын"
+          "зэгъэшӏужьын"
         ]
       },
       "word": "restore a friendly relationship"
@@ -5122,7 +5123,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъыш1эжь"
+          "лъышӏэжь"
         ],
         "verbs": []
       },
@@ -5132,7 +5133,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъыш1эжьын"
+          "лъышӏэжьын"
         ]
       },
       "word": "reverse"
@@ -5140,7 +5141,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъыш1эжьак1о"
+          "лъышӏэжьакӏо"
         ],
         "verbs": []
       },
@@ -5150,7 +5151,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ош1ын",
+          "шӏошӏын",
           "лъытэн",
           "енэгуен"
         ]
@@ -5169,7 +5170,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шхомлак1"
+          "шхомлакӏ"
         ],
         "verbs": []
       },
@@ -5197,7 +5198,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гумы1ан"
+          "гумыӏан"
         ],
         "verbs": []
       },
@@ -5208,7 +5209,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "фэгъэзэжьын",
-          "лъыгъэк1ожьын"
+          "лъыгъэкӏожьын"
         ]
       },
       "word": "redirect"
@@ -5236,7 +5237,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "бэджыджэн",
-          "щэо-пл1эон"
+          "щэо-плӏэон"
         ]
       },
       "word": "reel"
@@ -5245,7 +5246,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу къэ1этын / ыгу дэщэен",
+          "ыгу къэӏэтын / ыгу дэщэен",
           "гъэгушхон"
         ]
       },
@@ -5255,7 +5256,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "благъэ",
-          "1ахьыл (someone in the same family",
+          "ӏахьыл (someone in the same family",
           "someone connected by blood, marriage, or adoption)"
         ],
         "verbs": []
@@ -5265,7 +5266,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пшъэдэк1ыжь"
+          "пшъэдэкӏыжь"
         ],
         "verbs": []
       },
@@ -5274,7 +5275,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьэмыш1э"
+          "тхьэмышӏэ"
         ],
         "verbs": []
       },
@@ -5284,9 +5285,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къыщыгъэк1эн",
-          "нахь мак1э ш1ын",
-          "хэгъэк1ын",
+          "къыщыгъэкӏэн",
+          "нахь макӏэ шӏын",
+          "хэгъэкӏын",
           "гъэпыутын (to reduce the price)",
           "фэдэгъэзын (to reduce a debt or a punishment)",
           "гъэпыутын (to reduce cost)",
@@ -5364,7 +5365,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1он"
+          "ӏон"
         ]
       },
       "word": "attempt to"
@@ -5393,8 +5394,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1эм",
-          "занк1эу"
+          "зэкӏэм",
+          "занкӏэу"
         ],
         "verbs": []
       },
@@ -5423,7 +5424,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джырэк1э"
+          "джырэкӏэ"
         ],
         "verbs": []
       },
@@ -5433,7 +5434,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1он"
+          "ӏон"
         ]
       },
       "word": "attempt"
@@ -5452,7 +5453,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъуашэ",
-          "шъо1у"
+          "шъоӏу"
         ],
         "verbs": []
       },
@@ -5492,7 +5493,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "унашъо",
-          "на1э"
+          "наӏэ"
         ],
         "verbs": []
       },
@@ -5501,7 +5502,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "го1у"
+          "гоӏу"
         ],
         "verbs": []
       },
@@ -5511,11 +5512,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къелъэшъул1эн",
-          "къещэл1эн",
-          "къекъудыил1эн",
+          "къелъэшъулӏэн",
+          "къещэлӏэн",
+          "къекъудыилӏэн",
           "къыдэхьыхын (to attrack/charm someone)",
-          "къыдэхьыхын / къызэгъэнэц1ын (to seduce someone)"
+          "къыдэхьыхын / къызэгъэнэцӏын (to seduce someone)"
         ]
       },
       "word": "attract"
@@ -5524,7 +5525,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "тхьэмыдэ (one who does not accept god)",
-          "тхьэмыш1э (one who does not know god)",
+          "тхьэмышӏэ (one who does not know god)",
           "тхьанычъэ (godless)",
           "динынчъэ (religionless)"
         ],
@@ -5540,7 +5541,7 @@ const englishDict = {
           "фит",
           "фитыныгъ",
           "фитыныгъ",
-          "1изын"
+          "ӏизын"
         ],
         "verbs": []
       },
@@ -5585,7 +5586,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэбыпц1э"
+          "къэбыпцӏэ"
         ],
         "verbs": []
       },
@@ -5604,7 +5605,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шышъхьэ1умаз"
+          "шышъхьэӏумаз"
         ],
         "verbs": []
       },
@@ -5643,7 +5644,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ок1ын (to successfully avoid)",
+          "шӏокӏын (to successfully avoid)",
           "емыблэгъэн (to not get close to)",
           "зыщыдзыен (to avoid)"
         ]
@@ -5655,7 +5656,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1эт1эр"
+          "нэкӏэтӏэр"
         ],
         "verbs": []
       },
@@ -5664,8 +5665,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1эт1ыргъ / нэк1эт1эр (eye booger, sleepy dust)",
-          "нэк1эбыдз"
+          "нэкӏэтӏыргъ / нэкӏэтӏэр (eye booger, sleepy dust)",
+          "нэкӏэбыдз"
         ],
         "verbs": []
       },
@@ -5684,8 +5685,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1эрый",
-          "гущы1эгъал"
+          "гущыӏэрый",
+          "гущыӏэгъал"
         ],
         "verbs": []
       },
@@ -5696,7 +5697,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "(slang) ц1ап1э",
+          "(slang) цӏапӏэ",
           "дэгъу (good)"
         ],
         "verbs": []
@@ -5706,7 +5707,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ае",
+          "ӏае",
           "дэи (bad)"
         ],
         "verbs": []
@@ -5717,7 +5718,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дэеу",
-          "1аеу"
+          "ӏаеу"
         ],
         "verbs": []
       },
@@ -5763,9 +5764,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ощык1",
-          "отычык1",
-          "обзэгъук1"
+          "ощыкӏ",
+          "отычыкӏ",
+          "обзэгъукӏ"
         ],
         "verbs": []
       },
@@ -5774,9 +5775,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ощык1",
-          "отычык1",
-          "обзэгъук1"
+          "ощыкӏ",
+          "отычыкӏ",
+          "обзэгъукӏ"
         ],
         "verbs": []
       },
@@ -5786,8 +5787,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ощыкI",
-          "отычык1",
-          "обзэгъук1"
+          "отычыкӏ",
+          "обзэгъукӏ"
         ],
         "verbs": []
       },
@@ -5843,8 +5844,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1элъын",
-          "(Shapsug) 1елъын",
+          "ӏэлъын",
+          "(Shapsug) ӏелъын",
           "хъурджан"
         ],
         "verbs": []
@@ -5886,8 +5887,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэтхъын (to pull/tear a part/portion of something)",
-          "пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull/tear a body part)"
+          "хэтхъын (to pull or tear a portion out of something)",
+          "пытхъын (to pull or tear off a part of something on the tip, to pull or tear off something attached, to pull or tear a body part)"
         ]
       },
       "word": "rip away"
@@ -5914,16 +5915,16 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ыгъуагъэ"
+          "тӏыгъуагъэ"
         ],
         "verbs": [
-          "т1ыргъон",
-          "т1ыгъон (Shapsug)",
+          "тӏыргъон",
+          "тӏыгъон (Shapsug)",
           "игъо хъун",
-          "т1ыргъон",
-          "т1ыгъон (Shapsug)",
-          "т1ыргъон",
-          "(Shapsug) т1ыгъон",
+          "тӏыргъон",
+          "тӏыгъон (Shapsug)",
+          "тӏыргъон",
+          "(Shapsug) тӏыгъон",
           "игъо хъун"
         ]
       },
@@ -5970,8 +5971,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1эм",
-          "занк1эу"
+          "зэкӏэм",
+          "занкӏэу"
         ],
         "verbs": []
       },
@@ -5989,7 +5990,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъомбэ ц1эрамы1у"
+          "ӏэхъомбэ цӏэрамыӏу"
         ],
         "verbs": []
       },
@@ -5998,7 +5999,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъомбэ ц1эрамы1у"
+          "ӏэхъомбэ цӏэрамыӏу"
         ],
         "verbs": []
       },
@@ -6009,7 +6010,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэгоутын",
-          "зэгогъэк1ын"
+          "зэгогъэкӏын"
         ]
       },
       "word": "rive"
@@ -6030,8 +6031,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хьайнапэу ш1ын",
-          "к1энэк1алъэ ш1ын"
+          "хьайнапэу шӏын",
+          "кӏэнэкӏалъэ шӏын"
         ]
       },
       "word": "ridicule"
@@ -6050,7 +6051,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къуладжэ",
-          "псычъап1э"
+          "псычъапӏэ"
         ],
         "verbs": []
       },
@@ -6091,9 +6092,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1утхъын / къыхэтхъын (to rip off)",
-          "т1эп1ын / зэгот1эп1ык1ын (to be unstitched)",
-          "гъэт1эп1ын / зэгогъэт1эп1ык1ын (to unseam, to rip (a garment) at the seams, to unstitch)",
+          "ӏутхъын / къыхэтхъын (to rip off)",
+          "тӏэпӏын / зэготӏэпӏыкӏын (to be unstitched)",
+          "гъэтӏэпӏын / зэгогъэтӏэпӏыкӏын (to unseam, to rip (a garment) at the seams, to unstitch)",
           "пыутын (to break off a part from, to rip off a part from, to tear off a part from)"
         ]
       },
@@ -6103,7 +6104,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шхонч",
-          "к1эрахъо"
+          "кӏэрахъо"
         ],
         "verbs": []
       },
@@ -6153,9 +6154,9 @@ const englishDict = {
           "мыжъо"
         ],
         "verbs": [
-          "к1эрэон",
-          "гъэк1эрэон (to rock something or someone)",
-          "щэо-пл1эон (to rock from time to time)"
+          "кӏэрэон",
+          "гъэкӏэрэон (to rock something or someone)",
+          "щэо-плӏэон (to rock from time to time)"
         ]
       },
       "word": "rock"
@@ -6181,7 +6182,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1апсэ"
+          "кӏапсэ"
         ],
         "verbs": []
       },
@@ -6209,7 +6210,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъугъэ",
-          "к1одыгъэ"
+          "кӏодыгъэ"
         ],
         "verbs": []
       },
@@ -6248,9 +6249,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "тыгъон",
-          "ш1отыгъон",
-          "хъунк1эн",
-          "ехъунк1ын"
+          "шӏотыгъон",
+          "хъункӏэн",
+          "ехъункӏын"
         ]
       },
       "word": "rob"
@@ -6258,8 +6259,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тыгъуак1о",
-          "хъунк1ак1о"
+          "тыгъуакӏо",
+          "хъункӏакӏо"
         ],
         "verbs": []
       },
@@ -6277,7 +6278,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мыжъуак1э (мыжъо гъэушкъоигъ)"
+          "мыжъуакӏэ (мыжъо гъэушкъоигъ)"
         ],
         "verbs": []
       },
@@ -6297,7 +6298,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "де1эн"
+          "деӏэн"
         ]
       },
       "word": "root for"
@@ -6318,7 +6319,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1угъэк1эн",
+          "зэӏугъэкӏэн",
           "зэхэугъоен (to besiege)"
         ]
       },
@@ -6337,11 +6338,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэк1ухьан (to talk around)",
-          "къэц1энлъыхьан",
-          "(dialectal) къэц1элъыхьан",
+          "къэкӏухьан (to talk around)",
+          "къэцӏэнлъыхьан",
+          "(dialectal) къэцӏэлъыхьан",
           "джэрыон",
-          "пш1эпш1эн"
+          "пшӏэпшӏэн"
         ]
       },
       "word": "roam"
@@ -6349,8 +6350,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джэрыуак1о",
-          "къэк1ухьал"
+          "джэрыуакӏо",
+          "къэкӏухьал"
         ],
         "verbs": []
       },
@@ -6364,7 +6365,7 @@ const englishDict = {
           "гъэджыджэн (to roll something)",
           "еджыджэхын (to roll down)",
           "теджыджэн (to roll on)",
-          "ч1эджыджэн (to roll under)",
+          "чӏэджыджэн (to roll under)",
           "хэджыджэн (to roll into an area with solid, liquid or gas)",
           "иджыджэн (to roll inside)"
         ]
@@ -6393,8 +6394,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1апсэрык1о",
-          "к1эпсэрышъу"
+          "кӏапсэрыкӏо",
+          "кӏэпсэрышъу"
         ],
         "verbs": []
       },
@@ -6423,7 +6424,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "джыджэхьан",
-          "т1эрэхьан"
+          "тӏэрэхьан"
         ]
       },
       "word": "roll around"
@@ -6442,7 +6443,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыбгъэ"
+          "чӏыбгъэ"
         ],
         "verbs": []
       },
@@ -6462,7 +6463,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэнапц1э"
+          "пэнапцӏэ"
         ],
         "verbs": []
       },
@@ -6513,12 +6514,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "тхы (body)",
-          "к1ыб (back of something)",
-          "ык1ыбык1э (from the back)",
-          "тхыц1э (body)",
-          "пхэк1 (rear)",
-          "ыпхэк1ык1э (from the rear)",
-          "(vulgar) ышъутык1э (from the rear)"
+          "кӏыб (back of something)",
+          "ыкӏыбыкӏэ (from the back)",
+          "тхыцӏэ (body)",
+          "пхэкӏ (rear)",
+          "ыпхэкӏыкӏэ (from the rear)",
+          "(vulgar) ышъутыкӏэ (from the rear)"
         ],
         "verbs": []
       },
@@ -6527,7 +6528,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэ 1ае"
+          "мэ ӏае"
         ],
         "verbs": []
       },
@@ -6536,7 +6537,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1эбыдз (eyes)"
+          "нэкӏэбыдз (eyes)"
         ],
         "verbs": []
       },
@@ -6565,7 +6566,7 @@ const englishDict = {
         "lemmas": [
           "шъондыр",
           "пхъэчай",
-          "к1ад"
+          "кӏад"
         ],
         "verbs": []
       },
@@ -6574,7 +6575,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъапц1э"
+          "лъапцӏэ"
         ],
         "verbs": []
       },
@@ -6594,8 +6595,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыкъу",
-          "ч1ыкъу"
+          "чӏыкъу",
+          "чӏыкъу"
         ],
         "verbs": []
       },
@@ -6615,7 +6616,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дзыо (sack)",
-          "1элъмэкъ (paper bag, bag for shopping)"
+          "ӏэлъмэкъ (paper bag, bag for shopping)"
         ],
         "verbs": []
       },
@@ -6625,7 +6626,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бэнанэ",
-          "къо1ус",
+          "къоӏус",
           "бэнанэ"
         ],
         "verbs": []
@@ -6680,12 +6681,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "теплъэ зимы1эр",
+          "теплъэ зимыӏэр",
           "теплъэнчъэ",
           "теплъаджэ",
           "шъончъэ",
           "бжьыго (homely)",
-          "1ае (ugly)",
+          "ӏае (ugly)",
           "мыдахэ (not beautiful)"
         ],
         "verbs": []
@@ -6696,8 +6697,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хыблыгу (in coast)",
-          "хыт1уал (in coast)",
-          "пц1эгъоплъ (horse)"
+          "хытӏуал (in coast)",
+          "пцӏэгъоплъ (horse)"
         ],
         "verbs": []
       },
@@ -6707,9 +6708,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "топ",
-          "1эгуау",
-          "п1ырагу",
-          "хъуч1анэ (clew)"
+          "ӏэгуау",
+          "пӏырагу",
+          "хъучӏанэ (clew)"
         ],
         "verbs": []
       },
@@ -6719,7 +6720,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шэн дэй",
-          "шэн 1ай"
+          "шэн ӏай"
         ],
         "verbs": []
       },
@@ -6764,7 +6765,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэк1эупс"
+          "жэкӏэупс"
         ],
         "verbs": []
       },
@@ -6820,7 +6821,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шэн 1ай"
+          "шэн ӏай"
         ],
         "verbs": []
       },
@@ -6829,7 +6830,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ыргу",
+          "тӏыргу",
           "дыргу"
         ],
         "verbs": []
@@ -6839,7 +6840,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэк1эупсып1"
+          "жэкӏэупсыпӏ"
         ],
         "verbs": []
       },
@@ -6849,9 +6850,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ерагъэу",
-          "ерагък1э / ерагъэк1э",
+          "ерагъкӏэ / ерагъэкӏэ",
           "егъэзыгъэу",
-          "л1ыгъэк1э",
+          "лӏыгъэкӏэ",
           "зыгорашъоу (somehow)"
         ],
         "verbs": []
@@ -6879,7 +6880,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэпск1ып1э",
+          "гъэпскӏыпӏэ",
           "хьамам (From Arabic)"
         ],
         "verbs": []
@@ -6919,9 +6920,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъапсэ (root)",
-          "лъач1 (basis that upon which anything is founded)",
-          "дзап1э (army base)",
-          "жьыдзап1э (air force base)"
+          "лъачӏ (basis that upon which anything is founded)",
+          "дзапӏэ (army base)",
+          "жьыдзапӏэ (air force base)"
         ],
         "verbs": []
       },
@@ -6930,8 +6931,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьалыгъугъэжъап1э",
-          "хьалыгъущап1э"
+          "хьалыгъугъэжъапӏэ",
+          "хьалыгъущапӏэ"
         ],
         "verbs": []
       },
@@ -6949,7 +6950,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчъэ1упэ"
+          "пчъэӏупэ"
         ],
         "verbs": []
       },
@@ -6979,7 +6980,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъхьэджашъу / шъхьэкъуй",
-          "(slang) шъхьэц1ашъут"
+          "(slang) шъхьэцӏашъут"
         ],
         "verbs": []
       },
@@ -6988,7 +6989,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пц1анэ"
+          "пцӏанэ"
         ],
         "verbs": []
       },
@@ -6997,7 +6998,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэуап1э"
+          "зэуапӏэ"
         ],
         "verbs": []
       },
@@ -7006,7 +7007,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыунэ"
+          "чӏыунэ"
         ],
         "verbs": []
       },
@@ -7016,7 +7017,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дэеу",
-          "1аеу"
+          "ӏаеу"
         ],
         "verbs": []
       },
@@ -7026,10 +7027,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыгъэпск1ын (to take a bath)",
-          "зыгъэпк1ын (to take a bath)",
-          "гъэпск1ын (to bath someone)",
-          "гъэпк1ын (to bath someone)"
+          "зыгъэпскӏын (to take a bath)",
+          "зыгъэпкӏын (to take a bath)",
+          "гъэпскӏын (to bath someone)",
+          "гъэпкӏын (to bath someone)"
         ]
       },
       "word": "bath"
@@ -7038,10 +7039,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыгъэпск1ын (to take a bath)",
-          "зыгъэпк1ын (to take a bath)",
-          "гъэпск1ын (to bath someone)",
-          "гъэпк1ын (to bath someone)"
+          "зыгъэпскӏын (to take a bath)",
+          "зыгъэпкӏын (to take a bath)",
+          "гъэпскӏын (to bath someone)",
+          "гъэпкӏын (to bath someone)"
         ]
       },
       "word": "bathe"
@@ -7077,7 +7078,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ае"
+          "ӏае"
         ],
         "verbs": []
       },
@@ -7086,7 +7087,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ае"
+          "ӏае"
         ],
         "verbs": []
       },
@@ -7104,7 +7105,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1ытапх"
+          "укӏытапх"
         ],
         "verbs": []
       },
@@ -7122,7 +7123,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпс-лъэпс"
+          "ӏэпс-лъэпс"
         ],
         "verbs": []
       },
@@ -7132,7 +7133,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1уфын (to banish someone away)",
+          "ӏуфын (to banish someone away)",
           "хэфын (to banish someone from a group or company)"
         ]
       },
@@ -7141,8 +7142,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пц1анэ",
-          "шъутыпц1э (butt-naked)"
+          "пцӏанэ",
+          "шъутыпцӏэ (butt-naked)"
         ],
         "verbs": []
       },
@@ -7151,7 +7152,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъутыпц1э"
+          "шъутыпцӏэ"
         ],
         "verbs": []
       },
@@ -7160,7 +7161,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъутыпц1э"
+          "шъутыпцӏэ"
         ],
         "verbs": []
       },
@@ -7169,7 +7170,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьапц1э"
+          "шъхьапцӏэ"
         ],
         "verbs": []
       },
@@ -7188,7 +7189,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "насыпынчъэ",
-          "насып 1ай"
+          "насып ӏай"
         ],
         "verbs": []
       },
@@ -7197,7 +7198,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1апэ"
+          "нэкӏапэ"
         ],
         "verbs": []
       },
@@ -7215,7 +7216,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1э- (prepositional verval suffix)"
+          "зэкӏэ- (prepositional verval suffix)"
         ],
         "verbs": []
       },
@@ -7260,7 +7261,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэк1эп1ащ"
+          "лъэкӏэпӏащ"
         ],
         "verbs": []
       },
@@ -7269,8 +7270,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1оржъор",
-          "шъхьарыгущы1"
+          "ӏоржъор",
+          "шъхьарыгущыӏ"
         ],
         "verbs": []
       },
@@ -7279,7 +7280,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ышъо1от"
+          "кӏышъоӏот"
         ],
         "verbs": []
       },
@@ -7341,9 +7342,9 @@ const englishDict = {
           "мышъэ"
         ],
         "verbs": [
-          "зыщэ1эн (to bear)",
-          "щэ1эн (to endure, to bear)",
-          "фэщэ1эн (to manage to endure/bear something)"
+          "зыщэӏэн (to bear)",
+          "щэӏэн (to endure, to bear)",
+          "фэщэӏэн (to manage to endure/bear something)"
         ]
       },
       "word": "bear"
@@ -7369,7 +7370,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жак1э"
+          "жакӏэ"
         ],
         "verbs": []
       },
@@ -7399,9 +7400,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "псыфал1э л1эн",
-          "псы фэл1эн",
-          "псыфал1э л1эн"
+          "псыфалӏэ лӏэн",
+          "псы фэлӏэн",
+          "псыфалӏэ лӏэн"
         ]
       },
       "word": "be thirsty"
@@ -7410,7 +7411,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гумэк1ын",
+          "гумэкӏын",
           "пэн"
         ]
       },
@@ -7431,9 +7432,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъэ1он (to be begging)",
-          "елъэ1ун (to beg someone)",
-          "к1элъэ1ун (to beg for)"
+          "лъэӏон (to be begging)",
+          "елъэӏун (to beg someone)",
+          "кӏэлъэӏун (to beg for)"
         ]
       },
       "word": "beg"
@@ -7451,7 +7452,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "арышъ / арти (because of that, because that is the case, so, therefore, for that reason, due to that)",
-          "ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+          "ащ пае / ащ фэшӏкӏэ / джащ пае / джащ фэшӏыкӏэ (for that reason or cause, because of that)"
         ],
         "verbs": []
       },
@@ -7460,7 +7461,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мыщ пае / мыщ фэш1к1э (for this reason or cause, because of this)"
+          "мыщ пае / мыщ фэшӏкӏэ (for this reason or cause, because of this)"
         ],
         "verbs": []
       },
@@ -7469,7 +7470,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1упӏэ",
+          "шӏупӏэ",
           "дэгъупӏэ"
         ],
         "verbs": []
@@ -7488,7 +7489,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгынт1э"
+          "бгынтӏэ"
         ],
         "verbs": []
       },
@@ -7507,7 +7508,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэгок1ын"
+          "зэгокӏын"
         ]
       },
       "word": "be split"
@@ -7516,7 +7517,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъэк1ын (to be capable of doing)"
+          "лъэкӏын (to be capable of doing)"
         ]
       },
       "word": "be capable"
@@ -7570,7 +7571,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжьэпч1",
+          "бжьэпчӏ",
           "бжьэцы"
         ],
         "verbs": []
@@ -7642,7 +7643,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ек1ун"
+          "екӏун"
         ]
       },
       "word": "be appropriate"
@@ -7669,9 +7670,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "блынык1",
-          "пхъэнт1эк1у к1ыхь",
-          "пхъэнт1эк1у к1ыхь"
+          "блыныкӏ",
+          "пхъэнтӏэкӏу кӏыхь",
+          "пхъэнтӏэкӏу кӏыхь"
         ],
         "verbs": []
       },
@@ -7681,8 +7682,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1утын",
-          "ыдэжь 1утын"
+          "ӏутын",
+          "ыдэжь ӏутын"
         ]
       },
       "word": "be near"
@@ -7691,8 +7692,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1утын",
-          "ыдэжь 1утын"
+          "ӏутын",
+          "ыдэжь ӏутын"
         ]
       },
       "word": "be around"
@@ -7701,7 +7702,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1утын",
+          "ӏутын",
           "щылэжьэн"
         ]
       },
@@ -7730,7 +7731,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ягъэ ек1ын",
+          "ягъэ екӏын",
           "къин ехъун"
         ]
       },
@@ -7740,7 +7741,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ягъэ ек1ын",
+          "ягъэ екӏын",
           "къин ехъун",
           "олъэн (sea, water)"
         ]
@@ -7769,7 +7770,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ягъэ ек1ын",
+          "ягъэ екӏын",
           "къин ехъун"
         ]
       },
@@ -7779,7 +7780,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэ1ууцон",
+          "пэӏууцон",
           "гъэохъун",
           "пэрыохъу уфэхъун"
         ]
@@ -7789,7 +7790,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэ1уак1о"
+          "лъэӏуакӏо"
         ],
         "verbs": []
       },
@@ -7798,7 +7799,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыплъ",
+          "чӏыплъ",
           "гыныплъ"
         ],
         "verbs": []
@@ -7808,7 +7809,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъац1э"
+          "пхъацӏэ"
         ],
         "verbs": []
       },
@@ -7817,7 +7818,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъац1э"
+          "пхъацӏэ"
         ],
         "verbs": []
       },
@@ -7827,8 +7828,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1ыргъон",
-          "т1ыгъон (Shapsug)",
+          "тӏыргъон",
+          "тӏыгъон (Shapsug)",
           "игъо хъун"
         ]
       },
@@ -7860,7 +7861,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "чъые къек1ун"
+          "чъые къекӏун"
         ]
       },
       "word": "be sleepy"
@@ -7877,7 +7878,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1эк1ор"
+          "пӏэкӏор"
         ],
         "verbs": []
       },
@@ -7886,8 +7887,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьак1э-къуак1э",
-          "цунтхъак1у"
+          "хьакӏэ-къуакӏэ",
+          "цунтхъакӏу"
         ],
         "verbs": []
       },
@@ -7916,7 +7917,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "жьыгъэшъуй",
-          "одыджын ц1ык1у, одыджынжъый"
+          "одыджын цӏыкӏу, одыджынжъый"
         ],
         "verbs": []
       },
@@ -7935,8 +7936,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъолъып1э",
-          "чъыяп1э"
+          "гъолъыпӏэ",
+          "чъыяпӏэ"
         ],
         "verbs": []
       },
@@ -7946,9 +7947,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ч1ыфэ ч1этын",
-          "ч1ыфэ ч1этын",
-          "ч1ыфэ телъын"
+          "чӏыфэ чӏэтын",
+          "чӏыфэ чӏэтын",
+          "чӏыфэ телъын"
         ]
       },
       "word": "be in debt"
@@ -7966,7 +7967,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин"
+          "ушӏоин"
         ]
       },
       "word": "become dirty"
@@ -7979,10 +7980,10 @@ const englishDict = {
           "хэнэн / къыхэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid)",
           "тенэн / къытенэн (to get stuck on above something)",
           "инэн / къинэн (to get stuck inside something)",
-          "ч1энэн / къыч1энэн (to get stuck under something)",
+          "чӏэнэн / къычӏэнэн (to get stuck under something)",
           "пынэн / къыпынэн (to get stuck and undetachable)",
-          "дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole)",
-          "ш1онэн"
+          "дэпӏытӏэн (to get stuck and squeezed in a narrow place or hole)",
+          "шӏонэн"
         ]
       },
       "word": "become stuck"
@@ -7990,7 +7991,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъомп1эжъ"
+          "шъомпӏэжъ"
         ],
         "verbs": []
       },
@@ -8028,7 +8029,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къагъэмартын",
-          "къытек1оных",
+          "къытекӏоных",
           "пщэн (Shapsug)"
         ]
       },
@@ -8039,14 +8040,14 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэмартын (to win)",
-          "тек1он (to overcome)",
+          "текӏон (to overcome)",
           "гъэпщэн (Shapsug)",
           "пызэохьан (to beat physically)",
           "фын",
           "хэохьан (to beat with fists)",
           "хэшъутырэхьан (to beat with kicks)",
           "пэлъэшын (to overpower)",
-          "(vulgar) шъутыкӏэ гъэк1он"
+          "(vulgar) шъутыкӏэ гъэкӏон"
         ]
       },
       "word": "beat"
@@ -8056,8 +8057,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэумэзэхын",
-          "къэуш1унк1ын",
-          "уш1унк1ын"
+          "къэушӏункӏын",
+          "ушӏункӏын"
         ]
       },
       "word": "become dark"
@@ -8074,7 +8075,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уш1э"
+          "шӏушӏэ"
         ],
         "verbs": []
       },
@@ -8083,7 +8084,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1онт1агъ"
+          "ӏонтӏагъ"
         ],
         "verbs": []
       },
@@ -8093,7 +8094,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэ1онт1эн (to bend, to curve)",
+          "гъэӏонтӏэн (to bend, to curve)",
           "уфэн",
           "зыуфэн (to bend onself)",
           "егъэун (to bend an object toward a source of heat)",
@@ -8106,9 +8107,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэм къик1ыжьын / пэгъуанэм къик1ыжьын (to get fed up",
+          "пэм къикӏыжьын / пэгъуанэм къикӏыжьын (to get fed up",
           "to become sick and tired of)",
-          "(vulgar) шъутым къик1ыжьын / шъутыгъуанэм къик1ыжьын (to get fed up",
+          "(vulgar) шъутым къикӏыжьын / шъутыгъуанэм къикӏыжьын (to get fed up",
           "to become sick and tired of)"
         ]
       },
@@ -8118,9 +8119,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэм къик1ыжьын / пэгъуанэм къик1ыжьын (to get fed up",
+          "пэм къикӏыжьын / пэгъуанэм къикӏыжьын (to get fed up",
           "to become sick and tired of)",
-          "(vulgar) шъутым къик1ыжьын / шъутыгъуанэм къик1ыжьын (to get fed up",
+          "(vulgar) шъутым къикӏыжьын / шъутыгъуанэм къикӏыжьын (to get fed up",
           "to become sick and tired of)"
         ]
       },
@@ -8166,7 +8167,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ук1ытэн (to become nervous out of shyness)"
+          "укӏытэн (to become nervous out of shyness)"
         ]
       },
       "word": "become nervous"
@@ -8175,7 +8176,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къыдэпк1эен",
+          "къыдэпкӏэен",
           "гу къеон"
         ]
       },
@@ -8185,7 +8186,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "де1эн"
+          "деӏэн"
         ]
       },
       "word": "be in favor of"
@@ -8232,8 +8233,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ыч1эгъы",
-          "ыч1эгъык1э"
+          "ычӏэгъы",
+          "ычӏэгъыкӏэ"
         ],
         "verbs": []
       },
@@ -8242,9 +8243,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нахьыш1у",
-          "нахьыш1у1у (little better, slightly better)",
-          "нахьыш1у"
+          "нахьышӏу",
+          "нахьышӏуӏу (little better, slightly better)",
+          "нахьышӏу"
         ],
         "verbs": []
       },
@@ -8254,7 +8255,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэш1ык1ын"
+          "хэшӏыкӏын"
         ]
       },
       "word": "be an expert"
@@ -8266,8 +8267,8 @@ const englishDict = {
           "лъэжъон / къэлъэжъон",
           "гужъон / къэгужъон",
           "къыщинэн (to be late for)",
-          "къэк1эсэн",
-          "к1асэ хъун"
+          "къэкӏэсэн",
+          "кӏасэ хъун"
         ]
       },
       "word": "be late"
@@ -8277,7 +8278,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэлъэжъон",
-          "къэгужъонж къэк1эсэн"
+          "къэгужъонж къэкӏэсэн"
         ]
       },
       "word": "be behind time"
@@ -8287,7 +8288,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэлъэжъон",
-          "къэгужъонж къэк1эсэн"
+          "къэгужъонж къэкӏэсэн"
         ]
       },
       "word": "be behind schedule"
@@ -8297,7 +8298,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэлъэжъон",
-          "къэгужъонж къэк1эсэн"
+          "къэгужъонж къэкӏэсэн"
         ]
       },
       "word": "be running late"
@@ -8314,7 +8315,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хы 1ушъо",
+          "хы ӏушъо",
           "хы гъунэ"
         ],
         "verbs": []
@@ -8335,12 +8336,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гумэк1ын",
+          "гумэкӏын",
           "гузэжъон",
           "гу къеон",
-          "гумэк1ын (to feel worried / anxious / uneasy)",
-          "фэгумэк1ын (to be anxious about someone or something)",
-          "гъэгумэк1ын (to make someone anxious)"
+          "гумэкӏын (to feel worried, to feel anxious, to feel uneasy)",
+          "фэгумэкӏын (to be anxious about someone or something)",
+          "гъэгумэкӏын (to make someone anxious)"
         ]
       },
       "word": "be anxious"
@@ -8349,7 +8350,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гумэк1ын",
+          "гумэкӏын",
           "гузэжъон"
         ]
       },
@@ -8398,7 +8399,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "чъы1э л1эн"
+          "чъыӏэ лӏэн"
         ]
       },
       "word": "be cold"
@@ -8409,7 +8410,7 @@ const englishDict = {
         "verbs": [
           "зэщын",
           "езэщын (to be bored of)",
-          "1узэщэхьан (to be bored near)"
+          "ӏузэщэхьан (to be bored near)"
         ]
       },
       "word": "be bored"
@@ -8418,8 +8419,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "мэлэк1эн",
-          "мэлак1э л1эн"
+          "мэлэкӏэн",
+          "мэлакӏэ лӏэн"
         ]
       },
       "word": "be hungry"
@@ -8428,7 +8429,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щы1эн"
+          "щыӏэн"
         ]
       },
       "word": "be alive"
@@ -8446,8 +8447,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ук1ытэн",
-          "щыук1ытэн (to be ashamed of)"
+          "укӏытэн",
+          "щыукӏытэн (to be ashamed of)"
         ]
       },
       "word": "be ashamed"
@@ -8456,9 +8457,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ук1ытэн",
+          "укӏытэн",
           "",
-          "щыук1ытэн (to be shy of)"
+          "щыукӏытэн (to be shy of)"
         ]
       },
       "word": "be shy"
@@ -8476,7 +8477,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэш1эн (to figure out the correct answer)"
+          "къэшӏэн (to figure out the correct answer)"
         ]
       },
       "word": "be correct"
@@ -8485,7 +8486,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1осэн"
+          "кӏосэн"
         ]
       },
       "word": "be extinguished"
@@ -8493,15 +8494,15 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зы1удз",
+          "зыӏудз",
           "зегъэхь",
-          "зы1уегъэх",
-          "к1о дэхьэжь"
+          "зыӏуегъэх",
+          "кӏо дэхьэжь"
         ],
         "verbs": [
-          "зы1удзын (to go away)",
+          "зыӏудзын (to go away)",
           "зегъэхьын (to go away)",
-          "зы1уегъэхын (to go away)"
+          "зыӏуегъэхын (to go away)"
         ]
       },
       "word": "beat it"
@@ -8534,7 +8535,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гу е1ун",
+          "гу еӏун",
           "езэгъын (to be pleased with someone)",
           "зэзэгъын (to be pleased with each other)",
           "хэзэгъэн (to be pleased among people)",
@@ -8558,8 +8559,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "анахьыш1у",
-          "(dialectal) янахьыш1у"
+          "анахьышӏу",
+          "(dialectal) янахьышӏу"
         ],
         "verbs": []
       },
@@ -8569,7 +8570,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхъок1ын"
+          "зэхъокӏын"
         ]
       },
       "word": "become different"
@@ -8590,7 +8591,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ч1элъын"
+          "чӏэлъын"
         ]
       },
       "word": "be unber"
@@ -8620,7 +8621,7 @@ const englishDict = {
         "verbs": [
           "щытын / щылъын (to be a, to be the)",
           "тетын / телъын (to be on)",
-          "ч1этын / ч1элъын (to be unber, to be beneath)",
+          "чӏэтын / чӏэлъын (to be unber, to be beneath)",
           "итын / илъын (to be in)",
           "дэлъын (to be in)",
           "хэтын / хэлъын (to be within, to be among, to be within an area of liquid, solid or gas, to be in the forest or plants, to be in a list, to be in a company or group)",
@@ -8636,7 +8637,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "хэгъощэн",
-          "зэ1ыхьан"
+          "зэӏыхьан"
         ]
       },
       "word": "be confused"
@@ -8645,8 +8646,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ош1у мэхъун",
-          "ш1ошъ хъун"
+          "шӏошӏу мэхъун",
+          "шӏошъ хъун"
         ]
       },
       "word": "believe"
@@ -8657,7 +8658,7 @@ const englishDict = {
         "verbs": [
           "фэсакъын",
           "зыфэгъэсакъын",
-          "нэ1э зытегъэтыжьын"
+          "нэӏэ зытегъэтыжьын"
         ]
       },
       "word": "be careful"
@@ -8695,7 +8696,7 @@ const englishDict = {
         "verbs": [
           "гупшысэгъу хэдзэн",
           "егъэгупшысэн",
-          "ыш1эн ымыш1эу ш1ын"
+          "ышӏэн ымышӏэу шӏын"
         ]
       },
       "word": "bewilder"
@@ -8803,7 +8804,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зыгъэсамбырын",
-          "зыщэ1эн"
+          "зыщэӏэн"
         ]
       },
       "word": "be patient"
@@ -8812,7 +8813,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыш1ош1ужьын"
+          "зышӏошӏужьын"
         ]
       },
       "word": "be arrogant"
@@ -8821,7 +8822,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыш1ош1ужьын"
+          "зышӏошӏужьын"
         ]
       },
       "word": "be haughty"
@@ -8830,9 +8831,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гумэк1ын (to feel worried / anxious / uneasy)",
-          "фэгумэк1ын (to be uneasy about someone or something)",
-          "гъэгумэк1ын (to make someone uneasy)"
+          "гумэкӏын (to feel worried, to feel anxious, to feel uneasy)",
+          "фэгумэкӏын (to be uneasy about someone or something)",
+          "гъэгумэкӏын (to make someone uneasy)"
         ]
       },
       "word": "be uneasy"
@@ -8841,9 +8842,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гумэк1ын (to feel worried / anxious / uneasy)",
-          "фэгумэк1ын (to be anxious about someone or something)",
-          "гъэгумэк1ын (to make someone anxious)"
+          "гумэкӏын (to feel worried, to feel anxious, to feel uneasy)",
+          "фэгумэкӏын (to be anxious about someone or something)",
+          "гъэгумэкӏын (to make someone anxious)"
         ]
       },
       "word": "be worried"
@@ -8896,7 +8897,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1этехъо"
+          "пӏэтехъо"
         ],
         "verbs": []
       },
@@ -8905,7 +8906,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1этехъо"
+          "пӏэтехъо"
         ],
         "verbs": []
       },
@@ -8914,8 +8915,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1этехъо",
-          "п1этедзэ"
+          "пӏэтехъо",
+          "пӏэтедзэ"
         ],
         "verbs": []
       },
@@ -8924,8 +8925,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1этехъо",
-          "п1этедзэ"
+          "пӏэтехъо",
+          "пӏэтедзэ"
         ],
         "verbs": []
       },
@@ -8934,8 +8935,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1этехъо",
-          "п1этедзэ"
+          "пӏэтехъо",
+          "пӏэтедзэ"
         ],
         "verbs": []
       },
@@ -8954,7 +8955,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щы1эн"
+          "щыӏэн"
         ]
       },
       "word": "be at"
@@ -8978,7 +8979,7 @@ const englishDict = {
           "разэу хъун",
           "гъэрэзэн (to satisfy someone)",
           "гу тепсэфэн (to be peaceful with, to be okay and feeling easy with)",
-          "нэш1у щыфэн / ынэш1у щифэн (to be satisfied with someone, to be pleased with someone)"
+          "нэшӏу щыфэн / ынэшӏу щифэн (to be satisfied with someone, to be pleased with someone)"
         ]
       },
       "word": "be satisfied"
@@ -9003,7 +9004,7 @@ const englishDict = {
           "разэу хъун (to become pleased)",
           "гъэрэзэн (to please someone)",
           "фэрэзэн (to be pleased with)",
-          "нэш1у щыфэн / ынэш1у щифэн (to be satisfied with someone, to be pleased with someone)"
+          "нэшӏу щыфэн / ынэшӏу щифэн (to be satisfied with someone, to be pleased with someone)"
         ]
       },
       "word": "be pleased"
@@ -9011,7 +9012,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ошъхъуныгъэ"
+          "шӏошъхъуныгъэ"
         ],
         "verbs": []
       },
@@ -9030,10 +9031,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "-эти / -эшъ (reason suffix)",
-          "сыда п1омэ (that is because, the reason for that is)",
-          "(dialectal) шъыда п1омэ",
+          "сыда пӏомэ (that is because, the reason for that is)",
+          "(dialectal) шъыда пӏомэ",
           "(dialectal) зары",
-          "ащ фэш1к1э / ащ пае / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+          "ащ фэшӏкӏэ / ащ пае / джащ пае / джащ фэшӏыкӏэ (for that reason or cause, because of that)"
         ],
         "verbs": []
       },
@@ -9043,7 +9044,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зек1он"
+          "зекӏон"
         ]
       },
       "word": "behave"
@@ -9052,7 +9053,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зек1он"
+          "зекӏон"
         ]
       },
       "word": "behave like"
@@ -9085,7 +9086,7 @@ const englishDict = {
           "сэкъатэу хъун (to become dysfunctional)",
           "теунэхъухьан (to be ruined off something)",
           "хэунэхъухьан (to be ruined in a certain environment)",
-          "ч1эунэхъухьан (to be ruined under something)",
+          "чӏэунэхъухьан (to be ruined under something)",
           "иунэхъухьан (to be ruined inside something)"
         ]
       },
@@ -9106,8 +9107,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "иш1уагъэ ек1ын (to benefit from)",
-          "иш1уагъэ пыхын (to take something beneficial from)"
+          "ишӏуагъэ екӏын (to benefit from)",
+          "ишӏуагъэ пыхын (to take something beneficial from)"
         ]
       },
       "word": "benefit"
@@ -9127,7 +9128,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "сапэм дэк1оен"
+          "сапэм дэкӏоен"
         ]
       },
       "word": "be in vain"
@@ -9145,7 +9146,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къык1эщын"
+          "къыкӏэщын"
         ]
       },
       "word": "be exposed"
@@ -9154,7 +9155,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щы1эн",
+          "щыӏэн",
           "хэлъын (to be situated inside a solid mass or in an area with liquid or gas)"
         ]
       },
@@ -9173,7 +9174,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1э1отык1ын"
+          "кӏэӏотыкӏын"
         ]
       },
       "word": "bewray"
@@ -9182,7 +9183,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэк1эхьан"
+          "зэкӏэхьан"
         ]
       },
       "word": "be pushed back"
@@ -9191,7 +9192,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1эпэн"
+          "шӏэпэн"
         ]
       },
       "word": "be sure"
@@ -9200,7 +9201,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1эпэн"
+          "шӏэпэн"
         ]
       },
       "word": "be certain"
@@ -9209,7 +9210,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэбэр и1эн",
+          "къэбэр иӏэн",
           "щыгъозэн"
         ]
       },
@@ -9229,7 +9230,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ош1ын"
+          "шӏошӏын"
         ]
       },
       "word": "be perceived as"
@@ -9257,7 +9258,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьэк1э трихын"
+          "шъхьэкӏэ трихын"
         ]
       },
       "word": "be insane"
@@ -9267,7 +9268,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "губжын (to be angry)",
-          "шъхьэк1э трихын (to be insane, to be crazy, to be mentally deranged)"
+          "шъхьэкӏэ трихын (to be insane, to be crazy, to be mentally deranged)"
         ]
       },
       "word": "be mad"
@@ -9276,7 +9277,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьэк1э трихын"
+          "шъхьэкӏэ трихын"
         ]
       },
       "word": "be mentally deranged"
@@ -9285,8 +9286,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьэ къы1эпык1ын",
-          "ышъо ик1ын"
+          "шъхьэ къыӏэпыкӏын",
+          "ышъо икӏын"
         ]
       },
       "word": "become mad"
@@ -9295,7 +9296,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэучъы1ын"
+          "къэучъыӏын"
         ]
       },
       "word": "become cold"
@@ -9313,7 +9314,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ыпэу",
-          "ыпэк1э",
+          "ыпэкӏэ",
           "ыпэрэ (the one before)",
           "(dialectal) ипэу",
           "нахь ыпэу / нахьыпэу (before someone/something else)",
@@ -9356,7 +9357,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "епц1ыжьын"
+          "епцӏыжьын"
         ]
       },
       "word": "betray"
@@ -9365,8 +9366,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ек1ун",
-          "фэш1ун"
+          "екӏун",
+          "фэшӏун"
         ]
       },
       "word": "be suitable for"
@@ -9384,7 +9385,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1элъэ1ун"
+          "кӏэлъэӏун"
         ]
       },
       "word": "beg for"
@@ -9420,7 +9421,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан"
+          "зэӏыхьан"
         ]
       },
       "word": "be disarray"
@@ -9429,7 +9430,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан"
+          "зэӏыхьан"
         ]
       },
       "word": "become insane"
@@ -9439,7 +9440,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "сэкъатын (device, machine, etc.)",
-          "зэ1ыхьан",
+          "зэӏыхьан",
           "зэщыкъон (device, machine, etc.)"
         ]
       },
@@ -9450,7 +9451,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "сэкъатын (device, machine, etc.)",
-          "зэ1ыхьан",
+          "зэӏыхьан",
           "зэщыкъон (device, machine, etc.)"
         ]
       },
@@ -9490,8 +9491,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ыб",
-          "ык1ыбык1э",
+          "кӏыб",
+          "ыкӏыбыкӏэ",
           "къо- (prepositional verval suffix)",
           "къотын (to be behind something in a standing position)",
           "къолъын (to be behind something in a lying position)"
@@ -9504,7 +9505,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эчъэ-лъэчъэн"
+          "ӏэчъэ-лъэчъэн"
         ]
       },
       "word": "become anxious"
@@ -9513,7 +9514,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эчъэ-лъэчъэн"
+          "ӏэчъэ-лъэчъэн"
         ]
       },
       "word": "become uneasy"
@@ -9521,8 +9522,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ащ нэмык1",
-          "нэмык1эу",
+          "ащ нэмыкӏ",
+          "нэмыкӏэу",
           "фэшъхьафэу",
           "ехъурэ",
           "щэхъу",
@@ -9545,7 +9546,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъорыш1ын"
+          "шъорышӏын"
         ]
       },
       "word": "be crafty"
@@ -9554,8 +9555,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъорыш1ын",
-          "тхьагъэпц1ыгъэ зехьан"
+          "шъорышӏын",
+          "тхьагъэпцӏыгъэ зехьан"
         ]
       },
       "word": "be cunning"
@@ -9564,7 +9565,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъорыш1ын"
+          "шъорышӏын"
         ]
       },
       "word": "be foppish"
@@ -9573,7 +9574,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъорыш1ын"
+          "шъорышӏын"
         ]
       },
       "word": "be dandy"
@@ -9582,8 +9583,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шэны",
-          "зек1уак1э",
-          "щытык1э"
+          "зекӏуакӏэ",
+          "щытыкӏэ"
         ],
         "verbs": []
       },
@@ -9592,10 +9593,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1э",
-          "п1эк1ор",
-          "гъолъып1э",
-          "п1о (Bzhedugh)",
+          "пӏэ",
+          "пӏэкӏор",
+          "гъолъыпӏэ",
+          "пӏо (Bzhedugh)",
           "хьасэ (bed for plants)"
         ],
         "verbs": []
@@ -9615,7 +9616,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьэ ш1охын (to cut someone\u0027s head off)"
+          "шъхьэ шӏохын (to cut someone\u0027s head off)"
         ]
       },
       "word": "behead"
@@ -9624,7 +9625,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэмыш1ык1ын"
+          "зэхэмышӏыкӏын"
         ]
       },
       "word": "be unfamiliar"
@@ -9633,7 +9634,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэмыш1ык1ын"
+          "зэхэмышӏыкӏын"
         ]
       },
       "word": "be ignorant"
@@ -9701,7 +9702,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу к1одын / гук1одын"
+          "ыгу кӏодын / гукӏодын"
         ]
       },
       "word": "become frustrated"
@@ -9737,7 +9738,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэпэк1эк1ын"
+          "зэпэкӏэкӏын"
         ]
       },
       "word": "be resolved"
@@ -9756,7 +9757,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1огъэш1эгъонын"
+          "шӏогъэшӏэгъонын"
         ]
       },
       "word": "be interested in"
@@ -9765,7 +9766,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1огъэш1эгъонын"
+          "шӏогъэшӏэгъонын"
         ]
       },
       "word": "be amazed"
@@ -9774,7 +9775,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1огъэш1эгъонын"
+          "шӏогъэшӏэгъонын"
         ]
       },
       "word": "be astonished"
@@ -9782,8 +9783,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыублэгъэк1э",
-          "езыгъэжьэгъэк1э"
+          "зыублэгъэкӏэ",
+          "езыгъэжьэгъэкӏэ"
         ],
         "verbs": []
       },
@@ -9793,9 +9794,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъэк1ын",
-          "фэлъэк1ын",
-          "ипш1э къик1ын"
+          "лъэкӏын",
+          "фэлъэкӏын",
+          "ипшӏэ къикӏын"
         ]
       },
       "word": "be capable of"
@@ -9804,9 +9805,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъэк1ын",
-          "фэлъэк1ын",
-          "ипш1э къик1ын"
+          "лъэкӏын",
+          "фэлъэкӏын",
+          "ипшӏэ къикӏын"
         ]
       },
       "word": "be able of"
@@ -9815,7 +9816,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тк1ун"
+          "ткӏун"
         ]
       },
       "word": "be melted"
@@ -9824,7 +9825,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэк1ын"
+          "къэкӏын"
         ]
       },
       "word": "be grown (hair)"
@@ -9851,7 +9852,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1эт1эн (sticky substances like honey, cake and color liquid)"
+          "тӏэтӏэн (sticky substances like honey, cake and color liquid)"
         ]
       },
       "word": "be dripping"
@@ -9871,8 +9872,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин",
-          "уц1эп1ын"
+          "ушӏоин",
+          "уцӏэпӏын"
         ]
       },
       "word": "besmirch"
@@ -9881,10 +9882,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин",
-          "зэхэуш1оен",
-          "упц1эп1ын",
-          "зэхэупц1эп1эн"
+          "ушӏоин",
+          "зэхэушӏоен",
+          "упцӏэпӏын",
+          "зэхэупцӏэпӏэн"
         ]
       },
       "word": "befoul"
@@ -9911,7 +9912,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гу е1ун"
+          "гу еӏун"
         ]
       },
       "word": "be fond of"
@@ -9931,11 +9932,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1э1эн",
-          "к1этхъун",
+          "кӏэӏэн",
+          "кӏэтхъун",
           "блэчъын / блэхъушъутын (to run past)",
           "техъушъутын (to run off from on something)",
-          "ч1эхъушъутын (to run from under, to run from a lying position)",
+          "чӏэхъушъутын (to run from under, to run from a lying position)",
           "ихъушъутын (to run out from inside something)",
           "дэхъушъутын (to run out from a yard, area or settlement)",
           "хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest)",
@@ -9952,14 +9953,14 @@ const englishDict = {
           "чъэн",
           "чъын (to run a certain distance)",
           "ечъэжьэн (to leave quickly)",
-          "к1э1эн / к1этхъун (to run off, to flee or depart quickly)",
-          "зэк1эчъэн (to run backward)",
+          "кӏэӏэн / кӏэтхъун (to run off, to flee or depart quickly)",
+          "зэкӏэчъэн (to run backward)",
           "дэчъэен (to run upward)",
           "ечъэхын (to run downward)",
           "лъычъэн (to run toward, to run following)",
-          "ечъэл1эн / къечъэл1эн (to approach while running)",
+          "ечъэлӏэн / къечъэлӏэн (to approach while running)",
           "телъэдэн (to run onto/into)",
-          "ч1элъэдэн (to run under)",
+          "чӏэлъэдэн (to run under)",
           "илъэдэн (to run inside, to go inside running)",
           "къилъэдэн (to come inside running)",
           "дэлъэдэн (to run inside a yard, area or settlement)",
@@ -9972,7 +9973,7 @@ const englishDict = {
           "къэчъыхьан (to run around)",
           "блэчъын / блэхъушъутын (to run past)",
           "техъушъутын (to run off)",
-          "ч1эхъушъутын (to run from under, to run from a lying position)",
+          "чӏэхъушъутын (to run from under, to run from a lying position)",
           "ихъушъутын (to run out from inside something)",
           "дэхъушъутын (to run out from a yard, area or settlement)",
           "хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest)",
@@ -9991,7 +9992,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "телъэдэн (to rush onto/into)",
-          "ч1элъэдэн (to rush under)",
+          "чӏэлъэдэн (to rush under)",
           "илъэдэн (to rush inside, to go inside rushing)",
           "къилъэдэн (to come inside rushing)",
           "дэлъэдэн (to rush inside a yard, area or settlement)",
@@ -10001,7 +10002,7 @@ const englishDict = {
           "жэхэлъэдэн (to rush straight into/against)",
           "блэхъушъутын (to rush past)",
           "техъушъутын (to rush away)",
-          "ч1эхъушъутын (to rush away from under)",
+          "чӏэхъушъутын (to rush away from under)",
           "ихъушъутын (to rush away from inside something)",
           "дэхъушъутын (to rush away from a yard, area or settlement)",
           "хэхъушъутын (to rush away from an area with liquid or gas, to rush away from among people/objects, to rush away from the forest)",
@@ -10016,7 +10017,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "техъушъутын (to run off)",
-          "ч1эхъушъутын (to run from under, to run from a lying position)",
+          "чӏэхъушъутын (to run from under, to run from a lying position)",
           "ихъушъутын (to run out from inside something)",
           "дэхъушъутын (to run out from a yard, area or settlement)",
           "хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest)",
@@ -10033,16 +10034,16 @@ const englishDict = {
         "verbs": [
           "ежьэжьын (to run away, to flee)",
           "ечъэжьэн (to speed off)",
-          "ш1уежьэжьын (to run away from, to flee from)",
-          "к1э1эжьын (to accelerate and start running away)",
+          "шӏуежьэжьын (to run away from, to flee from)",
+          "кӏэӏэжьын (to accelerate and start running away)",
           "техъушъутын (to run away from above something)",
-          "ч1эхъушъутын (to run away from under, to run away from a lying position)",
+          "чӏэхъушъутын (to run away from under, to run away from a lying position)",
           "ихъушъутын (to run away from inside something)",
           "дэхъушъутын (to run away from a yard, area or settlement)",
           "хэхъушъутын (to run away from an area with liquid or gas, to run away from among people/objects, to run away from a forest)",
           "къохъушъутын (to run away from behind)",
           "къыгохъушъутын / къыбгъодэхъушъутын (to run away from besides)",
-          "1эк1эк1ын (to let someone run away inadvertently)"
+          "ӏэкӏэкӏын (to let someone run away inadvertently)"
         ]
       },
       "word": "run away"
@@ -10062,7 +10063,7 @@ const englishDict = {
         "verbs": [
           "щыфэн",
           "тефыхьан",
-          "теуц1элэн"
+          "теуцӏэлэн"
         ]
       },
       "word": "rub in"
@@ -10071,7 +10072,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1ыц1ын (to wrinkle a fabric/paper by pressing it)"
+          "цӏыцӏын (to wrinkle a fabric/paper by pressing it)"
         ]
       },
       "word": "rumple"
@@ -10086,8 +10087,8 @@ const englishDict = {
           "гъэсэкъатын (to make something dysfunctional)",
           "унэхъун",
           "гъэунэхъун",
-          "зэ1ыгъэхьан (to make something dysfunctional)",
-          "ш1огъэон (to ruin someone\u0027s property or plan)"
+          "зэӏыгъэхьан (to make something dysfunctional)",
+          "шӏогъэон (to ruin someone\u0027s property or plan)"
         ]
       },
       "word": "ruin"
@@ -10107,7 +10108,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "иутын",
-          "тепк1эн"
+          "тепкӏэн"
         ]
       },
       "word": "run over"
@@ -10116,7 +10117,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "псынк1эу блэк1ын",
+          "псынкӏэу блэкӏын",
           "блэшъутын (Shapsug)",
           "блэхъушъутын"
         ]
@@ -10188,8 +10189,8 @@ const englishDict = {
           "щыфэн (to smear)",
           "щыхъон (to rub against, a friction to be caused between)",
           "щыгъэхъон (to rub against something, to cause a friction between)",
-          "хъок1ын (to grind, to remove material by rubbing rapidly)",
-          "1отын"
+          "хъокӏын (to grind, to remove material by rubbing rapidly)",
+          "ӏотын"
         ]
       },
       "word": "rub"
@@ -10198,7 +10199,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дысы",
-          "1эдэбынчъэ",
+          "ӏэдэбынчъэ",
           "джырыкъу"
         ],
         "verbs": []
@@ -10208,7 +10209,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1аеу"
+          "ӏаеу"
         ],
         "verbs": []
       },
@@ -10268,8 +10269,8 @@ const englishDict = {
           "тетыгъо (dominion)"
         ],
         "verbs": [
-          "гъэзек1он (to manage)",
-          "гъэ1орыш1эн"
+          "гъэзекӏон (to manage)",
+          "гъэӏорышӏэн"
         ]
       },
       "word": "rule"
@@ -10278,7 +10279,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэк1эчъэн"
+          "зэкӏэчъэн"
         ]
       },
       "word": "run backward"
@@ -10296,7 +10297,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эчъэ-лъэчъэн / шъхьачъэ-лъэчъэн (to run back and forth out of anxious)"
+          "ӏэчъэ-лъэчъэн / шъхьачъэ-лъэчъэн (to run back and forth out of anxious)"
         ]
       },
       "word": "run back and forth"
@@ -10304,8 +10305,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэк1ы",
-          "ш1ои"
+          "хэкӏы",
+          "шӏои"
         ],
         "verbs": []
       },
@@ -10323,7 +10324,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ор1отэжь"
+          "ӏорӏотэжь"
         ],
         "verbs": []
       },
@@ -10345,8 +10346,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "анэл",
-          "лыпц1э",
-          "лыпц1э"
+          "лыпцӏэ",
+          "лыпцӏэ"
         ],
         "verbs": []
       },
@@ -10378,7 +10379,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бзыужъый",
-          "бзыуц1ык1у"
+          "бзыуцӏыкӏу"
         ],
         "verbs": []
       },
@@ -10388,7 +10389,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бзыужъый",
-          "бзыуц1ык1у"
+          "бзыуцӏыкӏу"
         ],
         "verbs": []
       },
@@ -10463,7 +10464,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэк1эшху"
+          "жэкӏэшху"
         ],
         "verbs": []
       },
@@ -10504,7 +10505,7 @@ const englishDict = {
         "lemmas": [
           "ныбэкъ",
           "ныбэ хъурай",
-          "быт1ыхъурай",
+          "бытӏыхъурай",
           "ныбэшъу"
         ],
         "verbs": []
@@ -10515,7 +10516,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "сихьэе шхы",
-          "устец1"
+          "устецӏ"
         ],
         "verbs": []
       },
@@ -10560,7 +10561,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1аркъу (a division into two branches)"
+          "тӏаркъу (a division into two branches)"
         ],
         "verbs": []
       },
@@ -10569,7 +10570,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шхо1у (metal in horse\u0027s mouth)"
+          "шхоӏу (metal in horse\u0027s mouth)"
         ],
         "verbs": []
       },
@@ -10578,7 +10579,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъурк1"
+          "гъуркӏ"
         ],
         "verbs": []
       },
@@ -10617,7 +10618,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уц1э"
+          "шӏуцӏэ"
         ],
         "verbs": []
       },
@@ -10626,9 +10627,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэрак1уапц1э",
-          "марк1о",
-          "къэцмарк1о"
+          "мэракӏуапцӏэ",
+          "маркӏо",
+          "къэцмаркӏо"
         ],
         "verbs": []
       },
@@ -10646,7 +10647,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1ущыф"
+          "нэкӏущыф"
         ],
         "verbs": []
       },
@@ -10655,7 +10656,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1ущыф"
+          "нэкӏущыф"
         ],
         "verbs": []
       },
@@ -10665,7 +10666,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "анэбзыу",
-          "бзыупц1",
+          "бзыупцӏ",
           "бзыушхъу"
         ],
         "verbs": []
@@ -10711,7 +10712,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "блапц1э"
+          "блапцӏэ"
         ],
         "verbs": []
       },
@@ -10720,7 +10721,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэрэ1умаф"
+          "бэрэӏумаф"
         ],
         "verbs": []
       },
@@ -10739,13 +10740,13 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэхэгъэк1ухьагъ",
+          "зэхэгъэкӏухьагъ",
           "зэхэпхъагъ",
           "зэхэлъ"
         ],
         "verbs": [
-          "зэ1ыш1эн",
-          "зэхэгъэк1ухьан"
+          "зэӏышӏэн",
+          "зэхэгъэкӏухьан"
         ]
       },
       "word": "blend"
@@ -10762,7 +10763,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1умыл"
+          "ӏумыл"
         ],
         "verbs": []
       },
@@ -10771,7 +10772,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шхъуант1э"
+          "шхъуантӏэ"
         ],
         "verbs": []
       },
@@ -10804,7 +10805,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъыдэк1ое-лъыкъеох"
+          "лъыдэкӏое-лъыкъеох"
         ],
         "verbs": []
       },
@@ -10839,7 +10840,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нашхъо",
-          "нэ шхъуант1"
+          "нэ шхъуантӏ"
         ],
         "verbs": []
       },
@@ -10849,8 +10850,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уп1эп1эн",
-          "гъэуп1эп1эн"
+          "упӏэпӏэн",
+          "гъэупӏэпӏэн"
         ]
       },
       "word": "blink"
@@ -10859,8 +10860,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъы къик1ын",
-          "пыл1ык1ын (to bleed to death)"
+          "лъы къикӏын",
+          "пылӏыкӏын (to bleed to death)"
         ]
       },
       "word": "bleed"
@@ -10886,7 +10887,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -10896,10 +10897,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъук1э"
+          "гъукӏэ"
         ],
         "verbs": [
-          "гъук1эн"
+          "гъукӏэн"
         ]
       },
       "word": "blacksmith"
@@ -10907,7 +10908,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "чхы1ан / чых1эн"
+          "чхыӏан / чыхӏэн"
         ],
         "verbs": []
       },
@@ -10917,8 +10918,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "напк1э техын",
-          "нэш1у щыфэн"
+          "напкӏэ техын",
+          "нэшӏу щыфэн"
         ]
       },
       "word": "bless"
@@ -10935,9 +10936,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1элэжъ",
-          "к1элэхъу",
-          "к1элак1э"
+          "кӏэлэжъ",
+          "кӏэлэхъу",
+          "кӏэлакӏэ"
         ],
         "verbs": []
       },
@@ -10946,10 +10947,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэш1отхъуабз"
+          "мэшӏотхъуабз"
         ],
         "verbs": [
-          "къызк1эстын"
+          "къызкӏэстын"
         ]
       },
       "word": "blaze"
@@ -10957,7 +10958,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ет1апц1э"
+          "етӏапцӏэ"
         ],
         "verbs": []
       },
@@ -11015,7 +11016,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уц1агъэ"
+          "шӏуцӏагъэ"
         ],
         "verbs": []
       },
@@ -11179,8 +11180,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ыхъужъ",
-          "л1ыблан",
+          "лӏыхъужъ",
+          "лӏыблан",
           "бланэ",
           "гушхо",
           "пхъашэ"
@@ -11193,7 +11194,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "блэнагъ",
-          "л1ыгъэ"
+          "лӏыгъэ"
         ],
         "verbs": []
       },
@@ -11212,9 +11213,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ягъэ егъэк1ын",
+          "ягъэ егъэкӏын",
           "пынэн",
-          "пэш1онэн",
+          "пэшӏонэн",
           "къин егъэхъун"
         ]
       },
@@ -11225,7 +11226,7 @@ const englishDict = {
         "lemmas": [
           "лъэецуакъэ",
           "чызмэ (Arabic)",
-          "цокъэк1ыхь"
+          "цокъэкӏыхь"
         ],
         "verbs": []
       },
@@ -11286,7 +11287,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дэубэдашх",
-          "1ордегъашт"
+          "ӏордегъашт"
         ],
         "verbs": []
       },
@@ -11295,9 +11296,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэ маш1о",
-          "мэш1уашъхь",
-          "мэш1ош1ыгъ"
+          "пхъэ машӏо",
+          "мэшӏуашъхь",
+          "мэшӏошӏыгъ"
         ],
         "verbs": []
       },
@@ -11307,7 +11308,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьащэ фэш1ын"
+          "шъхьащэ фэшӏын"
         ]
       },
       "word": "bow down"
@@ -11332,7 +11333,7 @@ const englishDict = {
         "verbs": [
           "зыуфэн",
           "зеуфэхын",
-          "шъхьащэ фэш1ын (to bow down to)"
+          "шъхьащэ фэшӏын (to bow down to)"
         ]
       },
       "word": "bow"
@@ -11402,7 +11403,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъэогъу",
-          "гъусэк1алэ"
+          "гъусэкӏалэ"
         ],
         "verbs": []
       },
@@ -11422,7 +11423,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ых (buttom of)",
-          "ч1э (bottom ground)"
+          "чӏэ (bottom ground)"
         ],
         "verbs": []
       },
@@ -11458,7 +11459,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -11489,7 +11490,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "илъхьап1э"
+          "илъхьапӏэ"
         ],
         "verbs": []
       },
@@ -11498,9 +11499,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1элэц1ык1у (young boy)",
+          "кӏэлэцӏыкӏу (young boy)",
           "шъэожъые (rare) (young boy)",
-          "к1алэ (boy, teenage boy or young man)"
+          "кӏалэ (boy, teenage boy or young man)"
         ],
         "verbs": []
       },
@@ -11527,7 +11528,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эрам"
+          "ӏэрам"
         ],
         "verbs": []
       },
@@ -11545,7 +11546,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыбгъэ"
+          "чӏыбгъэ"
         ],
         "verbs": []
       },
@@ -11572,7 +11573,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэк1эп1ащ"
+          "лъэкӏэпӏащ"
         ],
         "verbs": []
       },
@@ -11581,7 +11582,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэк1эп1ащ"
+          "лъэкӏэпӏащ"
         ],
         "verbs": []
       },
@@ -11592,7 +11593,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1упсы"
+          "ӏупсы"
         ],
         "verbs": []
       },
@@ -11649,7 +11650,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шык1элъ"
+          "шыкӏэлъ"
         ],
         "verbs": []
       },
@@ -11658,7 +11659,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шык1элъ"
+          "шыкӏэлъ"
         ],
         "verbs": []
       },
@@ -11682,8 +11683,8 @@ const englishDict = {
           "къапщыкъ"
         ],
         "verbs": [
-          "хъунк1эн",
-          "ехъунк1ын"
+          "хъункӏэн",
+          "ехъункӏын"
         ]
       },
       "word": "sack"
@@ -11700,7 +11701,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шхэк1ыгъ (having eaten to satisfaction)"
+          "шхэкӏыгъ (having eaten to satisfaction)"
         ],
         "verbs": []
       },
@@ -11718,8 +11719,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лэжьапк1",
-          "1офш1апк1"
+          "лэжьапкӏ",
+          "ӏофшӏапкӏ"
         ],
         "verbs": []
       },
@@ -11802,9 +11803,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1он",
-          "хэ1ухьан (to say in a group, to say among peopel)",
-          "и1ухьан (to say inside)"
+          "ӏон",
+          "хэӏухьан (to say in a group, to say among peopel)",
+          "иӏухьан (to say inside)"
         ]
       },
       "word": "say"
@@ -11824,7 +11825,7 @@ const englishDict = {
           "а зы",
           "а зыр (absolutive)",
           "а зым (ergative)",
-          "а зымк1э (instrument case)",
+          "а зымкӏэ (instrument case)",
           "зэфэд (alike)"
         ],
         "verbs": []
@@ -11837,7 +11838,7 @@ const englishDict = {
           "а зы",
           "а зыр (absolutive)",
           "а зым (ergative)",
-          "а зымк1э (instrument case)",
+          "а зымкӏэ (instrument case)",
           "зэфэд (alike)"
         ],
         "verbs": []
@@ -11861,8 +11862,8 @@ const englishDict = {
           "къыхэхыжьын (to save someone from a bad or dangerous siuation)",
           "зэтеплъхьан (to collect things and save them for the future)",
           "къэгъэнэн (to save something for later)",
-          "гъэт1ылъын / 1угъэт1ылъык1ын (to lay and save something for the future)",
-          "гъэш1он (to save something for the future)",
+          "гъэтӏылъын / ӏугъэтӏылъыкӏын (to lay and save something for the future)",
+          "гъэшӏон (to save something for the future)",
           "къэгъэнэхъэжьын (to revive)"
         ]
       },
@@ -11880,7 +11881,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэбэскъэ ш1о1у"
+          "къэбэскъэ шӏоӏу"
         ],
         "verbs": []
       },
@@ -11900,7 +11901,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "на1э тегъэтын",
+          "наӏэ тегъэтын",
           "ухъумэн"
         ]
       },
@@ -11909,7 +11910,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къошъол1ы"
+          "къошъолӏы"
         ],
         "verbs": []
       },
@@ -11919,8 +11920,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гухэгъэк1ын",
-          "нэшхъэеу ш1ын",
+          "гухэгъэкӏын",
+          "нэшхъэеу шӏын",
           "гъэчэфынчъэн",
           "гъэнэшхъэин"
         ]
@@ -11930,7 +11931,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъуаш1э"
+          "шъуашӏэ"
         ],
         "verbs": []
       },
@@ -11939,7 +11940,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъуаш1э"
+          "шъуашӏэ"
         ],
         "verbs": []
       },
@@ -11957,7 +11958,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уфэс",
+          "шӏуфэс",
           "сэлам"
         ],
         "verbs": []
@@ -11967,7 +11968,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уфэс",
+          "шӏуфэс",
           "сэлам"
         ],
         "verbs": []
@@ -11995,8 +11996,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сырныч / мэш1ощыхъу (match to ignite fire with)",
-          "(dialectal) мэш1уач (match to ignite fire with)"
+          "сырныч / мэшӏощыхъу (match to ignite fire with)",
+          "(dialectal) мэшӏуач (match to ignite fire with)"
         ],
         "verbs": []
       },
@@ -12061,7 +12062,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1о"
+          "ӏо"
         ],
         "verbs": []
       },
@@ -12083,7 +12084,7 @@ const englishDict = {
         "lemmas": [
           "шы / къош",
           "шынахьыжъ / къошынахьыжъ (older brother)",
-          "шынахьык1 / къошынахьык1 (younger brother)"
+          "шынахьыкӏ / къошынахьыкӏ (younger brother)"
         ],
         "verbs": []
       },
@@ -12121,7 +12122,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пщыкъу (wife\u0027s brother-in-law)",
-          "ш1упщыкъу (husband\u0027s brother-in-law)",
+          "шӏупщыкъу (husband\u0027s brother-in-law)",
           "малъхъо",
           "малъхъэ",
           "махълъэ",
@@ -12131,7 +12132,7 @@ const englishDict = {
           "махълъэ (one\u0027s sister\u0027s husband)",
           "махъулъэ (one\u0027s sister\u0027s husband)",
           "пщыкъу (one\u0027s husband\u0027s brother)",
-          "ш1упщыкъу (one\u0027s wife\u0027s brother)"
+          "шӏупщыкъу (one\u0027s wife\u0027s brother)"
         ],
         "verbs": []
       },
@@ -12151,7 +12152,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэнк1ыпхъ"
+          "пхъэнкӏыпхъ"
         ],
         "verbs": []
       },
@@ -12160,7 +12161,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэнк1ыпхъ"
+          "пхъэнкӏыпхъ"
         ],
         "verbs": []
       },
@@ -12180,7 +12181,7 @@ const englishDict = {
         "lemmas": [
           "быдзылъ",
           "быдзытелъхь",
-          "бгъэк1апх",
+          "бгъэкӏапх",
           "шъохътан (leather corset which used to be worn by girls)"
         ],
         "verbs": []
@@ -12192,7 +12193,7 @@ const englishDict = {
         "lemmas": [
           "быдзылъ",
           "быдзытелъхь",
-          "бгъэк1апх",
+          "бгъэкӏапх",
           "шъохътан (leather corset which used to be worn by girls)"
         ],
         "verbs": []
@@ -12233,7 +12234,7 @@ const englishDict = {
           "шъхьэмажьэ (hairbrush)"
         ],
         "verbs": [
-          "лъэк1ын (to wash)",
+          "лъэкӏын (to wash)",
           "жьын (to brush hair)"
         ]
       },
@@ -12261,7 +12262,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къэхьыпэ унэ",
-          "къэхьыпаш1э"
+          "къэхьыпашӏэ"
         ],
         "verbs": []
       },
@@ -12279,9 +12280,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ыхъужь",
-          "л1ыгъэ зыхэлъ",
-          "л1ыблан",
+          "лӏыхъужь",
+          "лӏыгъэ зыхэлъ",
+          "лӏыблан",
           "пхъашэ"
         ],
         "verbs": []
@@ -12304,22 +12305,22 @@ const englishDict = {
           "зэпыугъо (resting time)"
         ],
         "verbs": [
-          "зэпык1ын (to snap)",
+          "зэпыкӏын (to snap)",
           "убэтэн (to destroy)",
           "къутэн (to destroy)",
           "зэхэутын (to break down from inside)",
-          "зэхэк1ын (to break and collapse)",
+          "зэхэкӏын (to break and collapse)",
           "пыутын (to break the edge of something usaully due to a strong impact)",
           "хэутын (to break a part/portion of something)",
           "теутын (to break a part from above something)",
-          "ч1эутын (to break a part from under something)",
+          "чӏэутын (to break a part from under something)",
           "гъэсэкъатын (to make something dysfunctional)",
-          "зэш1ок1ын (to break something)",
-          "1утэкъун (to break off)",
+          "зэшӏокӏын (to break something)",
+          "ӏутэкъун (to break off)",
           "зэпыутын (to break off from itself)",
-          "ш1оубэтэн (to destroy/break someone\u0027s property)",
+          "шӏоубэтэн (to destroy/break someone\u0027s property)",
           "укъон (to change money for lesser units)",
-          "сэкъатын / зэ1ыхьан / зэщыкъон (to become dysfunctional (device, machine, etc))"
+          "сэкъатын / зэӏыхьан / зэщыкъон (to become dysfunctional (device, machine, etc))"
         ]
       },
       "word": "break"
@@ -12327,7 +12328,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэпык1ыгъэ (snapped)",
+          "зэпыкӏыгъэ (snapped)",
           "убэтагъэ",
           "къутагъэ"
         ],
@@ -12339,7 +12340,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1утэкъун",
+          "ӏутэкъун",
           "пыутын (to break off a part from",
           "to rip off a part from",
           "to tear off a part from)",
@@ -12399,7 +12400,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэнак1о"
+          "бэнакӏо"
         ],
         "verbs": []
       },
@@ -12409,7 +12410,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къин къэгъэк1он"
+          "къин къэгъэкӏон"
         ]
       },
       "word": "bring harm"
@@ -12427,8 +12428,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъу",
-          "1эпшъэхъу"
+          "ӏэхъу",
+          "ӏэпшъэхъу"
         ],
         "verbs": []
       },
@@ -12446,9 +12447,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ордегъашт",
-          "бзэяк1о",
-          "ц1ыфэу афибзаерэр"
+          "ӏордегъашт",
+          "бзэякӏо",
+          "цӏыфэу афибзаерэр"
         ],
         "verbs": []
       },
@@ -12531,7 +12532,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "махэ",
-          "убэтэгъош1у"
+          "убэтэгъошӏу"
         ],
         "verbs": []
       },
@@ -12546,9 +12547,9 @@ const englishDict = {
           "къэхьын (to bring something)",
           "къехьэхын (to bring something down)",
           "дэхьыен (to bring something up)",
-          "ехьыл1эн",
+          "ехьылӏэн",
           "къыыдэхьын (to come bringing something)",
-          "къэгъэк1он (to make someone come here)"
+          "къэгъэкӏон (to make someone come here)"
         ]
       },
       "word": "bring"
@@ -12575,7 +12576,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэ1эжьын"
+          "хэӏэжьын"
         ]
       },
       "word": "break the fast"
@@ -12584,7 +12585,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нэз",
-          "цак1э",
+          "цакӏэ",
           "гъунэ"
         ],
         "verbs": []
@@ -12595,7 +12596,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нэз",
-          "цак1э",
+          "цакӏэ",
           "гъунэ"
         ],
         "verbs": []
@@ -12616,7 +12617,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "егъэбэджын",
-          "ек1эхын"
+          "екӏэхын"
         ]
       },
       "word": "bring down"
@@ -12624,8 +12625,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ыгъэ",
-          "л1ыхъужъыныгъ, л1эблэнагъ"
+          "лӏыгъэ",
+          "лӏыхъужъыныгъ, лӏэблэнагъ"
         ],
         "verbs": []
       },
@@ -12644,7 +12645,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гухэгъэк1ын"
+          "гухэгъэкӏын"
         ]
       },
       "word": "break someone\u0027s heart"
@@ -12653,7 +12654,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гухэгъэк1ын"
+          "гухэгъэкӏын"
         ]
       },
       "word": "break a heart"
@@ -12662,7 +12663,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "акъыл",
-          "куц1ы"
+          "куцӏы"
         ],
         "verbs": []
       },
@@ -12680,7 +12681,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -12727,7 +12728,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "унашъо фэш1ын"
+          "унашъо фэшӏын"
         ]
       },
       "word": "bring attention"
@@ -12754,7 +12755,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1эк1ын (to break out of somebody\u0027s hands)"
+          "ӏэкӏэкӏын (to break out of somebody\u0027s hands)"
         ]
       },
       "word": "break out"
@@ -12773,7 +12774,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "епц1ыжьын"
+          "епцӏыжьын"
         ]
       },
       "word": "break-promise"
@@ -12782,8 +12783,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пык1ыжьын (to end a relationship)",
-          "зэпык1ыжьын (to end a relationship with each othe)"
+          "пыкӏыжьын (to end a relationship)",
+          "зэпыкӏыжьын (to end a relationship with each othe)"
         ]
       },
       "word": "break up"
@@ -12793,7 +12794,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "сэкъатын (device, machine, etc.)",
-          "зэ1ыхьан",
+          "зэӏыхьан",
           "зэщыкъон (device, machine, etc.)"
         ]
       },
@@ -12842,7 +12843,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шхо",
-          "шхомлак1"
+          "шхомлакӏ"
         ],
         "verbs": []
       },
@@ -12851,7 +12852,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мыжъош1омык1"
+          "мыжъошӏомыкӏ"
         ],
         "verbs": []
       },
@@ -12925,7 +12926,7 @@ const englishDict = {
         "verbs": [
           "итэкъон / итэкъухьан / ипхъыхьан (to scatter stuff inside something)",
           "тетэкъон / тетэкъухьан (to scatter stuff on something)",
-          "ч1этэкъон / ч1этэкъухьан (to scatter stuff under something)",
+          "чӏэтэкъон / чӏэтэкъухьан (to scatter stuff under something)",
           "дэтэкъон / дэтэкъухьан (to scatter stuff inside a yard, to scatter stuff inside another object, to scatter stuff in between)",
           "къотэкъон / къотэкъухьан (to scatter stuff behind something)",
           "хэтэкъон / хэтэкъухьан (to scatter in, to scatter stuff among other objects/people, to scatter stuff in an area with fire, plants, gas or liquid)",
@@ -12939,7 +12940,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзэджэтелъхьап1"
+          "бзэджэтелъхьапӏ"
         ],
         "verbs": []
       },
@@ -12995,7 +12996,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бэгу",
-          "шъохъу-т1ыхъу"
+          "шъохъу-тӏыхъу"
         ],
         "verbs": []
       },
@@ -13004,7 +13005,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "еджап1э"
+          "еджапӏэ"
         ],
         "verbs": []
       },
@@ -13014,7 +13015,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бзэгухь",
-          "зэщыгъэхьак1о"
+          "зэщыгъэхьакӏо"
         ],
         "verbs": []
       },
@@ -13033,7 +13034,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ет1эхъун"
+          "етӏэхъун"
         ]
       },
       "word": "scratch an itch"
@@ -13052,14 +13053,14 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1энтхъун (to leave a scratch)",
-          "п1эстхъэн (to be scratching)",
-          "еп1эстхъын (to scratch someone)",
-          "ц1этхъун (Shapsug)",
-          "п1эсхъэн (Shapsug)",
+          "цӏэнтхъун (to leave a scratch)",
+          "пӏэстхъэн (to be scratching)",
+          "епӏэстхъын (to scratch someone)",
+          "цӏэтхъун (Shapsug)",
+          "пӏэсхъэн (Shapsug)",
           "жэхэтхъон (to scratch someone\u0027s face)",
-          "ет1эхъун (to scratch an itch)",
-          "зэт1эхъун (to scratch oneself due to itchiness)"
+          "етӏэхъун (to scratch an itch)",
+          "зэтӏэхъун (to scratch oneself due to itchiness)"
         ]
       },
       "word": "scratch"
@@ -13069,7 +13070,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "тетхэхьан (in the context of drawing)",
-          "ц1энтхъун (in the context of scratching)"
+          "цӏэнтхъун (in the context of scratching)"
         ]
       },
       "word": "scrape"
@@ -13080,7 +13081,7 @@ const englishDict = {
         "verbs": [
           "гъэщынэн (to scare someone)",
           "гъэщтэн (to scare someone)",
-          "(vulgar)  ч1эгъэц1эн (to scare the shit out of)",
+          "(vulgar)  чӏэгъэцӏэн (to scare the shit out of)",
           "гуихын / гу ихын (to frighten)",
           "тещыныхьан / тещтыхьан (to be scared that a certain thing will happen)"
         ]
@@ -13130,7 +13131,7 @@ const englishDict = {
           "джамбырыу"
         ],
         "verbs": [
-          "(vulgar) п1ысын"
+          "(vulgar) пӏысын"
         ]
       },
       "word": "screw"
@@ -13139,7 +13140,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1ыин"
+          "кӏыин"
         ]
       },
       "word": "scream"
@@ -13148,8 +13149,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1эц1эн",
-          "тец1эц1эн / тец1эц1эхьан (to scold someone)"
+          "цӏэцӏэн",
+          "тецӏэцӏэн / тецӏэцӏэхьан (to scold someone)"
         ]
       },
       "word": "scold"
@@ -13157,11 +13158,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэ1алъ",
-          "пхъэны1у (wooden scoop)"
+          "хэӏалъ",
+          "пхъэныӏу (wooden scoop)"
         ],
         "verbs": [
-          "к1этхъун",
+          "кӏэтхъун",
           "итхъун"
         ]
       },
@@ -13171,8 +13172,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1и1эн",
-          "к1итхъун"
+          "кӏиӏэн",
+          "кӏитхъун"
         ]
       },
       "word": "scurry"
@@ -13180,8 +13181,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1оны (scales of fish, reptiles, etc.)",
-          "шъуамп1э",
+          "пӏоны (scales of fish, reptiles, etc.)",
+          "шъуампӏэ",
           "щэчалъэ (scales, balance, tool to measure weight, weighing-machine)"
         ],
         "verbs": []
@@ -13192,8 +13193,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "теш1ык1ын",
-          "теш1ык1ын"
+          "тешӏыкӏын",
+          "тешӏыкӏын"
         ]
       },
       "word": "sculpture based off"
@@ -13202,8 +13203,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1элъыон",
-          "к1энэк1эн"
+          "кӏэлъыон",
+          "кӏэнэкӏэн"
         ]
       },
       "word": "scoff"
@@ -13229,7 +13230,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхак1о"
+          "тхакӏо"
         ],
         "verbs": []
       },
@@ -13238,7 +13239,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхак1о"
+          "тхакӏо"
         ],
         "verbs": []
       },
@@ -13248,8 +13249,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уц1элэн",
-          "теуц1элэн (to scribble on)"
+          "уцӏэлэн",
+          "теуцӏэлэн (to scribble on)"
         ]
       },
       "word": "scribble"
@@ -13267,7 +13268,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "цыхьэмыш1"
+          "цыхьэмышӏ"
         ],
         "verbs": []
       },
@@ -13306,8 +13307,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1эухыгъ",
-          "гущы1эухыгъэ"
+          "гущыӏэухыгъ",
+          "гущыӏэухыгъэ"
         ],
         "verbs": []
       },
@@ -13327,7 +13328,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1оныгъомаз"
+          "ӏоныгъомаз"
         ],
         "verbs": []
       },
@@ -13336,7 +13337,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щык1эпс",
+          "щыкӏэпс",
           "хъопсащэ",
           "лъфащэ"
         ],
@@ -13362,7 +13363,7 @@ const englishDict = {
           "дэлъэгъон (to see inside an object that can be opened, to see between, to see inside a yard)",
           "къолъэгъон (to see behind)",
           "хэлъэгъон (to see within, to see in an area with some mass of gas, solid or liquid, to see among people/objects)",
-          "ч1элъэгъон (to see under)",
+          "чӏэлъэгъон (to see under)",
           "илъэгъон (to see inside)",
           "хэплъэн (to view certain parts of something)",
           "зыхэплъэжьын (to see oneself as)"
@@ -13397,9 +13398,9 @@ const englishDict = {
         ],
         "verbs": [
           "къытехын (to capture from, to overtake from, to seize from, to deliberately take from)",
-          "1ыхын / къы1ыхын (to seize an item/object from someone)",
-          "ш1оубытын (to seize something from someone)",
-          "къы1эпхъотэн / къыш1опхъотэн (to snatch from someone, to attempt to seize something from someone suddenly)"
+          "ӏыхын / къыӏыхын (to seize an item/object from someone)",
+          "шӏоубытын (to seize something from someone)",
+          "къыӏэпхъотэн / къышӏопхъотэн (to snatch from someone, to attempt to seize something from someone suddenly)"
         ]
       },
       "word": "seize"
@@ -13416,7 +13417,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ок1ищырэ пш1ырэ"
+          "тӏокӏищырэ пшӏырэ"
         ],
         "verbs": []
       },
@@ -13444,7 +13445,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "игъэт1ысхьаныр"
+          "игъэтӏысхьаныр"
         ],
         "verbs": []
       },
@@ -13484,7 +13485,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэлэнлэн",
-          "т1упщын"
+          "тӏупщын"
         ]
       },
       "word": "set free"
@@ -13528,9 +13529,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э",
-          "итеплъэк1э",
-          "ынахэк1э"
+          "зэрэкъэлъагъорэмкӏэ",
+          "итеплъэкӏэ",
+          "ынахэкӏэ"
         ],
         "verbs": []
       },
@@ -13540,12 +13541,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пык1ын (do disconnect, to separate from)",
-          "зэгогъэк1ын",
-          "зэпыгъэк1ын",
+          "пыкӏын (do disconnect, to separate from)",
+          "зэгогъэкӏын",
+          "зэпыгъэкӏын",
           "зэхэдзын / зэпыдзын (to scatter a group, to break a group apart, to separate a group)",
-          "пык1ыжьын (to get separated from)",
-          "зэпык1ыжьын (to get separated from each other)"
+          "пыкӏыжьын (to get separated from)",
+          "зэпыкӏыжьын (to get separated from each other)"
         ]
       },
       "word": "separate"
@@ -13557,7 +13558,7 @@ const englishDict = {
           "лъыхъун (to search someone, to look for someone)",
           "хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects)",
           "теплъыхьан (to take a good look on something)",
-          "ч1эплъыхьан (to take a good look under something)",
+          "чӏэплъыхьан (to take a good look under something)",
           "иплъыхьан (to take a good look inside something)",
           "дэплъыхьан (to take a good look in something, to take a good look between)",
           "пыплъыхьан (to take a good look on someone\u0027s clothes)",
@@ -13598,7 +13599,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дап1э"
+          "дапӏэ"
         ],
         "verbs": []
       },
@@ -13607,7 +13608,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дак1э"
+          "дакӏэ"
         ],
         "verbs": []
       },
@@ -13617,9 +13618,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэк1он (to send someone to)",
+          "гъэкӏон (to send someone to)",
           "егъэхьын (to send something to)",
-          "1офытэн (to send someone to bring something)"
+          "ӏофытэн (to send someone to bring something)"
         ]
       },
       "word": "send"
@@ -13638,11 +13639,11 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "щыпсэун (to live in)",
-          "ч1эт1ысхьан (to settle under)",
-          "тет1ысхьан (to settle on)",
-          "хэт1ысхьан (to settle among other people)",
-          "дэт1ысхьан (to settle in a city, village, etc.)",
-          "ит1ысхьан (to settle in a country)"
+          "чӏэтӏысхьан (to settle under)",
+          "тетӏысхьан (to settle on)",
+          "хэтӏысхьан (to settle among other people)",
+          "дэтӏысхьан (to settle in a city, village, etc.)",
+          "итӏысхьан (to settle in a country)"
         ]
       },
       "word": "settle"
@@ -13661,8 +13662,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэш1ык1ын",
-          "зэхэш1эн"
+          "хэшӏыкӏын",
+          "зэхэшӏэн"
         ]
       },
       "word": "sense"
@@ -13707,8 +13708,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "унэ1ут",
-          "пщыл1ы (slave)",
+          "унэӏут",
+          "пщылӏы (slave)",
           "(in some dialects) пщэрыхь"
         ],
         "verbs": []
@@ -13719,7 +13720,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "чылапхъэ",
-          "к1э"
+          "кӏэ"
         ],
         "verbs": []
       },
@@ -13729,7 +13730,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пытэу ш1ын / гъэпытэн (to secure something)",
+          "пытэу шӏын / гъэпытэн (to secure something)",
           "тегъэпытыхьан (to secure something on)"
         ]
       },
@@ -13739,8 +13740,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "секунд (second time)",
-          "нэугъэуп1эп1эгъу (second time)",
-          "ят1унэрэ (second place)"
+          "нэугъэупӏэпӏэгъу (second time)",
+          "ятӏунэрэ (second place)"
         ],
         "verbs": []
       },
@@ -13749,7 +13750,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къошъол1ы"
+          "къошъолӏы"
         ],
         "verbs": []
       },
@@ -13789,7 +13790,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn)"
+          "машӏо хэгъэнэн / машӏо кӏэгъэнэн (to ignite, to cause to begin to burn)"
         ]
       },
       "word": "set on fire"
@@ -13807,7 +13808,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ош1ын"
+          "шӏошӏын"
         ]
       },
       "word": "see as"
@@ -13820,10 +13821,10 @@ const englishDict = {
           "дын (to sew something)",
           "зэпыдэн (to sew somethings together)",
           "пыдэн (to sew something to something, to connect something to something by sewing)",
-          "ч1эдэн (to sew something under something)",
+          "чӏэдэн (to sew something under something)",
           "тедэн (to sew something on something)",
           "хздэн (to sew something through)",
-          "к1эбзэн / к1эдэн (to sew below, to sole)"
+          "кӏэбзэн / кӏэдэн (to sew below, to sole)"
         ]
       },
       "word": "sew"
@@ -13831,7 +13832,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьамлашк1о"
+          "хьамлашкӏо"
         ],
         "verbs": []
       },
@@ -13840,7 +13841,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхак1о"
+          "тхакӏо"
         ],
         "verbs": []
       },
@@ -13867,8 +13868,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тет1ысхьап1э",
-          "т1ысып1э",
+          "тетӏысхьапӏэ",
+          "тӏысыпӏэ",
           "кушъхьэ (car seat, bicycle seat)"
         ],
         "verbs": []
@@ -13879,7 +13880,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къызэгъэнэц1ын"
+          "къызэгъэнэцӏын"
         ]
       },
       "word": "seduce"
@@ -13905,7 +13906,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хы1ушъо"
+          "хыӏушъо"
         ],
         "verbs": []
       },
@@ -13914,7 +13915,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хы1ушъо"
+          "хыӏушъо"
         ],
         "verbs": []
       },
@@ -13933,7 +13934,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "егъэк1ун / фэгъэшъошэн"
+          "егъэкӏун / фэгъэшъошэн"
         ]
       },
       "word": "see fit"
@@ -13951,7 +13952,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эдэн"
+          "кӏэдэн"
         ]
       },
       "word": "sew a sole on"
@@ -13959,7 +13960,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъурк1"
+          "гъуркӏ"
         ],
         "verbs": []
       },
@@ -13968,7 +13969,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэфэш1ужь"
+          "шъхьэфэшӏужь"
         ],
         "verbs": []
       },
@@ -13977,7 +13978,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэфэш1ужь"
+          "шъхьэфэшӏужь"
         ],
         "verbs": []
       },
@@ -13996,7 +13997,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "нэм къыпэш1ош1ыхьан"
+          "нэм къыпэшӏошӏыхьан"
         ]
       },
       "word": "seem the eye"
@@ -14005,7 +14006,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ош1ын"
+          "шӏошӏын"
         ]
       },
       "word": "seem"
@@ -14013,7 +14014,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ып1эрыс"
+          "чӏыпӏэрыс"
         ],
         "verbs": []
       },
@@ -14022,7 +14023,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъыхъуак1о"
+          "лъыхъуакӏо"
         ],
         "verbs": []
       },
@@ -14031,7 +14032,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъыхъуак1о"
+          "лъыхъуакӏо"
         ],
         "verbs": []
       },
@@ -14073,7 +14074,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъутыпашъо",
-          "пхэк1",
+          "пхэкӏ",
           "(vulgar) шъуты",
           "шъутыпашъо (butt cheek skin)",
           "(vulgar) пхэ"
@@ -14086,7 +14087,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъутыпашъо",
-          "пхэк1",
+          "пхэкӏ",
           "(vulgar) шъуты",
           "шъутыпашъо (butt cheek skin)",
           "(vulgar) пхэ"
@@ -14098,9 +14099,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьамп1ырашъу",
-          "(dialectal) хьэнт1эрэп1ый",
-          "хьэт1рэп1ый (Shapsug)"
+          "хьампӏырашъу",
+          "(dialectal) хьэнтӏэрэпӏый",
+          "хьэтӏрэпӏый (Shapsug)"
         ],
         "verbs": []
       },
@@ -14119,11 +14120,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "чы1у",
-          "чы1у"
+          "чыӏу",
+          "чыӏу"
         ],
         "verbs": [
-          "гъэупк1эпк1эн"
+          "гъэупкӏэпкӏэн"
         ]
       },
       "word": "button"
@@ -14180,9 +14181,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ыбгы-сыбг",
-          "мэшабэ зи1э",
-          "быргыт1ырг",
+          "тӏыбгы-сыбг",
+          "мэшабэ зиӏэ",
+          "быргытӏырг",
           "быргусыргу"
         ],
         "verbs": []
@@ -14195,9 +14196,9 @@ const englishDict = {
           "псыщэрэб"
         ],
         "verbs": [
-          "еутэк1ын (to bump into)",
-          "зэутэк1ын (to bump each other)",
-          "егъэутэк1ын (to make something bump into)"
+          "еутэкӏын (to bump into)",
+          "зэутэкӏын (to bump each other)",
+          "егъэутэкӏын (to make something bump into)"
         ]
       },
       "word": "bump"
@@ -14205,7 +14206,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыбжь"
+          "чӏыбжь"
         ],
         "verbs": []
       },
@@ -14254,7 +14255,7 @@ const englishDict = {
         "lemmas": [
           "хьадагъэ",
           "хьэдэ дэхыныр",
-          "хьэдэ гъэ1ылъыныр"
+          "хьэдэ гъэӏылъыныр"
         ],
         "verbs": []
       },
@@ -14263,7 +14264,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "чы1ун"
+          "чыӏун"
         ],
         "verbs": []
       },
@@ -14272,7 +14273,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъац1э"
+          "пхъацӏэ"
         ],
         "verbs": [
           "пыджэн",
@@ -14284,8 +14285,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тыгъуак1о",
-          "хъунк1ак1о"
+          "тыгъуакӏо",
+          "хъункӏакӏо"
         ],
         "verbs": []
       },
@@ -14295,7 +14296,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэупк1эпк1эн"
+          "гъэупкӏэпкӏэн"
         ]
       },
       "word": "buckle up"
@@ -14304,7 +14305,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэупк1эпк1эн"
+          "гъэупкӏэпкӏэн"
         ]
       },
       "word": "button up"
@@ -14325,7 +14326,7 @@ const englishDict = {
           "тхъу",
           "чэмытхъу",
           "тхъужъожьыгъ (melted butter)",
-          "тхъуц1ынэ"
+          "тхъуцӏынэ"
         ],
         "verbs": []
       },
@@ -14357,10 +14358,10 @@ const englishDict = {
           "шъуты",
           "пхэ",
           "шъутыпашъо (butt skin)",
-          "пхэк1",
+          "пхэкӏ",
           "(vulgar) шъуты",
           "(vulgar) пхэ",
-          "пхэк1",
+          "пхэкӏ",
           "(vulgar) ышъуты",
           "(vulgar) пхэ"
         ],
@@ -14372,7 +14373,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лыц1эн"
+          "лыцӏэн"
         ]
       },
       "word": "burn slightly"
@@ -14411,22 +14412,22 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ын",
-          "фэш1ын (to build for)",
-          "зэхэш1ыхьан (to make something using, to build up something from parts)",
-          "дэш1ын (to build with)",
-          "ш1ыжьын (to rebuild)",
-          "к1эш1ыхьан (to build under something)",
-          "теш1ыхьан (to build on something)",
-          "хэш1ыхьан (to build in the water, sea, fire, gas, forest, field)",
-          "дэш1ыхьан (to build between, to build inside another object, to build inside a yard, village, area, etc.)",
-          "иш1ыхьан (to build inside)",
-          "пыш1ыхьан (to build on a tree, to build on the surface of a device or tool)",
-          "къош1ыхьан (to build behind something)",
-          "гош1ыхьан / бгъодэш1ыхьан (to build besides something)",
-          "зэтеш1ыхьан (to build on each other)",
-          "зэч1эш1ыхьан (to build under each other)",
-          "зэриш1ыхьан (to build inside each other)"
+          "шӏын",
+          "фэшӏын (to build for)",
+          "зэхэшӏыхьан (to make something using, to build up something from parts)",
+          "дэшӏын (to build with)",
+          "шӏыжьын (to rebuild)",
+          "кӏэшӏыхьан (to build under something)",
+          "тешӏыхьан (to build on something)",
+          "хэшӏыхьан (to build in the water, sea, fire, gas, forest, field)",
+          "дэшӏыхьан (to build between, to build inside another object, to build inside a yard, village, area, etc.)",
+          "ишӏыхьан (to build inside)",
+          "пышӏыхьан (to build on a tree, to build on the surface of a device or tool)",
+          "къошӏыхьан (to build behind something)",
+          "гошӏыхьан / бгъодэшӏыхьан (to build besides something)",
+          "зэтешӏыхьан (to build on each other)",
+          "зэчӏэшӏыхьан (to build under each other)",
+          "зэришӏыхьан (to build inside each other)"
         ]
       },
       "word": "build"
@@ -14435,7 +14436,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "еутэк1ын"
+          "еутэкӏын"
         ]
       },
       "word": "bump into"
@@ -14443,15 +14444,15 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зы1удз",
+          "зыӏудз",
           "зегъэхь",
-          "зы1уегъэх",
-          "к1о дэхьэжь"
+          "зыӏуегъэх",
+          "кӏо дэхьэжь"
         ],
         "verbs": [
-          "зы1удзын",
+          "зыӏудзын",
           "зегъэхьын",
-          "зы1уегъэхын"
+          "зыӏуегъэхын"
         ]
       },
       "word": "bugger off"
@@ -14468,7 +14469,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -14482,20 +14483,20 @@ const englishDict = {
           "стын (to be burning)",
           "гъэстын (to burn something)",
           "плъын (to heat up to a very high temperature)",
-          "естыл1эн (to stick to the hot surface as a result of burning)",
+          "естылӏэн (to stick to the hot surface as a result of burning)",
           "тегъэстыхьан (to burn onto something)",
-          "тегъэстык1ын (to burn off something)",
-          "хэгъэстык1ын (to burn into something)",
+          "тегъэстыкӏын (to burn off something)",
+          "хэгъэстыкӏын (to burn into something)",
           "хэстыхьан (to burn in fire, to burn in an area with a hot mass)",
-          "маш1о хэнэн / маш1о к1энэн (to catch fire",
+          "машӏо хэнэн / машӏо кӏэнэн (to catch fire",
           "to combust",
           "to get ignited",
           "to begin to burn",
           "to inflame",
           "to go up in flames)",
-          "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire)",
-          "зэхэнэн / зэк1энэн (to catch fire by itself)",
-          "пыстык1ын (to burn off the tip of)"
+          "машӏо хэгъэнэн / машӏо кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire)",
+          "зэхэнэн / зэкӏэнэн (to catch fire by itself)",
+          "пыстыкӏын (to burn off the tip of)"
         ]
       },
       "word": "burn"
@@ -14503,7 +14504,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шк1эхъужъ"
+          "шкӏэхъужъ"
         ],
         "verbs": []
       },
@@ -14512,7 +14513,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхэк1",
+          "пхэкӏ",
           "(vulgar) шъуты",
           "шъутыпашъо (butt cheek skin)",
           "(vulgar) пхэ"
@@ -14524,7 +14525,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъутыпц1э"
+          "шъутыпцӏэ"
         ],
         "verbs": []
       },
@@ -14533,7 +14534,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ап1э"
+          "ӏапӏэ"
         ],
         "verbs": []
       },
@@ -14542,7 +14543,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псэолъэш1"
+          "псэолъэшӏ"
         ],
         "verbs": []
       },
@@ -14551,7 +14552,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псэолъэш1ып1"
+          "псэолъэшӏыпӏ"
         ],
         "verbs": []
       },
@@ -14561,10 +14562,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "(most common) ч1элъхьан (to bury under something, to put something under something)",
-          "ч1эухъумэн / ч1эухъубэн / ч1эгъэсэен (to cover something, to bury something)",
-          "(offensive) ч1эт1эн (to bury, to plant under)",
-          "(some dialects) гъэт1ылъын"
+          "(most common) чӏэлъхьан (to bury under something, to put something under something)",
+          "чӏэухъумэн (to cover something, to bury something)",
+          "чӏэухъубэн (to cover something, to bury something)",
+          "чӏэгъэсэен (to cover something, to bury something)",
+          "(offensive) чӏэтӏэн (to bury, to plant under)",
+          "(some dialects) гъэтӏылъын"
         ]
       },
       "word": "bury"
@@ -14572,8 +14575,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьак1умк1ыхь",
-          "(Shapsug) тхьак1умэк1эхь"
+          "тхьакӏумкӏыхь",
+          "(Shapsug) тхьакӏумэкӏэхь"
         ],
         "verbs": []
       },
@@ -14583,8 +14586,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "п1онк1ын (to bubble up from heat)",
-          "(Shapsug) п1эрк1ын"
+          "пӏонкӏын (to bubble up from heat)",
+          "(Shapsug) пӏэркӏын"
         ]
       },
       "word": "bubble up"
@@ -14593,9 +14596,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "п1онк1ын (to bubble up from heat)",
-          "гъэп1онк1ын (to cause to burst)",
-          "(Shapsug) гъэп1эрк1ын"
+          "пӏонкӏын (to bubble up from heat)",
+          "гъэпӏонкӏын (to cause to burst)",
+          "(Shapsug) гъэпӏэркӏын"
         ]
       },
       "word": "burst"
@@ -14604,7 +14607,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лыщэ",
-          "къэсапыш1"
+          "къэсапышӏ"
         ],
         "verbs": []
       },
@@ -14613,8 +14616,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ап1э",
-          "1эрам"
+          "ӏапӏэ",
+          "ӏэрам"
         ],
         "verbs": []
       },
@@ -14636,7 +14639,7 @@ const englishDict = {
         "lemmas": [
           "щэ",
           "хьадэгъущэ (killing bullet)",
-          "к1эрэхъуащэ (bullet of a gun)"
+          "кӏэрэхъуащэ (bullet of a gun)"
         ],
         "verbs": []
       },
@@ -14646,7 +14649,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "(slightly vulgar) хьэшъутыубат",
-          "(vulgar) шъхьи шъути и1эп"
+          "(vulgar) шъхьи шъути иӏэп"
         ],
         "verbs": [
           "(slightly vulgar) хьэшъутыубэтэн",
@@ -14669,8 +14672,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къин фэш1ын",
-          "къегъэхьылъэк1ын"
+          "къин фэшӏын",
+          "къегъэхьылъэкӏын"
         ]
       },
       "word": "burden"
@@ -14683,18 +14686,18 @@ const englishDict = {
         "verbs": [
           "он",
           "еон",
-          "к1эрахъок1э еон",
+          "кӏэрахъокӏэ еон",
           "теутын (to hit a target)",
           "дэоен (to shot upward)",
           "еохын (to shot downward)",
           "хэон (to shot amidst people)",
           "еутэхын / къеутэхын (to shoot something and bring it down, to cause to fall by shooting)",
-          "к1эрахъок1э еон",
+          "кӏэрахъокӏэ еон",
           "еон",
           "дэоен (to shoot up)",
           "еохын (to shoot down)",
           "лъыон (to shoot toward)",
-          "зэк1эон (to shoot backward)"
+          "зэкӏэон (to shoot backward)"
         ]
       },
       "word": "shoot"
@@ -14780,7 +14783,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1э"
+          "пӏэ"
         ],
         "verbs": []
       },
@@ -14789,7 +14792,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шык1элъ"
+          "шыкӏэлъ"
         ],
         "verbs": []
       },
@@ -14825,7 +14828,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъопэк1ако"
+          "гъопэкӏако"
         ],
         "verbs": []
       },
@@ -14835,7 +14838,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "былымэщ",
-          "1эщ"
+          "ӏэщ"
         ],
         "verbs": []
       },
@@ -14844,10 +14847,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ако",
-          "к1эк1",
-          "к1ако",
-          "к1ьако"
+          "кӏако",
+          "кӏэкӏ",
+          "кӏако",
+          "кӏьако"
         ],
         "verbs": []
       },
@@ -14875,8 +14878,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыщыухъумап1э",
-          "ухъумап1э"
+          "зыщыухъумапӏэ",
+          "ухъумапӏэ"
         ],
         "verbs": [
           "ухъумэн",
@@ -14898,7 +14901,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хьайнап",
-          "ук1ытагъо"
+          "укӏытагъо"
         ],
         "verbs": []
       },
@@ -14908,8 +14911,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хьайнап",
-          "ук1ытэныгъэ",
-          "ук1ытагъо"
+          "укӏытэныгъэ",
+          "укӏытагъо"
         ],
         "verbs": []
       },
@@ -14947,7 +14950,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "убэтэн",
-          "зэш1ок1ын"
+          "зэшӏокӏын"
         ]
       },
       "word": "shatter"
@@ -15006,8 +15009,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "жъыун",
-          "ц1ыон",
-          "ц1ыотэн (to shine rapidly)"
+          "цӏыон",
+          "цӏыотэн (to shine rapidly)"
         ]
       },
       "word": "shine"
@@ -15036,7 +15039,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къыхэц1ыук1ын, къыхэлыдык1ын, къыхэнэфык1ын"
+          "къыхэцӏыукӏын, къыхэлыдыкӏын, къыхэнэфыкӏын"
         ]
       },
       "word": "shimmer"
@@ -15044,9 +15047,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъу (hand shackles)",
+          "ӏэхъу (hand shackles)",
           "лъэхъу (leg shackles)",
-          "1эхъу-лъэхъу"
+          "ӏэхъу-лъэхъу"
         ],
         "verbs": []
       },
@@ -15055,7 +15058,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ахь (someons\u0027s part, portion or share)"
+          "ӏахь (someons\u0027s part, portion or share)"
         ],
         "verbs": [
           "гощын",
@@ -15093,13 +15096,13 @@ const englishDict = {
         "lemmas": [
           "чан",
           "чыян (Shapsug)",
-          "папц1э (pointy)"
+          "папцӏэ (pointy)"
         ],
         "verbs": [
           "гъэчанын",
           "лъын",
-          "гъэупэпц1ын (to make something pointly)",
-          "упэпц1ын (to make something pointly)"
+          "гъэупэпцӏын (to make something pointly)",
+          "упэпцӏын (to make something pointly)"
         ]
       },
       "word": "sharp"
@@ -15107,7 +15110,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэк1ап1э",
+          "лъэкӏапӏэ",
           "лъэпшъабгъу"
         ],
         "verbs": []
@@ -15118,7 +15121,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "тучан",
-          "щап1э"
+          "щапӏэ"
         ],
         "verbs": []
       },
@@ -15127,7 +15130,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъопэк1аку"
+          "гъопэкӏаку"
         ],
         "verbs": []
       },
@@ -15136,12 +15139,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1ытапх"
+          "укӏытапх"
         ],
         "verbs": [
-          "ук1ытэн (to be shy)",
-          "щыук1ытэн (to be shy of/from)",
-          "хэук1ытэхьан (to be shy among other people)"
+          "укӏытэн (to be shy)",
+          "щыукӏытэн (to be shy of/from)",
+          "хэукӏытэхьан (to be shy among other people)"
         ]
       },
       "word": "shy"
@@ -15149,8 +15152,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "телъхьап1э",
-          "дэлъхьап1э"
+          "телъхьапӏэ",
+          "дэлъхьапӏэ"
         ],
         "verbs": []
       },
@@ -15178,7 +15181,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пэдыд",
-          "пэ папц1"
+          "пэ папцӏ"
         ],
         "verbs": []
       },
@@ -15187,7 +15190,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щазмаш1э"
+          "щазмашӏэ"
         ],
         "verbs": []
       },
@@ -15220,17 +15223,17 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1ытагъо",
-          "ук1ытэныгъэ",
+          "укӏытагъо",
+          "укӏытэныгъэ",
           "хьайнапэ",
-          "ук1ыт"
+          "укӏыт"
         ],
         "verbs": [
-          "ук1ытэн (to be ashamed, to feel shame)",
-          "къэгъэук1ытэжьын (to make someone feel ashamed)",
-          "щыук1ытэн (to be ashamed of)",
+          "укӏытэн (to be ashamed, to feel shame)",
+          "къэгъэукӏытэжьын (to make someone feel ashamed)",
+          "щыукӏытэн (to be ashamed of)",
           "напэ техын (ынапэ техын) (to disgrace someone)",
-          "хьайнапэу ш1ын (to shame someone)"
+          "хьайнапэу шӏын (to shame someone)"
         ]
       },
       "word": "shame"
@@ -15238,7 +15241,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "папц1э"
+          "папцӏэ"
         ],
         "verbs": []
       },
@@ -15248,7 +15251,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нэпкъы",
-          "1ушъу"
+          "ӏушъу"
         ],
         "verbs": []
       },
@@ -15259,15 +15262,15 @@ const englishDict = {
         "lemmas": [
           "хьай",
           "(vulgar) цӏы",
-          "(slightly vulgar) сытец1 (expression of anger or displeasure)",
+          "(slightly vulgar) сытецӏ (expression of anger or displeasure)",
           "(vulgar) хьэе ригъаф (expresses displeasure)",
           "хьай",
           "(vulgar) цӏы"
         ],
         "verbs": [
-          "(vulgar) ц1ын",
-          "(vulgar) тец1эн (to shit on)",
-          "(vulgar) ч1эц1эн (to shit under)"
+          "(vulgar) цӏын",
+          "(vulgar) тецӏэн (to shit on)",
+          "(vulgar) чӏэцӏэн (to shit under)"
         ]
       },
       "word": "shit"
@@ -15278,8 +15281,8 @@ const englishDict = {
         "verbs": [
           "куон",
           "текуон (to shout at)",
-          "ц1эц1эн (to scold)",
-          "тец1эц1эн / тец1эц1эхьан (to scold someone)"
+          "цӏэцӏэн (to scold)",
+          "тецӏэцӏэн / тецӏэцӏэхьан (to scold someone)"
         ]
       },
       "word": "shout"
@@ -15296,8 +15299,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къухьэш1",
-          "къошъош1"
+          "къухьэшӏ",
+          "къошъошӏ"
         ],
         "verbs": []
       },
@@ -15306,8 +15309,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къухьэш1",
-          "къошъош1"
+          "къухьэшӏ",
+          "къошъошӏ"
         ],
         "verbs": []
       },
@@ -15317,7 +15320,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гук1эгъу фэлъэгъун"
+          "гукӏэгъу фэлъэгъун"
         ]
       },
       "word": "show mercy"
@@ -15325,7 +15328,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -15336,10 +15339,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыгъэпск1ын (to take a shower)",
-          "зыгъэпк1ын (to take a shower)",
-          "гъэпск1ын (to shower someone)",
-          "гъэпк1ын (to shower someone)"
+          "зыгъэпскӏын (to take a shower)",
+          "зыгъэпкӏын (to take a shower)",
+          "гъэпскӏын (to shower someone)",
+          "гъэпкӏын (to shower someone)"
         ]
       },
       "word": "shower"
@@ -15366,8 +15369,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1этехъо",
-          "п1этедзэ"
+          "пӏэтехъо",
+          "пӏэтедзэ"
         ],
         "verbs": []
       },
@@ -15376,7 +15379,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хъок1ыгъ"
+          "хъокӏыгъ"
         ],
         "verbs": []
       },
@@ -15387,7 +15390,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "тхытхын",
-          "к1эзэзын"
+          "кӏэзэзын"
         ]
       },
       "word": "shiver"
@@ -15398,13 +15401,13 @@ const englishDict = {
         "verbs": [
           "сысын",
           "гъэсысын (to shake something)",
-          "гъэшк1олъэн (to shake a liquid in a container)",
+          "гъэшкӏолъэн (to shake a liquid in a container)",
           "зэзэн",
           "гъэзэзэн (to shake something)",
           "зыгъэзэзэн (to shake oneself)",
           "тхытхын (to shiver, to tremble)",
-          "к1эзэзын (to shiver, to tremble)",
-          "утхыпк1ын (to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat)"
+          "кӏэзэзын (to shiver, to tremble)",
+          "утхыпкӏын (to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat)"
         ]
       },
       "word": "shake"
@@ -15418,14 +15421,14 @@ const englishDict = {
           "дэкон / дэкоцэн (to shove into something, to shove in between)",
           "хэкон / хэкоцэн (to shove through something)",
           "икон / икоцэн (to shove inside something)",
-          "ч1экон / ч1экоцэн (to shove under something)",
+          "чӏэкон / чӏэкоцэн (to shove under something)",
           "текон / текоцэн (to shove above something)",
           "дэгъэзыхьан (to forcefully shove something in between, to forcefully shove something inside another object)",
           "игъэзыхьан (to forcefully shove inside)",
           "чӏэгъэзыхьан (to forcefully shove under something)",
           "хэгъэзыхьан (to forcefully shove through)",
           "къогъэзыхьан (to forcefully shove behind)",
-          "т1ыргун (to shove, to push)"
+          "тӏыргун (to shove, to push)"
         ]
       },
       "word": "shove"
@@ -15433,7 +15436,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэ1у"
+          "мэӏу"
         ],
         "verbs": []
       },
@@ -15452,7 +15455,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1ытэнчъэ",
+          "укӏытэнчъэ",
           "нэпэнчъэ"
         ],
         "verbs": []
@@ -15463,8 +15466,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щыгъэтын / зэ1унэн",
-          "щегъэтын / зэ1уегъэнэн (to make someone shut up)"
+          "щыгъэтын / зэӏунэн",
+          "щегъэтын / зэӏуегъэнэн (to make someone shut up)"
         ]
       },
       "word": "shut up"
@@ -15473,8 +15476,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щыгъэтын / зэ1унэн",
-          "щегъэтын / зэ1уегъэнэн (to shush someone"
+          "щыгъэтын / зэӏунэн",
+          "щегъэтын / зэӏуегъэнэн (to shush someone"
         ]
       },
       "word": "shush"
@@ -15486,7 +15489,7 @@ const englishDict = {
           "гъэчанын",
           "(Shapsug) гъэчыянэн",
           "лъын",
-          "упэпц1ын / гъэупэпц1ын (to make something pointly)"
+          "упэпцӏын / гъэупэпцӏын (to make something pointly)"
         ]
       },
       "word": "sharpen"
@@ -15494,7 +15497,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьамлашк1о"
+          "хьамлашкӏо"
         ],
         "verbs": []
       },
@@ -15515,7 +15518,7 @@ const englishDict = {
         "lemmas": [
           "губжыпх",
           "губжыл",
-          "губжыгъош1у"
+          "губжыгъошӏу"
         ],
         "verbs": []
       },
@@ -15524,7 +15527,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьаныгъупчъэещал1"
+          "шъхьаныгъупчъэещалӏ"
         ],
         "verbs": []
       },
@@ -15569,7 +15572,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "цыхьэш1эгъунчъэ"
+          "цыхьэшӏэгъунчъэ"
         ],
         "verbs": []
       },
@@ -15611,7 +15614,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1огъэш1эгъонын"
+          "шӏогъэшӏэгъонын"
         ]
       },
       "word": "show interest in"
@@ -15630,7 +15633,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "утхыпк1ын (to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat)"
+          "утхыпкӏын (to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat)"
         ]
       },
       "word": "shake out"
@@ -15638,7 +15641,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъурк1"
+          "гъуркӏ"
         ],
         "verbs": []
       },
@@ -15648,8 +15651,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэкур",
-          "лъэкъо кIэк1",
-          "лъэкъо к1аку"
+          "лъэкъо кIэкӏ",
+          "лъэкъо кӏаку"
         ],
         "verbs": []
       },
@@ -15667,8 +15670,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щык1агъэ",
-          "нэц1эк1",
+          "щыкӏагъэ",
+          "нэцӏэкӏ",
           "дагъо"
         ],
         "verbs": []
@@ -15768,7 +15771,7 @@ const englishDict = {
         "lemmas": [
           "шыпхъу",
           "шыпхъунахьыжъ (older sister)",
-          "шыпхъунахьык1 (younger sister)"
+          "шыпхъунахьыкӏ (younger sister)"
         ],
         "verbs": []
       },
@@ -15778,11 +15781,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пщыпхъу (wife\u0027s sister-in-law)",
-          "ш1упщыпхъу (husband\u0027s sister-in-law)",
+          "шӏупщыпхъу (husband\u0027s sister-in-law)",
           "нысэ (brother\u0027s wife)",
           "нысэ (one\u0027s brother\u0027s wife)",
           "пщыпхъу (one\u0027s husband\u0027s sister)",
-          "ш1упщыпхъу (one\u0027s wife\u0027s sister)"
+          "шӏупщыпхъу (one\u0027s wife\u0027s sister)"
         ],
         "verbs": []
       },
@@ -15804,8 +15807,8 @@ const englishDict = {
         ],
         "verbs": [
           "гонахь гъэхъэн",
-          "псэк1од ш1эн",
-          "гунахь ш1эн",
+          "псэкӏод шӏэн",
+          "гунахь шӏэн",
           "гунахь зехьан"
         ]
       },
@@ -15814,7 +15817,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ок1ищ"
+          "тӏокӏищ"
         ],
         "verbs": []
       },
@@ -15836,8 +15839,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "орэд къэ1он",
-          "орэды1он",
+          "орэд къэӏон",
+          "орэдыӏон",
           "бзэрэбзэн (to chirp)"
         ]
       },
@@ -15847,9 +15850,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ч1эбын",
-          "(псым) ч1илъэшъон (to be dragged down)",
-          "(псым) ч1ихьан (to push down)",
+          "чӏэбын",
+          "(псым) чӏилъэшъон (to be dragged down)",
+          "(псым) чӏихьан (to push down)",
           "пхырыбын (to sink through, to fall through)"
         ]
       },
@@ -15858,7 +15861,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1эбыгъэ"
+          "чӏэбыгъэ"
         ],
         "verbs": []
       },
@@ -15868,9 +15871,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бэ хъугъи",
-          "бэ теш1агъэу",
-          "бэш1агъэу",
-          "1аджиш1агъэу"
+          "бэ тешӏагъэу",
+          "бэшӏагъэу",
+          "ӏаджишӏагъэу"
         ],
         "verbs": []
       },
@@ -15889,12 +15892,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1ысын",
-          "тет1ысхьан (to sit on)",
-          "1ут1ысхьан (to sit near)",
-          "гъэт1ысын (to make someone sit down)",
-          "т1ысын / къэт1ысын (to land)",
-          "къет1ысэхын (to land)"
+          "тӏысын",
+          "тетӏысхьан (to sit on)",
+          "ӏутӏысхьан (to sit near)",
+          "гъэтӏысын (to make someone sit down)",
+          "тӏысын / къэтӏысын (to land)",
+          "къетӏысэхын (to land)"
         ]
       },
       "word": "sit down"
@@ -15903,25 +15906,25 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1ысын (to sit down)",
+          "тӏысын (to sit down)",
           "щысын (to be sitting)",
-          "тет1ысхьан (to sit on)",
-          "1ут1ысхьан (to sit near)",
-          "те1ыстэн (dialectal)",
+          "тетӏысхьан (to sit on)",
+          "ӏутӏысхьан (to sit near)",
+          "теӏыстэн (dialectal)",
           "исын (to be sitting inside)",
           "дэсын (to be sitting in)",
           "тесын (to be sitting on)",
-          "ч1эсын (to be sitting under)",
+          "чӏэсын (to be sitting under)",
           "госын / бгъодэсын (to be sitting besides)",
           "пысын (to be sitting on a tree)",
           "къосын (to be sitting behind)",
           "хэсын (to be sitting among people or in an area with gas or liquid)",
-          "ит1ысхьан (to sit inside)",
-          "дэт1ысхьан (to sit in)",
-          "гот1ысхьан / бгъодэт1ысхьан (to sit besides)",
-          "къот1ысхьан (to sit behind)",
-          "хэт1ысхьан (to sit among people or in an area with some gas or liquid)",
-          "гъэт1ысын (to make someone sit down)"
+          "итӏысхьан (to sit inside)",
+          "дэтӏысхьан (to sit in)",
+          "готӏысхьан / бгъодэтӏысхьан (to sit besides)",
+          "къотӏысхьан (to sit behind)",
+          "хэтӏысхьан (to sit among people or in an area with some gas or liquid)",
+          "гъэтӏысын (to make someone sit down)"
         ]
       },
       "word": "sit"
@@ -15929,8 +15932,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дела1о",
-          "акъыл ш1агъо зимы1э"
+          "делаӏо",
+          "акъыл шӏагъо зимыӏэ"
         ],
         "verbs": []
       },
@@ -15939,8 +15942,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дела1о",
-          "акъыл ш1агъо зимы1э"
+          "делаӏо",
+          "акъыл шӏагъо зимыӏэ"
         ],
         "verbs": []
       },
@@ -15949,9 +15952,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мы1уш",
-          "жэ1улэл",
-          "1улэ"
+          "мыӏуш",
+          "жэӏулэл",
+          "ӏулэ"
         ],
         "verbs": []
       },
@@ -15960,8 +15963,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "орэды1о",
-          "орэда1о (Shapsug)"
+          "орэдыӏо",
+          "орэдаӏо (Shapsug)"
         ],
         "verbs": []
       },
@@ -16009,8 +16012,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ащ къак1о",
-          "ащ пак1о"
+          "ащ къакӏо",
+          "ащ пакӏо"
         ],
         "verbs": []
       },
@@ -16023,7 +16026,7 @@ const englishDict = {
         ],
         "verbs": [
           "едзын",
-          "к1этхэн"
+          "кӏэтхэн"
         ]
       },
       "word": "sign"
@@ -16031,7 +16034,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпс-лъэпс"
+          "ӏэпс-лъэпс"
         ],
         "verbs": []
       },
@@ -16049,8 +16052,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уб",
-          "ехъумп1эгъу"
+          "ӏуб",
+          "ехъумпӏэгъу"
         ],
         "verbs": []
       },
@@ -16060,8 +16063,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бгъу",
-          "ыбгъу / ыбгъук1э (on the side of)",
-          "лъэныкъо / к1элъэныкъо / зыбгъу (one side of, half of)",
+          "ыбгъу / ыбгъукӏэ (on the side of)",
+          "лъэныкъо / кӏэлъэныкъо / зыбгъу (one side of, half of)",
           "адрабгъу (opposite side, other side)",
           "бгъодэ- / го- (prepositional verval suffix)",
           "сэмэгубгъу (left-hand side)",
@@ -16075,7 +16078,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ып1алъэ"
+          "чӏыпӏалъэ"
         ],
         "verbs": []
       },
@@ -16094,7 +16097,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1э"
+          "пкӏэ"
         ],
         "verbs": []
       },
@@ -16104,7 +16107,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэщэтык1ын"
+          "хэщэтыкӏын"
         ]
       },
       "word": "sigh"
@@ -16121,8 +16124,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щысып1э",
-          "(in some dialects) хьак1эщ"
+          "щысыпӏэ",
+          "(in some dialects) хьакӏэщ"
         ],
         "verbs": []
       },
@@ -16134,7 +16137,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "блэк1ын"
+          "блэкӏын"
         ]
       },
       "word": "bypass"
@@ -16142,8 +16145,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ык1и",
-          "зыгорэк1э"
+          "ыкӏи",
+          "зыгорэкӏэ"
         ],
         "verbs": []
       },
@@ -16152,9 +16155,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э",
-          "итеплъэк1э",
-          "ынахэк1э"
+          "зэрэкъэлъагъорэмкӏэ",
+          "итеплъэкӏэ",
+          "ынахэкӏэ"
         ],
         "verbs": []
       },
@@ -16181,7 +16184,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыгорэк1э"
+          "зыгорэкӏэ"
         ],
         "verbs": []
       },
@@ -16190,7 +16193,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыгорэк1э"
+          "зыгорэкӏэ"
         ],
         "verbs": []
       },
@@ -16199,7 +16202,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыгорэк1э"
+          "зыгорэкӏэ"
         ],
         "verbs": []
       },
@@ -16208,9 +16211,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э",
-          "итеплъэк1э",
-          "ынахэк1э"
+          "зэрэкъэлъагъорэмкӏэ",
+          "итеплъэкӏэ",
+          "ынахэкӏэ"
         ],
         "verbs": []
       },
@@ -16219,7 +16222,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э"
+          "зэрэкъэлъагъорэмкӏэ"
         ],
         "verbs": []
       },
@@ -16229,7 +16232,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ыдэжь",
-          "1у- (prepositional verval suffix)"
+          "ӏу- (prepositional verval suffix)"
         ],
         "verbs": []
       },
@@ -16238,7 +16241,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ымыш1ахэу"
+          "ымышӏахэу"
         ],
         "verbs": []
       },
@@ -16247,7 +16250,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "чэмы1о (for cows)"
+          "чэмыӏо (for cows)"
         ],
         "verbs": []
       },
@@ -16260,7 +16263,7 @@ const englishDict = {
         "lemmas": [
           "шъо",
           "шъо",
-          "к1ышъо"
+          "кӏышъо"
         ],
         "verbs": [
           "шъо техын",
@@ -16286,7 +16289,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эпхын"
+          "кӏэпхын"
         ],
         "verbs": []
       },
@@ -16295,11 +16298,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1азэ",
-          "фэ1аз",
-          "1эпэ1ас",
+          "ӏазэ",
+          "фэӏаз",
+          "ӏэпэӏас",
           "фэкъулай",
-          "фэ1эпы1ас"
+          "фэӏэпыӏас"
         ],
         "verbs": []
       },
@@ -16317,7 +16320,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэлъак1у"
+          "жэлъакӏу"
         ],
         "verbs": []
       },
@@ -16326,7 +16329,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэлъак1у"
+          "жэлъакӏу"
         ],
         "verbs": []
       },
@@ -16335,10 +16338,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "фэ1аз",
-          "1эпэ1ас",
+          "фэӏаз",
+          "ӏэпэӏас",
           "фэкъулай",
-          "фэ1эпы1ас"
+          "фэӏэпыӏас"
         ],
         "verbs": []
       },
@@ -16384,7 +16387,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъохъу-т1ыхъу"
+          "шъохъу-тӏыхъу"
         ],
         "verbs": []
       },
@@ -16404,7 +16407,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1эт1ыргъ / нэк1эт1эр"
+          "нэкӏэтӏыргъ / нэкӏэтӏэр"
         ],
         "verbs": []
       },
@@ -16418,9 +16421,9 @@ const englishDict = {
         "verbs": [
           "бзэн (to be slicing)",
           "бзын (to slice something or someone)",
-          "упк1этэн (to slice into pieces)",
-          "ш1обзын (to slice to kill)",
-          "ш1огъэшъутын (to cut off, to slice)"
+          "упкӏэтэн (to slice into pieces)",
+          "шӏобзын (to slice to kill)",
+          "шӏогъэшъутын (to cut off, to slice)"
         ]
       },
       "word": "slice"
@@ -16429,7 +16432,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "мыжъодз (sling)",
-          "бзыук1алъэ"
+          "бзыукӏалъэ"
         ],
         "verbs": []
       },
@@ -16457,11 +16460,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъуапэ",
-          "1ашъхьэ",
-          "1эгъуапэ (of a shirt)",
-          "гъопэк1ыхь (long-sleeved)",
-          "гъопэк1ако (short-sleeved)",
-          "1эпэгъуапэ (cuff)"
+          "ӏашъхьэ",
+          "ӏэгъуапэ (of a shirt)",
+          "гъопэкӏыхь (long-sleeved)",
+          "гъопэкӏако (short-sleeved)",
+          "ӏэпэгъуапэ (cuff)"
         ],
         "verbs": []
       },
@@ -16481,7 +16484,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1эшъутэн (to slip, to slide on a slippery surface)",
+          "цӏэшъутэн (to slip, to slide on a slippery surface)",
           "цохъон (to slide on a rough surface)",
           "ечъэхын (to slide down)",
           "егъэчъэхын (to slide someone or something down)"
@@ -16495,8 +16498,8 @@ const englishDict = {
         "verbs": [
           "ечъэхын (to slide down)",
           "егъэчъэхын (to slide someone or something down)",
-          "ец1эшъутэхын (to slide down on a slippery surface)",
-          "егъэц1эшъутэхын (to slide someone or something down on a slippery surface)",
+          "ецӏэшъутэхын (to slide down on a slippery surface)",
+          "егъэцӏэшъутэхын (to slide someone or something down on a slippery surface)",
           "ецохъохын (to slide down on a rough surface)",
           "егъэцохъохын (to slide someone or something down on a rough surface)",
           "ечъэхын"
@@ -16507,7 +16510,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпшэхъу (sloppy handed)"
+          "ӏэпшэхъу (sloppy handed)"
         ],
         "verbs": []
       },
@@ -16522,7 +16525,7 @@ const englishDict = {
           "чъыен",
           "хэчъыен (to fall asleep)",
           "хэчъыехьан (to fall asleep on)",
-          "1учъыехьан (to fall asleep near)",
+          "ӏучъыехьан (to fall asleep near)",
           "хэпэзэн / шъхьэукъэн (to doze off, to get drowsy)"
         ]
       },
@@ -16541,7 +16544,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бзыгъэ",
-          "упк1этагъэ"
+          "упкӏэтагъэ"
         ],
         "verbs": []
       },
@@ -16572,8 +16575,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "жъажъэ",
-          "т1эт1эй",
-          "т1эи"
+          "тӏэтӏэй",
+          "тӏэи"
         ],
         "verbs": []
       },
@@ -16600,7 +16603,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзук1эзэгох"
+          "бзукӏэзэгох"
         ],
         "verbs": []
       },
@@ -16610,7 +16613,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "жъажъэу",
-          "ц1ык1у-ц1ык1оу (little by little)"
+          "цӏыкӏу-цӏыкӏоу (little by little)"
         ],
         "verbs": []
       },
@@ -16619,7 +16622,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пщыл1ы"
+          "пщылӏы"
         ],
         "verbs": []
       },
@@ -16649,7 +16652,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дамп1"
+          "дампӏ"
         ],
         "verbs": []
       },
@@ -16659,7 +16662,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шэмджэн",
-          "ш1ои (dirty)"
+          "шӏои (dirty)"
         ],
         "verbs": []
       },
@@ -16682,7 +16685,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "утеон",
-          "утеу1эн",
+          "утеуӏэн",
           "уеон"
         ]
       },
@@ -16691,8 +16694,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ашъутэ",
-          "ц1энлъэгъо"
+          "цӏашъутэ",
+          "цӏэнлъэгъо"
         ],
         "verbs": []
       },
@@ -16702,7 +16705,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1эшъутэн"
+          "цӏэшъутэн"
         ]
       },
       "word": "slip-up"
@@ -16720,10 +16723,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1эшъутэн (to slide on a slippery surface)",
+          "цӏэшъутэн (to slide on a slippery surface)",
           "цохъон (to slide on a rough surface)",
-          "(In some dialects) ц1энлъэн",
-          "тегъэц1эшъутык1ын (to make someone slip over)"
+          "(In some dialects) цӏэнлъэн",
+          "тегъэцӏэшъутыкӏын (to make someone slip over)"
         ]
       },
       "word": "slip"
@@ -16731,7 +16734,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ыхьэ-лыхь (slow and prolonged)"
+          "кӏыхьэ-лыхь (slow and prolonged)"
         ],
         "verbs": []
       },
@@ -16740,7 +16743,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пщыл1ыгъо"
+          "пщылӏыгъо"
         ],
         "verbs": []
       },
@@ -16750,13 +16753,21 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нэпэшъоутын / нэпэшъофау (face slap)",
-          "нэгушъоутын / нэк1ушъоутын / нэгушъофау / нэк1ушъофау (cheek slap)",
+          "нэгушъоутын (cheek slap)",
+          "нэкӏушъоутын нэгушъоутын (cheek slap)",
+          "нэгушъофау нэгушъоутын (cheek slap)",
+          "нэкӏушъофау (cheek slap)",
           "(Shapsug) дыйшъоутын (back of the neck slap)"
         ],
         "verbs": [
-          "нэпэон / нэпэшъоон / нэпэшъоутын етын (to slap someone\u0027s face)",
-          "нэгушъоон / нэк1ушъоон / нэгушъоутын етын / нэк1ушъоутын етын (to slap someone\u0027s cheek)",
-          "(Shapsug) дыйшъоутын етын / дыйшъо дэон",
+          "нэпэон (to slap someone\u0027s face)",
+          "нэпэшъоон (to slap someone\u0027s face)",
+          "нэпэшъоутын етын (to slap someone\u0027s face)",
+          "нэгушъоон (to slap someone\u0027s cheek)",
+          "нэкӏушъоон (to slap someone\u0027s cheek)",
+          "нэгушъоутын етын (to slap someone\u0027s cheek)",
+          "нэкӏушъоутын етын (to slap someone\u0027s cheek)",
+          "дыйшъоутын етын / дыйшъо дэон (Shapsug)",
           "пшъэбы дэон (to slap the back of the neck)"
         ]
       },
@@ -16786,7 +16797,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1обзын (to slice to kill)"
+          "шӏобзын (to slice to kill)"
         ]
       },
       "word": "slit"
@@ -16794,11 +16805,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьагъэпц1",
+          "тхьагъэпцӏ",
           "хъоршэр"
         ],
         "verbs": [
-          "шъорыш1ын"
+          "шъорышӏын"
         ]
       },
       "word": "sly"
@@ -16817,7 +16828,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1угъо",
+          "ӏугъо",
           "къугъо (Shapsug)"
         ],
         "verbs": [
@@ -16850,8 +16861,8 @@ const englishDict = {
           "къэун (a smell emission to come)",
           "къэгъэун (to emit smell)",
           "мэ пихын (to emit smell)",
-          "ш1умэ пыун (to stink)",
-          "ш1умэ пихын (to stink)"
+          "шӏумэ пыун (to stink)",
+          "шӏумэ пихын (to stink)"
         ]
       },
       "word": "smell"
@@ -16896,7 +16907,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бзыужъый",
-          "бзыуц1ык1у"
+          "бзыуцӏыкӏу"
         ],
         "verbs": []
       },
@@ -16905,19 +16916,19 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ык1у (little, small)",
+          "цӏыкӏу (little, small)",
           "жъый (small in size)",
-          "ц1ык1ужъый (tiny)",
+          "цӏыкӏужъый (tiny)",
           "жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece)",
           "(Shapsug) шъхъэ (the size of a fragment of some sort)",
-          "ц1ык1уинт1э (tiny)",
-          "(Shapsug) ц1ык1унау (tiny)",
-          "мак1э (small amount, few)",
-          "мэк1эжъый (very small amount)",
-          "т1эк1у (small amount, few)",
-          "т1эк1ужъый (very small amount)",
-          "т1эк1унит1э (very small amount)",
-          "(Shapsug) т1эк1унау"
+          "цӏыкӏуинтӏэ (tiny)",
+          "(Shapsug) цӏыкӏунау (tiny)",
+          "макӏэ (small amount, few)",
+          "мэкӏэжъый (very small amount)",
+          "тӏэкӏу (small amount, few)",
+          "тӏэкӏужъый (very small amount)",
+          "тӏэкӏунитӏэ (very small amount)",
+          "(Shapsug) тӏэкӏунау"
         ],
         "verbs": []
       },
@@ -16956,7 +16967,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зэшъхьэ-зашъо",
-          "занк1э",
+          "занкӏэ",
           "шъабэ",
           "зэныбжьы",
           "зэщизы"
@@ -16968,9 +16979,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уш",
+          "ӏуш",
           "акъыл",
-          "акъылыш1у",
+          "акъылышӏу",
           "акъылышху"
         ],
         "verbs": []
@@ -16980,7 +16991,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ыщ"
+          "кӏыщ"
         ],
         "verbs": []
       },
@@ -16989,7 +17000,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1угъуашъо"
+          "ӏугъуашъо"
         ],
         "verbs": []
       },
@@ -16998,7 +17009,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1угъуашъо"
+          "ӏугъуашъо"
         ],
         "verbs": []
       },
@@ -17020,7 +17031,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "щыфэн",
-          "тец1элэн",
+          "тецӏэлэн",
           "тефыхьан"
         ]
       },
@@ -17029,12 +17040,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щхыпц1ы"
+          "щхыпцӏы"
         ],
         "verbs": [
-          "щхыпц1ын",
-          "(Shapsug) гуш1опс1ын",
-          "1угуш1ук1ын"
+          "щхыпцӏын",
+          "(Shapsug) гушӏопсӏын",
+          "ӏугушӏукӏын"
         ]
       },
       "word": "smile"
@@ -17046,9 +17057,9 @@ const englishDict = {
           "къутэн",
           "хэхьани къутэн",
           "гъэшъхъэшъхъэн (to smash something into smithereens)",
-          "теуц1эн (to throw and smach on)",
-          "хэупц1эн (to throw and smash on intensive)",
-          "жэхэупц1эн (to throw and smash on very intensive)"
+          "теуцӏэн (to throw and smach on)",
+          "хэупцӏэн (to throw and smash on intensive)",
+          "жэхэупцӏэн (to throw and smash on very intensive)"
         ]
       },
       "word": "smash"
@@ -17066,7 +17077,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зэшъхьэ-зашъоу",
-          "занк1эу",
+          "занкӏэу",
           "псым фэдэу"
         ],
         "verbs": []
@@ -17076,7 +17087,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъорэк1ы"
+          "шъорэкӏы"
         ],
         "verbs": []
       },
@@ -17107,7 +17118,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ос1ашк1"
+          "осӏашкӏ"
         ],
         "verbs": []
       },
@@ -17118,8 +17129,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "пхъотэн",
-          "къы1эпхъотэн (to snatch from someone)",
-          "къыш1опхъотэн (to snatch from someone)"
+          "къыӏэпхъотэн (to snatch from someone)",
+          "къышӏопхъотэн (to snatch from someone)"
         ]
       },
       "word": "snatch"
@@ -17128,7 +17139,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ч1эк1ошъэн"
+          "чӏэкӏошъэн"
         ]
       },
       "word": "sneak"
@@ -17167,8 +17178,8 @@ const englishDict = {
           "(Shapsug) кьэ"
         ],
         "verbs": [
-          "зэпык1ын",
-          "зэш1ок1ын"
+          "зэпыкӏын",
+          "зэшӏокӏын"
         ]
       },
       "word": "snap"
@@ -17176,8 +17187,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэпык1ыгъ",
-          "зэш1ок1ыгъ"
+          "зэпыкӏыгъ",
+          "зэшӏокӏыгъ"
         ],
         "verbs": []
       },
@@ -17186,7 +17197,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыргъ"
+          "цӏыргъ"
         ],
         "verbs": []
       },
@@ -17204,7 +17215,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "осыл1"
+          "осылӏ"
         ],
         "verbs": []
       },
@@ -17225,8 +17236,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "псын / къэпсын",
-          "(Shapsug) ц1этхын",
-          "(Shapsug) тец1этхэн (to sneeze on)"
+          "(Shapsug) цӏэтхын",
+          "(Shapsug) тецӏэтхэн (to sneeze on)"
         ]
       },
       "word": "sneeze"
@@ -17262,9 +17273,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1ошъэн",
-          "ек1ошъэн (to sneak up to)",
-          "лъык1ошъэн (to follow someone sneakingly, to stalk someone)"
+          "кӏошъэн",
+          "екӏошъэн (to sneak up to)",
+          "лъыкӏошъэн (to follow someone sneakingly, to stalk someone)"
         ]
       },
       "word": "sneak up"
@@ -17332,10 +17343,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэгу (bottom of the foot or of the shoe)",
-          "к1ад"
+          "кӏад"
         ],
         "verbs": [
-          "к1эдэн (a shoe)"
+          "кӏэдэн (a shoe)"
         ]
       },
       "word": "sole"
@@ -17406,7 +17417,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зэгъэфагъэ",
-          "зэ1эхыгъэ"
+          "зэӏэхыгъэ"
         ],
         "verbs": []
       },
@@ -17433,7 +17444,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ынэ"
+          "цӏынэ"
         ],
         "verbs": []
       },
@@ -17473,7 +17484,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "макъэ",
-          "1эмэкъэ-лъэмакъ (sound from the movement of arms and legs)"
+          "ӏэмэкъэ-лъэмакъ (sound from the movement of arms and legs)"
         ],
         "verbs": []
       },
@@ -17492,7 +17503,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "уды",
-          "нэгъуч1ыцэ"
+          "нэгъучӏыцэ"
         ],
         "verbs": []
       },
@@ -17502,7 +17513,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "уды",
-          "ушхъухьак1о"
+          "ушхъухьакӏо"
         ],
         "verbs": []
       },
@@ -17511,13 +17522,13 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыгу",
-          "ч1ылъэ",
-          "ч1ыналъэ"
+          "чӏыгу",
+          "чӏылъэ",
+          "чӏыналъэ"
         ],
         "verbs": [
-          "уш1оин",
-          "уц1эп1ын"
+          "ушӏоин",
+          "уцӏэпӏын"
         ]
       },
       "word": "soil"
@@ -17543,10 +17554,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1эк1угъаш1эм",
-          "т1эк1уш1эмэ",
-          "бэ мыш1эу",
-          "бэ темыш1эу",
+          "тӏэкӏугъашӏэм",
+          "тӏэкӏушӏэмэ",
+          "бэ мышӏэу",
+          "бэ темышӏэу",
           "джырэблагъэ"
         ],
         "verbs": []
@@ -17568,7 +17579,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уц1ынын / ц1ынэу хъун",
+          "уцӏынын / цӏынэу хъун",
           "шъун (clothes and body)",
           "гъэшъун (to wet clothes or body)"
         ]
@@ -17588,9 +17599,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дзэк1ол1ы",
-          "дзэл1ы",
-          "дзак1о"
+          "дзэкӏолӏы",
+          "дзэлӏы",
+          "дзакӏо"
         ],
         "verbs": []
       },
@@ -17608,7 +17619,7 @@ const englishDict = {
           "сыдэу (so much)",
           "(dialectal) шъыдэу",
           "джарэу",
-          "нэмы1эк1э (so much that)"
+          "нэмыӏэкӏэ (so much that)"
         ],
         "verbs": []
       },
@@ -17645,9 +17656,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гухэк1",
+          "гухэкӏ",
           "гукъау",
-          "гук1ае"
+          "гукӏае"
         ],
         "verbs": []
       },
@@ -17656,7 +17667,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэмы1эк1э"
+          "нэмыӏэкӏэ"
         ],
         "verbs": []
       },
@@ -17665,7 +17676,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1одыгъош1у"
+          "кӏодыгъошӏу"
         ],
         "verbs": []
       },
@@ -17713,10 +17724,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эгъэк1ын / къык1эгъэк1ын (to solve something)",
+          "кӏэгъэкӏын / къыкӏэгъэкӏын (to solve something)",
           "джэуап етын (to give a response, to give a solution)",
-          "зэш1охын (to find a solution to a problem)",
-          "зэпэк1эгъэк1ын (to resolve a problem)"
+          "зэшӏохын (to find a solution to a problem)",
+          "зэпэкӏэгъэкӏын (to resolve a problem)"
         ]
       },
       "word": "solve"
@@ -17785,7 +17796,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчык1э"
+          "пчыкӏэ"
         ],
         "verbs": []
       },
@@ -17804,7 +17815,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэгогъэк1ын"
+          "зэгогъэкӏын"
         ]
       },
       "word": "split in half"
@@ -17821,7 +17832,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ып1э (spot, position)",
+          "чӏыпӏэ (spot, position)",
           "бжьыгъэ",
           "бжьыгъ",
           "фыкъуадэ (pimple)"
@@ -17844,7 +17855,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1одыгъэ"
+          "кӏодыгъэ"
         ],
         "verbs": []
       },
@@ -17854,16 +17865,16 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тек1утэн (to spill drops on)",
-          "ч1эк1утэн (to spill drops under)",
-          "ик1утэн (to spill drops inside)",
-          "тек1эн (to spill on)",
-          "хэк1эн (to spill a liquid to another liquid)",
-          "ик1эн (to spill inside)",
-          "ч1эк1эн (to spill under)",
-          "жэхэк1эн (to spill on someone intensively)",
-          "ек1эхын (to pour down)",
-          "хэк1отэн (to drip something into a fire, food, any substance, any liquid, etc.)"
+          "текӏутэн (to spill drops on)",
+          "чӏэкӏутэн (to spill drops under)",
+          "икӏутэн (to spill drops inside)",
+          "текӏэн (to spill on)",
+          "хэкӏэн (to spill a liquid to another liquid)",
+          "икӏэн (to spill inside)",
+          "чӏэкӏэн (to spill under)",
+          "жэхэкӏэн (to spill on someone intensively)",
+          "екӏэхын (to pour down)",
+          "хэкӏотэн (to drip something into a fire, food, any substance, any liquid, etc.)"
         ]
       },
       "word": "spill"
@@ -17871,8 +17882,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тек1утагъ",
-          "тек1агъ"
+          "текӏутагъ",
+          "текӏагъ"
         ],
         "verbs": []
       },
@@ -17884,9 +17895,9 @@ const englishDict = {
         "verbs": [
           "укъон (to spoil, to ruin, to mar, to damage)",
           "(dialectal) ухъон",
-          "ш1оукъон / ш1огъэукъон (to spoil to someone)",
+          "шӏоукъон / шӏогъэукъон (to spoil to someone)",
           "гъэсэхъуджэн (to make someone spoiled)",
-          "ш1огъэон (to spoil to someone)"
+          "шӏогъэон (to spoil to someone)"
         ]
       },
       "word": "spoil"
@@ -17961,8 +17972,8 @@ const englishDict = {
         "verbs": [
           "жъыун",
           "лыдын (intensive)",
-          "ш1этын",
-          "ц1ыун / къыц1ыун"
+          "шӏэтын",
+          "цӏыун / къыцӏыун"
         ]
       },
       "word": "sparkle"
@@ -17970,12 +17981,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэш1уач (spark of fire)",
-          "(dialectal) мэш1уащэ"
+          "мэшӏуач (spark of fire)",
+          "(dialectal) мэшӏуащэ"
         ],
         "verbs": [
-          "пыпсык1ын",
-          "къыхэц1ыук1ын (to spark among other things)"
+          "пыпсыкӏын",
+          "къыхэцӏыукӏын (to spark among other things)"
         ]
       },
       "word": "spark"
@@ -17992,7 +18003,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1э",
+          "гущыӏэ",
           "псалъэ",
           "жабзэ"
         ],
@@ -18024,7 +18035,7 @@ const englishDict = {
         "verbs": [
           "утхэн",
           "теутхэн (to splash on)",
-          "тегъэц1ырэн (to spray burst liquid on)",
+          "тегъэцӏырэн (to spray burst liquid on)",
           "теутхэн (to splash water on)"
         ]
       },
@@ -18036,7 +18047,7 @@ const englishDict = {
         "verbs": [
           "утхэн",
           "теутхэн (to spatter on)",
-          "тегъэц1ырэн (to spray burst liquid on)"
+          "тегъэцӏырэн (to spray burst liquid on)"
         ]
       },
       "word": "spatter"
@@ -18044,7 +18055,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэры1о"
+          "жэрыӏо"
         ],
         "verbs": []
       },
@@ -18059,7 +18070,7 @@ const englishDict = {
           "тегощэн (to split between)",
           "зэпыгъэчъын (to cut off)",
           "зэгоутын (to cleave)",
-          "зэгогъэк1ын (to split to two with force)",
+          "зэгогъэкӏын (to split to two with force)",
           "зэгогъэлэтхъын"
         ]
       },
@@ -18069,8 +18080,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пык1ын",
-          "хэк1ын"
+          "пыкӏын",
+          "хэкӏын"
         ]
       },
       "word": "split off"
@@ -18102,7 +18113,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэ1ун"
+          "пхъэӏун"
         ],
         "verbs": []
       },
@@ -18121,10 +18132,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэк1он",
-          "гъэк1одын",
-          "тегъэк1одэн (to spend on)",
-          "1эк1эк1одэн (to be spending money)"
+          "гъэкӏон",
+          "гъэкӏодын",
+          "тегъэкӏодэн (to spend on)",
+          "ӏэкӏэкӏодэн (to be spending money)"
         ]
       },
       "word": "spend"
@@ -18132,7 +18143,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джак1о"
+          "джакӏо"
         ],
         "verbs": []
       },
@@ -18160,8 +18171,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэпкъ",
-          "л1акъу",
-          "л1эужыгъо"
+          "лӏакъу",
+          "лӏэужыгъо"
         ],
         "verbs": []
       },
@@ -18171,7 +18182,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тек1эн"
+          "текӏэн"
         ]
       },
       "word": "spill liquid on"
@@ -18179,7 +18190,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псынк1агъэ"
+          "псынкӏагъэ"
         ],
         "verbs": []
       },
@@ -18227,8 +18238,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эгушъок1э еон",
-          "теуп1эп1эн"
+          "ӏэгушъокӏэ еон",
+          "теупӏэпӏэн"
         ]
       },
       "word": "spank"
@@ -18258,9 +18269,9 @@ const englishDict = {
         ],
         "verbs": [
           "шъхьасын (to have mercy for)",
-          "гъэш1он (to spare for the future)",
-          "лъэхэнэн (to spare/forgive someone from a grudge, punishment or debt)",
-          "гук1эгъу фэлъэгъун (to show mercy for)"
+          "гъэшӏон (to spare for the future)",
+          "лъэхэнэн (to spare or forgive someone from a grudge, punishment or debt)",
+          "гукӏэгъу фэлъэгъун (to show mercy for)"
         ]
       },
       "word": "spare"
@@ -18269,8 +18280,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1аеу тегущы1эн",
-          "(vulgar) пыц1эн (to speak ill of someone)"
+          "ӏаеу тегущыӏэн",
+          "(vulgar) пыцӏэн (to speak ill of someone)"
         ]
       },
       "word": "speak ill"
@@ -18287,7 +18298,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1анчъэ"
+          "гущыӏанчъэ"
         ],
         "verbs": []
       },
@@ -18297,13 +18308,13 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гущы1эн (to be speaking)",
+          "гущыӏэн (to be speaking)",
           "(Kabardian) псэлъэн (to be speaking)",
-          "дэгущы1эн (to speak with someone)",
-          "хэгущы1ыхьан (to speak over someone, to interrupt or break into a conversation by speaking, to speak among other people)",
-          "тегущы1эн (to speak about someone or something)",
-          "тегущы1эхьан (to have a full conversation/discussion about something)",
-          "къыхэгущы1эк1ын (to speak from among other people)"
+          "дэгущыӏэн (to speak with someone)",
+          "хэгущыӏыхьан (to speak over someone, to interrupt or break into a conversation by speaking, to speak among other people)",
+          "тегущыӏэн (to speak about someone or something)",
+          "тегущыӏэхьан (to have a full conversation/discussion about something)",
+          "къыхэгущыӏэкӏын (to speak from among other people)"
         ]
       },
       "word": "speak"
@@ -18312,7 +18323,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэгущы1ыхьан (to speak over someone, to interrupt or break into a conversation by speaking, to speak among other people)"
+          "хэгущыӏыхьан (to speak over someone, to interrupt or break into a conversation by speaking, to speak among other people)"
         ]
       },
       "word": "speak over"
@@ -18360,9 +18371,9 @@ const englishDict = {
           "утысэн (to be sprayed)",
           "гъэутысэн (to spray something)",
           "тегъэутысэн (to spray something on)",
-          "пыутысык1ын (to be sprayed from)",
-          "гъэц1ырэн (to spray burst liquid on to usually from a pile)",
-          "тегъэц1ырэн (to spray liquid on)"
+          "пыутысыкӏын (to be sprayed from)",
+          "гъэцӏырэн (to spray burst liquid on to usually from a pile)",
+          "тегъэцӏырэн (to spray liquid on)"
         ]
       },
       "word": "spray"
@@ -18375,7 +18386,7 @@ const englishDict = {
           "(Shapsug) ужъутхэн",
           "теужъунтхэн (to spit on, to spit upon)",
           "хэужъунтхэн (to spit into the water, sea, fire, area with gas or liquid)",
-          "ч1эужъунтхэн (to spit under)",
+          "чӏэужъунтхэн (to spit under)",
           "жэхэужъунтхэн (to spit on someone intensively)"
         ]
       },
@@ -18434,7 +18445,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "сэк1ын"
+          "сэкӏын"
         ]
       },
       "word": "castrate"
@@ -18442,7 +18453,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сэк1ыгъ"
+          "сэкӏыгъ"
         ],
         "verbs": []
       },
@@ -18469,8 +18480,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шк1э",
-          "шк1э"
+          "шкӏэ",
+          "шкӏэ"
         ],
         "verbs": []
       },
@@ -18507,7 +18518,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шк1эл"
+          "шкӏэл"
         ],
         "verbs": []
       },
@@ -18516,7 +18527,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шк1эл"
+          "шкӏэл"
         ],
         "verbs": []
       },
@@ -18538,7 +18549,7 @@ const englishDict = {
         "lemmas": [
           "шъондыр",
           "пхъэчай",
-          "к1ад"
+          "кӏад"
         ],
         "verbs": []
       },
@@ -18547,7 +18558,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "па1о"
+          "паӏо"
         ],
         "verbs": []
       },
@@ -18566,7 +18577,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "былымэщ",
-          "1эщ"
+          "ӏэщ"
         ],
         "verbs": []
       },
@@ -18575,7 +18586,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1апшъэ"
+          "ӏапшъэ"
         ],
         "verbs": []
       },
@@ -18605,7 +18616,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "алырэгъуш1"
+          "алырэгъушӏ"
         ],
         "verbs": []
       },
@@ -18632,7 +18643,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэк1ын",
+          "лъэкӏын",
           "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
         ],
         "verbs": []
@@ -18642,9 +18653,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэк1ын",
+          "лъэкӏын",
           "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)",
-          "1эпэ1эс / фэкъулай / фэ1эз (capable, able, skilled)"
+          "ӏэпэӏэс / фэкъулай / фэӏэз (capable, able, skilled)"
         ],
         "verbs": []
       },
@@ -18673,7 +18684,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэубытын",
-          "ш1оубытын (to capture something against the other\u0027s will or interest)",
+          "шӏоубытын (to capture something against the other\u0027s will or interest)",
           "къытехын (to capture from, to overtake from, to seize from, to deliberately take from)"
         ]
       },
@@ -18711,7 +18722,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "былымыл1э"
+          "былымылӏэ"
         ],
         "verbs": []
       },
@@ -18721,9 +18732,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бэлэрыгъ",
-          "гугъуемыл1",
+          "гугъуемылӏ",
           "емыгугъурэ",
-          "гугъуемыл1",
+          "гугъуемылӏ",
           "пхъэтэпэмыхь"
         ],
         "verbs": []
@@ -18734,7 +18745,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бэлэрыгъ",
-          "гугъуемыл1"
+          "гугъуемылӏ"
         ],
         "verbs": []
       },
@@ -18743,7 +18754,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "на1э"
+          "наӏэ"
         ],
         "verbs": [
           "ыгъэпэн",
@@ -18802,7 +18813,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1эшъэхъу"
+          "пкӏэшъэхъу"
         ],
         "verbs": []
       },
@@ -18811,9 +18822,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэ маш1о",
-          "мэш1уашъхь",
-          "мэш1ош1ыгъ"
+          "пхъэ машӏо",
+          "мэшӏуашъхь",
+          "мэшӏошӏыгъ"
         ],
         "verbs": []
       },
@@ -18822,7 +18833,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эш1у-1уш1у (sweets, sweetmeats, candies)"
+          "ӏэшӏу-ӏушӏу (sweets, sweetmeats, candies)"
         ],
         "verbs": []
       },
@@ -18869,8 +18880,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гук1эгъу зыхэмылъ",
-          "гук1эгъунчъэ"
+          "гукӏэгъу зыхэмылъ",
+          "гукӏэгъунчъэ"
         ],
         "verbs": []
       },
@@ -18898,7 +18909,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэцэк1эн"
+          "гъэцэкӏэн"
         ]
       },
       "word": "carry out, fulfill"
@@ -18928,7 +18939,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
+          "ишӏыхьан / къишӏыхьан (to lock inside, to imprison inside, to confine inside)"
         ]
       },
       "word": "cage"
@@ -18936,7 +18947,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "иш1ыхьагъ"
+          "ишӏыхьагъ"
         ],
         "verbs": []
       },
@@ -18947,8 +18958,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "пхъотэн (to pick up suddenly)",
-          "к1эхьан (to catch up with someone, to reach something that had been ahead)",
-          "лъык1эхьан (to catch up to someone)"
+          "кӏэхьан (to catch up with someone, to reach something that had been ahead)",
+          "лъыкӏэхьан (to catch up to someone)"
         ]
       },
       "word": "catch up"
@@ -18975,7 +18986,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэцэк1эн"
+          "гъэцэкӏэн"
         ]
       },
       "word": "carry out"
@@ -18983,7 +18994,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джак1о"
+          "джакӏо"
         ],
         "verbs": []
       },
@@ -18997,10 +19008,10 @@ const englishDict = {
           "фэхьын (to carry for)",
           "дэхьын (to take/carry something along)",
           "зехьан / зэрихьан (to carry something)",
-          "къехьак1ын (to carry around)",
+          "къехьакӏын (to carry around)",
           "дэхьыен (to carry up)",
           "ехьэхын (to carry down)",
-          "ехьыл1эн (to carry to)"
+          "ехьылӏэн (to carry to)"
         ]
       },
       "word": "carry"
@@ -19019,7 +19030,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "карт",
-          "(Shapsug) пк1эн"
+          "(Shapsug) пкӏэн"
         ],
         "verbs": []
       },
@@ -19028,7 +19039,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1уак1э"
+          "тӏуакӏэ"
         ],
         "verbs": []
       },
@@ -19046,7 +19057,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъоч1эгъ"
+          "гъочӏэгъ"
         ],
         "verbs": []
       },
@@ -19056,9 +19067,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "маш1о хэнэн / маш1о к1энэн",
-          "зэхэнэн / зэк1энэн (to catch fire by itself)",
-          "зэхэнэн / зэк1энэн (to catch fire by itself)"
+          "машӏо хэнэн / машӏо кӏэнэн",
+          "зэхэнэн / зэкӏэнэн (to catch fire by itself)",
+          "зэхэнэн / зэкӏэнэн (to catch fire by itself)"
         ]
       },
       "word": "catch fire"
@@ -19066,7 +19077,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)"
+          "дэлъхьапӏэ / дэлъыпӏэ (an object or place in which stuff are stored)"
         ],
         "verbs": []
       },
@@ -19075,7 +19086,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэк1"
+          "лъэкӏ"
         ],
         "verbs": []
       },
@@ -19097,7 +19108,9 @@ const englishDict = {
         ],
         "verbs": [
           "быяун / самбырын (to calm down)",
-          "гъэбыяун / гъэсамбырын / гъэрэхьатын (to calm someone, to ease someone)",
+          "гъэбыяун (to calm someone, to ease someone)",
+          "гъэсамбырын (to calm someone, to ease someone)",
+          "гъэрэхьатын (to make someone relaxed)",
           "зэгъэн (to settle down due to calmness)"
         ]
       },
@@ -19106,7 +19119,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1эухъумэ"
+          "чӏэухъумэ"
         ],
         "verbs": []
       },
@@ -19117,7 +19130,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къеджэн",
-          "к1элъэ1ун"
+          "кӏэлъэӏун"
         ]
       },
       "word": "call for"
@@ -19125,7 +19138,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псэхал1э"
+          "псэхалӏэ"
         ],
         "verbs": []
       },
@@ -19144,8 +19157,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ушъорэк1ын",
-          "еук1орэик1ын"
+          "ушъорэкӏын",
+          "еукӏорэикӏын"
         ]
       },
       "word": "capsize"
@@ -19173,8 +19186,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэш1он",
-          "едэхэш1эн"
+          "гъэшӏон",
+          "едэхэшӏэн"
         ]
       },
       "word": "caress"
@@ -19184,7 +19197,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "быяун / самбырын",
-          "гъэбыяун / гъэсамбырын (to calm down someone)"
+          "гъэбыяун (to calm someone, to ease someone)",
+          "гъэсамбырын (to calm someone, to ease someone)",
+          "гъэрэхьатын (to make someone relaxed)"
         ]
       },
       "word": "calm down"
@@ -19201,7 +19216,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эпы"
+          "кӏэпы"
         ],
         "verbs": []
       },
@@ -19212,7 +19227,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эпхъ",
+          "кӏэпхъ",
           "цызэ",
           "чъыгышъхьэцыз",
           "цызэ",
@@ -19227,12 +19242,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1ыц1ын (to squash, to compress, to squeeze, to crush, to squish)",
-          "иц1ыц1эн (to squish inside)",
-          "дэц1ыц1эн (to squish between, to squish inside another object)",
-          "тец1ыц1эн (to squish above)",
-          "ч1эц1ыц1эн (to squish under)",
-          "хэц1ыц1эн (to squish within)"
+          "цӏыцӏын (to squash, to compress, to squeeze, to crush, to squish)",
+          "ицӏыцӏэн (to squish inside)",
+          "дэцӏыцӏэн (to squish between, to squish inside another object)",
+          "тецӏыцӏэн (to squish above)",
+          "чӏэцӏыцӏэн (to squish under)",
+          "хэцӏыцӏэн (to squish within)"
         ]
       },
       "word": "squish"
@@ -19241,7 +19256,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эфызык1ын / хэфызык1ын"
+          "кӏэфызыкӏын / хэфызыкӏын"
         ]
       },
       "word": "squeeze out"
@@ -19252,12 +19267,12 @@ const englishDict = {
           "къэбы"
         ],
         "verbs": [
-          "ц1ыц1ын (to squash, to compress, to squeeze, to crush, to squish)",
-          "иц1ыц1эн (to squash inside)",
-          "дэц1ыц1эн (to squash between, to squash inside another object)",
-          "тец1ыц1эн (to squash above)",
-          "ч1эц1ыц1эн (to squash under)",
-          "хэц1ыц1эн (to squash within)"
+          "цӏыцӏын (to squash, to compress, to squeeze, to crush, to squish)",
+          "ицӏыцӏэн (to squash inside)",
+          "дэцӏыцӏэн (to squash between, to squash inside another object)",
+          "тецӏыцӏэн (to squash above)",
+          "чӏэцӏыцӏэн (to squash under)",
+          "хэцӏыцӏэн (to squash within)"
         ]
       },
       "word": "squash"
@@ -19265,7 +19280,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыц1ыгъэ"
+          "цӏыцӏыгъэ"
         ],
         "verbs": []
       },
@@ -19293,10 +19308,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пл1эмый",
+          "плӏэмый",
           "утыку (open area in a town or city)",
           "",
-          "пл1эмый"
+          "плӏэмый"
         ],
         "verbs": []
       },
@@ -19306,7 +19321,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пц1эун"
+          "пцӏэун"
         ]
       },
       "word": "squeal"
@@ -19316,21 +19331,21 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible))",
-          "ц1ыц1ын (to squeeze so as to alter the natural shape or integrity of it (the effect of the squeezing is irreversible), to compress, to squish, to squash, to crush)",
-          "к1эфызык1ын / хэфызык1ын (to squeeze out)",
-          "иц1ыц1эн (to squeeze inside)",
-          "дэц1ыц1эн (to squeeze inside another object, between)",
-          "тец1ыц1эн (to squeeze above)",
-          "ч1эц1ыц1эн (to squeeze under)",
-          "хэц1ыц1эн (to squeeze within)",
-          "п1ырт1ын",
+          "цӏыцӏын (to squeeze so as to alter the natural shape or integrity of it (the effect of the squeezing is irreversible), to compress, to squish, to squash, to crush)",
+          "кӏэфызыкӏын / хэфызыкӏын (to squeeze out)",
+          "ицӏыцӏэн (to squeeze inside)",
+          "дэцӏыцӏэн (to squeeze inside another object, between)",
+          "тецӏыцӏэн (to squeeze above)",
+          "чӏэцӏыцӏэн (to squeeze under)",
+          "хэцӏыцӏэн (to squeeze within)",
+          "пӏыртӏын",
           "зэхэфызэн (to squeeze in, to pack tightly together)",
           "дэгъэзыхьан (to forcefully squeeze something in between, to forcefully squeeze something inside another object)",
           "игъэзыхьан (to forcefully squeeze inside)",
           "чӏэгъэзыхьан (to forcefully squeeze something under something)",
           "хэгъэзыхьан (to forcefully squeeze something through something, to forcefully squeeze something within something)",
           "къогъэзыхьан (to forcefully squeeze behind something)",
-          "к1эщын / къык1эщын (to squeeze from, to extract from)"
+          "кӏэщын / къыкӏэщын (to squeeze from, to extract from)"
         ]
       },
       "word": "squeeze"
@@ -19388,8 +19403,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгъэк1ыхь",
-          "бгъэк1эхь",
+          "бгъэкӏыхь",
+          "бгъэкӏэхь",
           "къэрэу"
         ],
         "verbs": []
@@ -19427,7 +19442,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1эбыдз (eyes)"
+          "нэкӏэбыдз (eyes)"
         ],
         "verbs": []
       },
@@ -19445,18 +19460,18 @@ const englishDict = {
           "хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid)",
           "тегъэнэн (to stick on above something)",
           "игъэнэн (to stick inside something)",
-          "ч1эгъэнэн (to stick under something)",
-          "тепк1эн (to get stick/glued on)",
-          "тегъэпк1эн (to stick/glue something on something)",
-          "ч1эпк1эн (to get glued under)",
-          "ч1эгъэпк1эн (to stick/glue something under something)",
-          "ипк1эн (to get stick/glued inside)",
-          "игъэпк1эн (to stick/glue something inside something)",
-          "пыпк1эн (to get stick/glued on the surface of an object)",
-          "пыгъэпк1эн (to stick/glue something on the surface of an object)",
-          "дэпк1эн (to get stick/glued inside another object)",
-          "дэгъэпк1эн (to stick/glue something inside another object)",
-          "естыл1эн (to stick to the hot surface as a result of burning)"
+          "чӏэгъэнэн (to stick under something)",
+          "тепкӏэн (to get stick or glued on)",
+          "тегъэпкӏэн (to stick or glue something on something)",
+          "чӏэпкӏэн (to get glued under)",
+          "чӏэгъэпкӏэн (to stick or glue something under something)",
+          "ипкӏэн (to get stick or glued inside)",
+          "игъэпкӏэн (to stick or glue something inside something)",
+          "пыпкӏэн (to get stick or glued on the surface of an object)",
+          "пыгъэпкӏэн (to stick or glue something on the surface of an object)",
+          "дэпкӏэн (to get stick or glued inside another object)",
+          "дэгъэпкӏэн (to stick or glue something inside another object)",
+          "естылӏэн (to stick to the hot surface as a result of burning)"
         ]
       },
       "word": "stick"
@@ -19509,9 +19524,9 @@ const englishDict = {
           "хэон / жэхэон (to strike someone intensively)",
           "пыохьан (to beat someone by hitting)",
           "лъыон (to strike toward)",
-          "зэк1эон (to strike backward)",
+          "зэкӏэон (to strike backward)",
           "теон (to strike the surface of)",
-          "ч1эон (to strike under something)",
+          "чӏэон (to strike under something)",
           "зыохьан (to strike in all directions, to go berserk)"
         ]
       },
@@ -19540,9 +19555,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "мэлак1э л1эн",
-          "мэлак1эм ыгъэл1эн",
-          "гъаблэм ыгъэл1эн"
+          "мэлакӏэ лӏэн",
+          "мэлакӏэм ыгъэлӏэн",
+          "гъаблэм ыгъэлӏэн"
         ]
       },
       "word": "starve"
@@ -19550,9 +19565,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэлак1э л1агъэ",
-          "мэлак1эм ыгъэл1агъэ",
-          "гъаблэм ыгъэл1агъэ"
+          "мэлакӏэ лӏагъэ",
+          "мэлакӏэм ыгъэлӏагъэ",
+          "гъаблэм ыгъэлӏагъэ"
         ],
         "verbs": []
       },
@@ -19571,9 +19586,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "цумпэ",
-          "цумпэ1эрыс",
+          "цумпэӏэрыс",
           "цумпэ",
-          "цумпэ1эрыс"
+          "цумпэӏэрыс"
         ],
         "verbs": []
       },
@@ -19602,9 +19617,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1уач1э",
+          "кӏуачӏэ",
           "къарыу",
-          "лъэк1ы"
+          "лъэкӏы"
         ],
         "verbs": []
       },
@@ -19613,7 +19628,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгъузап1э"
+          "бгъузапӏэ"
         ],
         "verbs": []
       },
@@ -19657,11 +19672,11 @@ const englishDict = {
           "бжьыгъэ"
         ],
         "verbs": [
-          "уш1оин",
-          "уц1эп1ын",
-          "теуц1эн (to stain on)",
-          "хэупц1эн (to stain on intensive)",
-          "жэхэупц1эн (to stain on very intensive)"
+          "ушӏоин",
+          "уцӏэпӏын",
+          "теуцӏэн (to stain on)",
+          "хэупцӏэн (to stain on intensive)",
+          "жэхэупцӏэн (to stain on very intensive)"
         ]
       },
       "word": "stain"
@@ -19669,7 +19684,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжьыш1о"
+          "бжьышӏо"
         ],
         "verbs": []
       },
@@ -19678,7 +19693,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пытап1э"
+          "пытапӏэ"
         ],
         "verbs": []
       },
@@ -19688,7 +19703,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъумэ",
-          "мэ 1ай"
+          "мэ ӏай"
         ],
         "verbs": []
       },
@@ -19698,7 +19713,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъумэ",
-          "мэ 1ай"
+          "мэ ӏай"
         ],
         "verbs": []
       },
@@ -19708,9 +19723,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "узэнк1ын",
+          "узэнкӏын",
           "узэпкъын",
-          "зыузэнк1ын (to straighten oneself)",
+          "зыузэнкӏын (to straighten oneself)",
           "узэфын"
         ]
       },
@@ -19720,7 +19735,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыузэнк1ын (to straighten oneself)"
+          "зыузэнкӏын (to straighten oneself)"
         ]
       },
       "word": "straighten up"
@@ -19728,7 +19743,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1уач1э",
+          "кӏуачӏэ",
           "къарыу"
         ],
         "verbs": []
@@ -19750,7 +19765,7 @@ const englishDict = {
         "verbs": [
           "къэтэджын (to stand up)",
           "къэгъэтэджын (to stand up something)",
-          "къызшъхьапк1этын (to stand up instantly)"
+          "къызшъхьапкӏэтын (to stand up instantly)"
         ]
       },
       "word": "stand up"
@@ -19767,9 +19782,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "занк1э",
+          "занкӏэ",
           "зандэ (to stand straiht)",
-          "занк1э (straight)",
+          "занкӏэ (straight)",
           "зафэ (a straight person)"
         ],
         "verbs": []
@@ -19801,11 +19816,11 @@ const englishDict = {
         "verbs": [
           "тыгъун",
           "тыгъон (to steal something)",
-          "ш1отыгъон (to steal from)",
-          "къы1эпхъотэн / къыш1опхъотэн (to snatch from someone)",
-          "хэтыгъук1ын (to steal someting from among)",
-          "к1этыгъук1ын (to steal from a shop)",
-          "итыгъук1ын (to steal from inside)"
+          "шӏотыгъон (to steal from)",
+          "къыӏэпхъотэн / къышӏопхъотэн (to snatch from someone)",
+          "хэтыгъукӏын (to steal someting from among)",
+          "кӏэтыгъукӏын (to steal from a shop)",
+          "итыгъукӏын (to steal from inside)"
         ]
       },
       "word": "steal"
@@ -19876,8 +19891,8 @@ const englishDict = {
         "verbs": [
           "бэнэн",
           "ебэнын (to struggle with something)",
-          "щэ1эн (to endure, to bear)",
-          "фэщэ1эн (to manage to endure/bear something, to manage to struggle something)"
+          "щэӏэн (to endure, to bear)",
+          "фэщэӏэн (to manage to endure/bear something, to manage to struggle something)"
         ]
       },
       "word": "struggle"
@@ -19885,7 +19900,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэщыш1"
+          "бэщышӏ"
         ],
         "verbs": []
       },
@@ -19897,13 +19912,13 @@ const englishDict = {
           "шъолъыр"
         ],
         "verbs": [
-          "упц1энын / пц1анэу ш1ын (to strip, to make naked)",
+          "упцӏэнын / пцӏанэу шӏын (to strip, to make naked)",
           "уджэшъун",
-          "т1эк1ын",
+          "тӏэкӏын",
           "щыгъыныр щыхын",
           "щыгъыныр зыщыхын (to get striped)",
-          "(slightly vulgar) зышъутыпц1ын (to get striped)",
-          "пц1анэу зиш1ын"
+          "(slightly vulgar) зышъутыпцӏын (to get striped)",
+          "пцӏанэу зишӏын"
         ]
       },
       "word": "strip"
@@ -19916,7 +19931,7 @@ const englishDict = {
         ],
         "verbs": [
           "зэтелъхьан (to stack on each other)",
-          "зэч1элъхьан (to stack under each other)",
+          "зэчӏэлъхьан (to stack under each other)",
           "зэтеуцон (to put on each other)"
         ]
       },
@@ -19925,7 +19940,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьандзуач1"
+          "хьандзуачӏ"
         ],
         "verbs": []
       },
@@ -19975,7 +19990,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хак1о"
+          "хакӏо"
         ],
         "verbs": []
       },
@@ -20018,7 +20033,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэ1эбэн (to stick one\u0027s hand into)"
+          "хэӏэбэн (to stick one\u0027s hand into)"
         ]
       },
       "word": "stick hand"
@@ -20028,13 +20043,13 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэтын (to stay somewhere (for a period of time, like for example: late in night, several days, several month, several years, etc.))",
-          "къы1унэн (to stay behind)",
+          "къыӏунэн (to stay behind)",
           "исын (to stay in, to be in)",
           "илъын (to stay overnight)",
           "хэнэн / къыхэнэн (to stay in a company, bushes, forest, liquid, gas or solid)",
           "тенэн / къытенэн (to stay on above something)",
           "инэн / къинэн (to stay inside something)",
-          "ч1энэн / къыч1энэн (to stay under something)",
+          "чӏэнэн / къычӏэнэн (to stay under something)",
           "пынэн / къыпынэн (to stay attached)"
         ]
       },
@@ -20044,7 +20059,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къы1унэн"
+          "къыӏунэн"
         ]
       },
       "word": "stay behind"
@@ -20093,7 +20108,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къыдэгъэпк1эен",
+          "къыдэгъэпкӏэен",
           "гу къегъэон",
           "гуихын / гу ихын"
         ]
@@ -20105,7 +20120,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "ин (to coat or decorate with stucco)",
-          "к1эен (to stucco under)"
+          "кӏэен (to stucco under)"
         ]
       },
       "word": "stucco"
@@ -20136,7 +20151,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэ1ун"
+          "пхъэӏун"
         ],
         "verbs": []
       },
@@ -20145,7 +20160,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэш1эгъоны"
+          "гъэшӏэгъоны"
         ],
         "verbs": []
       },
@@ -20154,7 +20169,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэш1эгъоны"
+          "гъэшӏэгъоны"
         ],
         "verbs": []
       },
@@ -20173,7 +20188,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "уцуп1э"
+          "уцупӏэ"
         ],
         "verbs": []
       },
@@ -20191,8 +20206,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1эм",
-          "занк1эу"
+          "зэкӏэм",
+          "занкӏэу"
         ],
         "verbs": []
       },
@@ -20220,7 +20235,7 @@ const englishDict = {
           "зэтеуцон (to stop, to pause, to halt)",
           "зэтегъэуцон",
           "уцужьын (to stop doing something)",
-          "хэнэжьын / к1энэжьын / щыун (to stop doing something out of habit, to quit doing something)"
+          "хэнэжьын / кӏэнэжьын / щыун (to stop doing something out of habit, to quit doing something)"
         ]
       },
       "word": "stop"
@@ -20255,7 +20270,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "еджак1о",
+          "еджакӏо",
           "студент"
         ],
         "verbs": []
@@ -20265,7 +20280,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джэгуп1э"
+          "джэгупӏэ"
         ],
         "verbs": []
       },
@@ -20276,7 +20291,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "пытэ хъун",
-          "пытэу ш1ын / гъэпытэн (to strengthen something)",
+          "пытэу шӏын / гъэпытэн (to strengthen something)",
           "псыхьан (to temper, to strengthen or toughen a material, especially metal, by heat treatment)",
           "тегъэпытыхьан (to strengthen something on)"
         ]
@@ -20300,7 +20315,7 @@ const englishDict = {
           "къудыин (to stretch by pulling forcefully)",
           "зэпыщын / зэхэщын (to stretch)",
           "зыкъудыин / зыгъэшъомбгъон (to outstretch)",
-          "зэхэк1ын"
+          "зэхэкӏын"
         ]
       },
       "word": "stretch"
@@ -20309,7 +20324,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэк1ын (to extend, to stretch out such as a rubber, human growing, plant growing, etc)"
+          "зэхэкӏын (to extend, to stretch out such as a rubber, human growing, plant growing, etc)"
         ]
       },
       "word": "stretch out"
@@ -20356,8 +20371,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "лъэпэон",
-          "лъэпэш1оон",
-          "ш1онэн"
+          "лъэпэшӏоон",
+          "шӏонэн"
         ]
       },
       "word": "stumble"
@@ -20368,7 +20383,7 @@ const englishDict = {
         "verbs": [
           "къыхэщын (to stand out from among other people or objects)",
           "къыхэгъэщын (to make something stand out)",
-          "къык1эщын (to stand out from beneath)"
+          "къыкӏэщын (to stand out from beneath)"
         ]
       },
       "word": "stand out"
@@ -20379,7 +20394,7 @@ const englishDict = {
         "verbs": [
           "къыхэщын (to stick out from among)",
           "къищын (to stick out from inside something)",
-          "къыч1эщын (to stick out from under something)",
+          "къычӏэщын (to stick out from under something)",
           "къытещын (to stick out from above something)",
           "къыпыщын (to stick out from a tree, to stick out from the tip of something)",
           "къыкъощын (to stick out from behind something)",
@@ -20412,7 +20427,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зэхэгъэнагъ (stuck into each other)",
-          "зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled)"
+          "зэкӏоцӏыпхагъ (tied within each other, tangled)",
+          "зэкъолъэдагъ (ropes or shoe laces to be tied together, tangled)",
+          "зэкъодзагъ (ropes or shoe laces to be tied together, tangled)"
         ],
         "verbs": [
           "дэгъэнэн"
@@ -20452,8 +20469,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)",
-          "илъхьап1э (storeroom)"
+          "дэлъхьапӏэ / дэлъыпӏэ (an object or place in which stuff are stored)",
+          "илъхьапӏэ (storeroom)"
         ],
         "verbs": []
       },
@@ -20462,7 +20479,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "илъхьап1э"
+          "илъхьапӏэ"
         ],
         "verbs": []
       },
@@ -20471,7 +20488,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "илъхьап1э"
+          "илъхьапӏэ"
         ],
         "verbs": []
       },
@@ -20480,7 +20497,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нынэп1ос"
+          "нынэпӏос"
         ],
         "verbs": []
       },
@@ -20489,7 +20506,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тынэп1ос"
+          "тынэпӏос"
         ],
         "verbs": []
       },
@@ -20502,7 +20519,7 @@ const englishDict = {
           "дэкон / дэкоцэн (to stuff into something, to stuff in between)",
           "хэкон / хэкоцэн (to stuff through something)",
           "икон / икоцэн (to stuff inside something)",
-          "ч1экон / ч1экоцэн (to stuff under something)",
+          "чӏэкон / чӏэкоцэн (to stuff under something)",
           "текон / текоцэн (to stuff above something)"
         ]
       },
@@ -20512,7 +20529,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъык1ошъэн"
+          "лъыкӏошъэн"
         ]
       },
       "word": "stalk"
@@ -20522,7 +20539,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "щыгъэтын",
-          "зэ1унэн"
+          "зэӏунэн"
         ]
       },
       "word": "stop talking"
@@ -20531,8 +20548,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1э щыфэн (to pat, to stroke, to pet, to fondle)",
-          "(Shapsug) епэш1эн (to pat, to stroke, to pet, to fondle)"
+          "ӏэ щыфэн (to pat, to stroke, to pet, to fondle)",
+          "(Shapsug) епэшӏэн (to pat, to stroke, to pet, to fondle)"
         ]
       },
       "word": "stroke"
@@ -20588,9 +20605,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэхэлъык1э (the manner in which one is compounded)",
-          "ш1ык1э (the manner in which one was done)",
-          "гъэпсык1 (the manner in which one was planned)"
+          "зэхэлъыкӏэ (the manner in which one is compounded)",
+          "шӏыкӏэ (the manner in which one was done)",
+          "гъэпсыкӏ (the manner in which one was planned)"
         ],
         "verbs": []
       },
@@ -20601,7 +20618,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "итэкъухьан",
-          "ч1этэкъун",
+          "чӏэтэкъун",
           "теутэн (to cause a substance to fall in fine drops or small pieces)"
         ]
       },
@@ -20611,7 +20628,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыш1эн"
+          "зэӏышӏэн"
         ]
       },
       "word": "stir"
@@ -20620,7 +20637,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэк1ухьан"
+          "къэкӏухьан"
         ]
       },
       "word": "stroll"
@@ -20674,8 +20691,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэт1ылъын",
-          "щы1ыгъын (to store in)"
+          "гъэтӏылъын",
+          "щыӏыгъын (to store in)"
         ]
       },
       "word": "store"
@@ -20694,7 +20711,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "бэджыджэн",
-          "щэо-пл1эон"
+          "щэо-плӏэон"
         ]
       },
       "word": "stagger"
@@ -20703,7 +20720,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тегъэпк1эн"
+          "тегъэпкӏэн"
         ]
       },
       "word": "stick on"
@@ -20751,16 +20768,16 @@ const englishDict = {
         "verbs": [
           "щытын (to be standing)",
           "къэтэджын (to stand up)",
-          "еуцол1эн (to stand near)",
+          "еуцолӏэн (to stand near)",
           "тетын (to be standing on)",
-          "1утын (to stand near)",
-          "ч1этын (to stand under)",
+          "ӏутын (to stand near)",
+          "чӏэтын (to stand under)",
           "хэтын (to stand among other people/objects, to stand in a forest or field, to stand in an area with liquid or gas)",
           "дэтын (to stand between)",
           "дэтын (to stand in a defined area such as a village, yard, area, etc.)",
           "къотын (to stand behind)",
           "готын / бгъодэтын (to stand besides)",
-          "к1элъытын (to stand adjacent to)",
+          "кӏэлъытын (to stand adjacent to)",
           "итын (to stand inside)"
         ]
       },
@@ -20770,7 +20787,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "еуцол1эн"
+          "еуцолӏэн"
         ]
       },
       "word": "stand near"
@@ -20780,7 +20797,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "еон / къеон (a string from a bee)",
-          "хэ1ун"
+          "хэӏун"
         ]
       },
       "word": "sting"
@@ -20810,8 +20827,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тыгъэзак1э",
-          "тыгъэгъэзак1э"
+          "тыгъэзакӏэ",
+          "тыгъэгъэзакӏэ"
         ],
         "verbs": []
       },
@@ -20884,7 +20901,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэхъагъэ зи1э"
+          "гъэхъагъэ зиӏэ"
         ],
         "verbs": []
       },
@@ -20902,7 +20919,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тыгъэм ыстыгъэ к1ышъор"
+          "тыгъэм ыстыгъэ кӏышъор"
         ],
         "verbs": []
       },
@@ -20956,7 +20973,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1энэгъунэ"
+          "ӏэнэгъунэ"
         ],
         "verbs": []
       },
@@ -20965,7 +20982,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыопс к1ыб"
+          "чӏыопс кӏыб"
         ],
         "verbs": []
       },
@@ -21012,8 +21029,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1эгъэхьан, егъэгъотын",
-          "1эк1эгъэхьан",
+          "ӏэкӏэгъэхьан, егъэгъотын",
+          "ӏэкӏэгъэхьан",
           "егъэгъотын"
         ]
       },
@@ -21023,12 +21040,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къещэк1ын / къещыхьак1ын (to wrap)",
+          "къещэкӏын / къещыхьакӏын (to wrap)",
           "къэухъурэин (to surround someone, something or a place)",
           "къэуцухьан",
           "къэдзыхьан (to besiege)",
-          "къэгъэк1ухьан / къэгъэчъыхьан (to surround in a circle)",
-          "къэш1ыхьан (to be surrended, to enclose)",
+          "къэгъэкӏухьан / къэгъэчъыхьан (to surround in a circle)",
+          "къэшӏыхьан (to be surrended, to enclose)",
           "къэухъурэихьан (to enclose something, to circle something, to surround something)"
         ]
       },
@@ -21047,9 +21064,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тек1он (to overcome, to surpass)",
+          "текӏон (to overcome, to surpass)",
           "течъын (to surpass, to outrun)",
-          "к1эхьан (to catch up to someone and maybe even surpass)",
+          "кӏэхьан (to catch up to someone and maybe even surpass)",
           "ыпэ ишъын (to outrun)",
           "къыщынэн (to surpass someone and leave him/her behind)"
         ]
@@ -21059,8 +21076,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэк1ош1ыпхэ",
-          "шъхьэк1оштэпхэ",
+          "шъхьэкӏошӏыпхэ",
+          "шъхьэкӏоштэпхэ",
           "зыгъэгусал"
         ],
         "verbs": []
@@ -21070,7 +21087,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ош1э дэмыш1эу"
+          "ошӏэ дэмышӏэу"
         ],
         "verbs": []
       },
@@ -21097,7 +21114,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ы1у"
+          "кӏыӏу"
         ],
         "verbs": []
       },
@@ -21107,10 +21124,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "де1эн",
-          "дэ1эпы1эн",
-          "1эпы1эгъоу фэхъун",
-          "дечъэк1ын",
+          "деӏэн",
+          "дэӏэпыӏэн",
+          "ӏэпыӏэгъоу фэхъун",
+          "дечъэкӏын",
           "къоуцон / къотын"
         ]
       },
@@ -21119,8 +21136,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэкъуац1э",
-          "унэгъуац1э"
+          "лъэкъуацӏэ",
+          "унэгъуацӏэ"
         ],
         "verbs": []
       },
@@ -21130,7 +21147,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эшъун",
+          "кӏэшъун",
           "уцолъын"
         ]
       },
@@ -21140,7 +21157,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ош1ын (to think that, to suppose, to reckon, to have the opinion of)",
+          "шӏошӏын (to think that, to suppose, to reckon, to have the opinion of)",
           "енэгуен (to think but not be absolutely sure)"
         ]
       },
@@ -21189,7 +21206,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1элъэ1ун"
+          "кӏэлъэӏун"
         ]
       },
       "word": "summon"
@@ -21197,7 +21214,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэгъошъхьа1у / хэгъуашъхьэ (surrounding area of a village or city)"
+          "хэгъошъхьаӏу / хэгъуашъхьэ (surrounding area of a village or city)"
         ],
         "verbs": []
       },
@@ -21242,7 +21259,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "цыхьэш1эгъунчъэ"
+          "цыхьэшӏэгъунчъэ"
         ],
         "verbs": []
       },
@@ -21251,11 +21268,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "цыхьэш1эгъунчъэ"
+          "цыхьэшӏэгъунчъэ"
         ],
         "verbs": [
-          "гуцафэ ш1ын",
-          "гурышхъу ш1ын",
+          "гуцафэ шӏын",
+          "гурышхъу шӏын",
           "енэгуен"
         ]
       },
@@ -21265,7 +21282,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1э къэ1этын"
+          "ӏэ къэӏэтын"
         ]
       },
       "word": "surrender"
@@ -21332,9 +21349,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ышъун (to be able to do)",
-          "дэгъоу къигъэк1ын / дахэу къигъэк1ын (to make something turn out to be good)",
-          "къыфигъэк1ын (to successfully do)",
+          "шӏышъун (to be able to do)",
+          "дэгъоу къигъэкӏын / дахэу къигъэкӏын (to make something turn out to be good)",
+          "къыфигъэкӏын (to successfully do)",
           "къыдэхъун (to work out, to turn out well)",
           "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
         ]
@@ -21345,8 +21362,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин",
-          "уц1эп1ын"
+          "ушӏоин",
+          "уцӏэпӏын"
         ]
       },
       "word": "sully"
@@ -21356,7 +21373,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1эш1эгъу"
+          "лӏэшӏэгъу"
         ],
         "verbs": []
       },
@@ -21374,7 +21391,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэгъаш1э"
+          "бэгъашӏэ"
         ],
         "verbs": []
       },
@@ -21393,7 +21410,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыунэ"
+          "чӏыунэ"
         ],
         "verbs": []
       },
@@ -21402,7 +21419,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ашъо"
+          "кӏашъо"
         ],
         "verbs": []
       },
@@ -21476,7 +21493,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэхэц1ык1у"
+          "дэхэцӏыкӏу"
         ],
         "verbs": []
       },
@@ -21485,7 +21502,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэхэц1ык1у"
+          "дэхэцӏыкӏу"
         ],
         "verbs": []
       },
@@ -21494,7 +21511,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пц1ашхъо"
+          "пцӏашхъо"
         ],
         "verbs": [
           "дырын"
@@ -21550,8 +21567,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эш1у",
-          "1эш1у-1уш1у (sweets, sweetmeats, candies)"
+          "ӏэшӏу",
+          "ӏэшӏу-ӏушӏу (sweets, sweetmeats, candies)"
         ],
         "verbs": []
       },
@@ -21560,7 +21577,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эш1у-1уш1у (sweets, sweetmeats, candies)"
+          "ӏэшӏу-ӏушӏу (sweets, sweetmeats, candies)"
         ],
         "verbs": []
       },
@@ -21569,11 +21586,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1ант1э",
-          "пк1ат1э (Shapsug)"
+          "пкӏантӏэ",
+          "пкӏатӏэ (Shapsug)"
         ],
         "verbs": [
-          "пк1ант1э къехын"
+          "пкӏантӏэ къехын"
         ]
       },
       "word": "sweat"
@@ -21591,12 +21608,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пхъэнк1эн",
-          "пхъэнк1ын",
-          "жэхэпхъэнк1эн (to sweet stuff into someone)",
-          "пхъэк1эн (Shapsug)",
-          "пхъэнк1эн",
-          "пхъэнк1ын (to sweep something)"
+          "пхъэнкӏэн",
+          "пхъэнкӏын",
+          "жэхэпхъэнкӏэн (to sweet stuff into someone)",
+          "пхъэкӏэн (Shapsug)",
+          "пхъэнкӏэн",
+          "пхъэнкӏын (to sweep something)"
         ]
       },
       "word": "sweep"
@@ -21613,7 +21630,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къуапц1э"
+          "къуапцӏэ"
         ],
         "verbs": []
       },
@@ -21633,7 +21650,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тхьэ 1он"
+          "тхьэ ӏон"
         ]
       },
       "word": "swear in god"
@@ -21642,8 +21659,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эрэон",
-          "гъэк1эрэон (to sway something or someone)"
+          "кӏэрэон",
+          "гъэкӏэрэон (to sway something or someone)"
         ]
       },
       "word": "sway"
@@ -21651,7 +21668,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "есып1э"
+          "есыпӏэ"
         ],
         "verbs": []
       },
@@ -21661,7 +21678,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ул1эн"
+          "ӏулӏэн"
         ]
       },
       "word": "sweep off"
@@ -21679,7 +21696,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьары1у"
+          "тхьарыӏу"
         ],
         "verbs": []
       },
@@ -21688,7 +21705,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эш1у-1уш1у"
+          "ӏэшӏу-ӏушӏу"
         ],
         "verbs": []
       },
@@ -21697,8 +21714,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1адзэ",
-          "шык1адзэ (for horse riding)"
+          "кӏадзэ",
+          "шыкӏадзэ (for horse riding)"
         ],
         "verbs": []
       },
@@ -21741,9 +21758,9 @@ const englishDict = {
         "lemmas": [
           "нэгу (cheek)",
           "нэгушъо (cheek skin)",
-          "нэк1у (cheek)",
-          "нэк1ушъо (cheek skin)",
-          "нэк1ушъхь (from cheekbone to the lower jaw)"
+          "нэкӏу (cheek)",
+          "нэкӏушъо (cheek skin)",
+          "нэкӏушъхь (from cheekbone to the lower jaw)"
         ],
         "verbs": []
       },
@@ -21752,8 +21769,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэк1апэ",
-          "жэк1эпэпкъ (chin bone)"
+          "жэкӏапэ",
+          "жэкӏэпэпкъ (chin bone)"
         ],
         "verbs": []
       },
@@ -21762,7 +21779,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэк1эпэпкъ"
+          "жэкӏэпэпкъ"
         ],
         "verbs": []
       },
@@ -21831,12 +21848,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхъок1ын (to change",
+          "зэхъокӏын (to change",
           "to alter)",
           "зэблэхъун (to replace",
           "to change to something else)",
           "укъон (to change money for lesser units)",
-          "зэок1ын"
+          "зэокӏын"
         ]
       },
       "word": "change"
@@ -21844,7 +21861,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэхъок1ыгъ",
+          "зэхъокӏыгъ",
           "зэблэхъугъ"
         ],
         "verbs": []
@@ -21872,9 +21889,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ба1о",
-          "гущы1эрый",
-          "гущы1ал"
+          "баӏо",
+          "гущыӏэрый",
+          "гущыӏал"
         ],
         "verbs": []
       },
@@ -21893,7 +21910,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "упк1этэн",
+          "упкӏэтэн",
           "ушыгун",
           "гъэушкъоин"
         ]
@@ -21903,7 +21920,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "упк1этагъэ",
+          "упкӏэтагъэ",
           "ушыгугъэ",
           "гъэушкъоигъэ"
         ],
@@ -21916,7 +21933,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "чэчэн (of forty bird)",
-          "ц1ырыун (of grasshopper)"
+          "цӏырыун (of grasshopper)"
         ]
       },
       "word": "chirr"
@@ -21960,7 +21977,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъац1э"
+          "пхъацӏэ"
         ],
         "verbs": []
       },
@@ -21987,7 +22004,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэш1омык1"
+          "пхъэшӏомыкӏ"
         ],
         "verbs": []
       },
@@ -22024,8 +22041,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жъыуак1о",
-          "дежъыуак1о"
+          "жъыуакӏо",
+          "дежъыуакӏо"
         ],
         "verbs": [
           "дежъыун"
@@ -22037,7 +22054,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "онджэкъ",
-          "1угъоик1ып1э, хьакушъхьэищ"
+          "ӏугъоикӏыпӏэ, хьакушъхьэищ"
         ],
         "verbs": []
       },
@@ -22046,7 +22063,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэнт1эк1у"
+          "пхъэнтӏэкӏу"
         ],
         "verbs": []
       },
@@ -22068,8 +22085,8 @@ const englishDict = {
           "блэрыпс / пшъэхъужъый (chainlet)"
         ],
         "verbs": [
-          "пыш1эн",
-          "зэпыш1эн (to chain together)"
+          "пышӏэн",
+          "зэпышӏэн (to chain together)"
         ]
       },
       "word": "chain"
@@ -22087,7 +22104,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэпц1ак1о"
+          "гъэпцӏакӏо"
         ],
         "verbs": []
       },
@@ -22096,7 +22113,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэц1ак1э"
+          "пхъэцӏакӏэ"
         ],
         "verbs": []
       },
@@ -22115,8 +22132,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэунэшк1ун",
-          "упэш1ын (Shapsug)"
+          "гъэунэшкӏун",
+          "упэшӏын (Shapsug)"
         ]
       },
       "word": "chew"
@@ -22152,7 +22169,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэш1о-гуш1у"
+          "нэшӏо-гушӏу"
         ],
         "verbs": []
       },
@@ -22182,7 +22199,7 @@ const englishDict = {
           "къэбар"
         ],
         "verbs": [
-          "зэутэк1ын"
+          "зэутэкӏын"
         ]
       },
       "word": "chatter"
@@ -22219,7 +22236,7 @@ const englishDict = {
         "lemmas": [
           "нэгу хъурай",
           "ныбэкъ (big-bellied)",
-          "быт1ыхъурай",
+          "бытӏыхъурай",
           "быцу",
           "бэжъу"
         ],
@@ -22230,7 +22247,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пщэрыхьак1о"
+          "пщэрыхьакӏо"
         ],
         "verbs": []
       },
@@ -22240,7 +22257,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэш1он"
+          "гъэшӏон"
         ]
       },
       "word": "cherish"
@@ -22248,9 +22265,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1элэгъу",
-          "к1элагъ",
-          "к1элагъэк1э (in childhood)"
+          "кӏэлэгъу",
+          "кӏэлагъ",
+          "кӏэлагъэкӏэ (in childhood)"
         ],
         "verbs": []
       },
@@ -22288,8 +22305,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ок1э куу",
-          "къое-ч1ай",
+          "тӏокӏэ куу",
+          "къое-чӏай",
           "къуладжэ",
           "тауташ"
         ],
@@ -22319,7 +22336,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "чэфы",
-          "нэш1о-гуш1у"
+          "нэшӏо-гушӏу"
         ],
         "verbs": []
       },
@@ -22367,7 +22384,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ет1апц1э"
+          "етӏапцӏэ"
         ],
         "verbs": []
       },
@@ -22386,7 +22403,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "техьэ-тек1"
+          "техьэ-текӏ"
         ],
         "verbs": []
       },
@@ -22404,8 +22421,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ышъхьэ / пащ (leader, boss)",
-          "шъхьа1э"
+          "лӏышъхьэ / пащ (leader, boss)",
+          "шъхьаӏэ"
         ],
         "verbs": []
       },
@@ -22424,7 +22441,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу къэ1этын / ыгу дэщэен",
+          "ыгу къэӏэтын / ыгу дэщэен",
           "гъэгушхон"
         ]
       },
@@ -22444,7 +22461,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уплъэк1ун",
+          "уплъэкӏун",
           "ушэтын"
         ]
       },
@@ -22454,7 +22471,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ущхыпц1ык1ын"
+          "ӏущхыпцӏыкӏын"
         ]
       },
       "word": "chuckle"
@@ -22497,9 +22514,9 @@ const englishDict = {
         ],
         "verbs": [
           "къэухъурэин (to encircle someone, something or a place)",
-          "къэгъэк1ухьан / къэгъэчъыхьан (to surround with a circle, to encircle with a circle)",
-          "хъурайк1э къэгъэк1ухьан",
-          "хъурайк1э къэгъэчъыхьан",
+          "къэгъэкӏухьан / къэгъэчъыхьан (to surround with a circle, to encircle with a circle)",
+          "хъурайкӏэ къэгъэкӏухьан",
+          "хъурайкӏэ къэгъэчъыхьан",
           "къэухъурэихьан (to enclose something, to circle something, to surround something)"
         ]
       },
@@ -22509,9 +22526,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къэухъурэигъ",
-          "къэгъэк1ухьагъ / къэгъэчъыхьагъ",
-          "хъурайк1э къэгъэк1ухьагъ",
-          "хъурайк1э къэгъэчъыхьагъ",
+          "къэгъэкӏухьагъ / къэгъэчъыхьагъ",
+          "хъурайкӏэ къэгъэкӏухьагъ",
+          "хъурайкӏэ къэгъэчъыхьагъ",
           "къэухъурэихьагъ"
         ],
         "verbs": []
@@ -22581,9 +22598,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ордегъашт",
-          "бзэяк1о",
-          "ц1ыфэу афибзаерэр"
+          "ӏордегъашт",
+          "бзэякӏо",
+          "цӏыфэу афибзаерэр"
         ],
         "verbs": []
       },
@@ -22604,7 +22621,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжьэгъал1э",
+          "бжьэгъалӏэ",
           "антыр"
         ],
         "verbs": []
@@ -22626,18 +22643,18 @@ const englishDict = {
           "благъэ",
           "пэблагъ (close to)",
           "пэгъунэгъу (close to)",
-          "1утын (to be close in a standing position)",
-          "1улъын (to be close in a lying position)"
+          "ӏутын (to be close in a standing position)",
+          "ӏулъын (to be close in a lying position)"
         ],
         "verbs": [
           "есэн",
           "игъэсэн (to close something)",
-          "фэш1ын (to close something)",
-          "гъэуп1ыц1эн (to close eyes)",
-          "теп1он (to close a container)",
+          "фэшӏын (to close something)",
+          "гъэупӏыцӏэн (to close eyes)",
+          "тепӏон (to close a container)",
           "егъэсэн",
-          "гъэуп1ыц1эн (to close eyes)",
-          "1ухъон (to close a window by hanging something over it)"
+          "гъэупӏыцӏэн (to close eyes)",
+          "ӏухъон (to close a window by hanging something over it)"
         ]
       },
       "word": "close"
@@ -22686,7 +22703,7 @@ const englishDict = {
         "verbs": [
           "укъэбзын",
           "угъэкъэбзэн",
-          "зэ1эхын (to put things in place/order)"
+          "зэӏэхын (to put things in place/order)"
         ]
       },
       "word": "clean up"
@@ -22699,7 +22716,7 @@ const englishDict = {
         "verbs": [
           "укъэбзын",
           "угъэкъэбзэн",
-          "теукъэбзык1ын (to clean off)"
+          "теукъэбзыкӏын (to clean off)"
         ]
       },
       "word": "clean"
@@ -22719,7 +22736,7 @@ const englishDict = {
         "lemmas": [
           "бжъанэ",
           "лъэбжъанэ (leg)",
-          "1эбжъанэ (hand)"
+          "ӏэбжъанэ (hand)"
         ],
         "verbs": []
       },
@@ -22749,7 +22766,7 @@ const englishDict = {
         "verbs": [
           "гоутын",
           "зэгоутын",
-          "зэгогъэк1ын",
+          "зэгогъэкӏын",
           "зэгогъэлэтхъын"
         ]
       },
@@ -22760,7 +22777,7 @@ const englishDict = {
         "lemmas": [
           "гоутыгъэ",
           "зэгоутыгъэ",
-          "зэгогъэк1ыгъэ"
+          "зэгогъэкӏыгъэ"
         ],
         "verbs": []
       },
@@ -22797,8 +22814,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ет1агъо",
-          "ят1э"
+          "етӏагъо",
+          "ятӏэ"
         ],
         "verbs": []
       },
@@ -22808,8 +22825,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нафэ",
-          "ӏэш1эхэу къыбгуры1он",
-          "гуры1огъош1у"
+          "ӏэшӏэхэу къыбгурыӏон",
+          "гурыӏогъошӏу"
         ],
         "verbs": []
       },
@@ -22819,7 +22836,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "те1унк1эн (to press/click on something)"
+          "теӏункӏэн (to press/click on something)"
         ]
       },
       "word": "click"
@@ -22837,7 +22854,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нафэу",
-          "зэхэугуфык1ыгъэу"
+          "зэхэугуфыкӏыгъэу"
         ],
         "verbs": []
       },
@@ -22858,12 +22875,12 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "иубытэн (to trap inside something)",
-          "къэш1ыхьан (to enclose, to surround)",
-          "къеш1эк1ын",
+          "къэшӏыхьан (to enclose, to surround)",
+          "къешӏэкӏын",
           "къэухъурэин",
           "къэуцухьан",
           "къэдзыхьан",
-          "къеш1ыхьак1ын (to close with, to frame)"
+          "къешӏыхьакӏын (to close with, to frame)"
         ]
       },
       "word": "close in"
@@ -22871,9 +22888,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уш",
+          "ӏуш",
           "акъыл",
-          "акъылыш1у",
+          "акъылышӏу",
           "акъылышху"
         ],
         "verbs": []
@@ -22901,9 +22918,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ащэ",
-          "1эпшэхъу",
-          "1эджэ-быдж",
+          "ӏащэ",
+          "ӏэпшэхъу",
+          "ӏэджэ-быдж",
           "зыгъэзэгъуай"
         ],
         "verbs": []
@@ -22913,7 +22930,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джэнэпылъап1"
+          "джэнэпылъапӏ"
         ],
         "verbs": []
       },
@@ -22922,7 +22939,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)"
+          "дэлъхьапӏэ / дэлъыпӏэ (an object or place in which stuff are stored)"
         ],
         "verbs": []
       },
@@ -22932,8 +22949,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эгу теон",
-          "1эгу фытеон (to clap for)"
+          "ӏэгу теон",
+          "ӏэгу фытеон (to clap for)"
         ]
       },
       "word": "clap"
@@ -22952,7 +22969,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхак1о"
+          "тхакӏо"
         ],
         "verbs": []
       },
@@ -22962,7 +22979,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэк1оен",
+          "дэкӏоен",
           "дэцохъоен",
           "дэпшыен"
         ]
@@ -22972,7 +22989,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пц1агъэ"
+          "пцӏагъэ"
         ],
         "verbs": []
       },
@@ -22991,7 +23008,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1акъо"
+          "лӏакъо"
         ],
         "verbs": []
       },
@@ -23029,7 +23046,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэуп1ыц1эн"
+          "гъэупӏыцӏэн"
         ]
       },
       "word": "close eyes"
@@ -23037,7 +23054,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ашк1"
+          "ӏашкӏ"
         ],
         "verbs": []
       },
@@ -23055,8 +23072,8 @@ const englishDict = {
           "натрыф"
         ],
         "verbs": [
-          "ш1о1ун",
-          "гъэш1о1ун (to corn something)"
+          "шӏоӏун",
+          "гъэшӏоӏун (to corn something)"
         ]
       },
       "word": "corn"
@@ -23074,7 +23091,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къогъу",
-          "къуач1э",
+          "къуачӏэ",
           "къуапэ",
           "(dialectal) къурнэ"
         ],
@@ -23090,7 +23107,7 @@ const englishDict = {
         "verbs": [
           "лэн",
           "гъэлэн",
-          "ч1элэк1ын (to color beneath)"
+          "чӏэлэкӏын (to color beneath)"
         ]
       },
       "word": "color"
@@ -23166,7 +23183,7 @@ const englishDict = {
         "verbs": [
           "тефэн (to come across coincidentally, to encounter coincidentally)",
           "зэтефэн (to come across each other)",
-          "зэ1ууп1эн (to come across with each other)"
+          "зэӏуупӏэн (to come across with each other)"
         ]
       },
       "word": "come across"
@@ -23174,15 +23191,17 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ышъо",
-          "шъхьэтеп1у (lid)"
+          "кӏышъо",
+          "шъхьэтепӏу (lid)"
         ],
         "verbs": [
           "хъумэн (to cover for protection)",
           "бгъэн (to thatch)",
           "техъон (to lay to cover)",
-          "теп1он (to close a container)",
-          "ч1эухъумэн / ч1эухъубэн / ч1эгъэсэен (to cover something, to bury something)",
+          "тепӏон (to close a container)",
+          "чӏэухъумэн (to cover something, to bury something)",
+          "чӏэухъубэн (to cover something, to bury something)",
+          "чӏэгъэсэен (to cover something, to bury something)",
           "теухъумэн (to cover on something)",
           "иухъумэн (to cover inside something)"
         ]
@@ -23238,7 +23257,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "былымэщ",
-          "1эщ"
+          "ӏэщ"
         ],
         "verbs": []
       },
@@ -23259,7 +23278,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэучъы1ын"
+          "гъэучъыӏын"
         ]
       },
       "word": "colden"
@@ -23304,7 +23323,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "еджэп1эшхо"
+          "еджэпӏэшхо"
         ],
         "verbs": []
       },
@@ -23351,7 +23370,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ахъщэмык1у"
+          "ахъщэмыкӏу"
         ],
         "verbs": []
       },
@@ -23417,7 +23436,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ек1ун"
+          "екӏун"
         ]
       },
       "word": "come up to"
@@ -23426,7 +23445,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
           "зэхэлъхьан (to put together)",
           "къэгупшысын (to come up with an idea or concept)"
         ]
@@ -23437,7 +23456,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
           "зэхэлъхьан (to put together)"
         ]
       },
@@ -23447,7 +23466,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ек1ун"
+          "екӏун"
         ]
       },
       "word": "come towards"
@@ -23455,9 +23474,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ыхъужь",
-          "л1ыгъэ зыхэлъ",
-          "л1ыблан",
+          "лӏыхъужь",
+          "лӏыгъэ зыхэлъ",
+          "лӏыблан",
           "бланэ",
           "пхъашэ",
           "гушхо"
@@ -23470,12 +23489,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэц1ыц1эн (to compress something)",
-          "иц1ыц1эн (to compress inside)",
-          "дэц1ыц1эн (to compress between, to compress inside another object)",
-          "тец1ыц1эн (to compress above)",
-          "ч1эц1ыц1эн (to compress under)",
-          "хэц1ыц1эн (to compress within)"
+          "зэхэцӏыцӏэн (to compress something)",
+          "ицӏыцӏэн (to compress inside)",
+          "дэцӏыцӏэн (to compress between, to compress inside another object)",
+          "тецӏыцӏэн (to compress above)",
+          "чӏэцӏыцӏэн (to compress under)",
+          "хэцӏыцӏэн (to compress within)"
         ]
       },
       "word": "compress"
@@ -23493,8 +23512,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пык1ын",
-          "тек1ын / къытек1ын (to come off from something)"
+          "пыкӏын",
+          "текӏын / къытекӏын (to come off from something)"
         ]
       },
       "word": "come off"
@@ -23533,7 +23552,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "блэнагъ",
-          "л1ыгъэ"
+          "лӏыгъэ"
         ],
         "verbs": []
       },
@@ -23561,7 +23580,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэ1ук1э"
+          "зэӏукӏэ"
         ],
         "verbs": []
       },
@@ -23571,8 +23590,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэш1оон",
-          "зэпэш1оон (to contradict each other)"
+          "пэшӏоон",
+          "зэпэшӏоон (to contradict each other)"
         ]
       },
       "word": "contradict"
@@ -23580,7 +23599,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ытхъыцэхэр"
+          "чӏытхъыцэхэр"
         ],
         "verbs": []
       },
@@ -23589,15 +23608,15 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "чъы1э",
-          "чъы1агъ",
+          "чъыӏэ",
+          "чъыӏагъ",
           "пэпскъичъ (illness)",
-          "чъы1ал1э (fever cold)"
+          "чъыӏалӏэ (fever cold)"
         ],
         "verbs": [
-          "учъы1ын / къэучъы1ын (to become colder)",
-          "гъэучъы1ын / къэгъэучъы1ын (to cool something, to make something cooler)",
-          "дэгъэучъы1ыхьан (to make something cold in a fridge)"
+          "учъыӏын / къэучъыӏын (to become colder)",
+          "гъэучъыӏын / къэгъэучъыӏын (to cool something, to make something cooler)",
+          "дэгъэучъыӏыхьан (to make something cold in a fridge)"
         ]
       },
       "word": "cold"
@@ -23605,7 +23624,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "чъы1этагъ"
+          "чъыӏэтагъ"
         ],
         "verbs": []
       },
@@ -23615,7 +23634,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хъои",
-          "1эпс-лъэпс"
+          "ӏэпс-лъэпс"
         ],
         "verbs": []
       },
@@ -23633,8 +23652,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уц1эжъ",
-          "п1эст1эк1эшып"
+          "шӏуцӏэжъ",
+          "пӏэстӏэкӏэшып"
         ],
         "verbs": []
       },
@@ -23670,7 +23689,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жъогъок1эк1ахь",
+          "жъогъокӏэкӏахь",
           "жъуагъондж"
         ],
         "verbs": []
@@ -23680,7 +23699,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1омык1ы"
+          "шӏомыкӏы"
         ],
         "verbs": []
       },
@@ -23718,9 +23737,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пыш1эн",
-          "зэпыш1эн (to connect together)",
-          "зыпыш1эн (to connect oneself to)",
+          "пышӏэн",
+          "зэпышӏэн (to connect together)",
+          "зыпышӏэн (to connect oneself to)",
           "пыгъэхьан (to connect/attach someone with)"
         ]
       },
@@ -23741,7 +23760,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эш1у-1уш1у (sweets, sweetmeats, candies)"
+          "ӏэшӏу-ӏушӏу (sweets, sweetmeats, candies)"
         ],
         "verbs": []
       },
@@ -23750,7 +23769,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "чъы1этагъ"
+          "чъыӏэтагъ"
         ],
         "verbs": []
       },
@@ -23759,7 +23778,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гуры1огъош1у"
+          "гурыӏогъошӏу"
         ],
         "verbs": []
       },
@@ -23780,7 +23799,7 @@ const englishDict = {
         "verbs": [
           "пчъын / къэпчъын",
           "лъытэн / къэлъытэн",
-          "хэпк1эн (in the sense of \"that also counts\"",
+          "хэпкӏэн (in the sense of \"that also counts\"",
           "пчъын"
         ]
       },
@@ -23801,7 +23820,7 @@ const englishDict = {
         "verbs": [
           "дэгъолъын",
           "бгъодэхьан",
-          "ек1ол1эн",
+          "екӏолӏэн",
           "гогъолъхьан",
           "бгъодэгъолъхьан"
         ]
@@ -23812,9 +23831,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "теуфагъэу",
-          "ехьыл1агъэу",
+          "ехьылӏагъэу",
           "егъэпхыгъэу",
-          "ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+          "ащ теуфагъэу / ащ ехьылӏагъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
         ],
         "verbs": []
       },
@@ -23842,8 +23861,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэбар егъэ1уныр, къэбар егъэш1эныр",
-          "1опщын"
+          "къэбар егъэӏуныр, къэбар егъэшӏэныр",
+          "ӏопщын"
         ]
       },
       "word": "communicate"
@@ -23862,12 +23881,12 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "еон (to collide into, to hit)",
-          "еол1эн (to collide into)",
+          "еолӏэн (to collide into)",
           "жэхэхьан (to collide into)",
-          "к1оц1ыхьан (to smash into)",
-          "еутэк1ын (to bump into)",
-          "зэутэк1ын (to bump into each other)",
-          "егъэол1эн (to make something collide against something else)"
+          "кӏоцӏыхьан (to smash into)",
+          "еутэкӏын (to bump into)",
+          "зэутэкӏын (to bump into each other)",
+          "егъэолӏэн (to make something collide against something else)"
         ]
       },
       "word": "collide"
@@ -23875,7 +23894,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1эгъэпалъ"
+          "лӏэгъэпалъ"
         ],
         "verbs": []
       },
@@ -23884,7 +23903,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэры1уабз"
+          "жэрыӏуабз"
         ],
         "verbs": []
       },
@@ -23893,7 +23912,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "цабэ зы1ут щэрэхъ"
+          "цабэ зыӏут щэрэхъ"
         ],
         "verbs": []
       },
@@ -23904,7 +23923,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "орэд усын",
-          "зэхэш1ыхьан (to compose, to make something by merging parts, to build up something from parts)",
+          "зэхэшӏыхьан (to compose, to make something by merging parts, to build up something from parts)",
           "зэхэлъхьан (to compound, to compose, to put together, to assemble (ingredients or parts) into a whole, to combine, mix, or unite)",
           "зэхэгъэуцон (to compound, to compose, to assemble, to build by puting together parts)"
         ]
@@ -23914,7 +23933,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ако",
+          "кӏако",
           "палътэу (topcoat, over coat)",
           "сако (Shapsug)"
         ],
@@ -23923,7 +23942,7 @@ const englishDict = {
           "to daub",
           "to stucco",
           "to plaster)",
-          "к1эен (to coat under)"
+          "кӏэен (to coat under)"
         ]
       },
       "word": "coat"
@@ -23951,10 +23970,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "угъоин / къэугъоин (to collect stuff/people)",
-          "зэ1угъэк1эн (to collect, to make a collection)",
-          "зэхэугъоен / зэк1эугъоен (to collect people/stuff together, to concentrate people/stuff together)",
+          "зэӏугъэкӏэн (to collect, to make a collection)",
+          "зэхэугъоен / зэкӏэугъоен (to collect people/stuff together, to concentrate people/stuff together)",
           "щыпын / къэщыпын (to pick up stuff/people usaully from the ground)",
-          "тещыпык1ын (to pick up stuff from)"
+          "тещыпыкӏын (to pick up stuff from)"
         ]
       },
       "word": "collect"
@@ -23963,11 +23982,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щызэрэугъоин / зэугъоил1эн (to focus)",
-          "зэугъоил1агъэ хъун (to focus)",
-          "зэхэугъоен / зэк1эугъоен (to concentrate into one place)",
-          "щызэрэугъоин / зэугъоил1эн (to focus)",
-          "зэугъоил1агъэ хъун (to focus)",
+          "щызэрэугъоин / зэугъоилӏэн (to focus)",
+          "зэугъоилӏагъэ хъун (to focus)",
+          "зэхэугъоен / зэкӏэугъоен (to concentrate into one place)",
+          "щызэрэугъоин / зэугъоилӏэн (to focus)",
+          "зэугъоилӏагъэ хъун (to focus)",
           "зэхэугъоен (to concentrate into one place)"
         ]
       },
@@ -23977,7 +23996,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
+          "ишӏыхьан / къишӏыхьан (to lock inside, to imprison inside, to confine inside)"
         ]
       },
       "word": "confine"
@@ -23985,11 +24004,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пщэрыхьак1о"
+          "пщэрыхьакӏо"
         ],
         "verbs": [
           "пщэрыхьан",
-          "ш1ын (to make)",
+          "шӏын (to make)",
           "гъэжъэн (to bake, to grill, to fry)",
           "гъэжъон (to boil)",
           "жъэн (cooked)",
@@ -24001,7 +24020,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэ1ух"
+          "шъхьэӏух"
         ],
         "verbs": []
       },
@@ -24010,7 +24029,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щазмаш1э"
+          "щазмашӏэ"
         ],
         "verbs": []
       },
@@ -24021,7 +24040,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэлъэжъон",
-          "къэгужъонж къэк1эсэн"
+          "къэгужъонж къэкӏэсэн"
         ]
       },
       "word": "come not on time"
@@ -24043,7 +24062,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офш1эгъу"
+          "ӏофшӏэгъу"
         ],
         "verbs": []
       },
@@ -24053,7 +24072,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пыск1эн",
+          "пыскӏэн",
           "псчэн",
           "пчэн",
           "пскэн"
@@ -24074,7 +24093,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэзек1он"
+          "гъэзекӏон"
         ]
       },
       "word": "conduct"
@@ -24103,8 +24122,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "еш1ужьын (to make peace with someone)",
-          "зэш1ужьын (to make peace with each other)"
+          "ешӏужьын (to make peace with someone)",
+          "зэшӏужьын (to make peace with each other)"
         ]
       },
       "word": "come terms"
@@ -24115,8 +24134,8 @@ const englishDict = {
         "verbs": [
           "тхьаусхэн",
           "фэтхьаусыхэн (to complain for)",
-          "(slang) 1оин",
-          "(slang) фэ1оин (to complain for)",
+          "(slang) ӏоин",
+          "(slang) фэӏоин (to complain for)",
           "гъынэнэн (to whinge, to complain especially in an annoying or persistent manner))"
         ]
       },
@@ -24144,7 +24163,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гупсэфып1"
+          "гупсэфыпӏ"
         ],
         "verbs": []
       },
@@ -24153,8 +24172,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ахъщэнэпц1",
-          "ахъщэнэпц1"
+          "ахъщэнэпцӏ",
+          "ахъщэнэпцӏ"
         ],
         "verbs": []
       },
@@ -24163,7 +24182,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ахъщэнэпц1ыш1"
+          "ахъщэнэпцӏышӏ"
         ],
         "verbs": []
       },
@@ -24190,8 +24209,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псы 1ушъо",
-          "хы 1ушъо",
+          "псы ӏушъо",
+          "хы ӏушъо",
           "нэпкъы"
         ],
         "verbs": []
@@ -24242,13 +24261,13 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ик1ын / къик1ын (to come out from inside)",
-          "къок1ын / къыкъок1ын (to come out from inside)",
-          "дэк1ын / къыдэк1ын (to come out from a yard, or a defined area)",
-          "хэк1ын / къыхэк1ын (to come out from among others or from an area with trees, liquid, gas or solid)",
-          "к1оц1ык1ын / къык1оц1ык1ын (to come out from inside the body)",
-          "ч1эк1ын / къыч1эк1ын (to come out from under)",
-          "дэк1ын (to leave one\u0027s house especially for hanging out, recreation or entertainment)"
+          "икӏын / къикӏын (to come out from inside)",
+          "къокӏын / къыкъокӏын (to come out from inside)",
+          "дэкӏын / къыдэкӏын (to come out from a yard, or a defined area)",
+          "хэкӏын / къыхэкӏын (to come out from among others or from an area with trees, liquid, gas or solid)",
+          "кӏоцӏыкӏын / къыкӏоцӏыкӏын (to come out from inside the body)",
+          "чӏэкӏын / къычӏэкӏын (to come out from under)",
+          "дэкӏын (to leave one\u0027s house especially for hanging out, recreation or entertainment)"
         ]
       },
       "word": "come out"
@@ -24257,7 +24276,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэк1ын"
+          "къэкӏын"
         ]
       },
       "word": "come from"
@@ -24267,7 +24286,7 @@ const englishDict = {
         "lemmas": [
           "шао",
           "шыкуао",
-          "кушъхьэ1ыгъ"
+          "кушъхьэӏыгъ"
         ],
         "verbs": []
       },
@@ -24276,7 +24295,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъук1э"
+          "гъукӏэ"
         ],
         "verbs": []
       },
@@ -24294,7 +24313,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "купк1ы (middle soft part)"
+          "купкӏы (middle soft part)"
         ],
         "verbs": []
       },
@@ -24303,8 +24322,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1этехъо",
-          "п1этедзэ"
+          "пӏэтехъо",
+          "пӏэтедзэ"
         ],
         "verbs": []
       },
@@ -24335,7 +24354,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сэмэркъэуш1ыл"
+          "сэмэркъэушӏыл"
         ],
         "verbs": []
       },
@@ -24345,7 +24364,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэнэн / зэк1энэн (to catch fire by itself)"
+          "зэхэнэн / зэкӏэнэн (to catch fire by itself)"
         ]
       },
       "word": "combust"
@@ -24372,7 +24391,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэк1ын (to snap and collapse usaully from heavy-weight)",
+          "зэхэкӏын (to snap and collapse usaully from heavy-weight)",
           "зэхэфэн",
           "зэхэон",
           "зэхэутын (to collapse from inside)"
@@ -24423,8 +24442,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "учъы1ын / къэучъы1ын (to cool down, to become colder)",
-          "гъэучъы1ын / къэгъэучъы1ын (to cool something, to make something cooler)"
+          "учъыӏын / къэучъыӏын (to cool down, to become colder)",
+          "гъэучъыӏын / къэгъэучъыӏын (to cool something, to make something cooler)"
         ]
       },
       "word": "cool"
@@ -24432,8 +24451,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щыгъын пылъап1э",
-          "джэнэпылъап1"
+          "щыгъын пылъапӏэ",
+          "джэнэпылъапӏ"
         ],
         "verbs": []
       },
@@ -24442,7 +24461,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эух"
+          "кӏэух"
         ],
         "verbs": []
       },
@@ -24453,7 +24472,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "техын (to copy behavior, manner or method from)",
-          "тетхык1ын (to copy writing from)"
+          "тетхыкӏын (to copy writing from)"
         ]
       },
       "word": "copy"
@@ -24462,9 +24481,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1э хэлъын (to have contribution in)",
-          "1э хэлъхьан (to contribute)",
-          "1ахь хэлъхьан (to contribute, to put one\u0027s share in)"
+          "ӏэ хэлъын (to have contribution in)",
+          "ӏэ хэлъхьан (to contribute)",
+          "ӏахь хэлъхьан (to contribute, to put one\u0027s share in)"
         ]
       },
       "word": "contribute"
@@ -24481,7 +24500,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псэолъэш1ып1"
+          "псэолъэшӏыпӏ"
         ],
         "verbs": []
       },
@@ -24511,8 +24530,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыл1эжьын",
-          "зыук1ыжьын"
+          "зылӏэжьын",
+          "зыукӏыжьын"
         ]
       },
       "word": "commit suicide"
@@ -24522,7 +24541,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "шъхьасын",
-          "гук1эгъу фэш1ын",
+          "гукӏэгъу фэшӏын",
           "гу егъун  (гуегъун)"
         ]
       },
@@ -24585,12 +24604,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэк1он",
-          "къылъык1отэн (to come near, to advance near)",
-          "къыдэк1оен (to come up)",
+          "къэкӏон",
+          "къылъыкӏотэн (to come near, to advance near)",
+          "къыдэкӏоен (to come up)",
           "къехын (to come down)",
           "къытехьан (to come on)",
-          "къыч1эхьан (to come under)",
+          "къычӏэхьан (to come under)",
           "къыхэхьан (to come to an area with some liquid or gas)",
           "къыхэхьан (to come into a forest or field)",
           "хэхьан (to come through)",
@@ -24599,7 +24618,7 @@ const englishDict = {
           "къыихьан (to come inside)",
           "къыдэхьан (to enter a defined area, such as a yard, village, area, etc.)",
           "къыдэхьан (to come between)",
-          "къык1оц1ыхьан (to come within inside something)"
+          "къыкӏоцӏыхьан (to come within inside something)"
         ]
       },
       "word": "come"
@@ -24607,7 +24626,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эчъэ-лъачъ",
+          "ӏэчъэ-лъачъ",
           "хьалэбалыкъ"
         ],
         "verbs": []
@@ -24676,7 +24695,7 @@ const englishDict = {
         "verbs": [
           "егъэжьэжьын",
           "ублэжьын",
-          "лъыгъэк1отэн (to advance something, to progress something, to proceed something)",
+          "лъыгъэкӏотэн (to advance something, to progress something, to proceed something)",
           "(dialectal) игъэкъун"
         ]
       },
@@ -24687,7 +24706,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "еджэнджэшын",
-          "зэхэупч1ыхьажьын"
+          "зэхэупчӏыхьажьын"
         ]
       },
       "word": "consult"
@@ -24696,7 +24715,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэш1ык1ын (to comprehend",
+          "зэхэшӏыкӏын (to comprehend",
           "to understand or grasp fully and thoroughly)",
           "шъхьэм зыхихын",
           "шъхьэм къиубытын"
@@ -24717,7 +24736,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыкъэш1эжьын"
+          "зыкъэшӏэжьын"
         ]
       },
       "word": "come one\u0027s senses"
@@ -24735,7 +24754,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къырик1он (to come via)"
+          "къырикӏон (to come via)"
         ]
       },
       "word": "come on"
@@ -24744,7 +24763,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къырик1он"
+          "къырикӏон"
         ]
       },
       "word": "come via"
@@ -24771,7 +24790,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "еуцол1эн"
+          "еуцолӏэн"
         ]
       },
       "word": "come terms with"
@@ -24780,10 +24799,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыш1эн / зэхэлъэшъон (to make things more confusing or more complicated)",
-          "зэхэлъэшъуагъэу ш1ын",
-          "зэхэфыгъуаеу ш1ын",
-          "къинэу ш1ын (to make things more difficult)"
+          "зэӏышӏэн / зэхэлъэшъон (to make things more confusing or more complicated)",
+          "зэхэлъэшъуагъэу шӏын",
+          "зэхэфыгъуаеу шӏын",
+          "къинэу шӏын (to make things more difficult)"
         ]
       },
       "word": "complicate"
@@ -24792,12 +24811,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан (to be confused)",
-          "зэ1ыгъэхьан (to confuse someone)",
-          "зэ1ыш1эн / зэхэлъэшъон (to make the siuation more confusing)",
+          "зэӏыхьан (to be confused)",
+          "зэӏыгъэхьан (to confuse someone)",
+          "зэӏышӏэн / зэхэлъэшъон (to make the siuation more confusing)",
           "зэхэгъощэн (to confuse one thing with the other)",
-          "зэхэк1ок1эн (to become confused)",
-          "зэхэгъэк1ок1эн (to confuse one thing with another)"
+          "зэхэкӏокӏэн (to become confused)",
+          "зэхэгъэкӏокӏэн (to confuse one thing with another)"
         ]
       },
       "word": "confuse"
@@ -24806,7 +24825,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "фэкъулай",
-          "фэ1эпы1ас"
+          "фэӏэпыӏас"
         ],
         "verbs": []
       },
@@ -24834,7 +24853,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эш1ыхьан"
+          "кӏэшӏыхьан"
         ]
       },
       "word": "construct under"
@@ -24843,19 +24862,19 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ын",
-          "к1эш1ыхьан (to construct under something)",
-          "теш1ыхьан (to construct on something)",
-          "хэш1ыхьан (to construct in the water, sea, fire, gas, forest, field)",
-          "дэш1ыхьан (to construct between, to construct inside another object, to construct inside a yard, village, area, etc.)",
-          "иш1ыхьан (to construct inside)",
-          "пыш1ыхьан (to construct on a tree, to construct on the surface of a device or tool)",
-          "къош1ыхьан (to construct behind something)",
-          "гош1ыхьан / бгъодэш1ыхьан (to construct besides something)",
-          "зэтеш1ыхьан (to construct on each other)",
-          "зэч1эш1ыхьан (to construct under each other)",
-          "зэриш1ыхьан (to construct inside each other)",
-          "зэхэш1ыхьан (to build up something from parts)"
+          "шӏын",
+          "кӏэшӏыхьан (to construct under something)",
+          "тешӏыхьан (to construct on something)",
+          "хэшӏыхьан (to construct in the water, sea, fire, gas, forest, field)",
+          "дэшӏыхьан (to construct between, to construct inside another object, to construct inside a yard, village, area, etc.)",
+          "ишӏыхьан (to construct inside)",
+          "пышӏыхьан (to construct on a tree, to construct on the surface of a device or tool)",
+          "къошӏыхьан (to construct behind something)",
+          "гошӏыхьан / бгъодэшӏыхьан (to construct besides something)",
+          "зэтешӏыхьан (to construct on each other)",
+          "зэчӏэшӏыхьан (to construct under each other)",
+          "зэришӏыхьан (to construct inside each other)",
+          "зэхэшӏыхьан (to build up something from parts)"
         ]
       },
       "word": "construct"
@@ -24891,7 +24910,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пшъап1э"
+          "пшъапӏэ"
         ],
         "verbs": []
       },
@@ -24901,7 +24920,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин"
+          "ушӏоин"
         ]
       },
       "word": "contaminate"
@@ -24909,7 +24928,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офтабг"
+          "ӏофтабг"
         ],
         "verbs": []
       },
@@ -24920,7 +24939,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1э"
+          "кӏэ"
         ],
         "verbs": []
       },
@@ -24933,17 +24952,17 @@ const englishDict = {
           "щэн (to take/lead someone to somewhere)",
           "хьын (to take/carry something to somewhere)",
           "штэн / къэштэн (to grab something to take)",
-          "ш1охьын (to take something from someone against his interest or will)",
-          "1эхын / къы1эхын (to take something from someone by hand)",
+          "шӏохьын (to take something from someone against his interest or will)",
+          "ӏэхын / къыӏэхын (to take something from someone by hand)",
           "техын / къытехын (to take something from above something)",
-          "ч1эхын / къыч1эхын (to take something from under something)",
+          "чӏэхын / къычӏэхын (to take something from under something)",
           "дэхын / къыдэхын (to take something from inside another object that can be opened)",
           "ихын / къыихын (to take something from inside something)",
           "пыхын / къыпыхын (to take down from a hanging position, to unhang, to take something from the tip of something)",
           "хэхын / къыхэхын (to take something from within something, to take something from an area with some gas or liquid such as water, fire, etc.)",
           "къохын / къыкъохын (to take something from behind something)",
           "гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something)",
-          "к1оц1ыхын / къык1оц1ыхын (to take something from inside something\u0027s body)",
+          "кӏоцӏыхын / къыкӏоцӏыхын (to take something from inside something\u0027s body)",
           "тещэн (to take/lead someone to above something)",
           "хэщэн (to take/lead someone to among other people or objects)",
           "хэщэн (to take/lead someone to an area with some mass of liquid or gas such as water, fire, etc)",
@@ -24953,12 +24972,12 @@ const englishDict = {
           "пыхын (to take something like knowledge, behavior from someone)",
           "дэщэен (to lead/take someone up)",
           "ещэхын (to lead/take someone down)",
-          "къещэк1ын (to take/lead someone around)",
-          "ещэл1эн (to take someone to, to lead someone to)",
+          "къещэкӏын (to take/lead someone around)",
+          "ещэлӏэн (to take someone to, to lead someone to)",
           "дэхьыен (to take upwards, to take up, to carry upwards, to carry up)",
           "блэщын (to take/lead (someone) across, to take/lead (someone) past something)",
           "уахътэ егъэхьын (to take time)",
-          "техык1ын (to take something off)"
+          "техыкӏын (to take something off)"
         ]
       },
       "word": "take"
@@ -24987,7 +25006,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching)",
-          "зы1эк1эубытэн (to grab and hold in the hand)"
+          "зыӏэкӏэубытэн (to grab and hold in the hand)"
         ]
       },
       "word": "take hold"
@@ -25031,7 +25050,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1асэ",
+          "ӏасэ",
           "гъэсагъ"
         ],
         "verbs": []
@@ -25043,11 +25062,11 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "губгъэн фэлъэгъун",
-          "губгъэн фэш1ын",
+          "губгъэн фэшӏын",
           "ебгъэн",
           "зыгъэгусэн",
-          "гукъао ш1ын",
-          "шъхьак1о ш1ын"
+          "гукъао шӏын",
+          "шъхьакӏо шӏын"
         ]
       },
       "word": "take offense"
@@ -25055,7 +25074,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled and intertwined)"
+          "зэкӏоцӏыпхагъ (tied within each other, tangled or intertwined)",
+          "зэкъолъэдагъ (ropes or shoe laces to be tied together, tangled or intertwined)",
+          "зэкъодзагъ (tangled or intertwined)"
         ],
         "verbs": []
       },
@@ -25065,11 +25086,17 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэк1оц1ыпхэн / зэкъолъэдэн / зэкъодзэн (to make a rope/lace tangled, to tangle, to make a rope/lace mixed together or intertwined)",
-          "зэкъогъэлъэдэн / зэхэлъэшъон / зэхэлъэхъыхьан (to entangl)",
+          "зэкӏоцӏыпхэн (to tied within each other, to tangled or intertwined)",
+          "зэкъолъэдэн (to tangled or intertwined)",
+          "зэкъодзэн (to tangled or intertwined)",
+          "зэкъогъэлъэдэн (to entangle)",
+          "зэхэлъэшъон (to entangle)",
+          "зэхэлъэхъыхьан (to entangle)",
           "зэрыгъэлъэдэн",
-          "зэхэнэн / зэш1онэн / зэк1оц1энэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated)",
-          "зэхэгъэнэн / зэш1огъэнэн / зэк1оц1эгъэнэн (to entangl, to twist or interweave in such a manner as not to be easily separated)"
+          "зэшӏонэн",
+          "зэхэнэн / зэкӏоцӏэнэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated)",
+          "зэхэгъэнэн / зэкӏоцӏэгъэнэн (to make something stuck within each other)",
+          "зэшӏогъэнэн (to entangle, to twist or interweave in such a manner as not to be easily separated)"
         ]
       },
       "word": "tangle"
@@ -25090,14 +25117,14 @@ const englishDict = {
           "къэбар"
         ],
         "verbs": [
-          "гущы1эн (to be talking)",
+          "гущыӏэн (to be talking)",
           "(Kabardian) псэлъэн (to be talking)",
-          "дэгущы1эн (to talk with someone)",
-          "хэгущы1ыхьан (to interrupt or break into a conversation by speaking, to speak among other people)",
-          "тегущы1эн (to talk about someone or something)",
-          "тегущы1эхьан (to have a full conversation/discussion about something)",
-          "къыхэгущы1эк1ын (to talk from among other people)",
-          "къэбар къэ1отэн / къэбар къэпчъын (to have a casual conversation)"
+          "дэгущыӏэн (to talk with someone)",
+          "хэгущыӏыхьан (to interrupt or break into a conversation by speaking, to speak among other people)",
+          "тегущыӏэн (to talk about someone or something)",
+          "тегущыӏэхьан (to have a talk about something or someone)",
+          "къыхэгущыӏэкӏын (to talk from among other people)",
+          "къэбар къэӏотэн / къэбар къэпчъын (to have a casual conversation)"
         ]
       },
       "word": "talk"
@@ -25105,7 +25132,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэ1отак1о, къэзы1уатэрэр"
+          "къэӏотакӏо, къэзыӏуатэрэр"
         ],
         "verbs": []
       },
@@ -25114,7 +25141,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзэгухь, зэщыгъэхьак1о"
+          "бзэгухь, зэщыгъэхьакӏо"
         ],
         "verbs": []
       },
@@ -25124,7 +25151,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бзэгухь",
-          "зэщыгъэхьак1о"
+          "зэщыгъэхьакӏо"
         ],
         "verbs": []
       },
@@ -25133,7 +25160,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эш1у"
+          "ӏэшӏу"
         ],
         "verbs": []
       },
@@ -25151,8 +25178,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ыхьэ",
-          "(dialectal) к1ахьы"
+          "кӏыхьэ",
+          "(dialectal) кӏахьы"
         ],
         "verbs": []
       },
@@ -25170,13 +25197,13 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1эрый",
-          "гущы1ал",
+          "гущыӏэрый",
+          "гущыӏал",
           "жэмачыу",
-          "жэмы1ан",
-          "ба1о",
-          "гущы1эгъал",
-          "1оржъор"
+          "жэмыӏан",
+          "баӏо",
+          "гущыӏэгъал",
+          "ӏоржъор"
         ],
         "verbs": []
       },
@@ -25185,8 +25212,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1эрый",
-          "гущы1ал"
+          "гущыӏэрый",
+          "гущыӏал"
         ],
         "verbs": []
       },
@@ -25243,7 +25270,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офш1эн",
+          "ӏофшӏэн",
           "пшъэрылъ",
           "хъызмэт (chores, housework)"
         ],
@@ -25255,8 +25282,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эупхъухьан",
-          "шъхьацыр пыупк1ын",
+          "кӏэупхъухьан",
+          "шъхьацыр пыупкӏын",
           "шъхьацыр упхъун",
           "шъхьацым пыупхъухьан"
         ]
@@ -25276,8 +25303,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "на1э тегъэтын",
-          "пык1эрэплъын"
+          "наӏэ тегъэтын",
+          "пыкӏэрэплъын"
         ]
       },
       "word": "take care of"
@@ -25286,23 +25313,23 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ыхын / къы1ыхын (to take an item/object from someone)",
-          "1ухын (to take away)",
-          "1ущын (to take/lead a person away)",
+          "ӏыхын / къыӏыхын (to take an item/object from someone)",
+          "ӏухын (to take away)",
+          "ӏущын (to take/lead a person away)",
           "техын (to take away from above something)",
-          "ч1эхын (to take away from under something)",
+          "чӏэхын (to take away from under something)",
           "дэхын (to take away from inside another object, to take away from between)",
           "ихын (to take away from inside something)",
           "гохын / бгъодэхын (to take away from besides something)",
           "къохын (to take away from behind something)",
           "пыхын (to take away from a hanger or tree)",
           "тещын (to take/lead a person away from above something)",
-          "ч1эщын (to take/lead a person away from under something)",
+          "чӏэщын (to take/lead a person away from under something)",
           "дэщын (to take/lead a person away from a defined area)",
           "ищын (to take/lead a person away from inside something)",
           "гощын / бгъодэщын (to take/lead a person away from besides something)",
           "къощын (to take/lead a person away from behind something)",
-          "къы1ыхын"
+          "къыӏыхын"
         ]
       },
       "word": "take away"
@@ -25338,8 +25365,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыгъэпск1ын",
-          "зыгъэпк1ын"
+          "зыгъэпскӏын",
+          "зыгъэпкӏын"
         ]
       },
       "word": "take a shower"
@@ -25348,8 +25375,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыгъэпск1ын",
-          "зыгъэпк1ын"
+          "зыгъэпскӏын",
+          "зыгъэпкӏын"
         ]
       },
       "word": "take a bath"
@@ -25357,7 +25384,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1анэ",
+          "ӏанэ",
           "стол (from Russian)"
         ],
         "verbs": []
@@ -25378,9 +25405,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "(vulgar) ц1ын",
-          "(vulgar) тец1эн (to shit on)",
-          "(vulgar) ч1эц1эн (to shit under)"
+          "(vulgar) цӏын",
+          "(vulgar) тецӏэн (to shit on)",
+          "(vulgar) чӏэцӏэн (to shit under)"
         ]
       },
       "word": "take a shit"
@@ -25409,7 +25436,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "(vulgar) пыц1эн (to talk shit about someone)"
+          "(vulgar) пыцӏэн (to talk shit about someone)"
         ]
       },
       "word": "talk shit"
@@ -25417,7 +25444,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эух"
+          "кӏэух"
         ],
         "verbs": []
       },
@@ -25427,9 +25454,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1эхьан / къы1эк1эхьан",
-          "1эгъэк1эхьан (to make someone take possession of something)",
-          "зы1эк1эгъэхьажьын (to make oneself take possession of something)"
+          "ӏэкӏэхьан / къыӏэкӏэхьан",
+          "ӏэгъэкӏэхьан (to make someone take possession of something)",
+          "зыӏэкӏэгъэхьажьын (to make oneself take possession of something)"
         ]
       },
       "word": "take possession of"
@@ -25440,9 +25467,9 @@ const englishDict = {
         "verbs": [
           "(slightly vulgar) гъутхьан",
           "тегъутхьан (to pee on)",
-          "ч1эгъутхьан (to pee under)",
+          "чӏэгъутхьан (to pee under)",
           "игъутхьан (to pee inside)",
-          "1угъутхьан (to pee near)",
+          "ӏугъутхьан (to pee near)",
           "хэгъутхьан (to pee in an area with fire, liquid or gas)"
         ]
       },
@@ -25453,7 +25480,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэсэн",
-          "гъэ1эсэн"
+          "гъэӏэсэн"
         ]
       },
       "word": "tame"
@@ -25462,7 +25489,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ош1ын",
+          "шӏошӏын",
           "лъытэн",
           "енэгуен"
         ]
@@ -25475,7 +25502,7 @@ const englishDict = {
         "verbs": [
           "хэпэзэн",
           "шъхьэукъэн",
-          "т1эк1у хэчъыен"
+          "тӏэкӏу хэчъыен"
         ]
       },
       "word": "take a nap"
@@ -25483,7 +25510,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1эгъу"
+          "гущыӏэгъу"
         ],
         "verbs": []
       },
@@ -25513,7 +25540,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тегущы1эн"
+          "тегущыӏэн"
         ]
       },
       "word": "talk about"
@@ -25535,7 +25562,7 @@ const englishDict = {
           "щыхын (to take off clothes, to undress)",
           "зытехын (to take off an item such as a hat, mask, necklace or clock from oneself)",
           "лъэтэн / быбын (to fly, to take off to the sky)",
-          "ш1охын (to take off something from)"
+          "шӏохын (to take off something from)"
         ]
       },
       "word": "take off"
@@ -25544,8 +25571,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин",
-          "уц1эп1ын"
+          "ушӏоин",
+          "уцӏэпӏын"
         ]
       },
       "word": "tarnish"
@@ -25597,7 +25624,7 @@ const englishDict = {
           "цунды"
         ],
         "verbs": [
-          "1он (to make the shrill sound characteristic of a rooster)"
+          "ӏон (to make the shrill sound characteristic of a rooster)"
         ]
       },
       "word": "crow"
@@ -25607,8 +25634,8 @@ const englishDict = {
         "lemmas": [
           "гупыт",
           "жъалым",
-          "гук1эгъу зыхэмылъ",
-          "гук1эгъунчъэ",
+          "гукӏэгъу зыхэмылъ",
+          "гукӏэгъунчъэ",
           "мэхъаджэ"
         ],
         "verbs": []
@@ -25664,7 +25691,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзэджаш1э"
+          "бзэджашӏэ"
         ],
         "verbs": []
       },
@@ -25674,7 +25701,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1ыц1ын (to wrinkle a fabric/paper by pressing it)"
+          "цӏыцӏын (to wrinkle a fabric/paper by pressing it)"
         ]
       },
       "word": "crumple"
@@ -25683,11 +25710,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1ыц1ын (to crush, to press between two hard objects, to squeeze so as to alter the natural shape or integrity of it)",
-          "дэц1ыц1эн (to crush between, to crush inside another object)",
-          "зэхэк1ын (to crush, to overwhelm by pressure or weight)",
-          "ч1эц1ыц1эн (to crush under)",
-          "хэц1ыц1эн (to crush within)"
+          "цӏыцӏын (to crush, to press between two hard objects, to squeeze so as to alter the natural shape or integrity of it)",
+          "дэцӏыцӏэн (to crush between, to crush inside another object)",
+          "зэхэкӏын (to crush, to overwhelm by pressure or weight)",
+          "чӏэцӏыцӏэн (to crush under)",
+          "хэцӏыцӏэн (to crush within)"
         ]
       },
       "word": "crush"
@@ -25695,7 +25722,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыц1ыгъэ"
+          "цӏыцӏыгъэ"
         ],
         "verbs": []
       },
@@ -25705,7 +25732,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ек1эхын (to crush down)"
+          "екӏэхын (to crush down)"
         ]
       },
       "word": "crush down"
@@ -25725,7 +25752,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэблэдзын (to cross things together)",
-          "зэпычын / зэпырык1ын (to go across)",
+          "зэпычын / зэпырыкӏын (to go across)",
           "зэблэчъын (to run across)"
         ]
       },
@@ -25735,7 +25762,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "псынк1эу зэпычын"
+          "псынкӏэу зэпычын"
         ]
       },
       "word": "cross quickly"
@@ -25752,7 +25779,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "плъыжь ч1апц1"
+          "плъыжь чӏапцӏ"
         ],
         "verbs": []
       },
@@ -25761,7 +25788,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мац1э"
+          "мацӏэ"
         ],
         "verbs": []
       },
@@ -25771,11 +25798,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ын (to create, to make)",
-          "къигъэш1ын (to create from nothing)",
+          "шӏын (to create, to make)",
+          "къигъэшӏын (to create from nothing)",
           "къэгъэхъун (to make something appear)",
-          "хэш1ык1ын (to be created out of)",
-          "хэгъэш1ык1ын (to create something out of)"
+          "хэшӏыкӏын (to be created out of)",
+          "хэгъэшӏыкӏын (to create something out of)"
         ]
       },
       "word": "create"
@@ -25818,7 +25845,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мыжъуак1э (мыжъо гъэушкъоигъ)"
+          "мыжъуакӏэ (мыжъо гъэушкъоигъ)"
         ],
         "verbs": []
       },
@@ -25837,8 +25864,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ышъо",
-          "ч1ышъор"
+          "кӏышъо",
+          "чӏышъор"
         ],
         "verbs": []
       },
@@ -25847,7 +25874,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ои"
+          "шӏои"
         ],
         "verbs": []
       },
@@ -25865,7 +25892,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лыц1агъэ"
+          "лыцӏагъэ"
         ],
         "verbs": []
       },
@@ -25875,9 +25902,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1онт1эн (to be crooked)",
-          "гъэ1онт1эн (to crook something)",
-          "гъэ1орт1эн (Shapsug)"
+          "ӏонтӏэн (to be crooked)",
+          "гъэӏонтӏэн (to crook something)",
+          "гъэӏортӏэн (Shapsug)"
         ]
       },
       "word": "crook"
@@ -25885,11 +25912,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1онт1агъ",
-          "1орт1агъ (Shapsug)",
+          "ӏонтӏагъ",
+          "ӏортӏагъ (Shapsug)",
           "къуащэ",
           "лъэныкъуащ",
-          "тазэ, к1элъэныкъуащ"
+          "тазэ, кӏэлъэныкъуащ"
         ],
         "verbs": []
       },
@@ -25908,7 +25935,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ек1эхын (to crush down)"
+          "екӏэхын (to crush down)"
         ]
       },
       "word": "crash down"
@@ -25919,9 +25946,9 @@ const englishDict = {
         "verbs": [
           "хэхьан (to crash into)",
           "жэхэхьан (to collidate into)",
-          "к1оц1ыхьан (to intensively crash into)",
+          "кӏоцӏыхьан (to intensively crash into)",
           "дэфэн (to drive off)",
-          "ек1эхын (to crasj down)"
+          "екӏэхын (to crasj down)"
         ]
       },
       "word": "crash"
@@ -25971,7 +25998,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зыгъэшъхъын",
-          "къызэхэт1ысхьан"
+          "къызэхэтӏысхьан"
         ]
       },
       "word": "crouch"
@@ -26015,7 +26042,7 @@ const englishDict = {
           "дэкон / дэкоцэн (to cram into something, to cram in between)",
           "хэкон / хэкоцэн (to cram through something)",
           "икон / икоцэн (to cram inside something)",
-          "ч1экон / ч1экоцэн (to cram under something)",
+          "чӏэкон / чӏэкоцэн (to cram under something)",
           "текон / текоцэн (to cram above something)",
           "дэгъэзыхьан (to forcefully cram something in between, to forcefully cram something inside another object)",
           "игъэзыхьан (to forcefully cram inside)",
@@ -26040,10 +26067,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1энлъэн",
-          "(Shapsug) ц1элъэн",
+          "цӏэнлъэн",
+          "(Shapsug) цӏэлъэн",
           "пшэн / пшын",
-          "хэпшыхьан / хэц1энлъыхьан (to crawl into)"
+          "хэпшыхьан / хэцӏэнлъыхьан (to crawl into)"
         ]
       },
       "word": "crawl"
@@ -26052,8 +26079,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1энлъэн",
-          "(Shapsug) ц1элъэн",
+          "цӏэнлъэн",
+          "(Shapsug) цӏэлъэн",
           "пшэн / пшын"
         ]
       },
@@ -26091,7 +26118,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьагъэпц1ы",
+          "тхьагъэпцӏы",
           "хъоршэр"
         ],
         "verbs": []
@@ -26112,9 +26139,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къуащэу",
-          "1онт1агъэу",
-          "1орт1агъэу (Shapsug)",
-          "къонц1эу",
+          "ӏонтӏагъэу",
+          "ӏортӏагъэу (Shapsug)",
+          "къонцӏэу",
           "лъэныкъуащэу"
         ],
         "verbs": []
@@ -26166,8 +26193,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гэ",
-          "к1энк1эхэр",
-          "к1энк1э"
+          "кӏэнкӏэхэр",
+          "кӏэнкӏэ"
         ],
         "verbs": []
       },
@@ -26177,7 +26204,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гэ",
-          "к1энк1эхэр"
+          "кӏэнкӏэхэр"
         ],
         "verbs": []
       },
@@ -26193,12 +26220,12 @@ const englishDict = {
           "пыутын (to break off a part from, to rip off a part from, to tear off a part from)",
           "цунтхъэн (to tear part)",
           "тетхъын (to peel off from, to tear off from)",
-          "хэтхъын (to pull/tear a part/portion of something)",
-          "пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull/tear a body part)",
+          "хэтхъын (to pull or tear a portion out of something)",
+          "пытхъын (to pull or tear off a part of something on the tip to pull or tear off something attached, to pull or tear a body part)",
           "зэхэтхъын (to tear apart)",
           "зэтетхъын (to tear from above each other) зэпытхъын (to tear off from itself)",
-          "къыпышъунк1ык1ын",
-          "1утхъын (to tear off)",
+          "къыпышъункӏыкӏын",
+          "ӏутхъын (to tear off)",
           "зэхэгъэтэкъун (to tear down and collapse)"
         ]
       },
@@ -26243,7 +26270,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пш1ы"
+          "пшӏы"
         ],
         "verbs": []
       },
@@ -26263,10 +26290,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "тетхъын (to tear off from above something)",
-          "хэтхъын (to pull/tear a part/portion of something)",
-          "пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull/tear a body part)",
+          "хэтхъын (to pull or tear a portion out of something)",
+          "пытхъын (to pull or tear off a part of something on the tip, to pull or tear off something attached, to pull or tear a body part)",
           "зэпытхъын (to tear off from itself)",
-          "ч1этхъын (to tear off from under something)",
+          "чӏэтхъын (to tear off from under something)",
           "пыутын (to break off due to a strong impact)"
         ]
       },
@@ -26294,7 +26321,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ылъэтеплъ"
+          "чӏылъэтеплъ"
         ],
         "verbs": []
       },
@@ -26332,8 +26359,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1элэегъадж",
-          "егъэджак1о"
+          "кӏэлэегъадж",
+          "егъэджакӏо"
         ],
         "verbs": []
       },
@@ -26342,7 +26369,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзэгухь, зэщыгъэхьак1о"
+          "бзэгухь, зэщыгъэхьакӏо"
         ],
         "verbs": []
       },
@@ -26399,7 +26426,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "егъэш1эн (to make someone know)",
+          "егъэшӏэн (to make someone know)",
           "егъэджэн (to teach someone)"
         ]
       },
@@ -26408,7 +26435,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эмгуе"
+          "кӏэмгуе"
         ],
         "verbs": []
       },
@@ -26428,7 +26455,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1отэн / къэ1отэн"
+          "ӏотэн / къэӏотэн"
         ]
       },
       "word": "tell"
@@ -26437,7 +26464,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1э1отык1ын"
+          "кӏэӏотыкӏын"
         ]
       },
       "word": "tell on"
@@ -26446,9 +26473,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъао",
-          "к1элэжъ",
-          "к1элэхъу",
-          "к1элак1э"
+          "кӏэлэжъ",
+          "кӏэлэхъу",
+          "кӏэлакӏэ"
         ],
         "verbs": []
       },
@@ -26458,7 +26485,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дэи",
-          "1ае"
+          "ӏае"
         ],
         "verbs": []
       },
@@ -26469,7 +26496,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэсэн",
-          "гъэ1эсэн"
+          "гъэӏэсэн"
         ]
       },
       "word": "teach good manners"
@@ -26479,7 +26506,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэсэн",
-          "гъэ1эсэн"
+          "гъэӏэсэн"
         ]
       },
       "word": "teach good behavior"
@@ -26488,7 +26515,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэт1эп1ын"
+          "гъэтӏэпӏын"
         ]
       },
       "word": "tear at the seams"
@@ -26497,7 +26524,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дэбжъыкъу (anatomy)",
-          "тхьэлъэ1уп1э (a house of worship)"
+          "тхьэлъэӏупӏэ (a house of worship)"
         ],
         "verbs": []
       },
@@ -26507,7 +26534,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уплъэк1ун",
+          "уплъэкӏун",
           "ушэтын"
         ]
       },
@@ -26575,7 +26602,7 @@ const englishDict = {
           "ехъонын (to swear at someone)",
           "хэхъонэн / жэхэхъонэн (to swear at someone\u0027s face)",
           "хэхъонэхьан / жэхэхъонэхьан (to intensively swear at someone\u0027s face)",
-          "еук1ын (to damn)"
+          "еукӏын (to damn)"
         ]
       },
       "word": "curse"
@@ -26592,7 +26619,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпэгъуапэ"
+          "ӏэпэгъуапэ"
         ],
         "verbs": []
       },
@@ -26611,7 +26638,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзак1о"
+          "бзакӏо"
         ],
         "verbs": []
       },
@@ -26620,20 +26647,20 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "у1агъэ (cut on the body, wound)",
-          "ш1обзы"
+          "уӏагъэ (cut on the body, wound)",
+          "шӏобзы"
         ],
         "verbs": [
           "бзын (to cut with scissors or knife or sword)",
-          "пыупк1ын (to cut off something from)",
-          "гоупк1ын (to cut off the side)",
-          "иупк1ын (to cut down a tree)",
-          "ш1обзын (to slice to kill)",
+          "пыупкӏын (to cut off something from)",
+          "гоупкӏын (to cut off the side)",
+          "иупкӏын (to cut down a tree)",
+          "шӏобзын (to slice to kill)",
           "упхъун (to cut hair or fur or grass)",
-          "к1эупхъухьан (to take a haircut)",
-          "хэупк1ын (to cut out a piece from)",
-          "хэбзык1ын (to cut off)",
-          "упк1эн (to mow, to cut down grass or crops)",
+          "кӏэупхъухьан (to take a haircut)",
+          "хэупкӏын (to cut out a piece from)",
+          "хэбзыкӏын (to cut off)",
+          "упкӏэн (to mow, to cut down grass or crops)",
           "хын (to reap, to cut (for example a grain) with a sickle, scythe, or reaping machine))",
           "пыупхъухьан (to cut hair lightly)"
         ]
@@ -26645,7 +26672,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "упхъун (to cut hair or fur or grass)",
-          "к1эупхъухьан (to take a haircut)",
+          "кӏэупхъухьан (to take a haircut)",
           "пыупхъухьан (to cut hair lightly)",
           "упхъон"
         ]
@@ -26656,7 +26683,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "иупк1ын"
+          "иупкӏын"
         ]
       },
       "word": "cut down"
@@ -26688,8 +26715,8 @@ const englishDict = {
         "lemmas": [
           "ахъщэ",
           "парэ",
-          "нэгъэц1ыу",
-          "хъурыш1э"
+          "нэгъэцӏыу",
+          "хъурышӏэ"
         ],
         "verbs": []
       },
@@ -26708,9 +26735,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1онт1эн (to be curved)",
-          "гъэ1онт1эн (to curve something)",
-          "гъэ1орт1эн (Shapsug)"
+          "ӏонтӏэн (to be curved)",
+          "гъэӏонтӏэн (to curve something)",
+          "гъэӏортӏэн (Shapsug)"
         ]
       },
       "word": "curve"
@@ -26718,8 +26745,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1онт1агъ",
-          "1орт1агъ (Shapsug)",
+          "ӏонтӏагъ",
+          "ӏортӏагъ (Shapsug)",
           "къуащэ"
         ],
         "verbs": []
@@ -26730,7 +26757,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэбзык1ын"
+          "дэбзыкӏын"
         ]
       },
       "word": "cut between"
@@ -26739,8 +26766,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэупк1ын",
-          "хэбзык1ын"
+          "хэупкӏын",
+          "хэбзыкӏын"
         ]
       },
       "word": "cut out"
@@ -26794,7 +26821,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пл1эмыепкъ"
+          "плӏэмыепкъ"
         ],
         "verbs": []
       },
@@ -26804,9 +26831,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пыупк1ын",
-          "гоупк1ын (to cut off the side)",
-          "ш1огъэшъутын (to cut off, to slice)"
+          "пыупкӏын",
+          "гоупкӏын (to cut off the side)",
+          "шӏогъэшъутын (to cut off, to slice)"
         ]
       },
       "word": "cut off"
@@ -26841,8 +26868,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэ1ухъо",
-          "шъхьаныгъупчъэ1ухъу"
+          "пэӏухъо",
+          "шъхьаныгъупчъэӏухъу"
         ],
         "verbs": []
       },
@@ -26851,8 +26878,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэ1ухъо",
-          "шъхьаныгъупчъэ1ухъу"
+          "пэӏухъо",
+          "шъхьаныгъупчъэӏухъу"
         ],
         "verbs": []
       },
@@ -26861,7 +26888,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьагъэпц1ы",
+          "тхьагъэпцӏы",
           "хъоршэр"
         ],
         "verbs": []
@@ -26871,7 +26898,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "го1у"
+          "гоӏу"
         ],
         "verbs": []
       },
@@ -26927,17 +26954,17 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "адэ",
-          "ак1э",
-          "адэк1э",
+          "акӏэ",
+          "адэкӏэ",
           "ау (dialectal)",
-          "(dialectal) аук1э (from there)",
-          "(dialectal) а т1эк1ум",
+          "(dialectal) аукӏэ (from there)",
+          "(dialectal) а тӏэкӏум",
           "модэ",
-          "мок1э)",
-          "модэк1э",
-          "адэ, ак1э, ау, (dialectal) а т1эк1ум",
-          "модэ, мок1э, моу, (dialectal) мо т1эк1ум",
-          "щы1эн (there is/are, there was/were, there exist)"
+          "мокӏэ)",
+          "модэкӏэ",
+          "адэ, акӏэ, ау, (dialectal) а тӏэкӏум",
+          "модэ, мокӏэ, моу, (dialectal) мо тӏэкӏум",
+          "щыӏэн (there is, there are, there was, there were, there exist)"
         ],
         "verbs": []
       },
@@ -27040,7 +27067,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1удан"
+          "ӏудан"
         ],
         "verbs": []
       },
@@ -27060,7 +27087,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчык1э"
+          "пчыкӏэ"
         ],
         "verbs": []
       },
@@ -27069,7 +27096,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тыгъуак1о"
+          "тыгъуакӏо"
         ],
         "verbs": []
       },
@@ -27078,8 +27105,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псыфал1 (thirst)",
-          "псыфал1э л1эн (to be thirsty)"
+          "псыфалӏ (thirst)",
+          "псыфалӏэ лӏэн (to be thirsty)"
         ],
         "verbs": []
       },
@@ -27088,8 +27115,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псыфал1 (thirst)",
-          "псыфал1э л1эн (to be thirsty)"
+          "псыфалӏ (thirst)",
+          "псыфалӏэ лӏэн (to be thirsty)"
         ],
         "verbs": []
       },
@@ -27107,8 +27134,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "модэ, мок1э, моу, (dialectal) мо т1эк1ум",
-          "(dialectal) удэ, (dialectal) оук1э, (dialectal) оу, (dialectal) у т1эк1ум"
+          "модэ, мокӏэ, моу, (dialectal) мо тӏэкӏум",
+          "(dialectal) удэ, (dialectal) оукӏэ, (dialectal) оу, (dialectal) у тӏэкӏум"
         ],
         "verbs": []
       },
@@ -27117,7 +27144,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "адэ, ак1э, ау, (dialectal) а т1эк1ум"
+          "адэ, акӏэ, ау, (dialectal) а тӏэкӏум"
         ],
         "verbs": []
       },
@@ -27126,7 +27153,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щы1 (there is, there exist)"
+          "щыӏ (there is, there exist)"
         ],
         "verbs": []
       },
@@ -27135,7 +27162,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щы1эх (there are, there exists)"
+          "щыӏэх (there are, there exists)"
         ],
         "verbs": []
       },
@@ -27144,7 +27171,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щы1агъ (there was, there existed)"
+          "щыӏагъ (there was, there existed)"
         ],
         "verbs": []
       },
@@ -27153,7 +27180,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щы1агъэх (there were, there existed)"
+          "щыӏагъэх (there were, there existed)"
         ],
         "verbs": []
       },
@@ -27162,7 +27189,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щы1 (there is, there exist)"
+          "щыӏ (there is, there exist)"
         ],
         "verbs": []
       },
@@ -27221,8 +27248,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ащыгъум",
-          "ет1анэ / ет1анэк1э",
-          "(dialectal) ет1уанэ / ет1уанэк1э",
+          "етӏанэ / етӏанэкӏэ",
+          "етӏуанэ / етӏуанэкӏэ",
           "ащыгъум (then, at that time)",
           "джащыгъум (then, at that time)",
           "джэщгъум"
@@ -27237,7 +27264,7 @@ const englishDict = {
           "-эти / -эшъ (suffix that highlights the reason)",
           "арышъ / арти (because of that, because that is the case, so, therefore",
           "for that reason, due to that)",
-          "ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+          "ащ пае / ащ фэшӏкӏэ / джащ пае / джащ фэшӏыкӏэ (for that reason or cause, because of that)"
         ],
         "verbs": []
       },
@@ -27273,7 +27300,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щэк1ы"
+          "щэкӏы"
         ],
         "verbs": []
       },
@@ -27291,7 +27318,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ужъугъэ"
+          "ӏужъугъэ"
         ],
         "verbs": []
       },
@@ -27301,7 +27328,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "псыгъо (small width)",
-          "п1уак1э (small thickness)"
+          "пӏуакӏэ (small thickness)"
         ],
         "verbs": []
       },
@@ -27311,7 +27338,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ожьын"
+          "ӏожьын"
         ]
       },
       "word": "thresh"
@@ -27327,21 +27354,21 @@ const englishDict = {
           "шъхьадэдзын (to throw over)",
           "шъхьапырыдзын (to throw beyond)",
           "тедзын (to throw off from above something)",
-          "1удзэн (to throw near)",
-          "1удзын (to throw away)",
-          "ч1эдзэн (to throw under)",
-          "ч1эдзын (to throw away from under)",
+          "ӏудзэн (to throw near)",
+          "ӏудзын (to throw away)",
+          "чӏэдзэн (to throw under)",
+          "чӏэдзын (to throw away from under)",
           "хэдзэн (to throw among people/objects or into an area with gas or liquid)",
           "хэдзын (to throw away from among people/objects or outside an area with gas or liquid)",
           "дэдзыен (to throw up)",
           "едзыхын (to throw down)",
           "жэхэдзэн (to throw intensively onto someone)",
-          "зэк1эдзэн (to throw back)",
+          "зэкӏэдзэн (to throw back)",
           "шъхьэдэдзын (to throw over)",
           "жэхэдзэн (to intensively throw something against)",
           "итэкъон (to put/throw stuff inside something)",
           "тетэкъон (to put/throw stuff on something)",
-          "ч1этэкъон (to put/throw stuff under something)",
+          "чӏэтэкъон (to put/throw stuff under something)",
           "дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between)",
           "къотэкъон (to put/throw stuff behind something)",
           "хэтэкъон (to scatter in, to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, plants, gas or liquid)",
@@ -27349,13 +27376,13 @@ const englishDict = {
           "жэхэтэкъон (to put/throw stuff against something)",
           "итэкъун / къитэкъун (to throw/put away stuff from inside something)",
           "тетэкъун / къытетэкъун (to throw/put away stuff from on something)",
-          "ч1этэкъун / къыч1этэкъун (to throw/put away stuff from under something)",
+          "чӏэтэкъун / къычӏэтэкъун (to throw/put away stuff from under something)",
           "дэтэкъун / къыдэтэкъун (to throw/put away stuff from inside another object, to throw/put away stuff from between)",
           "къотэкъун / къыкъотэкъун (to throw/put away stuff from behind something)",
           "хэтэкъун / къыхэтэкъун (to throw/put away stuff from among other objects/people, to throw/put away stuff from an area with fire, gas or liquid)",
           "готэкъун / бгъодэтэкъун (to throw/put away stuff from besides something)",
-          "хэупц1эн / жэхэуп1эн (to throw and smash something against something)",
-          "1оф хэдзэн (to put/throw someone in a troublesome situation)"
+          "хэупцӏэн / жэхэупӏэн (to throw and smash something against something)",
+          "ӏоф хэдзэн (to put/throw someone in a troublesome situation)"
         ]
       },
       "word": "throw"
@@ -27365,17 +27392,17 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "тедзын / къытедзын (to throw on)",
-          "1удзын / къы1удзын (to throw away, to throw elsewhere)",
+          "ӏудзын / къыӏудзын (to throw away, to throw elsewhere)",
           "идзын / къыидзын (to throw away from inside)",
           "дэдзын / къыдэдзын (to throw away from inside another object or from between)",
-          "ч1эдзын / къыч1эдзын (to throw away from under)",
+          "чӏэдзын / къычӏэдзын (to throw away from under)",
           "хэдзын / къыхэдзын (to throw away from among people/objects or outside an area with gas or liquid)",
           "пыдзын / къыпыдзын (to throw away from the surface of a body)",
           "жэхэдзын / къыжэхэдзын (to intensively throw away from someone)",
           "къызтедзын / къызпэдзын (to throw something away from oneself)",
           "итэкъун / къитэкъун (to throw away stuff from inside something)",
           "тетэкъун / къытетэкъун (to throw away stuff from on something)",
-          "ч1этэкъун / къыч1этэкъун (to throw away stuff from under something)",
+          "чӏэтэкъун / къычӏэтэкъун (to throw away stuff from under something)",
           "дэтэкъун / къыдэтэкъун (to throw away stuff from inside another object, to throw away stuff from between)",
           "къотэкъун / къыкъотэкъун (to throw away stuff from behind something)",
           "хэтэкъун / къыхэтэкъун (to throw away stuff from among other objects/people, to throw away stuff from an area with fire, gas or liquid)",
@@ -27397,7 +27424,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
           "зэхэлъхьан (to put together)"
         ]
       },
@@ -27454,7 +27481,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пщэры (fat)",
-          "1ужъу (thick, wideful)",
+          "ӏужъу (thick, wideful)",
           "гъумы"
         ],
         "verbs": []
@@ -27529,7 +27556,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1элэ-гъуалэхэр"
+          "кӏэлэ-гъуалэхэр"
         ],
         "verbs": []
       },
@@ -27549,7 +27576,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гупшысэ",
-          "гукъэк1 (idea)",
+          "гукъэкӏ (idea)",
           "гурыш"
         ],
         "verbs": []
@@ -27574,7 +27601,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыш1ош1ужьын"
+          "зышӏошӏужьын"
         ]
       },
       "word": "think full of oneself"
@@ -27582,7 +27609,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу",
           "шъодэны (leather)"
         ],
@@ -27634,9 +27661,9 @@ const englishDict = {
           "егупшысэн",
           "хэгупшысыхьан (to become thoughtful)",
           "къэугупшысын (to think out)",
-          "ш1ош1ын (to think that, to reckon that, to suppose, to have the opinion of)",
+          "шӏошӏын (to think that, to reckon that, to suppose, to have the opinion of)",
           "енэгуен (to think but not be absolutely sure)",
-          "тегупшысык1ын (to underthink)"
+          "тегупшысыкӏын (to underthink)"
         ]
       },
       "word": "think"
@@ -27645,7 +27672,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ош1ын (to think that, to suppose, to reckon, to have the opinion of)",
+          "шӏошӏын (to think that, to suppose, to reckon, to have the opinion of)",
           "енэгуен (to think but not be absolutely sure)"
         ]
       },
@@ -27673,7 +27700,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1эужыгъо"
+          "лӏэужыгъо"
         ],
         "verbs": []
       },
@@ -27700,7 +27727,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчъэшъхьа1у"
+          "пчъэшъхьаӏу"
         ],
         "verbs": []
       },
@@ -27768,7 +27795,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхылъып1э"
+          "тхылъыпӏэ"
         ],
         "verbs": []
       },
@@ -27779,13 +27806,13 @@ const englishDict = {
         "lemmas": [
           "цыпэ",
           "нэз",
-          "цак1э",
+          "цакӏэ",
           "пытын (to be on the tip of)",
           "пылъын (to be on the tip of)",
           "цыпэ",
-          "пак1э",
-          "к1э",
-          "к1эух",
+          "пакӏэ",
+          "кӏэ",
+          "кӏэух",
           "гъунэ"
         ],
         "verbs": []
@@ -27795,7 +27822,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бамык1 (an arachnid)"
+          "бамыкӏ (an arachnid)"
         ],
         "verbs": []
       },
@@ -27823,7 +27850,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "жъый",
-          "ц1ык1ужъый"
+          "цӏыкӏужъый"
         ],
         "verbs": []
       },
@@ -27856,10 +27883,9 @@ const englishDict = {
           "пыпхэн (to tie something to)",
           "зэтепхэн (to tie up someone or something with a rope, wire, string, etc)",
           "егъэпхын (to tie something to something)",
-          "зэк1оц1ыпхэн (to tie together, to tangle, to intertwine)",
           "зэкъодзэн (to tie up, to fasten)",
-          "к1эпхэн (to tie under something)",
-          "зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled or intertwined)"
+          "кӏэпхэн (to tie under something)",
+          "зэкӏоцӏыпхэн (to tied within each other, to tangled or intertwined)"
         ]
       },
       "word": "tie"
@@ -27903,7 +27929,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пытэу ш1ын / гъэпытэн (to tighten something)",
+          "пытэу шӏын / гъэпытэн (to tighten something)",
           "тегъэпытыхьан (to tighten something on)"
         ]
       },
@@ -27912,9 +27938,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэпэпц1ый",
-          "лъэпапц1э",
-          "(Shapsug) лъэпэпс1ый"
+          "лъэпэпцӏый",
+          "лъэпапцӏэ",
+          "(Shapsug) лъэпэпсӏый"
         ],
         "verbs": []
       },
@@ -27923,7 +27949,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -27933,8 +27959,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1апсэрык1о",
-          "к1эпсэрышъу"
+          "кӏапсэрыкӏо",
+          "кӏэпсэрышъу"
         ],
         "verbs": []
       },
@@ -27953,7 +27979,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1ытапх (lacking confidence)",
+          "укӏытапх (lacking confidence)",
           "щтапхэ / щынапхэ / къэрабгъэ (lacking courage)"
         ],
         "verbs": []
@@ -27983,7 +28009,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1угъуашъо"
+          "ӏугъуашъо"
         ],
         "verbs": []
       },
@@ -28011,8 +28037,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ушъорэк1ын",
-          "еук1орэик1ын"
+          "ушъорэкӏын",
+          "еукӏорэикӏын"
         ]
       },
       "word": "tip over"
@@ -28124,7 +28150,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1адэ"
+          "ӏадэ"
         ]
       },
       "word": "tongs"
@@ -28133,7 +28159,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1адэ"
+          "ӏадэ"
         ]
       },
       "word": "tong"
@@ -28183,10 +28209,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "нэсын",
-          "те1эн (to touch with hand)",
-          "те1эбэн (to reach out and touch something with the hand)",
-          "е1эн (to touch with hand)",
-          "те1эбыхьан (to touch all over something)"
+          "теӏэн (to touch with hand)",
+          "теӏэбэн (to reach out and touch something with the hand)",
+          "еӏэн (to touch with hand)",
+          "теӏэбыхьан (to touch all over something)"
         ]
       },
       "word": "touch"
@@ -28195,7 +28221,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "бэджак1"
+          "бэджакӏ"
         ]
       },
       "word": "tobacco leaves"
@@ -28232,10 +28258,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эмэ-псым",
-          "1эдэ-уад",
-          "1эмэпсымэ",
-          "1эдэ-уад"
+          "ӏэмэ-псым",
+          "ӏэдэ-уад",
+          "ӏэмэпсымэ",
+          "ӏэдэ-уад"
         ]
       },
       "word": "tool"
@@ -28253,8 +28279,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "нэпц1 щытхъуа1у",
-          "нэпц1ыгъэк1э щытхъун"
+          "нэпцӏ щытхъуаӏу",
+          "нэпцӏыгъэкӏэ щытхъун"
         ]
       },
       "word": "toady"
@@ -28301,8 +28327,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щэ1эн (to tolerate something)",
-          "фэщэ1эн (to tolerate somehting successful)",
+          "щэӏэн (to tolerate something)",
+          "фэщэӏэн (to tolerate somehting successful)",
           "езэщын (to get to a point in which you can no longer tolerate something)"
         ]
       },
@@ -28312,8 +28338,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эплъэк1",
-          "нэ1аплъэк1"
+          "ӏэплъэкӏ",
+          "нэӏаплъэкӏ"
         ]
       },
       "word": "towel"
@@ -28322,7 +28348,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыплъыхьап1э"
+          "зыплъыхьапӏэ"
         ]
       },
       "word": "tower"
@@ -28331,8 +28357,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьэк1ош1ыпхэ",
-          "шъхьэк1оштэпхэ",
+          "шъхьэкӏошӏыпхэ",
+          "шъхьэкӏоштэпхэ",
           "зыгъэгусал"
         ]
       },
@@ -28351,8 +28377,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щагуик1ып1э",
-          "(dialectal) щауик1ып1"
+          "щагуикӏыпӏэ",
+          "(dialectal) щауикӏыпӏ"
         ]
       },
       "word": "toilet room"
@@ -28361,7 +28387,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "цэлъэк1"
+          "цэлъэкӏ"
         ]
       },
       "word": "toothbrush"
@@ -28438,9 +28464,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1ы1у",
+          "кӏыӏу",
           "шъхьап (apex)",
-          "шъхьа1у (top edge)"
+          "шъхьаӏу (top edge)"
         ]
       },
       "word": "top"
@@ -28482,7 +28508,7 @@ const englishDict = {
           "шъори (you guys too, you all too)",
           "ари (he, she, it, that too)",
           "ахэри (they, those too)",
-          "блэк1ыгъэу / блифыгъэу / блифэу (too much)"
+          "блэкӏыгъэу / блифыгъэу / блифэу (too much)"
         ]
       },
       "word": "too"
@@ -28511,7 +28537,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэгу",
-          "к1эй"
+          "кӏэй"
         ],
         "verbs": []
       },
@@ -28548,7 +28574,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "неущымык1"
+          "неущымыкӏ"
         ],
         "verbs": []
       },
@@ -28583,7 +28609,7 @@ const englishDict = {
         "verbs": [
           "бгын",
           "ебгын (to damn someone)",
-          "еук1ын"
+          "еукӏын"
         ]
       },
       "word": "damn"
@@ -28592,11 +28618,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1э1эн",
-          "к1этхъун",
+          "кӏэӏэн",
+          "кӏэтхъун",
           "блэчъын / блэхъушъутын (to dash past)",
           "техъушъутын (to dash off from above something)",
-          "ч1эхъушъутын (to dash off from under, to dash off from a lying position)",
+          "чӏэхъушъутын (to dash off from under, to dash off from a lying position)",
           "ихъушъутын (to dash out from inside something)",
           "дэхъушъутын (to dash out from a yard, area or settlement)",
           "хэхъушъутын (to dash out of an area with liquid or gas, to dash out from among people/objects, to dash out of a forest)",
@@ -28609,7 +28635,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псы1э-псыблэ"
+          "псыӏэ-псыблэ"
         ],
         "verbs": [
           "гъэулэбын"
@@ -28620,7 +28646,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "а1уе"
+          "аӏуе"
         ],
         "verbs": []
       },
@@ -28634,7 +28660,7 @@ const englishDict = {
         ],
         "verbs": [
           "къэшъон",
-          "къеш1эн",
+          "къешӏэн",
           "уджын"
         ]
       },
@@ -28644,7 +28670,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "мэзахэ",
-          "ш1унк1"
+          "шӏункӏ"
         ],
         "verbs": []
       },
@@ -28653,7 +28679,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1унк1ы"
+          "шӏункӏы"
         ],
         "verbs": []
       },
@@ -28663,7 +28689,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "датэ",
-          "п1алъэ"
+          "пӏалъэ"
         ],
         "verbs": []
       },
@@ -28672,8 +28698,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шынэгъак1",
-          "ц1ынэгъак1"
+          "шынэгъакӏ",
+          "цӏынэгъакӏ"
         ],
         "verbs": []
       },
@@ -28690,8 +28716,8 @@ const englishDict = {
           "гъэсэкъатын (to make something dysfunctional)",
           "унэхъун",
           "гъэунэхъун",
-          "зэ1ыгъэхьан (to make something dysfunctional)",
-          "ш1огъэон (to ruin someone\u0027s property or plan)"
+          "зэӏыгъэхьан (to make something dysfunctional)",
+          "шӏогъэон (to ruin someone\u0027s property or plan)"
         ]
       },
       "word": "damage"
@@ -28737,7 +28763,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къарэ",
-          "щ1уц1ашъо"
+          "щӏуцӏашъо"
         ],
         "verbs": []
       },
@@ -28757,8 +28783,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэумэзэхын",
-          "къэуш1унк1ын",
-          "уш1унк1ын"
+          "къэушӏункӏын",
+          "ушӏункӏын"
         ]
       },
       "word": "darken"
@@ -28784,7 +28810,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэшъуак1о"
+          "къэшъуакӏо"
         ],
         "verbs": []
       },
@@ -28805,8 +28831,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1и1эн",
-          "к1итхъун"
+          "кӏиӏэн",
+          "кӏитхъун"
         ]
       },
       "word": "dash"
@@ -28823,7 +28849,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къуапц1э"
+          "къуапцӏэ"
         ],
         "verbs": []
       },
@@ -28860,7 +28886,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъорыш1"
+          "шъорышӏ"
         ],
         "verbs": []
       },
@@ -28889,13 +28915,13 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "щыфэн",
-          "тец1элэн",
+          "тецӏэлэн",
           "тефыхьан",
           "ин (to coat (with clay or cement)",
           "to daub",
           "to stucco",
           "to plaster)",
-          "к1эен (to coat under)"
+          "кӏэен (to coat under)"
         ]
       },
       "word": "daub"
@@ -28959,7 +28985,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэш1оку"
+          "мэшӏоку"
         ],
         "verbs": [
           "мэсэн (to be trained)",
@@ -29043,8 +29069,8 @@ const englishDict = {
           "цэхь (Shapsug)"
         ],
         "verbs": [
-          "цыхьэ ш1ын (to be trusting)",
-          "цыхьэ фэш1ын",
+          "цыхьэ шӏын (to be trusting)",
+          "цыхьэ фэшӏын",
           "щыгугъын (to rely on)"
         ]
       },
@@ -29053,7 +29079,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ык1ай"
+          "шӏыкӏай"
         ],
         "verbs": []
       },
@@ -29066,8 +29092,8 @@ const englishDict = {
           "бзыхьан",
           "бзытэн",
           "упхъон",
-          "ук1эрэпхъын",
-          "(Shapsug) ук1эпхъын",
+          "укӏэрэпхъын",
+          "(Shapsug) укӏэпхъын",
           "пыупхъухьан (to trim lightly)"
         ]
       },
@@ -29078,7 +29104,7 @@ const englishDict = {
         "lemmas": [
           "ушъы",
           "лъэхъу",
-          "былъытырык1у"
+          "былъытырыкӏу"
         ],
         "verbs": [
           "ушъын",
@@ -29101,7 +29127,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сатыуш1"
+          "сатыушӏ"
         ],
         "verbs": []
       },
@@ -29110,9 +29136,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъыпкъэ1о",
-          "гупц1анэ",
-          "гупс1анэ (Shapsug)"
+          "шъыпкъэӏо",
+          "гупцӏанэ",
+          "гупсӏанэ (Shapsug)"
         ],
         "verbs": []
       },
@@ -29148,7 +29174,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэпц1ак1о"
+          "гъэпцӏакӏо"
         ],
         "verbs": []
       },
@@ -29164,8 +29190,8 @@ const englishDict = {
           "хэубытэн (to trap something in an area with liquid, gas or solid)",
           "теубытэн (to trap on above something)",
           "иубытэн (to trap inside something)",
-          "ч1эубытэн (to trap under something)",
-          "иш1ыхьан / къиш1ыхьан (to trap in a circle)"
+          "чӏэубытэн (to trap under something)",
+          "ишӏыхьан / къишӏыхьан (to trap in a circle)"
         ]
       },
       "word": "trap"
@@ -29211,7 +29237,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъы1эс"
+          "лъыӏэс"
         ],
         "verbs": []
       },
@@ -29221,7 +29247,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэдзэк1ын",
+          "зэдзэкӏын",
           "(dialectal) зэблэдзын"
         ]
       },
@@ -29268,12 +29294,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зек1о"
+          "зекӏо"
         ],
         "verbs": [
           "лъэпэон",
-          "лъэпэш1оон",
-          "ш1онэн"
+          "лъэпэшӏоон",
+          "шӏонэн"
         ]
       },
       "word": "trip"
@@ -29291,7 +29317,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уплъэк1ун"
+          "уплъэкӏун"
         ]
       },
       "word": "try out"
@@ -29300,8 +29326,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1он (to try to do something)",
-          "уплъэк1ун (to try out something)",
+          "ӏон (to try to do something)",
+          "уплъэкӏун (to try out something)",
           "ушэтын (to try, to examine, to check, to verify, to test)"
         ]
       },
@@ -29329,7 +29355,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эзэгъу"
+          "ӏэзэгъу"
         ],
         "verbs": []
       },
@@ -29340,7 +29366,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэзэн",
-          "к1эзэзын"
+          "кӏэзэзын"
         ]
       },
       "word": "tremble"
@@ -29348,7 +29374,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)",
+          "дэлъхьапӏэ / дэлъыпӏэ (an object or place in which stuff are stored)",
           "пхъуантэ",
           "чэмэдан"
         ],
@@ -29360,8 +29386,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "е1эзэн (to treat medically)",
-          "дэзек1он (to treat someone with a certian behavior)"
+          "еӏэзэн (to treat medically)",
+          "дэзекӏон (to treat someone with a certian behavior)"
         ]
       },
       "word": "treat"
@@ -29369,8 +29395,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэдзэк1ак1о",
-          "зэдзэк1ак1о"
+          "зэдзэкӏакӏо",
+          "зэдзэкӏакӏо"
         ],
         "verbs": []
       },
@@ -29388,7 +29414,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ык1у-шъок1у"
+          "цӏыкӏу-шъокӏу"
         ],
         "verbs": []
       },
@@ -29406,7 +29432,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъогурык1о"
+          "гъогурыкӏо"
         ],
         "verbs": []
       },
@@ -29415,8 +29441,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зек1о",
-          "гъогуонэк1уныр"
+          "зекӏо",
+          "гъогуонэкӏуныр"
         ],
         "verbs": []
       },
@@ -29425,8 +29451,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэк1ы",
-          "ш1ои"
+          "хэкӏы",
+          "шӏои"
         ],
         "verbs": []
       },
@@ -29474,7 +29500,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1эныгъэ",
+          "лӏэныгъэ",
           "аджал"
         ],
         "verbs": []
@@ -29484,7 +29510,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къытек1ыгъэр"
+          "къытекӏыгъэр"
         ],
         "verbs": []
       },
@@ -29493,7 +29519,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "илъэсипш1"
+          "илъэсипшӏ"
         ],
         "verbs": []
       },
@@ -29522,10 +29548,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "ежьэн (to go off to a journey)",
-          "1ук1ыжьын (to go away from the place one is)",
+          "ӏукӏыжьын (to go away from the place one is)",
           "гъогум техьан (to go on the road)",
           "дэхьажьын (to head back)",
-          "к1э1эн / к1этхъун (to run off, to depart quickly)",
+          "кӏэӏэн / кӏэтхъун (to run off, to depart quickly)",
           "ежьэжьын"
         ]
       },
@@ -29580,10 +29606,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1ы",
-          "унэк1ыгъэ",
+          "нэкӏы",
+          "унэкӏыгъэ",
           "бгынагъэ",
-          "т1упщыгъ"
+          "тӏупщыгъ"
         ],
         "verbs": []
       },
@@ -29596,7 +29622,7 @@ const englishDict = {
         ],
         "verbs": [
           "бгынэн",
-          "т1упщын"
+          "тӏупщын"
         ]
       },
       "word": "desert"
@@ -29622,7 +29648,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гуш1уагъо",
+          "гушӏуагъо",
           "гуапэ"
         ],
         "verbs": []
@@ -29632,7 +29658,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гуш1уагъо",
+          "гушӏуагъо",
           "гуапэ"
         ],
         "verbs": []
@@ -29642,7 +29668,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1агъэ"
+          "лӏагъэ"
         ],
         "verbs": []
       },
@@ -29680,7 +29706,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "епэсын / фэгъэшъошэн (to regard someone as, to deem as)",
-          "егъэк1ун (to deem appropriate)"
+          "егъэкӏун (to deem appropriate)"
         ]
       },
       "word": "deem"
@@ -29689,7 +29715,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
           "зэхэлъхьан (to put together)"
         ]
       },
@@ -29719,8 +29745,8 @@ const englishDict = {
           "зэхэубэтэн",
           "зэхэубэтыхьан",
           "(from Arabic) гъэухъэрэбын",
-          "ш1огъэон (to destroy someone\u0027s property or plan)",
-          "ш1оубэтэн (to destroy/break someone\u0027s property)",
+          "шӏогъэон (to destroy someone\u0027s property or plan)",
+          "шӏоубэтэн (to destroy/break someone\u0027s property)",
           "къегъэохын (to destroy something and make it fall down)"
         ]
       },
@@ -29742,7 +29768,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ап1э"
+          "лӏапӏэ"
         ],
         "verbs": []
       },
@@ -29752,11 +29778,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэк1ын",
-          "нахь мак1эу хъун",
-          "хэгъэк1ын",
-          "гъэт1эк1ун (to make it little)",
-          "къыщыгъэк1эн (reduce)"
+          "хэкӏын",
+          "нахь макӏэу хъун",
+          "хэгъэкӏын",
+          "гъэтӏэкӏун (to make it little)",
+          "къыщыгъэкӏэн (reduce)"
         ]
       },
       "word": "decrease"
@@ -29764,7 +29790,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "блэнашк1э"
+          "блэнашкӏэ"
         ],
         "verbs": []
       },
@@ -29773,7 +29799,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сатыуш1"
+          "сатыушӏ"
         ],
         "verbs": []
       },
@@ -29791,7 +29817,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэпц1ак1о"
+          "гъэпцӏакӏо"
         ],
         "verbs": []
       },
@@ -29800,7 +29826,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ык1о"
+          "лӏыкӏо"
         ],
         "verbs": []
       },
@@ -29830,9 +29856,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин (to be deleted)",
-          "гъэуш1оин (to delete)",
-          "тегъэуш1ойк1ын (to delete from above)"
+          "ушӏоин (to be deleted)",
+          "гъэушӏоин (to delete)",
+          "тегъэушӏойкӏын (to delete from above)"
         ]
       },
       "word": "delete"
@@ -29840,11 +29866,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэ1у",
-          "гук1ае"
+          "лъэӏу",
+          "гукӏае"
         ],
         "verbs": [
-          "к1эдэун"
+          "кӏэдэун"
         ]
       },
       "word": "demand"
@@ -29861,7 +29887,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущык1ыгъо (loathsome)",
+          "гущыкӏыгъо (loathsome)",
           "гуштэгъуадж",
           "гохьыдж"
         ],
@@ -29874,7 +29900,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэделэн",
-          "гъэпц1эн",
+          "гъэпцӏэн",
           "(slightly vulgar) ышъуты лэн"
         ]
       },
@@ -29885,7 +29911,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэмартын",
-          "тек1он",
+          "текӏон",
           "гъэпщэн (Shapsug)"
         ]
       },
@@ -29903,7 +29929,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъап1э"
+          "лъапӏэ"
         ],
         "verbs": []
       },
@@ -29913,7 +29939,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэк1эрэк1эн"
+          "гъэкӏэрэкӏэн"
         ]
       },
       "word": "decorate"
@@ -29921,10 +29947,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щык1агъэ",
+          "щыкӏагъэ",
           "дагъо",
           "дефект",
-          "нэц1эк1"
+          "нэцӏэкӏ"
         ],
         "verbs": []
       },
@@ -29933,15 +29959,15 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щык1агъ",
+          "щыкӏагъ",
           "дагъо",
           "дефект",
-          "нэц1эк1",
-          "щык1агъ",
+          "нэцӏэкӏ",
+          "щыкӏагъ",
           "дагъо",
           "ныкъо-тыркъуагъ",
           "дефект",
-          "нэц1эк1"
+          "нэцӏэкӏ"
         ],
         "verbs": []
       },
@@ -29952,12 +29978,12 @@ const englishDict = {
         "lemmas": [
           "дефект",
           "дагъо",
-          "нэц1эк1",
+          "нэцӏэкӏ",
           "сэкъат",
           "лажьэ (a defect)"
         ],
         "verbs": [
-          "зэ1ыгъэхьан",
+          "зэӏыгъэхьан",
           "гъэсэкъатын"
         ]
       },
@@ -29977,12 +30003,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "текощык1ын (to be deviate)",
-          "тегъэкощык1ын (to deviate something)",
+          "текощыкӏын (to be deviate)",
+          "тегъэкощыкӏын (to deviate something)",
           "гъэкощын (to deviate something)",
-          "гъэк1отэн (to deviate something)",
-          "тек1отык1ын (to be deviate)",
-          "тегъэк1отык1ын (to deviate something)"
+          "гъэкӏотэн (to deviate something)",
+          "текӏотыкӏын (to be deviate)",
+          "тегъэкӏотыкӏын (to deviate something)"
         ]
       },
       "word": "deviate"
@@ -30010,7 +30036,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэш1охын"
+          "зэшӏохын"
         ]
       },
       "word": "decipher"
@@ -30018,8 +30044,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыфэл",
-          "ч1ыфэ зытелъыр"
+          "чӏыфэл",
+          "чӏыфэ зытелъыр"
         ],
         "verbs": []
       },
@@ -30028,7 +30054,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыфэ"
+          "чӏыфэ"
         ],
         "verbs": []
       },
@@ -30047,7 +30073,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джынапц1э"
+          "джынапцӏэ"
         ],
         "verbs": []
       },
@@ -30085,7 +30111,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зетын (to dedicate oneself to)",
-          "щыгъэгъозэн / щыгъуазэ ш1ын"
+          "щыгъэгъозэн / щыгъуазэ шӏын"
         ]
       },
       "word": "dedicate"
@@ -30095,7 +30121,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зетын (to devote oneself to)",
-          "щыгъэгъозэн / щыгъуазэ ш1ын"
+          "щыгъэгъозэн / щыгъуазэ шӏын"
         ]
       },
       "word": "devote"
@@ -30104,8 +30130,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэ1он",
-          "к1эджэн (to declare openly)"
+          "къэӏон",
+          "кӏэджэн (to declare openly)"
         ]
       },
       "word": "declare"
@@ -30144,8 +30170,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "е1эзэн (to handle something, to deal with, to manage something)",
-          "эзек1он (to deal with someone with a certian behavior)",
+          "еӏэзэн (to handle something, to deal with, to manage something)",
+          "эзекӏон (to deal with someone with a certian behavior)",
           "езэгъын (to handle something, to deal okayly with, to cope with)",
           "зэгъэн (to be coping)",
           "хэзэгъэн (to cope in a group or a specific environemnt)",
@@ -30157,8 +30183,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьай / шъхьак1э",
-          "ащ шъхьак1э (despite that)"
+          "шъхьай / шъхьакӏэ",
+          "ащ шъхьакӏэ (despite that)"
         ],
         "verbs": []
       },
@@ -30167,8 +30193,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьай / шъхьак1э",
-          "ащ шъхьак1э (despite that)"
+          "шъхьай / шъхьакӏэ",
+          "ащ шъхьакӏэ (despite that)"
         ],
         "verbs": []
       },
@@ -30187,7 +30213,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1оигъоджэн"
+          "шӏоигъоджэн"
         ]
       },
       "word": "detest"
@@ -30204,8 +30230,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къыхэк1ыгъэр",
-          "къытек1ыгъэр"
+          "къыхэкӏыгъэр",
+          "къытекӏыгъэр"
         ],
         "verbs": []
       },
@@ -30235,7 +30261,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьэ ш1охын (to cut someone\u0027s head off)"
+          "шъхьэ шӏохын (to cut someone\u0027s head off)"
         ]
       },
       "word": "decapitate"
@@ -30243,7 +30269,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэк1ы",
+          "хэкӏы",
           "къутаф (scattered remains of something destroyed)"
         ],
         "verbs": []
@@ -30254,7 +30280,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу к1одын / гук1одын"
+          "ыгу кӏодын / гукӏодын"
         ]
       },
       "word": "despair"
@@ -30263,7 +30289,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "егъэк1ун / фэгъэшъошэн"
+          "егъэкӏун / фэгъэшъошэн"
         ]
       },
       "word": "deem appropriate"
@@ -30271,7 +30297,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1эгъу"
+          "лӏэгъу"
         ],
         "verbs": []
       },
@@ -30280,7 +30306,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэц1ал"
+          "нэцӏал"
         ],
         "verbs": []
       },
@@ -30289,7 +30315,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэц1эк1"
+          "нэцӏэкӏ"
         ],
         "verbs": []
       },
@@ -30299,7 +30325,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пык1ын (to be detached)",
+          "пыкӏын (to be detached)",
           "пыхын (to detach)",
           "гохын",
           "пыутын (to break off due to a strong impact)",
@@ -30321,10 +30347,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин",
-          "зэхэуш1оен",
-          "упц1эп1ын",
-          "зэхэупц1эп1эн"
+          "ушӏоин",
+          "зэхэушӏоен",
+          "упцӏэпӏын",
+          "зэхэупцӏэпӏэн"
         ]
       },
       "word": "defile"
@@ -30334,8 +30360,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьадэпчэмы1у",
-          "(Shapsug) хьэнчэмы1у"
+          "хьадэпчэмыӏу",
+          "(Shapsug) хьэнчэмыӏу"
         ],
         "verbs": []
       },
@@ -30373,7 +30399,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "а1ууц"
+          "аӏууц"
         ],
         "verbs": []
       },
@@ -30456,7 +30482,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1о1ун"
+          "шӏоӏун"
         ]
       },
       "word": "turn sour"
@@ -30465,8 +30491,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэк1осэн",
-          "фэш1ын"
+          "гъэкӏосэн",
+          "фэшӏын"
         ]
       },
       "word": "turn off"
@@ -30510,7 +30536,7 @@ const englishDict = {
           "гъэзэн / къэгъэзэн (to turn around something)",
           "зыгъэзэн / зыкъэгъэзэн (to turn oneself around)",
           "зэпырыгъэзэн (to turn something upside down)",
-          "зыкъэгъэзык1ын (to turn oneself around)",
+          "зыкъэгъэзыкӏын (to turn oneself around)",
           "фэгъэзэн (to turn something toward, to point something toward, to direct something toward)"
         ]
       },
@@ -30538,7 +30564,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къик1ын"
+          "къикӏын"
         ]
       },
       "word": "turn out being"
@@ -30565,7 +30591,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэплъэк1ын"
+          "зэплъэкӏын"
         ]
       },
       "word": "turn look"
@@ -30594,7 +30620,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1ыфы хъун",
+          "кӏыфы хъун",
           "ышъо пычъын",
           "ышъо течъын"
         ]
@@ -30605,7 +30631,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1ырыун"
+          "кӏырыун"
         ]
       },
       "word": "tug"
@@ -30642,7 +30668,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгъуит1уц"
+          "бгъуитӏуц"
         ],
         "verbs": []
       },
@@ -30651,7 +30677,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэрек1опагъэ"
+          "гъэрекӏопагъэ"
         ],
         "verbs": []
       },
@@ -30660,7 +30686,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1у"
+          "тӏу"
         ],
         "verbs": []
       },
@@ -30669,7 +30695,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1у"
+          "тӏу"
         ],
         "verbs": []
       },
@@ -30678,7 +30704,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1у"
+          "тӏу"
         ],
         "verbs": []
       },
@@ -30687,7 +30713,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ок1ы"
+          "тӏокӏы"
         ],
         "verbs": []
       },
@@ -30696,7 +30722,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъит1у"
+          "шъитӏу"
         ],
         "verbs": []
       },
@@ -30705,7 +30731,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "минит1у"
+          "минитӏу"
         ],
         "verbs": []
       },
@@ -30714,7 +30740,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгъуит1у1у"
+          "бгъуитӏуӏу"
         ],
         "verbs": []
       },
@@ -30757,8 +30783,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "лыдын (intensive)",
-          "ш1этын",
-          "ц1ыун / къыц1ыун"
+          "шӏэтын",
+          "цӏыун / къыцӏыун"
         ]
       },
       "word": "twinkle"
@@ -30778,9 +30804,10 @@ const englishDict = {
         "verbs": [
           "щын (to be twisted)",
           "гъэщын (to twist something)",
-          "гъэ1онт1эн (to bend, to curve, to crook)",
-          "зэхэнэн / зэш1онэн / зэк1оц1энэн (to get twisted together into each other)",
-          "зэхэгъэнэн / зэш1огъэнэн / зэк1оц1эгъэнэн (to twist together into each other)"
+          "гъэӏонтӏэн (to bend, to curve, to crook)",
+          "зэхэнэн / зэкӏоцӏэнэн (to get twisted together into each other)",
+          "зэхэгъэнэн / зэкӏоцӏэгъэнэн (to make something stuck within each other)",
+          "зэшӏогъэнэн (to entangle, to twist or interweave in such a manner as not to be easily separated)"
         ]
       },
       "word": "twist"
@@ -30799,7 +30826,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъэщыгъ",
-          "1онт1агъ"
+          "ӏонтӏагъ"
         ],
         "verbs": []
       },
@@ -30808,8 +30835,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1уазэ",
-          "т1олъфэныкъо"
+          "тӏуазэ",
+          "тӏолъфэныкъо"
         ],
         "verbs": []
       },
@@ -30818,8 +30845,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1оржъор",
-          "шъхьарыгущы1"
+          "ӏоржъор",
+          "шъхьарыгущыӏ"
         ],
         "verbs": []
       },
@@ -30839,7 +30866,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1алъэ"
+          "гущыӏалъэ"
         ],
         "verbs": []
       },
@@ -30859,7 +30886,7 @@ const englishDict = {
         "lemmas": [
           "манэ",
           "хьэмашэ",
-          "(vulgar) к1э"
+          "(vulgar) кӏэ"
         ],
         "verbs": []
       },
@@ -30868,7 +30895,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эрс",
+          "ӏэрс",
           "апс"
         ],
         "verbs": []
@@ -30878,7 +30905,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ят1э"
+          "ятӏэ"
         ],
         "verbs": []
       },
@@ -30906,14 +30933,14 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "л1эн",
-          "ил1ык1ын (to die off something)",
-          "хэл1ыхьан (to die in a war/forest)",
-          "тел1ыхьан (to die above something)",
-          "ч1эл1ыхьан (to die under something)",
-          "ил1ыхьан (to die inside something)",
-          "пыл1ык1ын (to die slowly, to die from bleeding)",
-          "ш1ол1эн (to die on someone, to die against someone\u0027s will or interest)"
+          "лӏэн",
+          "илӏыкӏын (to die off something)",
+          "хэлӏыхьан (to die in a war/forest)",
+          "телӏыхьан (to die above something)",
+          "чӏэлӏыхьан (to die under something)",
+          "илӏыхьан (to die inside something)",
+          "пылӏыкӏын (to die slowly, to die from bleeding)",
+          "шӏолӏэн (to die on someone, to die against someone\u0027s will or interest)"
         ]
       },
       "word": "die"
@@ -30925,7 +30952,7 @@ const englishDict = {
           "губгъэн"
         ],
         "verbs": [
-          "хьайнапэу ш1ын",
+          "хьайнапэу шӏын",
           "напэ техын (ынапэ техын)"
         ]
       },
@@ -30935,7 +30962,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нэутх",
-          "баш1э",
+          "башӏэ",
           "нэутх"
         ],
         "verbs": []
@@ -30946,7 +30973,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дэшхын",
-          "чэщ1ус (food for the night)"
+          "чэщӏус (food for the night)"
         ],
         "verbs": []
       },
@@ -30973,7 +31000,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пак1э"
+          "пакӏэ"
         ],
         "verbs": []
       },
@@ -30993,9 +31020,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "бзэхын",
-          "к1одын",
-          "ш1ок1одын (to disappear for someone)",
-          "хэк1одэн (to disappear among, to disappear in the forest, to disappear in an area with gas or liquid)"
+          "кӏодын",
+          "шӏокӏодын (to disappear for someone)",
+          "хэкӏодэн (to disappear among, to disappear in the forest, to disappear in an area with gas or liquid)"
         ]
       },
       "word": "disappear"
@@ -31003,7 +31030,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1одыгъэ"
+          "кӏодыгъэ"
         ],
         "verbs": []
       },
@@ -31012,11 +31039,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэ1ыгъэхьагъ",
+          "зэӏыгъэхьагъ",
           "зэгъэфагъэп (not arranged)"
         ],
         "verbs": [
-          "зэ1ыгъэхьан"
+          "зэӏыгъэхьан"
         ]
       },
       "word": "disorder"
@@ -31057,7 +31084,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ып1абзэ"
+          "чӏыпӏабзэ"
         ],
         "verbs": []
       },
@@ -31088,13 +31115,13 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ои",
-          "ш1оибахь (very dirty)"
+          "шӏои",
+          "шӏоибахь (very dirty)"
         ],
         "verbs": [
-          "уш1оин (to make it dirty, to contaminate)",
-          "уц1эп1ын",
-          "зэхэуш1оен (to become dirty)"
+          "ушӏоин (to make it dirty, to contaminate)",
+          "уцӏэпӏын",
+          "зэхэушӏоен (to become dirty)"
         ]
       },
       "word": "dirty"
@@ -31104,8 +31131,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "дэмыштэн (to disagree with)",
-          "мыдэн (to refuse), емыуцол1эн",
-          "пэ1у1ожьын (to whine against someone disagreeably)"
+          "мыдэн (to refuse), емыуцолӏэн",
+          "пэӏуӏожьын (to whine against someone disagreeably)"
         ]
       },
       "word": "disagree"
@@ -31114,11 +31141,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зэнэкъокъуныгъ",
-          "зэш1онэныр"
+          "зэшӏонэныр"
         ],
         "verbs": [
-          "ш1онэн",
-          "пэгущы1эжьын"
+          "шӏонэн",
+          "пэгущыӏэжьын"
         ]
       },
       "word": "dispute"
@@ -31127,7 +31154,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гумыхь",
-          "гомы1у",
+          "гомыӏу",
           "мыгопэ"
         ],
         "verbs": []
@@ -31137,10 +31164,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ае",
-          "1эежъ",
+          "ӏае",
+          "ӏэежъ",
           "угъэмэхъэшэнэу щыт",
-          "гущык1ыгъо (loathsome)",
+          "гущыкӏыгъо (loathsome)",
           "гуштэгъуадж / гуштэгъоджэ"
         ],
         "verbs": []
@@ -31151,7 +31178,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пык1ын"
+          "пыкӏын"
         ]
       },
       "word": "disconnect"
@@ -31169,10 +31196,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1ын",
+          "тӏын",
           "(dialectal) тхъун",
-          "хэт1ык1ын (to dig out)",
-          "(dialectal) хэтхъук1ын (to dig out)"
+          "хэтӏыкӏын (to dig out)",
+          "(dialectal) хэтхъукӏын (to dig out)"
         ]
       },
       "word": "dig"
@@ -31181,8 +31208,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэт1ык1ын",
-          "(dialectal) хэтхъук1ын"
+          "хэтӏыкӏын",
+          "(dialectal) хэтхъукӏын"
         ]
       },
       "word": "dig out"
@@ -31191,9 +31218,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэ1онт1эн",
+          "гъэӏонтӏэн",
           "уфэн",
-          "1онт1агъэ ш1ын",
+          "ӏонтӏагъэ шӏын",
           "тэрэзыджэу къэгъэлъэгъон"
         ]
       },
@@ -31225,12 +31252,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "текощык1ын (to be displaced)",
-          "тегъэкощык1ын (to displace something)",
+          "текощыкӏын (to be displaced)",
+          "тегъэкощыкӏын (to displace something)",
           "гъэкощын (to displace something)",
-          "гъэк1отэн (to displace something)",
-          "тек1отык1ын (to be displaced)",
-          "тегъэк1отык1ын (to displace something)"
+          "гъэкӏотэн (to displace something)",
+          "текӏотыкӏын (to be displaced)",
+          "тегъэкӏотыкӏын (to displace something)"
         ]
       },
       "word": "displace"
@@ -31324,9 +31351,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къыщыгъэк1эн",
-          "нахь мак1э ш1ын",
-          "хэгъэк1ын"
+          "къыщыгъэкӏэн",
+          "нахь макӏэ шӏын",
+          "хэгъэкӏын"
         ]
       },
       "word": "diminish"
@@ -31367,7 +31394,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэхэдзын (to distinguish between)",
-          "язэфэмыдэныгъэ къэ1ошъун (to be able to tell the difference between)"
+          "язэфэмыдэныгъэ къэӏошъун (to be able to tell the difference between)"
         ]
       },
       "word": "distinguish"
@@ -31395,7 +31422,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэк1афэ"
+          "шъхьэкӏафэ"
         ],
         "verbs": []
       },
@@ -31405,8 +31432,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1угъэк1ын",
-          "тегъэк1ын (to dismiss a boss/leader)"
+          "ӏугъэкӏын",
+          "тегъэкӏын (to dismiss a boss/leader)"
         ]
       },
       "word": "dismiss"
@@ -31415,9 +31442,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1угъэк1ын",
-          "тегъэк1ын (to discharge a boss/leader)",
-          "унэк1ын"
+          "ӏугъэкӏын",
+          "тегъэкӏын (to discharge a boss/leader)",
+          "унэкӏын"
         ]
       },
       "word": "discharge"
@@ -31426,8 +31453,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къык1эгъэщын (to uncover, physically expose to view)",
-          "к1э1отык1ыжьын (to expose to the knowledge of others)"
+          "къыкӏэгъэщын (to uncover, physically expose to view)",
+          "кӏэӏотыкӏыжьын (to expose to the knowledge of others)"
         ]
       },
       "word": "disclose"
@@ -31436,7 +31463,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къык1эгъэщын"
+          "къыкӏэгъэщын"
         ]
       },
       "word": "discover"
@@ -31445,7 +31472,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1э1отык1ын"
+          "кӏэӏотыкӏын"
         ]
       },
       "word": "divulge"
@@ -31453,8 +31480,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэмык1 / пэмык1 (different than)",
-          "(Shapsug) нэмык1ыр",
+          "нэмыкӏ / пэмыкӏ (different than)",
+          "(Shapsug) нэмыкӏыр",
           "фэшъхьаф (different than)",
           "шъхьафы",
           "зэфэшъхьафы / зэфэмыдэ (different than each other)"
@@ -31467,7 +31494,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэш1ык1ын",
+          "зэхэшӏыкӏын",
           "хилъэгъон"
         ]
       },
@@ -31514,9 +31541,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "умык1эсэн",
-          "ш1у умылъэгъун",
-          "ш1оигъоджэн (to dislike greatly)",
+          "умыкӏэсэн",
+          "шӏу умылъэгъун",
+          "шӏоигъоджэн (to dislike greatly)",
           "фэмылъэгъун (despise)"
         ]
       },
@@ -31526,8 +31553,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "цыхьэ мыш1ын",
-          "цыхьэ фэмыш1ын (to distrust someone)"
+          "цыхьэ мышӏын",
+          "цыхьэ фэмышӏын (to distrust someone)"
         ]
       },
       "word": "distrust"
@@ -31537,8 +31564,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "щынэжьын (to divorce from, to abandon)",
-          "пык1ыжьын (to divorce from, to break up with)",
-          "зэпык1ыжьын (to divorce from each other, to break up from each other)"
+          "пыкӏыжьын (to divorce from, to break up with)",
+          "зэпыкӏыжьын (to divorce from each other, to break up from each other)"
         ]
       },
       "word": "divorce"
@@ -31547,10 +31574,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тегупшысык1ын (to get diverted)",
-          "тегъэшэхъук1ын",
-          "тегъэшъхьэрыук1ын",
-          "тегъэгупшысык1ын (to divert someone)",
+          "тегупшысыкӏын (to get diverted)",
+          "тегъэшэхъукӏын",
+          "тегъэшъхьэрыукӏын",
+          "тегъэгупшысыкӏын (to divert someone)",
           "тегъэун (in order to to relax, entertain or amuse by diverting the attention)"
         ]
       },
@@ -31560,10 +31587,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тегупшысык1ын (to get distract)",
-          "тегъэшэхъук1ын",
-          "тегъэшъхьэрыук1ын",
-          "тегъэгупшысык1ын (to distract someone)",
+          "тегупшысыкӏын (to get distract)",
+          "тегъэшэхъукӏын",
+          "тегъэшъхьэрыукӏын",
+          "тегъэгупшысыкӏын (to distract someone)",
           "тегъэун (in order to to relax, entertain or amuse by diverting the attention)"
         ]
       },
@@ -31581,7 +31608,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэмыл1эужыгъо",
+          "зэмылӏэужыгъо",
           "зэфэшъхьафы",
           "зэфэмыдэ"
         ],
@@ -31592,7 +31619,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэмыл1эужыгъоу"
+          "зэмылӏэужыгъоу"
         ],
         "verbs": []
       },
@@ -31601,7 +31628,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ае (having a bad or foul taste)"
+          "ӏае (having a bad or foul taste)"
         ],
         "verbs": []
       },
@@ -31611,8 +31638,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "мыдэ1он",
-          "1орыш1эджэн"
+          "мыдэӏон",
+          "ӏорышӏэджэн"
         ]
       },
       "word": "disobey"
@@ -31620,8 +31647,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мыдэ1орэ",
-          "1орыш1адж"
+          "мыдэӏорэ",
+          "ӏорышӏадж"
         ],
         "verbs": []
       },
@@ -31666,7 +31693,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "цыхьэмыш1"
+          "цыхьэмышӏ"
         ],
         "verbs": []
       },
@@ -31687,7 +31714,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэш1охын (to dismantle stuff from each other)"
+          "зэшӏохын (to dismantle stuff from each other)"
         ]
       },
       "word": "dismantle"
@@ -31696,7 +31723,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыгъэхьан (to disorganize, to disarray",
+          "зэӏыгъэхьан (to disorganize, to disarray",
           "to disorder",
           "to make a mess",
           "to mess up",
@@ -31710,7 +31737,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыгъэхьан (to disorganize, to disarray",
+          "зэӏыгъэхьан (to disorganize, to disarray",
           "to disorder",
           "to make a mess",
           "to mess up",
@@ -31724,9 +31751,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ягъэ егъэк1ын / къин егъэхъун (to annoy, to interrupt and harm, to get in the way of someone)",
-          "зэ1ыхьан",
-          "зэ1ыгъэхьан (to disturb someone, to have a negative emotional impact, to cause emotional distress or confusion)"
+          "ягъэ егъэкӏын / къин егъэхъун (to annoy, to interrupt and harm, to get in the way of someone)",
+          "зэӏыхьан",
+          "зэӏыгъэхьан (to disturb someone, to have a negative emotional impact, to cause emotional distress or confusion)"
         ]
       },
       "word": "disturb"
@@ -31734,7 +31761,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1орытх (the process of speaking for someone else to write down the words)"
+          "ӏорытх (the process of speaking for someone else to write down the words)"
         ],
         "verbs": []
       },
@@ -31753,7 +31780,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1ытэ зыхэмылъ"
+          "укӏытэ зыхэмылъ"
         ],
         "verbs": []
       },
@@ -31772,7 +31799,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пыл1ык1ын"
+          "пылӏыкӏын"
         ]
       },
       "word": "die slowly"
@@ -31780,7 +31807,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шхап1э"
+          "шхапӏэ"
         ],
         "verbs": []
       },
@@ -31789,7 +31816,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шхап1э"
+          "шхапӏэ"
         ],
         "verbs": []
       },
@@ -31824,7 +31851,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгъуит1уц"
+          "бгъуитӏуц"
         ],
         "verbs": []
       },
@@ -31889,7 +31916,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ык1эен",
+          "шӏыкӏэен",
           "бзэджэн"
         ]
       },
@@ -31899,7 +31926,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ык1эен",
+          "шӏыкӏэен",
           "бзэджэн"
         ]
       },
@@ -31927,7 +31954,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тк1оны"
+          "ткӏоны"
         ],
         "verbs": []
       },
@@ -31937,8 +31964,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1эн",
-          "фэш1эн (to do for)",
+          "шӏэн",
+          "фэшӏэн (to do for)",
           "зехьан"
         ]
       },
@@ -31977,7 +32004,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къухьэуцуп1э"
+          "къухьэуцупӏэ"
         ],
         "verbs": []
       },
@@ -31987,7 +32014,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гупык1–тын"
+          "гупыкӏ–тын"
         ]
       },
       "word": "donate"
@@ -32015,7 +32042,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1эшъутэн"
+          "цӏэшъутэн"
         ]
       },
       "word": "do the wrong things"
@@ -32047,7 +32074,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ыжьын",
+          "шӏыжьын",
           "къытегъэзэн"
         ]
       },
@@ -32057,7 +32084,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "фэш1эн"
+          "фэшӏэн"
         ]
       },
       "word": "do for"
@@ -32066,8 +32093,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыш1эу ыш1эн",
-          "ымыш1ахэу ыш1эн"
+          "ышӏэу ышӏэн",
+          "ымышӏахэу ышӏэн"
         ]
       },
       "word": "do intentionally"
@@ -32105,7 +32132,7 @@ const englishDict = {
         "verbs": [
           "хэпэзэн",
           "шъхьэукъэн",
-          "т1эк1у хэчъыен"
+          "тӏэкӏу хэчъыен"
         ]
       },
       "word": "doze off"
@@ -32113,7 +32140,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчъэшъхьа1у"
+          "пчъэшъхьаӏу"
         ],
         "verbs": []
       },
@@ -32143,7 +32170,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэ1ухъон"
+          "пэӏухъон"
         ]
       },
       "word": "drape"
@@ -32151,23 +32178,23 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тк1опс",
-          "гъуантк1у"
+          "ткӏопс",
+          "гъуанткӏу"
         ],
         "verbs": [
-          "1эпызын / 1эк1эзын (to drop unintentionally from the hand)",
+          "ӏэпызын / ӏэкӏэзын (to drop unintentionally from the hand)",
           "изын / къизын (to drop from inside something)",
-          "къетк1ухын (to drip from, to drop down drops of liquid)",
-          "1эпыт1эрын (to let slip unintentionally)",
+          "къеткӏухын (to drip from, to drop down drops of liquid)",
+          "ӏэпытӏэрын (to let slip unintentionally)",
           "тезын / къытезын (to drop from above something)",
           "пызын / къыпызын (to drop off a tree, to drop from the tip of)",
           "къыпытэкъун (to drop from the tree around in pieces, to drop from the tip of something in pieces)",
           "зэтефэн (to drop on each other)",
           "зэхэфэн (to drop into each other)",
-          "ч1эзын / къыч1эзын (to drop off from under something)",
+          "чӏэзын / къычӏэзын (to drop off from under something)",
           "зэтетэкъун (to drop off from each other)",
-          "тетк1он (to drip liquid on something one drop at a time)",
-          "хэгъэтк1он (to drop liquid drops into another liquid, substance, food, fire, etc.)"
+          "теткӏон (to drip liquid on something one drop at a time)",
+          "хэгъэткӏон (to drop liquid drops into another liquid, substance, food, fire, etc.)"
         ]
       },
       "word": "drop"
@@ -32176,7 +32203,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "уцы",
-          "1эзэгъу уц",
+          "ӏэзэгъу уц",
           "уцы такъыр"
         ],
         "verbs": []
@@ -32186,8 +32213,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжьаш1о",
-          "бжьэш1ожъ"
+          "бжьашӏо",
+          "бжьэшӏожъ"
         ],
         "verbs": []
       },
@@ -32196,7 +32223,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзак1о"
+          "бзакӏо"
         ],
         "verbs": []
       },
@@ -32207,9 +32234,9 @@ const englishDict = {
         "lemmas": [
           "кугъачъ",
           "куф",
-          "зефак1о",
+          "зефакӏо",
           "кузеф",
-          "кушъхьа1ыгъ"
+          "кушъхьаӏыгъ"
         ],
         "verbs": []
       },
@@ -32243,7 +32270,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ч1эбын"
+          "чӏэбын"
         ]
       },
       "word": "drown"
@@ -32259,8 +32286,8 @@ const englishDict = {
           "егъэшъон (to make someone drink)",
           "хэшъон (to drink from a container directly or from the sea/river)",
           "ишъун (to drink up liquid from something)",
-          "ишъук1ын (to completely drink up liquid from something)",
-          "ешъук1ын (to be saturated after drinking)",
+          "ишъукӏын (to completely drink up liquid from something)",
+          "ешъукӏын (to be saturated after drinking)",
           "тешъун (to drink off something from the surface of)"
         ]
       },
@@ -32270,14 +32297,14 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къетк1ухын (to drip down, to drop down)",
-          "тетк1он (to drip liquid on something one drop at a time)",
-          "т1эт1эн (to be dripping, sticky substances), тегъэт1эт1эн (to drip sticky substances on)",
-          "тет1эт1эн (to be dripping on, sticky substances)",
-          "хэк1отэн (to drip something into a fire, food, any substance, any liquid, etc.)",
-          "дэтк1он (to drip into an object or yard)",
-          "итк1он (to drip inside)",
-          "игъэтк1он (to make a liquid drop drip inside)"
+          "къеткӏухын (to drip down, to drop down)",
+          "теткӏон (to drip liquid on something one drop at a time)",
+          "тӏэтӏэн (to be dripping, sticky substances), тегъэтӏэтӏэн (to drip sticky substances on)",
+          "тетӏэтӏэн (to be dripping on, sticky substances)",
+          "хэкӏотэн (to drip something into a fire, food, any substance, any liquid, etc.)",
+          "дэткӏон (to drip into an object or yard)",
+          "иткӏон (to drip inside)",
+          "игъэткӏон (to make a liquid drop drip inside)"
         ]
       },
       "word": "drip"
@@ -32335,7 +32362,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дагъо",
-          "нэц1эк1"
+          "нэцӏэкӏ"
         ],
         "verbs": []
       },
@@ -32345,11 +32372,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1эт1эн (to be drizzling)",
-          "тет1эт1эн (to be drizzling on)",
-          "тегъэт1эт1эн (to drizzle on)",
+          "тӏэтӏэн (to be drizzling)",
+          "тетӏэтӏэн (to be drizzling on)",
+          "тегъэтӏэтӏэн (to drizzle on)",
           "къыхидзын (to drizzle, to rain lightly)",
-          "пыт1эт1ын / къыпыт1эт1ын (to drizzle from the tip of)"
+          "пытӏэтӏын / къыпытӏэтӏын (to drizzle from the tip of)"
         ]
       },
       "word": "drizzle"
@@ -32360,16 +32387,16 @@ const englishDict = {
         "verbs": [
           "фын (to drive a vehicle or cattle)",
           "ифын (to drive/push from an area, to drive from inside)",
-          "1уфын (to drive away from near)",
+          "ӏуфын (to drive away from near)",
           "дэфыен (to drive up)",
           "ефэхын (to drive down)",
           "блэфын (to drive pass)",
-          "ч1эфын (to drive from under)",
+          "чӏэфын (to drive from under)",
           "тефын (to drive from above)",
           "хэфын (to drive from among other people/animals/objects, to drive from an area with gas or liquid, to drive from the forest or field)",
           "дэфын (to drive from a defined area such as a yard, area, village, etc.)",
           "къофын (to drive from behind)",
-          "хэ1ун / хэ1ул1эн (to drive in nails)"
+          "хэӏун / хэӏулӏэн (to drive in nails)"
         ]
       },
       "word": "drive"
@@ -32379,7 +32406,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "ифын / къифын (to drive away from an area)",
-          "1уфын / къы1уфын (to drive away from near)",
+          "ӏуфын / къыӏуфын (to drive away from near)",
           "тефын / къытефын (to drive away from above)",
           "хэфын / къыхэфын (to drive away from among other people/animals/objects, to drive away from an area with gas or liquid, to drive away from the forest or field)",
           "дэфын / къыдэфын (to drive away from a defined area such as a yard, area, village, etc.)",
@@ -32403,7 +32430,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "уц 1эзэгъу щап1э"
+          "уц ӏэзэгъу щапӏэ"
         ],
         "verbs": []
       },
@@ -32413,12 +32440,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1уфын (to drive off someone)",
+          "ӏуфын (to drive off someone)",
           "хэфын (to drive off from among)",
           "ифын (to drive off from inside)",
           "дэфын (to drive off from within some area)",
           "тефын (to drive off from above something)",
-          "ч1эфын (to drive off from under something)"
+          "чӏэфын (to drive off from under something)"
         ]
       },
       "word": "drive off"
@@ -32426,8 +32453,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1ыхь",
-          "пк1ыхьап1э"
+          "пкӏыхь",
+          "пкӏыхьапӏэ"
         ],
         "verbs": []
       },
@@ -32436,7 +32463,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ешъуак1о",
+          "ешъуакӏо",
           "ешъорый"
         ],
         "verbs": []
@@ -32448,7 +32475,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "иутын",
-          "тепк1эн"
+          "тепкӏэн"
         ]
       },
       "word": "drive over"
@@ -32465,7 +32492,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ылъэ"
+          "чӏылъэ"
         ],
         "verbs": []
       },
@@ -32474,7 +32501,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -32487,9 +32514,9 @@ const englishDict = {
         "verbs": [
           "лъэшъун (to drag something)",
           "къэлъэшъун (to drag something here)",
-          "къелъэшъок1ын (to drag around)",
-          "ч1элъэшъон (to drag to under something)",
-          "ч1элъэшъун / къыч1элъэшъун (to drag from under something)",
+          "къелъэшъокӏын (to drag around)",
+          "чӏэлъэшъон (to drag to under something)",
+          "чӏэлъэшъун / къычӏэлъэшъун (to drag from under something)",
           "телъэшъон (to drag to above something)",
           "телъэшъун / къытелъэшъун (to drag from above something)",
           "илъэшъон (to drag to inside something)",
@@ -32617,7 +32644,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "арышъ / арти (because of that, because that is the case, so, therefore, for that reason, due to that)",
-          "ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+          "ащ пае / ащ фэшӏкӏэ / джащ пае / джащ фэшӏыкӏэ (for that reason or cause, because of that)"
         ],
         "verbs": []
       },
@@ -32626,7 +32653,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мыщ пае / мыщ фэш1к1э (for this reason or cause, because of this)"
+          "мыщ пае / мыщ фэшӏкӏэ (for this reason or cause, because of this)"
         ],
         "verbs": []
       },
@@ -32636,7 +32663,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бзако (unable to speak)",
-          "бзэмы1у (unable to communicate due to language barrier)",
+          "бзэмыӏу (unable to communicate due to language barrier)",
           "шъхьэныкъо (stupid)"
         ],
         "verbs": []
@@ -32685,7 +32712,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1орыш1э"
+          "ӏорышӏэ"
         ],
         "verbs": []
       },
@@ -32754,7 +32781,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ае"
+          "ӏае"
         ],
         "verbs": []
       },
@@ -32797,7 +32824,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэлак1о"
+          "гъэлакӏо"
         ],
         "verbs": []
       },
@@ -32839,7 +32866,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мысэк1ыгъ"
+          "мысэкӏыгъ"
         ],
         "verbs": []
       },
@@ -32857,7 +32884,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гумэк1ыл"
+          "гумэкӏыл"
         ],
         "verbs": []
       },
@@ -32866,7 +32893,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "унэч1эгъ"
+          "унэчӏэгъ"
         ],
         "verbs": []
       },
@@ -32875,7 +32902,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "амыш1эр"
+          "амышӏэр"
         ],
         "verbs": []
       },
@@ -32895,7 +32922,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "университет",
-          "еджэп1эшхо"
+          "еджэпӏэшхо"
         ],
         "verbs": []
       },
@@ -32904,7 +32931,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "аш1омыш1"
+          "ашӏомышӏ"
         ],
         "verbs": []
       },
@@ -32913,7 +32940,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "аш1омыш1"
+          "ашӏомышӏ"
         ],
         "verbs": []
       },
@@ -32922,7 +32949,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "аш1омыш1"
+          "ашӏомышӏ"
         ],
         "verbs": []
       },
@@ -32931,11 +32958,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "теплъэ зимы1эр",
+          "теплъэ зимыӏэр",
           "теплъаджэ",
           "шъончъэ",
           "бжьыго (homely)",
-          "1ае (ugly)",
+          "ӏае (ugly)",
           "мыдахэ (not beautiful)",
           "лъэгъупхъадж"
         ],
@@ -32946,7 +32973,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шэн к1эк1"
+          "шэн кӏэкӏ"
         ],
         "verbs": []
       },
@@ -32966,9 +32993,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "узэнк1ын",
+          "узэнкӏын",
           "узэпкъын",
-          "зыузэнк1ын (to straighten oneself)",
+          "зыузэнкӏын (to straighten oneself)",
           "узэфын"
         ]
       },
@@ -32977,7 +33004,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "емык1у"
+          "емыкӏу"
         ],
         "verbs": []
       },
@@ -32987,7 +33014,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "блыгу",
-          "блыгуч1"
+          "блыгучӏ"
         ],
         "verbs": []
       },
@@ -32997,7 +33024,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уасэ фэмыш1ын"
+          "уасэ фэмышӏын"
         ]
       },
       "word": "underrate"
@@ -33006,7 +33033,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "быргусыргу (uneven road)",
-          "т1ыбгы-сыбг (hilly, bumpy)",
+          "тӏыбгы-сыбг (hilly, bumpy)",
           "пхъашэ"
         ],
         "verbs": []
@@ -33017,7 +33044,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бэлэрыгъ",
-          "гугъуемыл1"
+          "гугъуемылӏ"
         ],
         "verbs": []
       },
@@ -33072,7 +33099,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мыдэ1орэ"
+          "мыдэӏорэ"
         ],
         "verbs": []
       },
@@ -33081,7 +33108,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гуры1огъуай"
+          "гурыӏогъуай"
         ],
         "verbs": []
       },
@@ -33090,8 +33117,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къыбгуры1ошъун",
-          "гуры1огъош1у"
+          "къыбгурыӏошъун",
+          "гурыӏогъошӏу"
         ],
         "verbs": []
       },
@@ -33110,7 +33137,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ои"
+          "шӏои"
         ],
         "verbs": []
       },
@@ -33120,7 +33147,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гумыхь",
-          "гомы1у",
+          "гомыӏу",
           "мыгопэ"
         ],
         "verbs": []
@@ -33130,8 +33157,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гук1эгъу зыхэмылъ",
-          "гук1эгъунчъэ"
+          "гукӏэгъу зыхэмылъ",
+          "гукӏэгъунчъэ"
         ],
         "verbs": []
       },
@@ -33150,12 +33177,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гуры1он / къыгуры1он (to understand meaning)",
+          "гурыӏон / къыгурыӏон (to understand meaning)",
           "хэхьан (to get it)",
           "зэхэхын (to make out clearly what have been said or heard)",
           "(Shapsug) гулъытэн",
-          "гурыгъэ1он (to make someone understand)",
-          "зэхэш1ык1ын (to comprehend",
+          "гурыгъэӏон (to make someone understand)",
+          "зэхэшӏыкӏын (to comprehend",
           "to understand or grasp fully and thoroughly)",
           "шъхьэм къиубытын",
           "шъхьэм тефэн (to understand, to realize)"
@@ -33166,7 +33193,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мы1уш",
+          "мыӏуш",
           "акъылынчъэ",
           "гулъытэнчъэ"
         ],
@@ -33187,7 +33214,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэгумэк1ын"
+          "гъэгумэкӏын"
         ]
       },
       "word": "unease"
@@ -33195,7 +33222,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офш1энынчъэ"
+          "ӏофшӏэнынчъэ"
         ],
         "verbs": []
       },
@@ -33205,7 +33232,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "фэшъуашэр емытын",
-          "икъоу уасэ фэмыш1ын"
+          "икъоу уасэ фэмышӏын"
         ],
         "verbs": []
       },
@@ -33233,8 +33260,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэхэш1ык1ыныр",
-          "гуры1о",
+          "зэхэшӏыкӏыныр",
+          "гурыӏо",
           "гулъытэ"
         ],
         "verbs": []
@@ -33244,9 +33271,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1эгъч1элъ",
-          "джэнэ ч1эгъч1элъ (undershirt)",
-          "гъончэдж ч1эгъч1элъ (underpants)"
+          "чӏэгъчӏэлъ",
+          "джэнэ чӏэгъчӏэлъ (undershirt)",
+          "гъончэдж чӏэгъчӏэлъ (underpants)"
         ],
         "verbs": []
       },
@@ -33255,9 +33282,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1эгъч1элъ",
-          "джэнэ ч1эгъч1элъ (undershirt)",
-          "гъончэдж ч1эгъч1элъ (underpants)"
+          "чӏэгъчӏэлъ",
+          "джэнэ чӏэгъчӏэлъ (undershirt)",
+          "гъончэдж чӏэгъчӏэлъ (underpants)"
         ],
         "verbs": []
       },
@@ -33266,7 +33293,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ"
+          "гъончэдж чӏэгъчӏэлъ"
         ],
         "verbs": []
       },
@@ -33275,7 +33302,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -33295,11 +33322,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1этэн",
-          "гъэт1этэн",
-          "къыпыт1этык1ын",
-          "къыпыт1этык1ыжьын",
-          "къык1эрыт1этык1ын"
+          "тӏэтэн",
+          "гъэтӏэтэн",
+          "къыпытӏэтыкӏын",
+          "къыпытӏэтыкӏыжьын",
+          "къыкӏэрытӏэтыкӏын"
         ]
       },
       "word": "unbuckle"
@@ -33308,11 +33335,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1этэн",
-          "гъэт1этэн",
-          "къыпыт1этык1ын",
-          "къыпыт1этык1ыжьын",
-          "къык1эрыт1этык1ын"
+          "тӏэтэн",
+          "гъэтӏэтэн",
+          "къыпытӏэтыкӏын",
+          "къыпытӏэтыкӏыжьын",
+          "къыкӏэрытӏэтыкӏын"
         ]
       },
       "word": "unzip"
@@ -33321,11 +33348,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1этэн",
-          "гъэт1этэн",
-          "къыпыт1этык1ын",
-          "къыпыт1этык1ыжьын",
-          "къык1эрыт1этык1ын"
+          "тӏэтэн",
+          "гъэтӏэтэн",
+          "къыпытӏэтыкӏын",
+          "къыпытӏэтыкӏыжьын",
+          "къыкӏэрытӏэтыкӏын"
         ]
       },
       "word": "unbutton"
@@ -33334,11 +33361,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1этэн",
-          "гъэт1этэн",
-          "къыпыт1этык1ын",
-          "къыпыт1этык1ыжьын",
-          "къык1эрыт1этык1ын"
+          "тӏэтэн",
+          "гъэтӏэтэн",
+          "къыпытӏэтыкӏын",
+          "къыпытӏэтыкӏыжьын",
+          "къыкӏэрытӏэтыкӏын"
         ]
       },
       "word": "unfasten"
@@ -33348,11 +33375,11 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэлэлэн",
-          "т1этэн",
-          "гъэт1этэн",
-          "къыпыт1этык1ын",
-          "къыпыт1этык1ыжьын",
-          "къык1эрыт1этык1ын"
+          "тӏэтэн",
+          "гъэтӏэтэн",
+          "къыпытӏэтыкӏын",
+          "къыпытӏэтыкӏыжьын",
+          "къыкӏэрытӏэтыкӏын"
         ]
       },
       "word": "untie"
@@ -33361,11 +33388,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1этэн",
-          "гъэт1этэн",
-          "къыпыт1этык1ын",
-          "къыпыт1этык1ыжьын",
-          "къык1эрыт1этык1ын"
+          "тӏэтэн",
+          "гъэтӏэтэн",
+          "къыпытӏэтыкӏын",
+          "къыпытӏэтыкӏыжьын",
+          "къыкӏэрытӏэтыкӏын"
         ]
       },
       "word": "unbind"
@@ -33374,11 +33401,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1этэн",
-          "гъэт1этэн",
-          "къыпыт1этык1ын",
-          "къыпыт1этык1ыжьын",
-          "къык1эрыт1этык1ын"
+          "тӏэтэн",
+          "гъэтӏэтэн",
+          "къыпытӏэтыкӏын",
+          "къыпытӏэтыкӏыжьын",
+          "къыкӏэрытӏэтыкӏын"
         ]
       },
       "word": "unleash"
@@ -33406,7 +33433,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "техын (to uncover a cover)",
-          "къык1эгъэщын"
+          "къыкӏэгъэщын"
         ]
       },
       "word": "uncover"
@@ -33414,7 +33441,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ош1э дэмыш1эу"
+          "ошӏэ дэмышӏэу"
         ],
         "verbs": []
       },
@@ -33454,9 +33481,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1эп1ын",
-          "гъэт1эп1ын (to be unstitched)",
-          "зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams",
+          "тӏэпӏын",
+          "гъэтӏэпӏын (to be unstitched)",
+          "зэготӏэпӏыкӏын / зэгогъэтӏэпӏыкӏын (to rip (a garment) at the seams",
           "to unstitch)"
         ]
       },
@@ -33466,10 +33493,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "т1эп1ын",
-          "гъэт1эп1ын (to unseam)",
-          "зэгот1эп1ык1ын",
-          "зэгогъэт1эп1ык1ын (to rip (a garment) at the seams",
+          "тӏэпӏын",
+          "гъэтӏэпӏын (to unseam)",
+          "зэготӏэпӏыкӏын",
+          "зэгогъэтӏэпӏыкӏын (to rip (a garment) at the seams",
           "to unstitch)"
         ]
       },
@@ -33478,7 +33505,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьак1о"
+          "шъхьакӏо"
         ],
         "verbs": []
       },
@@ -33488,7 +33515,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "мыгъэцэк1эн"
+          "мыгъэцэкӏэн"
         ]
       },
       "word": "unfulfill"
@@ -33506,7 +33533,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "насыпынчъэ",
-          "насып 1ай"
+          "насып ӏай"
         ],
         "verbs": []
       },
@@ -33524,12 +33551,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1этын (to be under in a standing position)",
-          "ч1элъын (to be under in a lying position)",
-          "ыч1эгъы",
-          "ыч1эгъык1э",
+          "чӏэтын (to be under in a standing position)",
+          "чӏэлъын (to be under in a lying position)",
+          "ычӏэгъы",
+          "ычӏэгъыкӏэ",
           "ыхэ (down of)",
-          "ч1э- / к1э- (prepositional verval suffix)"
+          "чӏэ- / кӏэ- (prepositional verval suffix)"
         ],
         "verbs": []
       },
@@ -33538,7 +33565,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1эгъо дэд"
+          "шӏэгъо дэд"
         ],
         "verbs": []
       },
@@ -33547,7 +33574,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1оигъуадж"
+          "шӏоигъуадж"
         ],
         "verbs": []
       },
@@ -33556,7 +33583,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1оигъуадж"
+          "шӏоигъуадж"
         ],
         "verbs": []
       },
@@ -33565,7 +33592,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гумы1у",
+          "гумыӏу",
           "гумыхь",
           "мыгопэ"
         ],
@@ -33594,7 +33621,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыхэмыш1ык1ырэ"
+          "зыхэмышӏыкӏырэ"
         ],
         "verbs": []
       },
@@ -33622,7 +33649,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тегупшысык1ын"
+          "тегупшысыкӏын"
         ]
       },
       "word": "underthink"
@@ -33630,7 +33657,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэпц1ы"
+          "нэпцӏы"
         ],
         "verbs": []
       },
@@ -33640,7 +33667,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "унэк1ын"
+          "унэкӏын"
         ]
       },
       "word": "unload"
@@ -33667,7 +33694,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уасэ фэмыш1ын"
+          "уасэ фэмышӏын"
         ]
       },
       "word": "underestimate"
@@ -33675,7 +33702,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офынчъэ"
+          "ӏофынчъэ"
         ],
         "verbs": []
       },
@@ -33715,7 +33742,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гухэгъэк1ын (to upset someone)",
+          "гухэгъэкӏын (to upset someone)",
           "нэшхъэй хъугъэ (to get upset)"
         ]
       },
@@ -33752,7 +33779,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ышъхьэгъырэ",
-          "шъхьа1у (most upper)"
+          "шъхьаӏу (most upper)"
         ],
         "verbs": []
       },
@@ -33763,7 +33790,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьак1умэ",
+          "тхьакӏумэ",
           "фышъхьэ (fruiting body of a grain plant)"
         ],
         "verbs": []
@@ -33782,7 +33809,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьак1умпылъ"
+          "тхьакӏумпылъ"
         ],
         "verbs": []
       },
@@ -33801,7 +33828,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьак1умак1"
+          "тхьакӏумакӏ"
         ],
         "verbs": []
       },
@@ -33810,7 +33837,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьак1умак1"
+          "тхьакӏумакӏ"
         ],
         "verbs": []
       },
@@ -33828,7 +33855,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыдагъ",
+          "чӏыдагъ",
           "кудэ",
           "шъотэгын",
           ""
@@ -33840,8 +33867,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тыгъэкъок1ып1",
-          "къок1ып1э"
+          "тыгъэкъокӏыпӏ",
+          "къокӏыпӏэ"
         ],
         "verbs": []
       },
@@ -33860,10 +33887,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дунай (planet earth)",
-          "ч1ыгу",
-          "ч1ышъхьашъу (land surface)",
-          "ч1ылъэ",
-          "ч1ыналъэ"
+          "чӏыгу",
+          "чӏышъхьашъу (land surface)",
+          "чӏылъэ",
+          "чӏыналъэ"
         ],
         "verbs": []
       },
@@ -33876,10 +33903,10 @@ const englishDict = {
           "шхэн",
           "шхын (to eat something)",
           "гъэшхэн (to make someone eat, to feed)",
-          "зыгъэшхэк1ын (to saturate oneself with food)",
+          "зыгъэшхэкӏын (to saturate oneself with food)",
           "шӏошхын (to consume someone else\u0027s food)",
           "зэхэшхэхьан (to eat around)",
-          "шхэк1ын (to be saturated with food)",
+          "шхэкӏын (to be saturated with food)",
           "пышхэхьан (to feast upon)"
         ]
       },
@@ -33919,9 +33946,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "сихьэе шхы",
-          "устец1",
+          "устецӏ",
           "сихьэе шхы",
-          "устец1"
+          "устецӏ"
         ],
         "verbs": []
       },
@@ -33930,10 +33957,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эш1эх",
+          "ӏэшӏэх",
           "къолай",
-          "псынк1э",
-          "-гъош1у (easy suffix)"
+          "псынкӏэ",
+          "-гъошӏу (easy suffix)"
         ],
         "verbs": []
       },
@@ -33942,7 +33969,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыгусысыныгъ"
+          "чӏыгусысыныгъ"
         ],
         "verbs": []
       },
@@ -33976,7 +34003,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шхак1о"
+          "шхакӏо"
         ],
         "verbs": []
       },
@@ -34046,12 +34073,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щагум ик1ын",
+          "щагум икӏын",
           "гъутхьан",
           "тегъутхьан (to urinate on)",
-          "ч1эгъутхьан (to urinate under)",
+          "чӏэгъутхьан (to urinate under)",
           "игъутхьан (to urinate inside)",
-          "1угъутхьан (to urinate near)",
+          "ӏугъутхьан (to urinate near)",
           "хэгъутхьан (to urinate in an area with fire, liquid or gas)",
           "зыпэгъутхьажьын (to have the urgue to urinate)"
         ]
@@ -34100,7 +34127,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1энчъ"
+          "пкӏэнчъ"
         ],
         "verbs": []
       },
@@ -34121,7 +34148,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "жэм къыдэгъэк1ын",
+          "жэм къыдэгъэкӏын",
           "жэм къыдедзын",
           "жэм къыдэзын",
           "жэм къыдэгъэзын"
@@ -34135,10 +34162,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нэз",
-          "цак1э",
+          "цакӏэ",
           "гъунэ",
           "цыпэ (tip)",
-          "шъхьа1у (top edge)"
+          "шъхьаӏу (top edge)"
         ],
         "verbs": []
       },
@@ -34161,7 +34188,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бзэгужъый",
-          "бзэгу ц1ык1у"
+          "бзэгу цӏыкӏу"
         ],
         "verbs": []
       },
@@ -34183,7 +34210,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1энк1э"
+          "кӏэнкӏэ"
         ],
         "verbs": []
       },
@@ -34192,7 +34219,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэбыпц1э"
+          "къэбыпцӏэ"
         ],
         "verbs": []
       },
@@ -34201,7 +34228,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэфэш1ужь"
+          "шъхьэфэшӏужь"
         ],
         "verbs": []
       },
@@ -34221,7 +34248,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ок1ипл1"
+          "тӏокӏиплӏ"
         ],
         "verbs": []
       },
@@ -34272,10 +34299,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзаш1у",
-          "жабзэ зы1улъ",
-          "гущы1эк1э1аз",
-          "жаш1у"
+          "бзашӏу",
+          "жабзэ зыӏулъ",
+          "гущыӏэкӏэӏаз",
+          "жашӏу"
         ],
         "verbs": []
       },
@@ -34293,8 +34320,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1энтэгъу",
-          "1этэгъу (Shapsug)"
+          "ӏэнтэгъу",
+          "ӏэтэгъу (Shapsug)"
         ],
         "verbs": []
       },
@@ -34319,7 +34346,7 @@ const englishDict = {
           "армырмэ (if that is not it, otherwise, else)",
           "амырмэ  (if that is not it, otherwise, else)",
           "ехъурэу (something else)",
-          "нэмык1эу (something different)",
+          "нэмыкӏэу (something different)",
           "фэшъхьафэу (something different)"
         ],
         "verbs": []
@@ -34330,9 +34357,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэ1этэен",
-          "1этын",
-          "дэгъэк1оен"
+          "дэӏэтэен",
+          "ӏэтын",
+          "дэгъэкӏоен"
         ]
       },
       "word": "elevate"
@@ -34340,7 +34367,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уашъхьэмафэ"
+          "ӏуашъхьэмафэ"
         ],
         "verbs": []
       },
@@ -34358,8 +34385,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "уфэупц1э (уфэ-упц1)",
-          "лант1э"
+          "уфэупцӏэ (уфэ-упцӏ)",
+          "лантӏэ"
         ],
         "verbs": []
       },
@@ -34368,8 +34395,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1урыс",
-          "зыныбжь хэк1отэгъэ"
+          "тӏурыс",
+          "зыныбжь хэкӏотэгъэ"
         ],
         "verbs": []
       },
@@ -34379,7 +34406,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэгъэк1ын (to eliminate someone out of)",
+          "хэгъэкӏын (to eliminate someone out of)",
           "хэдзын / хэфын (to eliminate someone out of)"
         ]
       },
@@ -34389,7 +34416,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ч1эщык1ьын"
+          "чӏэщыкӏьын"
         ]
       },
       "word": "elope"
@@ -34409,7 +34436,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэк1ын (to emerge from)"
+          "хэкӏын (to emerge from)"
         ]
       },
       "word": "emerge"
@@ -34427,7 +34454,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "нэфнэ пыпсык1ын"
+          "нэфнэ пыпсыкӏын"
         ]
       },
       "word": "emit light"
@@ -34444,10 +34471,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1ы"
+          "нэкӏы"
         ],
         "verbs": [
-          "унэк1ын"
+          "унэкӏын"
         ]
       },
       "word": "empty"
@@ -34455,7 +34482,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къулыкъуш1"
+          "къулыкъушӏ"
         ],
         "verbs": [
           "гъэлэжьэн"
@@ -34466,7 +34493,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1энэк1"
+          "ӏэнэкӏ"
         ],
         "verbs": []
       },
@@ -34495,10 +34522,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьак1о ехын",
-          "ушъхьак1ун",
-          "хьайнапэу ш1ын",
-          "къэгъэук1ытэжьын"
+          "шъхьакӏо ехын",
+          "ушъхьакӏун",
+          "хьайнапэу шӏын",
+          "къэгъэукӏытэжьын"
         ]
       },
       "word": "embarrass"
@@ -34508,7 +34535,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ып1э"
+          "чӏыпӏэ"
         ],
         "verbs": []
       },
@@ -34520,7 +34547,7 @@ const englishDict = {
         "verbs": [
           "тефэн (to come across coincidentally, to encounter coincidentally)",
           "зэтефэн (to encounter each other)",
-          "пэгъок1ын (to encounter someone intentionally)"
+          "пэгъокӏын (to encounter someone intentionally)"
         ]
       },
       "word": "encounter"
@@ -34546,13 +34573,13 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэтхъык1ын (to enjoy something)",
+          "хэтхъыкӏын (to enjoy something)",
           "тхъэн (to be enjoying)",
           "тхъагъо (joyful, enjoying)"
         ],
         "verbs": [
           "зыгъэтхъэн",
-          "хэтхъык1ын (to enjoy something)",
+          "хэтхъыкӏын (to enjoy something)",
           "тхъэн (to be enjoying)"
         ]
       },
@@ -34570,7 +34597,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэтхъык1ыныр"
+          "хэтхъыкӏыныр"
         ],
         "verbs": []
       },
@@ -34581,7 +34608,7 @@ const englishDict = {
         "lemmas": [
           "шъугъуал",
           "шхъогъуал",
-          "нэц1ал"
+          "нэцӏал"
         ],
         "verbs": []
       },
@@ -34605,7 +34632,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пщыл1ы ш1ын",
+          "пщылӏы шӏын",
           "гъэпщылIын"
         ]
       },
@@ -34654,12 +34681,12 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "иубытэн (to trap inside something)",
-          "къэш1ыхьан (to enclose, to surround)",
-          "къеш1эк1ын",
+          "къэшӏыхьан (to enclose, to surround)",
+          "къешӏэкӏын",
           "къэухъурэин",
           "къэуцухьан",
           "къэдзыхьан",
-          "къеш1ыхьак1ын (to close with, to frame)"
+          "къешӏыхьакӏын (to close with, to frame)"
         ]
       },
       "word": "enclose"
@@ -34668,12 +34695,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "иубытагъэ",
-          "къэш1ыхьагъэ",
-          "къеш1эк1ыгъэ",
+          "къэшӏыхьагъэ",
+          "къешӏэкӏыгъэ",
           "къэухъурэигъэ",
           "къэуцухьагъэ",
           "къэдзыхьагъэ",
-          "къеш1ыхьак1ыгъэ"
+          "къешӏыхьакӏыгъэ"
         ],
         "verbs": []
       },
@@ -34686,9 +34713,9 @@ const englishDict = {
           "къэухъурэин (to encircle someone, something or a place)",
           "къэуцухьан",
           "къэдзыхьан (to besiege)",
-          "къэгъэк1ухьан / къэгъэчъыхьан (to surround with a circle, to encircle with a circle)",
-          "хъурайк1э къэгъэк1ухьан",
-          "хъурайк1э къэгъэчъыхьан",
+          "къэгъэкӏухьан / къэгъэчъыхьан (to surround with a circle, to encircle with a circle)",
+          "хъурайкӏэ къэгъэкӏухьан",
+          "хъурайкӏэ къэгъэчъыхьан",
           "къэухъурэихьан (to enclose something, to circle something, to surround something)"
         ]
       },
@@ -34718,10 +34745,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эух",
+          "кӏэух",
           "гъунэ",
-          "ухып1",
-          "пак1э"
+          "ухыпӏ",
+          "пакӏэ"
         ],
         "verbs": [
           "ухын / къэухын (to end something)",
@@ -34733,9 +34760,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэхьап1э",
+          "дэхьапӏэ",
           "дэхьэгъу",
-          "ч1эхьап1э"
+          "чӏэхьапӏэ"
         ],
         "verbs": []
       },
@@ -34744,9 +34771,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэхьап1э",
+          "дэхьапӏэ",
           "дэхьэгъу",
-          "ч1эхьапк1э"
+          "чӏэхьапкӏэ"
         ],
         "verbs": []
       },
@@ -34756,9 +34783,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыщэ1эн (to endure)",
-          "щэ1эн (to endure, to bear)",
-          "фэщэ1эн (to manage to endure/bear something)"
+          "зыщэӏэн (to endure)",
+          "щэӏэн (to endure, to bear)",
+          "фэщэӏэн (to manage to endure/bear something)"
         ]
       },
       "word": "endure"
@@ -34771,8 +34798,10 @@ const englishDict = {
           "зэхэлъэшъон",
           "зэхэлъэхъыхьан",
           "зэрыгъэлъэдэн",
-          "зэхэнэн / зэш1онэн / зэк1оц1энэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated)",
-          "зэхэгъэнэн / зэш1огъэнэн / зэк1оц1эгъэнэн (to entangl, to twist or interweave in such a manner as not to be easily separated)"
+          "зэхэнэн / зэкӏоцӏэнэн",
+          "зэшӏонэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated)",
+          "зэхэгъэнэн / зэкӏоцӏэгъэнэн (to make something stuck within each other)",
+          "зэшӏогъэнэн (to entangle, to twist or interweave in such a manner as not to be easily separated)"
         ]
       },
       "word": "entangle"
@@ -34782,7 +34811,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэгубжын",
-          "зэк1эгъэстыхьан"
+          "зэкӏэгъэстыхьан"
         ]
       },
       "word": "enrage"
@@ -34791,8 +34820,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1оц1ыщыхьан",
-          "к1оц1ылъхьан"
+          "кӏоцӏыщыхьан",
+          "кӏоцӏылъхьан"
         ]
       },
       "word": "enwrap"
@@ -34801,7 +34830,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1оц1ыщыхьан"
+          "кӏоцӏыщыхьан"
         ]
       },
       "word": "envelope"
@@ -34820,7 +34849,7 @@ const englishDict = {
         "lemmas": [
           "зэрэпсэоу",
           "зэрэщытэу",
-          "зи хэмызэу (without dropping any), зи хэмык1эу (without reducing any)",
+          "зи хэмызэу (without dropping any), зи хэмыкӏэу (without reducing any)",
           "зи къэмынэу (without remaining any)"
         ],
         "verbs": []
@@ -34831,7 +34860,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къик1ын"
+          "къикӏын"
         ]
       },
       "word": "end up being"
@@ -34850,7 +34879,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэбаин",
-          "баи ш1ын",
+          "баи шӏын",
           "гъэунэн"
         ]
       },
@@ -34869,7 +34898,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэгъошъхьа1у / хэгъуашъхьэ (surrounding area of a village or city)"
+          "хэгъошъхьаӏу / хэгъуашъхьэ (surrounding area of a village or city)"
         ],
         "verbs": []
       },
@@ -34888,7 +34917,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу къэ1этын / ыгу дэщэен (to encourage, to hearten, to cheer up, to reassure)",
+          "ыгу къэӏэтын / ыгу дэщэен (to encourage, to hearten, to cheer up, to reassure)",
           "тегъэгушхон (to encourage someone to, to drive someone to move)"
         ]
       },
@@ -34900,7 +34929,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэгу",
-          "к1эй"
+          "кӏэй"
         ],
         "verbs": []
       },
@@ -34930,9 +34959,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "бзэхын",
-          "к1одын",
-          "ш1ок1одын (to vanish for someone)",
-          "хэк1одэн (to vanish among, to vanish in the forest, to vanish in an area with gas or liquid)"
+          "кӏодын",
+          "шӏокӏодын (to vanish for someone)",
+          "хэкӏодэн (to vanish among, to vanish in the forest, to vanish in an area with gas or liquid)"
         ]
       },
       "word": "vanish"
@@ -34940,7 +34969,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1э (worth)",
+          "пкӏэ (worth)",
           "уасэ (cost)",
           "пхъатэ (the degree of importance given to something)"
         ],
@@ -34951,8 +34980,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1э зи1",
-          "уасэ зи1э"
+          "пкӏэ зиӏ",
+          "уасэ зиӏэ"
         ],
         "verbs": []
       },
@@ -34980,8 +35009,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ыхъу",
-          "л1ыхъужъ"
+          "лӏыхъу",
+          "лӏыхъужъ"
         ],
         "verbs": []
       },
@@ -34990,7 +35019,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эй",
+          "кӏэй",
           "лъэгу",
           "лъэгуан"
         ],
@@ -35001,7 +35030,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэмыл1эужыгъо"
+          "зэмылӏэужыгъо"
         ],
         "verbs": []
       },
@@ -35010,7 +35039,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэмыл1эужыгъо",
+          "зэмылӏэужыгъо",
           "зэфэшъхьафы",
           "зэфэмыдэ"
         ],
@@ -35021,7 +35050,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэмыл1эужыгъоу"
+          "зэмылӏэужыгъоу"
         ],
         "verbs": []
       },
@@ -35039,7 +35068,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъорэк1ы"
+          "шъорэкӏы"
         ],
         "verbs": []
       },
@@ -35131,9 +35160,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин (to be erase)",
-          "гъэуш1оин (to erase)",
-          "тегъэуш1оик1ын (to erase from above)"
+          "ушӏоин (to be erase)",
+          "гъэушӏоин (to erase)",
+          "тегъэушӏоикӏын (to erase from above)"
         ]
       },
       "word": "erase"
@@ -35169,9 +35198,9 @@ const englishDict = {
           "ищэн (to escort someone to inside something)",
           "дэщэен (to escort someone up)",
           "ещэхын (to escort someone down)",
-          "къещэк1ын (to escort someone around)",
+          "къещэкӏын (to escort someone around)",
           "щэжьын (to escort someone back to, to take someone back to, to return someone back to)",
-          "к1ыгъун"
+          "кӏыгъун"
         ]
       },
       "word": "escort"
@@ -35179,8 +35208,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэхьанэ / мэхьанэу и1эр (meaning)",
-          "купк1ы"
+          "мэхьанэ / мэхьанэу иӏэр (meaning)",
+          "купкӏы"
         ],
         "verbs": []
       },
@@ -35191,8 +35220,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "ежьэжьын / къежьэжьын",
-          "ш1уежьэжьын (to run away from)",
-          "1эк1эк1ын (to let someone escape inadvertently)"
+          "шӏуежьэжьын (to run away from)",
+          "ӏэкӏэкӏын (to let someone escape inadvertently)"
         ]
       },
       "word": "escape"
@@ -35212,7 +35241,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шк1эл"
+          "шкӏэл"
         ],
         "verbs": []
       },
@@ -35249,7 +35278,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэры1о"
+          "жэрыӏо"
         ],
         "verbs": []
       },
@@ -35267,7 +35296,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэтэрык1"
+          "хэтэрыкӏ"
         ],
         "verbs": []
       },
@@ -35288,7 +35317,7 @@ const englishDict = {
           "дэд",
           "дэдэу",
           "лъэшэу (greatly)",
-          "(Shapsug) зыш1оу"
+          "(Shapsug) зышӏоу"
         ],
         "verbs": []
       },
@@ -35298,7 +35327,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэшэу",
-          "(Shapsug) зыш1оу"
+          "(Shapsug) зышӏоу"
         ],
         "verbs": []
       },
@@ -35307,7 +35336,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчъэ1упэ",
+          "пчъэӏупэ",
           "лъэгуц (veranda)"
         ],
         "verbs": []
@@ -35317,7 +35346,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псынк1агъэ"
+          "псынкӏагъэ"
         ],
         "verbs": []
       },
@@ -35345,7 +35374,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъыш1эжь"
+          "лъышӏэжь"
         ],
         "verbs": []
       },
@@ -35364,8 +35393,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "тхыкъупшъхьан",
-          "тхы1упк1ан",
-          "пшъэ1упк1ан"
+          "тхыӏупкӏан",
+          "пшъэӏупкӏан"
         ],
         "verbs": []
       },
@@ -35385,7 +35414,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уплъэк1ун",
+          "уплъэкӏун",
           "ушэтын"
         ]
       },
@@ -35424,8 +35453,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ык1уинт1э",
-          "(Shapsug) ц1ык1унау"
+          "цӏыкӏуинтӏэ",
+          "(Shapsug) цӏыкӏунау"
         ],
         "verbs": []
       },
@@ -35434,8 +35463,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1эк1унит1э",
-          "(Shapsug) т1эк1унау"
+          "тӏэкӏунитӏэ",
+          "(Shapsug) тӏэкӏунау"
         ],
         "verbs": []
       },
@@ -35466,7 +35495,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сэк1ыгъ"
+          "сэкӏыгъ"
         ],
         "verbs": []
       },
@@ -35552,7 +35581,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тэдэк1и"
+          "тэдэкӏи"
         ],
         "verbs": []
       },
@@ -35561,7 +35590,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тэдэк1и"
+          "тэдэкӏи"
         ],
         "verbs": []
       },
@@ -35591,7 +35620,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1эри",
+          "зэкӏэри",
           "пстэуми",
           "пстэур",
           "зэпсэу (Shapsug)"
@@ -35603,7 +35632,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1эри",
+          "зэкӏэри",
           "пстэу / пстэуми / пстэур",
           "(dialectal) псэу / псэуми / псэур / зэпсэу",
           "(dialectal) зэужь / зэужьэу / зэужьэуми / зэужьэур",
@@ -35616,7 +35645,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1эри",
+          "зэкӏэри",
           "пстэу / пстэуми / пстэур",
           "(dialectal) псэу / псэуми / псэур / зэпсэу",
           "(dialectal) зэужь / зэужьэу / зэужьэуми / зэужьэур",
@@ -35650,8 +35679,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къехъул1агъэр (an event that happened to someone)",
-          "хъугъэ-ш1агъ"
+          "къехъулӏагъэр (an event that happened to someone)",
+          "хъугъэ-шӏагъ"
         ],
         "verbs": []
       },
@@ -35661,8 +35690,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ок1ын",
-          "1эпык1ын"
+          "шӏокӏын",
+          "ӏэпыкӏын"
         ]
       },
       "word": "evade"
@@ -35701,8 +35730,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "техьэ-тек1",
-          "шъотехьэ-тек1 (everchanging in color"
+          "техьэ-текӏ",
+          "шъотехьэ-текӏ (everchanging in color"
         ],
         "verbs": []
       },
@@ -35765,7 +35794,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьак1э"
+          "хьакӏэ"
         ],
         "verbs": []
       },
@@ -35804,7 +35833,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ап1э / пц1ап1э"
+          "цӏапӏэ / пцӏапӏэ"
         ],
         "verbs": []
       },
@@ -35825,7 +35854,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шык1эпщынэ (Circassian violin)"
+          "шыкӏэпщынэ (Circassian violin)"
         ],
         "verbs": []
       },
@@ -35834,7 +35863,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сэнэш1 / сэнаш1э"
+          "сэнэшӏ / сэнашӏэ"
         ],
         "verbs": []
       },
@@ -35854,8 +35883,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "мыгъэцэк1эн",
-          "епц1ыжьын (to violate an oath, promise or agreement)"
+          "мыгъэцэкӏэн",
+          "епцӏыжьын (to violate an oath, promise or agreement)"
         ]
       },
       "word": "violate"
@@ -35863,7 +35892,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэгъошъхьа1у / хэгъуашъхьэ (surrounding area of a village or city)"
+          "хэгъошъхьаӏу / хэгъуашъхьэ (surrounding area of a village or city)"
         ],
         "verbs": []
       },
@@ -35874,7 +35903,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1азэ"
+          "ӏазэ"
         ],
         "verbs": []
       },
@@ -35892,7 +35921,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1"
+          "укӏ"
         ],
         "verbs": []
       },
@@ -35911,10 +35940,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щы1"
+          "щыӏ"
         ],
         "verbs": [
-          "щы1эн"
+          "щыӏэн"
         ]
       },
       "word": "exist"
@@ -35922,7 +35951,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жьы къыдэгъэк1ын"
+          "жьы къыдэгъэкӏын"
         ],
         "verbs": []
       },
@@ -35932,7 +35961,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "жьы къыдэгъэун, жьы къыдэгъэк1ын"
+          "жьы къыдэгъэун, жьы къыдэгъэкӏын"
         ]
       },
       "word": "exhale"
@@ -35949,9 +35978,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жабзэ зы1улъ",
-          "гущы1эк1э1аз",
-          "жаш1у"
+          "жабзэ зыӏулъ",
+          "гущыӏэкӏэӏаз",
+          "жашӏу"
         ],
         "verbs": []
       },
@@ -35976,7 +36005,7 @@ const englishDict = {
         "verbs": [
           "хъожьын",
           "зэблэхъун",
-          "зэхъок1ын",
+          "зэхъокӏын",
           "укъон (to change/break money for lesser units)"
         ]
       },
@@ -35994,7 +36023,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъап1э"
+          "лъапӏэ"
         ],
         "verbs": []
       },
@@ -36004,9 +36033,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэ1отэн",
-          "фэ1отэн (to explain to)",
-          "гурыгъэ1он, зэхегъэш1ык1ын"
+          "къэӏотэн",
+          "фэӏотэн (to explain to)",
+          "гурыгъэӏон, зэхегъэшӏыкӏын"
         ]
       },
       "word": "explain"
@@ -36015,8 +36044,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэупк1ын",
-          "хэбзык1ын"
+          "хэупкӏын",
+          "хэбзыкӏын"
         ]
       },
       "word": "excise"
@@ -36043,7 +36072,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1у дэд, дэгъу дэд",
+          "шӏу дэд, дэгъу дэд",
           "лъэшы дэд"
         ],
         "verbs": []
@@ -36054,7 +36083,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэцэк1эн"
+          "гъэцэкӏэн"
         ]
       },
       "word": "execute"
@@ -36063,8 +36092,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1осэн (to get extinguished)",
-          "гъэк1осэн (to extinguish something)"
+          "кӏосэн (to get extinguished)",
+          "гъэкӏосэн (to extinguish something)"
         ]
       },
       "word": "extinguish"
@@ -36081,7 +36110,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэпщыл1ак1о"
+          "гъэпщылӏакӏо"
         ],
         "verbs": []
       },
@@ -36091,7 +36120,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэпщыл1ын"
+          "гъэпщылӏын"
         ]
       },
       "word": "exploit"
@@ -36100,8 +36129,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэш1ык1ын (to feel, to experience)",
-          "къехъул1эн (to experience an event/incident in life)"
+          "хэшӏыкӏын (to feel, to experience)",
+          "къехъулӏэн (to experience an event/incident in life)"
         ]
       },
       "word": "experience"
@@ -36110,8 +36139,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэк1ын",
-          "лъы1эбэн (to reach out with the hands to grab/touch something)"
+          "зэхэкӏын",
+          "лъыӏэбэн (to reach out with the hands to grab/touch something)"
         ]
       },
       "word": "extend"
@@ -36120,7 +36149,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэк1ын"
+          "зэхэкӏын"
         ]
       },
       "word": "expand"
@@ -36128,7 +36157,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ик1ып1э"
+          "икӏыпӏэ"
         ],
         "verbs": []
       },
@@ -36138,8 +36167,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къык1эгъэщын (to expose something, to make it seeable)",
-          "к1э1отык1ыжьын (to expose or rat out someone)",
+          "къыкӏэгъэщын (to expose something, to make it seeable)",
+          "кӏэӏотыкӏыжьын (to expose or rat out someone)",
           "егъэун (to direct toward something that emits heat)",
           "зегъэун (to direct oneself toward something that emits heat)"
         ]
@@ -36151,7 +36180,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къыхэхын (to extract something out of)",
-          "к1эщын / къык1эщын (to squeeze from, to extract from)"
+          "кӏэщын / къыкӏэщын (to squeeze from, to extract from)"
         ]
       },
       "word": "extract"
@@ -36161,7 +36190,7 @@ const englishDict = {
         "lemmas": [
           "шапхъэ",
           "щысэ",
-          "гущы1эм пае (for example)"
+          "гущыӏэм пае (for example)"
         ],
         "verbs": []
       },
@@ -36207,8 +36236,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ащ нэмык1 (except that)",
-          "нэмык1эу",
+          "ащ нэмыкӏ (except that)",
+          "нэмыкӏэу",
           "фэшъхьафэу",
           "щэхъу",
           "ехъурэ"
@@ -36221,8 +36250,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэ1он",
-          "е1ол1эн (to express something concerning",
+          "къэӏон",
+          "еӏолӏэн (to express something concerning",
           "to express something according to)"
         ]
       },
@@ -36263,7 +36292,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "блифын",
-          "шъхьапырык1ын"
+          "шъхьапырыкӏын"
         ]
       },
       "word": "exceed"
@@ -36272,7 +36301,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уплъэк1ун (to check)",
+          "уплъэкӏун (to check)",
           "къэплъыхьан (to take a look and examine)",
           "ушэтын"
         ]
@@ -36321,7 +36350,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нап1э"
+          "напӏэ"
         ],
         "verbs": []
       },
@@ -36330,7 +36359,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1эт1ыргъ / нэк1эт1эр"
+          "нэкӏэтӏыргъ / нэкӏэтӏэр"
         ],
         "verbs": []
       },
@@ -36422,7 +36451,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьары1у"
+          "тхьарыӏу"
         ],
         "verbs": []
       },
@@ -36460,7 +36489,7 @@ const englishDict = {
         ],
         "verbs": [
           "фэгъэзэн (to face something to, to turn something to)",
-          "1ук1эн (to face someone, to meet someone)"
+          "ӏукӏэн (to face someone, to meet someone)"
         ]
       },
       "word": "face"
@@ -36480,7 +36509,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пщы (wife\u0027s father-in-law)",
-          "ш1упщы (husband\u0027s father-in-law)"
+          "шӏупщы (husband\u0027s father-in-law)"
         ],
         "verbs": []
       },
@@ -36492,7 +36521,7 @@ const englishDict = {
         "verbs": [
           "тефэн (the impact caused by hitting something from the fall)",
           "тебэджэн (to fall on by slipping)",
-          "тет1эрэн (to drop on)"
+          "тетӏэрэн (to drop on)"
         ]
       },
       "word": "fall on"
@@ -36505,7 +36534,7 @@ const englishDict = {
           "тебэджэн (to fall on something by slipping)",
           "ефэхын / къефэхын (to fall downward)",
           "едзыхын / къедзыхын (to fall downward)",
-          "ет1эрэхын / къет1эрэхын (to drop downward)",
+          "етӏэрэхын / къетӏэрэхын (to drop downward)",
           "зэтефэн (to drop on each other)",
           "зэхэфэн (to drop within each other, to drop into each other)",
           "къегъэохын (to destroy something and make it fall down)",
@@ -36568,7 +36597,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэжьап1э",
+          "лъэжьапӏэ",
           "фабрикэ"
         ],
         "verbs": []
@@ -36599,7 +36628,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "бзэхын",
-          "к1одын",
+          "кӏодын",
           "гъонлэн / гъун (to fate, to dry out)"
         ]
       },
@@ -36617,7 +36646,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "блэнашк1э"
+          "блэнашкӏэ"
         ],
         "verbs": []
       },
@@ -36655,7 +36684,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэт1ыбат1"
+          "бэтӏыбатӏ"
         ],
         "verbs": []
       },
@@ -36675,9 +36704,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пщэры дэд",
-          "бэрат1",
-          "быт1ы",
-          "быт1ыхъурай (big-bellied)",
+          "бэратӏ",
+          "бытӏы",
+          "бытӏыхъурай (big-bellied)",
           "бэжъу",
           "быцу",
           "ныбэкъ (big-bellied)"
@@ -36689,14 +36718,14 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псынк1э",
-          "(dialectal) чъык1ай",
-          "псык1э (Shapsug)",
+          "псынкӏэ",
+          "(dialectal) чъыкӏай",
+          "псыкӏэ (Shapsug)",
           "елбэтэу (in a blink of an eye)",
-          "псынк1эу / ш1эхэу (quickly)"
+          "псынкӏэу / шӏэхэу (quickly)"
         ],
         "verbs": [
-          "нэк1ын"
+          "нэкӏын"
         ]
       },
       "word": "fast"
@@ -36724,8 +36753,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэпсынк1эн (to make faster)",
-          "гъэупк1эпк1эн (to buckle up, to zip up, to button up, to fasten)"
+          "гъэпсынкӏэн (to make faster)",
+          "гъэупкӏэпкӏэн (to buckle up, to zip up, to button up, to fasten)"
         ]
       },
       "word": "fasten"
@@ -36733,7 +36762,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэпц1ак1о"
+          "гъэпцӏакӏо"
         ],
         "verbs": []
       },
@@ -36769,7 +36798,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дамп1"
+          "дампӏ"
         ],
         "verbs": []
       },
@@ -36787,8 +36816,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1эры1о",
-          "хэ1уагъ (Shapsug)"
+          "цӏэрыӏо",
+          "хэӏуагъ (Shapsug)"
         ],
         "verbs": []
       },
@@ -36798,7 +36827,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гуп",
-          "нэ1у"
+          "нэӏу"
         ],
         "verbs": []
       },
@@ -36821,7 +36850,7 @@ const englishDict = {
         "verbs": [
           "дэфэн (to fall into a defined area)",
           "ифэн (to fall inside)",
-          "ч1эфэн (to fall under)",
+          "чӏэфэн (to fall under)",
           "хэфэн (to fall into an area with liquid, solid or gas)",
           "тефэн (to fall on)"
         ]
@@ -36840,7 +36869,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1апэ"
+          "кӏапэ"
         ],
         "verbs": []
       },
@@ -36859,7 +36888,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эхъопсын"
+          "кӏэхъопсын"
         ]
       },
       "word": "fantasize"
@@ -36870,7 +36899,7 @@ const englishDict = {
         "verbs": [
           "къефэхын",
           "къедзэхын",
-          "(Shapsug) къет1эрэхын",
+          "(Shapsug) къетӏэрэхын",
           "къетэкъохын (things to fall down from)",
           "пытэкъун (to fall down stuff/things from a tree)"
         ]
@@ -36884,7 +36913,7 @@ const englishDict = {
           "пызын / къыпызын (to fall off from a tree)",
           "изын / къизын (to fall off from inside something)",
           "тезын / къытезын (to fall off from above something)",
-          "ч1эзын / къыч1эзын (to fall off from under something)",
+          "чӏэзын / къычӏэзын (to fall off from under something)",
           "зэтетэкъун (to fall from each other)"
         ]
       },
@@ -36893,8 +36922,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэкъуац1э",
-          "унэгъуац1э"
+          "лъэкъуацӏэ",
+          "унэгъуацӏэ"
         ],
         "verbs": []
       },
@@ -36903,7 +36932,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ыщ"
+          "кӏыщ"
         ],
         "verbs": []
       },
@@ -36912,7 +36941,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хап1э",
+          "хапӏэ",
           "къутыр"
         ],
         "verbs": []
@@ -36922,7 +36951,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "чырак1у"
+          "чыракӏу"
         ],
         "verbs": []
       },
@@ -36940,7 +36969,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ошъхъуныгъэ"
+          "шӏошъхъуныгъэ"
         ],
         "verbs": []
       },
@@ -36950,8 +36979,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тел1эхьан",
-          "тенэц1эхьан"
+          "телӏэхьан",
+          "тенэцӏэхьан"
         ]
       },
       "word": "fall in love"
@@ -36981,7 +37010,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шэк1"
+          "шэкӏ"
         ],
         "verbs": []
       },
@@ -37003,7 +37032,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэпц1ы"
+          "нэпцӏы"
         ],
         "verbs": []
       },
@@ -37012,7 +37041,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэпц1ы (deceptive or misleading, mistaken)"
+          "нэпцӏы (deceptive or misleading, mistaken)"
         ],
         "verbs": []
       },
@@ -37021,7 +37050,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэбарыпц1ы"
+          "къэбарыпцӏы"
         ],
         "verbs": []
       },
@@ -37086,7 +37115,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ыхьагъэ",
+          "шӏыхьагъэ",
           "дэпкъы (wall)",
           "чэу (wattle fence)",
           "блэуц (fence out of plant)"
@@ -37099,7 +37128,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гумэк1ын",
+          "гумэкӏын",
           "пэн"
         ]
       },
@@ -37146,7 +37175,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзэджаш1э"
+          "бзэджашӏэ"
         ],
         "verbs": []
       },
@@ -37155,14 +37184,14 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мак1э",
-          "мэк1эжъый (very few)",
-          "т1эк1у",
-          "т1эк1ужъый (very few)",
-          "т1эк1унит1э (very few)",
-          "(Shapsug) т1эк1унау (very few)",
-          "т1эк1у",
-          "мак1э"
+          "макӏэ",
+          "мэкӏэжъый (very few)",
+          "тӏэкӏу",
+          "тӏэкӏужъый (very few)",
+          "тӏэкӏунитӏэ (very few)",
+          "(Shapsug) тӏэкӏунау (very few)",
+          "тӏэкӏу",
+          "макӏэ"
         ],
         "verbs": []
       },
@@ -37171,8 +37200,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыгур гъэш1уныр",
-          "ч1ыгъэш1у хэлъхьаныр",
+          "чӏыгур гъэшӏуныр",
+          "чӏыгъэшӏу хэлъхьаныр",
           "ебз (manure, dung)"
         ],
         "verbs": []
@@ -37182,7 +37211,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "чъы1ал1э"
+          "чъыӏалӏэ"
         ],
         "verbs": []
       },
@@ -37201,7 +37230,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "чъые къек1ун"
+          "чъые къекӏун"
         ]
       },
       "word": "feel sleepy"
@@ -37209,9 +37238,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъу (for hands)",
+          "ӏэхъу (for hands)",
           "лъэхъу (for legs)",
-          "1эхъу-лъэхъу",
+          "ӏэхъу-лъэхъу",
           "лъахъэ (for horses)",
           "шылъахъэ (for horses)"
         ],
@@ -37224,7 +37253,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "узын",
-          "хэузык1ын (to feel pain in general)"
+          "хэузыкӏын (to feel pain in general)"
         ]
       },
       "word": "feel pain"
@@ -37243,7 +37272,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "хъун",
-          "хъупц1ын"
+          "хъупцӏын"
         ]
       },
       "word": "feel itch"
@@ -37251,7 +37280,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щынэ зымыш1эрэ"
+          "щынэ зымышӏэрэ"
         ],
         "verbs": []
       },
@@ -37285,8 +37314,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэш1ыхьан (to enclose, to surround)",
-          "къеш1эк1ын",
+          "къэшӏыхьан (to enclose, to surround)",
+          "къешӏэкӏын",
           "къэухъурэин",
           "къэуцухьан",
           "къэдзыхьан"
@@ -37298,10 +37327,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэш1ык1ын",
-          "зэхэш1эн",
-          "хэш1ык1ын",
-          "зэхэш1эн"
+          "хэшӏыкӏын",
+          "зэхэшӏэн",
+          "хэшӏыкӏын",
+          "зэхэшӏэн"
         ]
       },
       "word": "feel"
@@ -37309,7 +37338,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ак1о"
+          "кӏакӏо"
         ],
         "verbs": []
       },
@@ -37318,7 +37347,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тэк1урэ"
+          "тэкӏурэ"
         ],
         "verbs": []
       },
@@ -37327,7 +37356,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1оч1адж",
+          "кӏочӏадж",
           "хъыбэй",
           "къарыунчъ"
         ],
@@ -37350,8 +37379,8 @@ const englishDict = {
         "verbs": [
           "гуегъун",
           "шъхьасын",
-          "гук1эгъу фэш1ын",
-          "гук1эгъу фэлъэгъун (to show mercy for)"
+          "гукӏэгъу фэшӏын",
+          "гукӏэгъу фэлъэгъун (to show mercy for)"
         ]
       },
       "word": "feel sorry"
@@ -37362,8 +37391,8 @@ const englishDict = {
         "verbs": [
           "гуегъун",
           "шъхьасын",
-          "гук1эгъу фэш1ын",
-          "гук1эгъу фэлъэгъун (to show mercy for)"
+          "гукӏэгъу фэшӏын",
+          "гукӏэгъу фэлъэгъун (to show mercy for)"
         ]
       },
       "word": "feel pity"
@@ -37372,8 +37401,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1о1ун",
-          "гъэш1о1ун (to ferment something)"
+          "шӏоӏун",
+          "гъэшӏоӏун (to ferment something)"
         ]
       },
       "word": "ferment"
@@ -37402,7 +37431,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эшъун"
+          "кӏэшъун"
         ]
       },
       "word": "fellate"
@@ -37458,7 +37487,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьатыяк1о"
+          "хьатыякӏо"
         ],
         "verbs": []
       },
@@ -37486,7 +37515,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гук1эгъу фэлъэгъун"
+          "гукӏэгъу фэлъэгъун"
         ]
       },
       "word": "feel sorry for"
@@ -37495,7 +37524,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гук1эгъу фэлъэгъун"
+          "гукӏэгъу фэлъэгъун"
         ]
       },
       "word": "feel pity for"
@@ -37523,7 +37552,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "упк1э"
+          "упкӏэ"
         ],
         "verbs": []
       },
@@ -37563,11 +37592,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "маш1о"
+          "машӏо"
         ],
         "verbs": [
-          "маш1о хэгъэнэн / маш1о ч1эгъэнэн (to set on fire)",
-          "к1эрахъок1э еон (to shoot, to fire)",
+          "машӏо хэгъэнэн / машӏо чӏэгъэнэн (to set on fire)",
+          "кӏэрахъокӏэ еон (to shoot, to fire)",
           "дэоен (to shoot upward)",
           "еохын (to shoot downward)",
           "хэон (to shoot amidst people)",
@@ -37602,10 +37631,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъуамбэ",
-          "1эпхъабэ (Shapsug)",
-          "1эхъуамбэ",
-          "1эпхъабэ (Shapsug)"
+          "ӏэхъуамбэ",
+          "ӏэпхъабэ (Shapsug)",
+          "ӏэхъуамбэ",
+          "ӏэпхъабэ (Shapsug)"
         ],
         "verbs": []
       },
@@ -37614,7 +37643,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эбжъанэ"
+          "ӏэбжъанэ"
         ],
         "verbs": []
       },
@@ -37623,9 +37652,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпэпц1ый",
-          "1эпапц1э",
-          "1эпэпс1ий (Shapsug)"
+          "ӏэпэпцӏый",
+          "ӏэпапцӏэ",
+          "ӏэпэпсӏий (Shapsug)"
         ],
         "verbs": []
       },
@@ -37634,7 +37663,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эрахъо"
+          "кӏэрахъо"
         ],
         "verbs": []
       },
@@ -37656,7 +37685,7 @@ const englishDict = {
           "(dialectal) къэпы"
         ],
         "verbs": [
-          "пытэу ш1ын / гъэпытэн (to make firm)",
+          "пытэу шӏын / гъэпытэн (to make firm)",
           "тегъэпытыхьан (to make something firm on, to fix something on)"
         ]
       },
@@ -37665,7 +37694,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэш1оку"
+          "мэшӏоку"
         ],
         "verbs": []
       },
@@ -37687,7 +37716,7 @@ const englishDict = {
         "lemmas": [
           "ахъу",
           "шхынцумпэ",
-          "1ынджыр (Turkish)"
+          "ӏынджыр (Turkish)"
         ],
         "verbs": []
       },
@@ -37715,7 +37744,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бжымы",
-          "1эбжымы"
+          "ӏэбжымы"
         ],
         "verbs": []
       },
@@ -37736,9 +37765,9 @@ const englishDict = {
         "lemmas": [
           "шъофы (field outisde vilage)",
           "хьасэ (field for agriculture)",
-          "хъуп1э (field with livestock)",
+          "хъупӏэ (field with livestock)",
           "губгъо (wild field)",
-          "лэжьыгъэш1апэ (working field)"
+          "лэжьыгъэшӏапэ (working field)"
         ],
         "verbs": []
       },
@@ -37757,10 +37786,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ек1ун",
-          "фэш1ун (to be suitable)",
-          "фэш1оу ш1ын (to adjust clothes to fit someone)",
-          "егъэк1ун (to make it fit for someone)",
+          "екӏун",
+          "фэшӏун (to be suitable)",
+          "фэшӏоу шӏын (to adjust clothes to fit someone)",
+          "егъэкӏун (to make it fit for someone)",
           "хэзэгъэн (to fit in a group)",
           "щыфэн (to fit)",
           "щыгъэфэн (to fit clothes)",
@@ -37768,8 +37797,8 @@ const englishDict = {
           "дэгъэфэн (to fit something between)",
           "хэгъэфэн (to fit something among other objects)",
           "зэтегъэфэн (to fit things on each other, to fit by arranging things such as plans, cycles and music)",
-          "зэгъэк1ун (to fit things together)",
-          "егъэк1ун / фэгъэшъошэн (to see fit, to deem appropriate)"
+          "зэгъэкӏун (to fit things together)",
+          "егъэкӏун / фэгъэшъошэн (to see fit, to deem appropriate)"
         ]
       },
       "word": "fit"
@@ -37777,7 +37806,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ек1у"
+          "екӏу"
         ],
         "verbs": []
       },
@@ -37789,7 +37818,7 @@ const englishDict = {
         "verbs": [
           "игъэхъон (to fill liquid into)",
           "узэндын (to load, to fill)",
-          "изэу ш1ын (to make full)"
+          "изэу шӏын (to make full)"
         ]
       },
       "word": "fill"
@@ -37808,10 +37837,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "игъэхъон",
-          "ик1эн (intensive)",
-          "ик1утэн (slightly intensive)",
+          "икӏэн (intensive)",
+          "икӏутэн (slightly intensive)",
           "узэндын (to load)",
-          "изэу ш1ын (to make full)"
+          "изэу шӏын (to make full)"
         ]
       },
       "word": "fill in"
@@ -37821,9 +37850,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэтэрэзыжьын (recorrect)",
-          "ш1ыжьын (to repair)",
-          "дыжьын (to sew up), гъэцэк1эжьын (to mend)",
-          "пытэу ш1ын / гъэпытэн (to fix something on a certain place, to firm something)",
+          "шӏыжьын (to repair)",
+          "дыжьын (to sew up), гъэцэкӏэжьын (to mend)",
+          "пытэу шӏын / гъэпытэн (to fix something on a certain place, to firm something)",
           "тегъэпытыхьан (to make something firm on, to fix something on)"
         ]
       },
@@ -37833,7 +37862,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хъупхъэ",
-          "л1эхъупхъэ"
+          "лӏэхъупхъэ"
         ],
         "verbs": []
       },
@@ -37861,7 +37890,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "жъоку",
-          "пхъэц1ак1э"
+          "пхъэцӏакӏэ"
         ],
         "verbs": []
       },
@@ -37870,7 +37899,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэш1охь"
+          "мэшӏохь"
         ],
         "verbs": []
       },
@@ -37925,7 +37954,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пцэкъэнтф",
-          "пцэкъэнтфык1"
+          "пцэкъэнтфыкӏ"
         ],
         "verbs": []
       },
@@ -37964,7 +37993,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэш1эн (to figure out the correct answer)"
+          "къэшӏэн (to figure out the correct answer)"
         ]
       },
       "word": "figure out"
@@ -38014,7 +38043,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэш1о гъэк1осалъэ"
+          "мэшӏо гъэкӏосалъэ"
         ],
         "verbs": []
       },
@@ -38023,10 +38052,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэол1",
-          "зэуак1о",
-          "зэуал1",
-          "бэнак1о"
+          "зэолӏ",
+          "зэуакӏо",
+          "зэуалӏ",
+          "бэнакӏо"
         ],
         "verbs": []
       },
@@ -38054,7 +38083,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къык1эгъэщын"
+          "къыкӏэгъэщын"
         ]
       },
       "word": "find out"
@@ -38072,7 +38101,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пкъызэхэлъык1"
+          "пкъызэхэлъыкӏ"
         ],
         "verbs": []
       },
@@ -38083,7 +38112,7 @@ const englishDict = {
         "lemmas": [
           "зыпкъ ит (does not move or change)",
           "тегъэпытыхьагъ (fixed on a certain position, firmed, well firmed)",
-          "ш1ыжьыгъ (fixed, repaired)"
+          "шӏыжьыгъ (fixed, repaired)"
         ],
         "verbs": []
       },
@@ -38101,7 +38130,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гумы1ан"
+          "гумыӏан"
         ],
         "verbs": []
       },
@@ -38132,7 +38161,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "цыхьэш1эгъунчъэ"
+          "цыхьэшӏэгъунчъэ"
         ],
         "verbs": []
       },
@@ -38160,7 +38189,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ои"
+          "шӏои"
         ],
         "verbs": []
       },
@@ -38198,29 +38227,30 @@ const englishDict = {
           "гъэбыбын (to make something fly)",
           "лъыбыбын (to fly toward)",
           "дэгъэбыбэен (to make something fly up)",
-          "1убыбэн (to fly near something)",
-          "1убыбын (to fly away from something)",
+          "ӏубыбэн (to fly near something)",
+          "ӏубыбын (to fly away from something)",
           "тебыбэн (to fly above something)",
           "тебыбын / къытебыбын (to fly off from above something)",
-          "ч1эбыбэн (to fly under something)",
-          "ч1эбыбын / къыч1эбыбын (to fly from under something)",
+          "чӏэбыбэн (to fly under something)",
+          "чӏэбыбын / къычӏэбыбын (to fly from under something)",
           "ибыбэн (to fly inside something)",
           "ибыбын / къибыбын (to fly outside)",
           "къобыбэн (to fly behind something)",
           "къобыбын / къыкъобыбын (to fly from behind something)",
           "гобыбэн / бгъодэбыбэн (to fly besides something)",
-          "гобыбын / бгъодэбыбын / къыгобыбын / къыбгъодэбыбын (to fly from besides something)",
+          "бгъодэбыбын / къыбгъодэбыбын (to fly from besides something)",
+          "гобыбын / къыгобыбын (to fly from besides something)",
           "хэбыбэн (to fly through, to fly to an area with gas or liquid, to fly into the forest)",
           "хэбыбын / къыхэбыбын (to fly from the forest, to fly from an area with gas or liquid)",
           "пыбыбэн (to fly on a branch)",
           "пыбыбэн / къыпыбыбын (to fly off from a branch)",
           "жэхэбыбэн (to fly into/against someone or something)",
-          "зэк1эбыбэн (to fly backword)",
+          "зэкӏэбыбэн (to fly backword)",
           "блэбыбын (to fly pass)",
-          "ибыбык1ын / къибыбык1ын (to fly out from inside something)",
-          "тебыбык1ын / къытебыбык1ын (to fly off from)",
-          "ч1эбыбык1ын / къыч1эбыбык1ын (to fly away from under)",
-          "хэбыбык1ын / къыхэбыбык1ын (to fly away from among)",
+          "ибыбыкӏын / къибыбыкӏын (to fly out from inside something)",
+          "тебыбыкӏын / къытебыбыкӏын (to fly off from)",
+          "чӏэбыбыкӏын / къычӏэбыбыкӏын (to fly away from under)",
+          "хэбыбыкӏын / къыхэбыбыкӏын (to fly away from among)",
           "ибыбыхьан (to fly around inside something)",
           "ибыбыхьан (to fly around inside something)",
           "тебыбыхьан (to fly around above something)"
@@ -38252,8 +38282,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "ежьэжьын",
-          "к1э1эжьын / к1этхъун (to run off, to flee or depart quickly)",
-          "ш1уежьэжьын (to flee from)"
+          "кӏэӏэжьын / кӏэтхъун (to run off, to flee or depart quickly)",
+          "шӏуежьэжьын (to flee from)"
         ]
       },
       "word": "flee"
@@ -38270,7 +38300,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжыдзэгъал1э"
+          "бжыдзэгъалӏэ"
         ],
         "verbs": []
       },
@@ -38290,7 +38320,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "блэбыбык1ын"
+          "блэбыбыкӏын"
         ]
       },
       "word": "fly past"
@@ -38364,7 +38394,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэдзэгъал1э",
+          "бэдзэгъалӏэ",
           "бэдзэубыт"
         ],
         "verbs": []
@@ -38374,7 +38404,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэдзэгъал1э / бэдзэубыт (machine)"
+          "бэдзэгъалӏэ / бэдзэубыт (machine)"
         ],
         "verbs": []
       },
@@ -38412,7 +38442,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къыхэц1ыук1ын, къыхэлыдык1ын, къыхэнэфык1ын"
+          "къыхэцӏыукӏын, къыхэлыдыкӏын, къыхэнэфыкӏын"
         ]
       },
       "word": "flicker"
@@ -38429,9 +38459,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псы теуап1",
-          "псы илъэдап1",
-          "мэкъуп1э"
+          "псы теуапӏ",
+          "псы илъэдапӏ",
+          "мэкъупӏэ"
         ],
         "verbs": []
       },
@@ -38449,9 +38479,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэпц1 щытхъуа1у (adulator)",
-          "нэпц1ыгъэк1э щытхъун (adulator)",
-          "1ордегъашт"
+          "нэпцӏ щытхъуаӏу (adulator)",
+          "нэпцӏыгъэкӏэ щытхъун (adulator)",
+          "ӏордегъашт"
         ],
         "verbs": []
       },
@@ -38460,7 +38490,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жаш1у"
+          "жашӏу"
         ],
         "verbs": []
       },
@@ -38470,7 +38500,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дагъо",
-          "нэц1эк1"
+          "нэцӏэкӏ"
         ],
         "verbs": []
       },
@@ -38480,8 +38510,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1убыбын",
-          "1убыбык1ын"
+          "ӏубыбын",
+          "ӏубыбыкӏын"
         ]
       },
       "word": "fly away"
@@ -38579,7 +38609,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1уадж"
+          "кӏуадж"
         ],
         "verbs": []
       },
@@ -38607,10 +38637,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "рик1он",
+          "рикӏон",
           "чъэн (псыр)",
           "течъын (to flow off something)",
-          "ч1эчъын (to drip from under, to flow from beneath something, to leak from beneath something)",
+          "чӏэчъын (to drip from under, to flow from beneath something, to leak from beneath something)",
           "псы тегъэчъын (to flow water on)"
         ]
       },
@@ -38619,7 +38649,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэш1отхъуабз"
+          "мэшӏотхъуабз"
         ],
         "verbs": []
       },
@@ -38628,8 +38658,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "уфэупц1э (уфэ-упц1)",
-          "лант1э"
+          "уфэупцӏэ (уфэ-упцӏ)",
+          "лантӏэ"
         ],
         "verbs": []
       },
@@ -38638,8 +38668,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "уфэупц1э (уфэ-упц1)",
-          "лант1э"
+          "уфэупцӏэ (уфэ-упцӏ)",
+          "лантӏэ"
         ],
         "verbs": []
       },
@@ -38649,7 +38679,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "онджэкъ",
-          "1угъоик1ып1",
+          "ӏугъоикӏыпӏ",
           "хьакушъхьэищ"
         ],
         "verbs": []
@@ -38660,7 +38690,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "куп",
-          "1эхъогъу",
+          "ӏэхъогъу",
           "отэр (pack)"
         ],
         "verbs": []
@@ -38673,7 +38703,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "цацэ",
-          "к1этал",
+          "кӏэтал",
           "цацэ"
         ],
         "verbs": []
@@ -38692,7 +38722,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нат1э"
+          "натӏэ"
         ],
         "verbs": []
       },
@@ -38734,10 +38764,10 @@ const englishDict = {
           "насып",
           "хъяр",
           "насып дэъу",
-          "насыпыш1у",
-          "насыпыш1уагъ",
-          "ш1угъо (fortunate time)",
-          "бэрэ1умаф"
+          "насыпышӏу",
+          "насыпышӏуагъ",
+          "шӏугъо (fortunate time)",
+          "бэрэӏумаф"
         ],
         "verbs": []
       },
@@ -38746,7 +38776,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1угъо"
+          "шӏугъо"
         ],
         "verbs": []
       },
@@ -38760,7 +38790,7 @@ const englishDict = {
         ],
         "verbs": [
           "гъэделэн",
-          "гъэпц1эн",
+          "гъэпцӏэн",
           "(slightly vulgar) ышъуты лэн"
         ]
       },
@@ -38797,7 +38827,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ахъщэнэпц1"
+          "ахъщэнэпцӏ"
         ],
         "verbs": []
       },
@@ -38806,7 +38836,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ахъщэнэпц1ш1"
+          "ахъщэнэпцӏшӏ"
         ],
         "verbs": []
       },
@@ -38815,7 +38845,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пл1ы"
+          "плӏы"
         ],
         "verbs": []
       },
@@ -38824,7 +38854,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ок1ит1у"
+          "тӏокӏитӏу"
         ],
         "verbs": []
       },
@@ -38835,7 +38865,7 @@ const englishDict = {
         "lemmas": [
           "бгынагъэ",
           "бгынэжьыгъэ",
-          "ч1эдзыжьыгъэ"
+          "чӏэдзыжьыгъэ"
         ],
         "verbs": []
       },
@@ -38844,8 +38874,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ус",
-          "былым1ус"
+          "ӏус",
+          "былымӏус"
         ],
         "verbs": []
       },
@@ -38854,8 +38884,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ус",
-          "былым1ус"
+          "ӏус",
+          "былымӏус"
         ],
         "verbs": []
       },
@@ -38865,7 +38895,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къэлэсэрай",
-          "пытап1э"
+          "пытапӏэ"
         ],
         "verbs": []
       },
@@ -38883,7 +38913,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1элджанэ",
+          "ӏэлджанэ",
           "блантхъэ (for animals)"
         ],
         "verbs": []
@@ -38902,7 +38932,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэджак1э"
+          "бэджакӏэ"
         ],
         "verbs": []
       },
@@ -38920,7 +38950,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэщы1",
+          "бэщыӏ",
           "бэщэч",
           "къинбэщэч"
         ],
@@ -38961,7 +38991,7 @@ const englishDict = {
         "lemmas": [
           "хымэ",
           "хамэ",
-          "1эк1ыб"
+          "ӏэкӏыб"
         ],
         "verbs": []
       },
@@ -38979,7 +39009,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эк1ыб"
+          "ӏэкӏыб"
         ],
         "verbs": []
       },
@@ -38988,7 +39018,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шык1э"
+          "шыкӏэ"
         ],
         "verbs": []
       },
@@ -39008,8 +39038,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эежъ",
-          "ц1ап1э / пц1ап1э",
+          "ӏэежъ",
+          "цӏапӏэ / пцӏапӏэ",
           "нэпэнчъэ",
           "нэпэтехныгъэ"
         ],
@@ -39029,8 +39059,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уалъэ",
-          "лъэкъуипл1 зи1э псэушъхьэм ыпэрэ лъакъохэр ары"
+          "шӏуалъэ",
+          "лъэкъуиплӏ зиӏэ псэушъхьэм ыпэрэ лъакъохэр ары"
         ],
         "verbs": []
       },
@@ -39060,8 +39090,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "делэ",
-          "1улэ",
-          "жэ1улэл",
+          "ӏулэ",
+          "жэӏулэл",
           "(vulgar) цуманэ",
           "хьакъ-мэкъ",
           "акъылынчъ (brainless)"
@@ -39097,7 +39127,7 @@ const englishDict = {
         "verbs": [
           "щыгъупшын / къыщыгъупшын",
           "зыщыгъэгъупшын (to try to forget)",
-          "шъхьэ ик1ын (to forget temporarily)"
+          "шъхьэ икӏын (to forget temporarily)"
         ]
       },
       "word": "forget"
@@ -39105,7 +39135,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъач1"
+          "лъачӏ"
         ],
         "verbs": []
       },
@@ -39148,7 +39178,7 @@ const englishDict = {
           "пчэдыжьышхэ (breakfast)",
           "щэджэгъуашхэ (launch)",
           "пчыхьэшъхьашхэ (supper, dinner for evening)",
-          "чэщ1ус (food for the night)"
+          "чэщӏус (food for the night)"
         ],
         "verbs": []
       },
@@ -39176,7 +39206,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэхъущт-къэш1эщтыр къэш1эн"
+          "къэхъущт-къэшӏэщтыр къэшӏэн"
         ]
       },
       "word": "foresee"
@@ -39185,7 +39215,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэхъущт-къэш1эщтыр къэш1эн"
+          "къэхъущт-къэшӏэщтыр къэшӏэн"
         ]
       },
       "word": "foreknow"
@@ -39195,8 +39225,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "фэгъэгъун",
-          "еш1ужьын (to make peace with someone)",
-          "зэш1ужьын (to make peace with each other)"
+          "ешӏужьын (to make peace with someone)",
+          "зэшӏужьын (to make peace with each other)",
+          "лъэхэнэн (to spare or forgive someone from a grudge, punishment or debt)"
         ]
       },
       "word": "forgive"
@@ -39205,8 +39236,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъык1он",
-          "к1элъык1он"
+          "лъыкӏон",
+          "кӏэлъыкӏон"
         ]
       },
       "word": "follow"
@@ -39241,8 +39272,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джырэк1э",
-          "(dialectal) иджырэк1э"
+          "джырэкӏэ",
+          "(dialectal) иджырэкӏэ"
         ],
         "verbs": []
       },
@@ -39251,8 +39282,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джырэк1э",
-          "(dialectal) иджырэк1э"
+          "джырэкӏэ",
+          "(dialectal) иджырэкӏэ"
         ],
         "verbs": []
       },
@@ -39270,12 +39301,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1уач1э",
+          "кӏуачӏэ",
           "къарыу"
         ],
         "verbs": [
           "егъэзын",
-          "егъэзыгъэк1э егъэш1эн (to forcefully make someone do something)"
+          "егъэзыгъэкӏэ егъэшӏэн (to forcefully make someone do something)"
         ]
       },
       "word": "force"
@@ -39284,8 +39315,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "егъэзыгъэу",
-          "егъэзыгъэк1э",
-          "л1ыгъэк1э"
+          "егъэзыгъэкӏэ",
+          "лӏыгъэкӏэ"
         ],
         "verbs": []
       },
@@ -39295,7 +39326,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1ырэн"
+          "цӏырэн"
         ]
       },
       "word": "fountain"
@@ -39304,9 +39335,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пае",
-          "фэш1",
-          "фэш1к1э",
-          "(uncommon) папк1э"
+          "фэшӏ",
+          "фэшӏкӏэ",
+          "(uncommon) папкӏэ"
         ],
         "verbs": []
       },
@@ -39324,10 +39355,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ыщ"
+          "кӏыщ"
         ],
         "verbs": [
-          "гъук1эн",
+          "гъукӏэн",
           "фытэн"
         ]
       },
@@ -39337,7 +39368,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъыгъэк1ожьын (to forward something to)"
+          "лъыгъэкӏожьын (to forward something to)"
         ]
       },
       "word": "forward"
@@ -39346,9 +39377,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэтеупл1энк1эн (to fold up somethng",
+          "зэтеуплӏэнкӏэн (to fold up somethng",
           "to layer up somethng)",
-          "(Shapsug) зэтеул1эк1эн"
+          "(Shapsug) зэтеулӏэкӏэн"
         ]
       },
       "word": "fold"
@@ -39357,7 +39388,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ык1эен"
+          "шӏыкӏэен"
         ]
       },
       "word": "fool around"
@@ -39366,9 +39397,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1э щыфэн (to pat, to stroke, to pet, to fondle)",
-          "(Shapsug) епэш1эн (to pat, to stroke, to pet, to fondle)",
-          "едэхэш1эн"
+          "ӏэ щыфэн (to pat, to stroke, to pet, to fondle)",
+          "(Shapsug) епэшӏэн (to pat, to stroke, to pet, to fondle)",
+          "едэхэшӏэн"
         ]
       },
       "word": "fondle"
@@ -39376,8 +39407,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1апэ",
-          "нэк1апэ (horse\u0027s)"
+          "нэкӏапэ",
+          "нэкӏапэ (horse\u0027s)"
         ],
         "verbs": []
       },
@@ -39395,7 +39426,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1аркъу"
+          "тӏаркъу"
         ],
         "verbs": []
       },
@@ -39404,7 +39435,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчыт1аркъу"
+          "пчытӏаркъу"
         ],
         "verbs": []
       },
@@ -39413,7 +39444,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъорыш1"
+          "шъорышӏ"
         ],
         "verbs": []
       },
@@ -39423,10 +39454,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хьаулый",
-          "пк1э зимы1э",
-          "пк1э и1эп",
+          "пкӏэ зимыӏэ",
+          "пкӏэ иӏэп",
           "хьаулыеу",
-          "пк1энчъэу",
+          "пкӏэнчъэу",
           "бедэхьау"
         ],
         "verbs": []
@@ -39445,7 +39476,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1эм пае",
+          "гущыӏэм пае",
           "тэгъаӏу (let\u0027s say)"
         ],
         "verbs": []
@@ -39523,7 +39554,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэшак1э"
+          "нэшакӏэ"
         ],
         "verbs": []
       },
@@ -39560,9 +39591,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тхьак1ын (to wash something)",
+          "тхьакӏын (to wash something)",
           "лъэсын (to rinse)",
-          "гык1эн (to do laundry), гык1ын (to launder something)"
+          "гыкӏэн (to do laundry), гыкӏын (to launder something)"
         ]
       },
       "word": "wash"
@@ -39570,9 +39601,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьак1ыгъ",
-          "гык1ыгъ",
-          "л1эк1ыгъ"
+          "тхьакӏыгъ",
+          "гыкӏыгъ",
+          "лӏэкӏыгъ"
         ],
         "verbs": []
       },
@@ -39602,11 +39633,11 @@ const englishDict = {
           "ебз"
         ],
         "verbs": [
-          "гъэк1он",
-          "гъэк1одын",
-          "тегъэк1одэн (to waste on)",
-          "ахъщэ гъэк1он (to waste money)",
-          "(slang) ахъщэ ч1эфын"
+          "гъэкӏон",
+          "гъэкӏодын",
+          "тегъэкӏодэн (to waste on)",
+          "ахъщэ гъэкӏон (to waste money)",
+          "(slang) ахъщэ чӏэфын"
         ]
       },
       "word": "waste"
@@ -39614,8 +39645,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лэжьапк1",
-          "1офш1апк1"
+          "лэжьапкӏ",
+          "ӏофшӏапкӏ"
         ],
         "verbs": []
       },
@@ -39624,7 +39655,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьаусхак1о"
+          "тхьаусхакӏо"
         ],
         "verbs": []
       },
@@ -39669,9 +39700,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ып1э нэк1",
-          "бгынэгъэ ч1ып1",
-          "шъоф нэк1ы"
+          "чӏыпӏэ нэкӏ",
+          "бгынэгъэ чӏыпӏ",
+          "шъоф нэкӏы"
         ],
         "verbs": []
       },
@@ -39680,7 +39711,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "блыгуч1ад"
+          "блыгучӏад"
         ],
         "verbs": []
       },
@@ -39699,7 +39730,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэк1э нахь"
+          "бэкӏэ нахь"
         ],
         "verbs": []
       },
@@ -39782,7 +39813,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къамц1ыч"
+          "къамцӏыч"
         ],
         "verbs": []
       },
@@ -39801,8 +39832,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэк1ухьан (to wander by foot)",
-          "къыщык1ухьан",
+          "къэкӏухьан (to wander by foot)",
+          "къыщыкӏухьан",
           "къэчъыхьан (to wander running)"
         ]
       },
@@ -39812,11 +39843,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "текощык1ын (to wander off)",
-          "тегъэкощык1ын (to wander someone off)",
+          "текощыкӏын (to wander off)",
+          "тегъэкощыкӏын (to wander someone off)",
           "гъэкощын (to wander someone off)",
-          "тек1отык1ын (to wander off)",
-          "тегъэк1отык1ын (to wander someone off)"
+          "текӏотыкӏын (to wander off)",
+          "тегъэкӏотыкӏын (to wander someone off)"
         ]
       },
       "word": "wander off"
@@ -39826,7 +39857,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "фэен",
-          "ш1оигъон (very polite)"
+          "шӏоигъон (very polite)"
         ]
       },
       "word": "want"
@@ -39850,7 +39881,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "еблэгъап1э"
+          "еблэгъапӏэ"
         ],
         "verbs": []
       },
@@ -39864,7 +39895,7 @@ const englishDict = {
           "къэущыжьын",
           "къэгъэущын (to awake someone up)",
           "къэгъэущыжьын (to awake someone up)",
-          "къыхэущык1ын (to wake up from a dream)"
+          "къыхэущыкӏын (to wake up from a dream)"
         ]
       },
       "word": "wake up"
@@ -39883,8 +39914,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъык1он",
-          "к1элъык1он"
+          "лъыкӏон",
+          "кӏэлъыкӏон"
         ]
       },
       "word": "walk after"
@@ -39893,9 +39924,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъыплъэн / к1элъыплъэн (to look after)",
-          "пык1эрэплъын",
-          "на1э тегъэтын",
+          "лъыплъэн / кӏэлъыплъэн (to look after)",
+          "пыкӏэрэплъын",
+          "наӏэ тегъэтын",
           "фэсакъын",
           "ухъумэн / къэухъумэн",
           "лъыплъэн"
@@ -39906,9 +39937,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэол1",
-          "зэуак1о",
-          "зэуал1"
+          "зэолӏ",
+          "зэуакӏо",
+          "зэуалӏ"
         ],
         "verbs": []
       },
@@ -39935,8 +39966,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щы1ак1э",
-          "псэук1э"
+          "щыӏакӏэ",
+          "псэукӏэ"
         ],
         "verbs": []
       },
@@ -39958,14 +39989,14 @@ const englishDict = {
           "лъэсы"
         ],
         "verbs": [
-          "к1он (to walk, to walk to somewhere)",
-          "щык1он (to walk in a certain area)",
-          "дэк1оен (to walk up)",
+          "кӏон (to walk, to walk to somewhere)",
+          "щыкӏон (to walk in a certain area)",
+          "дэкӏоен (to walk up)",
           "ехын (to walk down)",
-          "къэк1ухьан (to walk around, to roam, to stroll, to ramble)",
-          "зэк1эк1он (to walk backward)",
-          "рик1он (to walk on something)",
-          "к1ун (to walk a certain distance)"
+          "къэкӏухьан (to walk around, to roam, to stroll, to ramble)",
+          "зэкӏэкӏон (to walk backward)",
+          "рикӏон (to walk on something)",
+          "кӏун (to walk a certain distance)"
         ]
       },
       "word": "walk"
@@ -40022,9 +40053,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1э ш1ын",
-          "(vulgar) 1эк1э еон",
-          "(very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
+          "ӏэкӏэ шӏын",
+          "(vulgar) ӏэкӏэ еон",
+          "(very vulgar) ӏэкӏэ тешӏыкӏын (to masturbate off something)"
         ]
       },
       "word": "wank"
@@ -40033,7 +40064,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэк1эк1он"
+          "зэкӏэкӏон"
         ]
       },
       "word": "walk backward"
@@ -40050,7 +40081,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гык1алъэ (washing machine)"
+          "гыкӏалъэ (washing machine)"
         ],
         "verbs": []
       },
@@ -40069,7 +40100,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэсак1о (guarding grain, garden and melon crops)"
+          "пэсакӏо (guarding grain, garden and melon crops)"
         ],
         "verbs": []
       },
@@ -40114,7 +40145,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъогурык1о"
+          "гъогурыкӏо"
         ],
         "verbs": []
       },
@@ -40132,7 +40163,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1уагъэ"
+          "кӏуагъэ"
         ],
         "verbs": []
       },
@@ -40174,7 +40205,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хьакъуашъо",
-          "1анлъэ"
+          "ӏанлъэ"
         ],
         "verbs": []
       },
@@ -40184,7 +40215,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хьакъуашъо",
-          "1анлъэ"
+          "ӏанлъэ"
         ],
         "verbs": []
       },
@@ -40197,8 +40228,8 @@ const englishDict = {
         "lemmas": [
           "гупэ (the front of something)",
           "ыпэ / ыпашъхьэ (in front of)",
-          "ыпэк1э / ыпашъхьэк1э",
-          "ынэ1у"
+          "ыпэкӏэ / ыпашъхьэкӏэ",
+          "ынэӏу"
         ],
         "verbs": []
       },
@@ -40207,7 +40238,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1э"
+          "кӏэ"
         ],
         "verbs": []
       },
@@ -40226,8 +40257,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мык1э",
-          "(dialectal) мэук1э"
+          "мыкӏэ",
+          "(dialectal) мэукӏэ"
         ],
         "verbs": []
       },
@@ -40236,11 +40267,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ак1э",
-          "(dialectal) аук1э",
-          "мок1э",
-          "(dialectal) моук1э",
-          "(dialectal) оук1э"
+          "акӏэ",
+          "(dialectal) аукӏэ",
+          "мокӏэ",
+          "(dialectal) моукӏэ",
+          "(dialectal) оукӏэ"
         ],
         "verbs": []
       },
@@ -40253,7 +40284,7 @@ const englishDict = {
           "шъэогъу (boyfriend)",
           "пшъэшъэгъу (girlfriend)",
           "гъусэ (Kfar Kama dialect)",
-          "гъусэк1алэ (Kfar Kama dialect, boyfriend)",
+          "гъусэкӏалэ (Kfar Kama dialect, boyfriend)",
           "гъусэпшъагъэ (Kfar Kama dialect, girlfriend)",
           "благъэ (close friend)"
         ],
@@ -40267,7 +40298,7 @@ const englishDict = {
           "къутаф",
           "гоутыгъэр",
           "пыутыгъэр",
-          "пык1ык1ыгъэр"
+          "пыкӏыкӏыгъэр"
         ],
         "verbs": [
           "зэхэгъэтэкъун"
@@ -40280,9 +40311,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэлэнлэн (to set free)",
-          "т1упщын",
-          "ит1упщыхьан (to free inside something)",
-          "хэт1упщыхьан (to free something into the water, sea, gas, fire, forest)"
+          "тӏупщын",
+          "итӏупщыхьан (to free inside something)",
+          "хэтӏупщыхьан (to free something into the water, sea, gas, fire, forest)"
         ]
       },
       "word": "free"
@@ -40291,7 +40322,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъэлэнлагъэ",
-          "т1упщыгъэ"
+          "тӏупщыгъэ"
         ],
         "verbs": []
       },
@@ -40302,7 +40333,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэпыутын",
-          "зэпык1ын",
+          "зэпыкӏын",
           "къутэн"
         ]
       },
@@ -40329,7 +40360,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьант1аркъу",
+          "хьантӏаркъу",
           "хьантыкъуакъу (Shapsug)"
         ],
         "verbs": []
@@ -40359,7 +40390,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щтыргъук1ы"
+          "щтыргъукӏы"
         ],
         "verbs": []
       },
@@ -40368,7 +40399,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щтыргъук1ы"
+          "щтыргъукӏы"
         ],
         "verbs": []
       },
@@ -40377,7 +40408,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэпц1ак1о"
+          "гъэпцӏакӏо"
         ],
         "verbs": []
       },
@@ -40416,7 +40447,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уалъэ"
+          "шӏуалъэ"
         ],
         "verbs": []
       },
@@ -40446,7 +40477,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "чъы1э л1эн (to be cold)",
+          "чъыӏэ лӏэн (to be cold)",
           "щтын (to be frozen)",
           "гъэщтын (to freeze)",
           "дэщтыхьан (to be frozen inside a firdge)",
@@ -40463,7 +40494,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къеш1ыхьак1ын"
+          "къешӏыхьакӏын"
         ]
       },
       "word": "frame"
@@ -40481,7 +40512,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пхъэшъхьэмышъхьэхэр",
-          "пк1ышъхьэмышъхьэхэр"
+          "пкӏышъхьэмышъхьэхэр"
         ],
         "verbs": []
       },
@@ -40510,7 +40541,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъунэ",
-          "нэк1апэ (of hair)"
+          "нэкӏапэ (of hair)"
         ],
         "verbs": []
       },
@@ -40539,7 +40570,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ык1эен"
+          "шӏыкӏэен"
         ]
       },
       "word": "frolic"
@@ -40565,7 +40596,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэучъы1алъэ"
+          "гъэучъыӏалъэ"
         ],
         "verbs": []
       },
@@ -40601,7 +40632,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэджэ-1удж"
+          "нэджэ-ӏудж"
         ],
         "verbs": []
       },
@@ -40611,8 +40642,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан",
-          "зэ1ыгъэхьан (to make someone freakout)"
+          "зэӏыхьан",
+          "зэӏыгъэхьан (to make someone freakout)"
         ]
       },
       "word": "freak out"
@@ -40620,7 +40651,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "фэкъол1"
+          "фэкъолӏ"
         ],
         "verbs": []
       },
@@ -40639,7 +40670,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пхъэшъхьэмышъхь",
-          "пк1ышъхьэмышъхьэ"
+          "пкӏышъхьэмышъхьэ"
         ],
         "verbs": []
       },
@@ -40664,7 +40695,7 @@ const englishDict = {
         "lemmas": [
           "о",
           "ожьы",
-          "ош1у (peaceful weather)",
+          "ошӏу (peaceful weather)",
           "уае (stormy weather)"
         ],
         "verbs": []
@@ -40701,7 +40732,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1у",
+          "шӏу",
           "дэгъу (good, well)",
           "псынэ (hole sunk into the ground as a source of water)"
         ],
@@ -40712,7 +40743,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ашэ"
+          "ӏашэ"
         ],
         "verbs": []
       },
@@ -40722,8 +40753,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъэсагъэ",
-          "1асэ",
-          "1орыш1э (obedient)"
+          "ӏасэ",
+          "ӏорышӏэ (obedient)"
         ],
         "verbs": []
       },
@@ -40732,11 +40763,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ынэ",
-          "(Shapsug) c1ынэ"
+          "цӏынэ",
+          "(Shapsug) cӏынэ"
         ],
         "verbs": [
-          "к1эгъутхьан (to accidentally/uncontrollably urinate)"
+          "кӏэгъутхьан (to accidentally/uncontrollably urinate)"
         ]
       },
       "word": "wet"
@@ -40744,10 +40775,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзаш1у",
-          "жабзэ зы1улъ",
-          "гущы1эк1э1аз",
-          "жаш1у"
+          "бзашӏу",
+          "жабзэ зыӏулъ",
+          "гущыӏэкӏэӏаз",
+          "жашӏу"
         ],
         "verbs": []
       },
@@ -40756,7 +40787,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъонт1эу"
+          "шъонтӏэу"
         ],
         "verbs": []
       },
@@ -40783,8 +40814,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тыгъэкъохьап1",
-          "къохьап1э"
+          "тыгъэкъохьапӏ",
+          "къохьапӏэ"
         ],
         "verbs": []
       },
@@ -40812,7 +40843,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1ужь"
+          "зэкӏужь"
         ],
         "verbs": []
       },
@@ -40821,7 +40852,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1ужь"
+          "зэкӏужь"
         ],
         "verbs": []
       },
@@ -40830,7 +40861,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1ужь"
+          "зэкӏужь"
         ],
         "verbs": []
       },
@@ -40840,8 +40871,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъэсагъэ",
-          "шэныш1у",
-          "ш1ык1аш1у"
+          "шэнышӏу",
+          "шӏыкӏашӏу"
         ],
         "verbs": []
       },
@@ -40850,8 +40881,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэш1эгъоны",
-          "ш1огъэш1эгъонын (to be weirded by, to find something weird)"
+          "гъэшӏэгъоны",
+          "шӏогъэшӏэгъонын (to be weirded by, to find something weird)"
         ],
         "verbs": []
       },
@@ -40861,9 +40892,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэгъок1ын (to welcome someone as a host)",
+          "пэгъокӏын (to welcome someone as a host)",
           "къегъэблэгъэн (to make someone come in or come closer)",
-          "гъэхьак1эн (to host someone, to have a guest)"
+          "гъэхьакӏэн (to host someone, to have a guest)"
         ]
       },
       "word": "welcome"
@@ -40872,8 +40903,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъэсагъэ",
-          "1асэ",
-          "1орыш1э (obedient)"
+          "ӏасэ",
+          "ӏорышӏэ (obedient)"
         ],
         "verbs": []
       },
@@ -40882,8 +40913,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1эры1о",
-          "хэ1уагъ (Shapsug)"
+          "цӏэрыӏо",
+          "хэӏуагъ (Shapsug)"
         ],
         "verbs": []
       },
@@ -40903,9 +40934,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "махэ",
-          "к1оч1адж (weak, infirm, feeble)",
+          "кӏочӏадж (weak, infirm, feeble)",
           "ерагъ (something that needs aid/help)",
-          "к1оч1энчъэ (powerless)",
+          "кӏочӏэнчъэ (powerless)",
           "къарыунчъэ (forceless)"
         ],
         "verbs": []
@@ -40953,7 +40984,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1урыс"
+          "тӏурыс"
         ],
         "verbs": []
       },
@@ -40971,8 +41002,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыш1эрэ",
-          "ш1эныгъэ зи1э"
+          "зышӏэрэ",
+          "шӏэныгъэ зиӏэ"
         ],
         "verbs": []
       },
@@ -41020,7 +41051,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэхап1э"
+          "мэхапӏэ"
         ],
         "verbs": []
       },
@@ -41029,7 +41060,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ашэнчъэ"
+          "ӏашэнчъэ"
         ],
         "verbs": []
       },
@@ -41038,7 +41069,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "делэ1о-делэшъу"
+          "делэӏо-делэшъу"
         ],
         "verbs": []
       },
@@ -41047,7 +41078,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "делэ1о-делэшъу"
+          "делэӏо-делэшъу"
         ],
         "verbs": []
       },
@@ -41067,8 +41098,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зэгъэфагъ",
-          "к1эрак1эу фэпэгъэ",
-          "к1эрак1",
+          "кӏэракӏэу фэпэгъэ",
+          "кӏэракӏ",
           "дахэу фэпэгъэ",
           "дахэу зэгъэфагъэ",
           "щыгъын дах зыщыгъэр"
@@ -41089,7 +41120,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ык1ужъый"
+          "цӏыкӏужъый"
         ],
         "verbs": []
       },
@@ -41102,8 +41133,8 @@ const englishDict = {
         "lemmas": [
           "изы",
           "изэу",
-          "шхэк1ын (having eaten to satisfaction)",
-          "мыу / мы1у"
+          "шхэкӏын (having eaten to satisfaction)",
+          "мыу / мыӏу"
         ],
         "verbs": []
       },
@@ -41150,7 +41181,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэт1ылъыгъэ, гъэхьазырыгъэ, угъоигъэ"
+          "гъэтӏылъыгъэ, гъэхьазырыгъэ, угъоигъэ"
         ],
         "verbs": []
       },
@@ -41159,16 +41190,16 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "(vulgar) сэп1ыс",
-          "(vulgar) янэ сэп1ыс",
+          "(vulgar) сэпӏыс",
+          "(vulgar) янэ сэпӏыс",
           "исагъ",
           "(vulgar) ышъуты исагъ"
         ],
         "verbs": [
-          "(vulgar) п1ысын",
-          "(vulgar, slang) 1этын",
+          "(vulgar) пӏысын",
+          "(vulgar, slang) ӏэтын",
           "(vulgar, slang) дэгъэнэн",
-          "(vulgar, slang) ш1огъэнэн"
+          "(vulgar, slang) шӏогъэнэн"
         ]
       },
       "word": "fuck"
@@ -41176,7 +41207,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "(vulgar) п1ысыгъэжъ"
+          "(vulgar) пӏысыгъэжъ"
         ],
         "verbs": []
       },
@@ -41185,7 +41216,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "(vulgar) п1ысыгъэжъ"
+          "(vulgar) пӏысыгъэжъ"
         ],
         "verbs": []
       },
@@ -41194,8 +41225,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "(vulgar) п1ысыгъэжъ",
-          "(vulgar) п1ысак1о"
+          "(vulgar) пӏысыгъэжъ",
+          "(vulgar) пӏысакӏо"
         ],
         "verbs": []
       },
@@ -41214,9 +41245,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэцэк1эн",
+          "гъэцэкӏэн",
           "зехьан / зэрихьан",
-          "гъэцэк1эжьын",
+          "гъэцэкӏэжьын",
           "гъэшъыпкъэжьын (to fulfill a promise)"
         ]
       },
@@ -41225,18 +41256,18 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зы1удз",
+          "зыӏудз",
           "зегъэхь",
-          "зы1уегъэх",
-          "(vulgar) зы1уп1ысык1",
-          "к1о дэхьэжь",
-          "(vulgar) к1о зып1ысыжь",
-          "(vulgar, slang) к1о зы1этыжь"
+          "зыӏуегъэх",
+          "(vulgar) зыӏупӏысыкӏ",
+          "кӏо дэхьэжь",
+          "(vulgar) кӏо зыпӏысыжь",
+          "(vulgar, slang) кӏо зыӏэтыжь"
         ],
         "verbs": [
-          "зы1удзын",
+          "зыӏудзын",
           "зегъэхьын",
-          "зы1уегъэхын"
+          "зыӏуегъэхын"
         ]
       },
       "word": "fuck off"
@@ -41246,10 +41277,10 @@ const englishDict = {
         "lemmas": [
           "исагъ",
           "(vulgar) ышъуты исагъ",
-          "(vulgar) сэп1ыс",
-          "(slang, vulgar) сэ1эт",
-          "(vulgar) хьэм еп1ыс",
-          "(vulgar) янэ сэп1ыс",
+          "(vulgar) сэпӏыс",
+          "(slang, vulgar) сэӏэт",
+          "(vulgar) хьэм епӏыс",
+          "(vulgar) янэ сэпӏыс",
           "(vulgar) шъутыгъуан / шъутыгъонэжъ"
         ],
         "verbs": []
@@ -41268,7 +41299,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "(vulgar) осэп1ыс",
+          "(vulgar) осэпӏыс",
           "(vulgar) ушъуты исагъ"
         ],
         "verbs": []
@@ -41279,7 +41310,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "щхэны",
-          "(Shapsug) гуш1уагъо"
+          "(Shapsug) гушӏуагъо"
         ],
         "verbs": []
       },
@@ -41297,8 +41328,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1апсэрык1о",
-          "к1эпсэрышъу"
+          "кӏапсэрыкӏо",
+          "кӏэпсэрышъу"
         ],
         "verbs": []
       },
@@ -41308,7 +41339,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зек1он"
+          "зекӏон"
         ]
       },
       "word": "function like"
@@ -41327,7 +41358,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ащ ехъурэу",
-          "ащ къыдак1оу"
+          "ащ къыдакӏоу"
         ],
         "verbs": []
       },
@@ -41339,7 +41370,7 @@ const englishDict = {
         "verbs": [
           "зэхэхьан (to be fused)",
           "зэхэгъэхьан",
-          "зэхэк1ок1эн"
+          "зэхэкӏокӏэн"
         ]
       },
       "word": "fuse"
@@ -41347,7 +41378,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1аркъу (a division into several branches)"
+          "тӏаркъу (a division into several branches)"
         ],
         "verbs": []
       },
@@ -41378,7 +41409,7 @@ const englishDict = {
         "lemmas": [
           "хьадагъэ",
           "хьэдэ дэхыныр",
-          "хьэдэ гъэ1ылъыныр"
+          "хьэдэ гъэӏылъыныр"
         ],
         "verbs": []
       },
@@ -41398,7 +41429,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сыд рик1орэр"
+          "сыд рикӏорэр"
         ],
         "verbs": []
       },
@@ -41407,7 +41438,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сыд рик1орэр"
+          "сыд рикӏорэр"
         ],
         "verbs": []
       },
@@ -41434,7 +41465,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сыдигъок1и"
+          "сыдигъокӏи"
         ],
         "verbs": []
       },
@@ -41462,7 +41493,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къэхьыпэ",
-          "шъуз ш1ой",
+          "шъуз шӏой",
           "шъузэу ыпкъ зищэжьырэр",
           "(vulgar) къэхьыпэ"
         ],
@@ -41473,7 +41504,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пак1э"
+          "пакӏэ"
         ],
         "verbs": []
       },
@@ -41540,7 +41571,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэк1эф"
+          "жэкӏэф"
         ],
         "verbs": []
       },
@@ -41577,8 +41608,8 @@ const englishDict = {
         "lemmas": [
           "сыд ехъурэу",
           "сыд джыри",
-          "сыд ык1и",
-          "сыд нэмык1эу",
+          "сыд ыкӏи",
+          "сыд нэмыкӏэу",
           "сыд фэшъхьафэу"
         ],
         "verbs": []
@@ -41588,7 +41619,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гу пык1эу"
+          "гу пыкӏэу"
         ],
         "verbs": []
       },
@@ -41597,7 +41628,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гупык1"
+          "гупыкӏ"
         ],
         "verbs": []
       },
@@ -41615,7 +41646,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1эужь"
+          "лӏэужь"
         ],
         "verbs": []
       },
@@ -41663,10 +41694,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "(Shapsug) к1энлъэ",
+          "(Shapsug) кӏэнлъэ",
           "къамыщ",
-          "к1эпщ / шыукъамыщ (horsewhip)",
-          "къамыщык1 (whip-handle)"
+          "кӏэпщ / шыукъамыщ (horsewhip)",
+          "къамыщыкӏ (whip-handle)"
         ],
         "verbs": []
       },
@@ -41675,7 +41706,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къамыщык1"
+          "къамыщыкӏ"
         ],
         "verbs": []
       },
@@ -41687,7 +41718,7 @@ const englishDict = {
           "сыдэу",
           "сыд фэдэ",
           "сыд фэдэми",
-          "сыд хъунк1и"
+          "сыд хъункӏи"
         ],
         "verbs": []
       },
@@ -41730,7 +41761,7 @@ const englishDict = {
           "(dialectal) тэщгъум",
           "(dialectal) шъыдигъо / шъыдгъо",
           "зэхъум (when it happened)",
-          "зыхъурэм / зыхъук1э (when it happens)"
+          "зыхъурэм / зыхъукӏэ (when it happens)"
         ],
         "verbs": []
       },
@@ -41745,9 +41776,9 @@ const englishDict = {
           "гъынэнэн",
           "фэгъынэнэн (to whine for, to complaint in front of)",
           "тхьаусхэн (to whine, to complain)",
-          "пэ1у1ожьын (to whine against someone disagreeably)",
-          "1оин",
-          "фэ1оин (to whine for, to complaint in front of)"
+          "пэӏуӏожьын (to whine against someone disagreeably)",
+          "ӏоин",
+          "фэӏоин (to whine for, to complaint in front of)"
         ]
       },
       "word": "whine"
@@ -41756,8 +41787,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ушъэшъэн",
-          "е1ушъэшъэн"
+          "ӏушъэшъэн",
+          "еӏушъэшъэн"
         ]
       },
       "word": "whisper"
@@ -41803,7 +41834,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1оен"
+          "ӏоен"
         ]
       },
       "word": "whine; complain"
@@ -41868,7 +41899,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1оталъ"
+          "ӏоталъ"
         ],
         "verbs": []
       },
@@ -41906,9 +41937,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъэк1ын (to wipe off, to brush)",
-          "телъэк1ык1ын (to wipe off something from the surface of something by bruthing)",
-          "тегъэуш1оик1ын (to wipe off, to erase from the surface of)"
+          "лъэкӏын (to wipe off, to brush)",
+          "телъэкӏыкӏын (to wipe off something from the surface of something by bruthing)",
+          "тегъэушӏоикӏын (to wipe off, to erase from the surface of)"
         ]
       },
       "word": "wipe"
@@ -41917,10 +41948,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "лъэк1ын",
-          "тегъэстык1ын (to wipe off by fire)",
-          "тегъэуш1оин (to erase)",
-          "телъэк1ык1ын (to wipe off something from the surface of)"
+          "лъэкӏын",
+          "тегъэстыкӏын (to wipe off by fire)",
+          "тегъэушӏоин (to erase)",
+          "телъэкӏыкӏын (to wipe off something from the surface of)"
         ]
       },
       "word": "wipe off"
@@ -41937,7 +41968,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ымафэ"
+          "кӏымафэ"
         ],
         "verbs": []
       },
@@ -42019,7 +42050,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "губгъо (wilderness)",
-          "1алы (wild animal)",
+          "ӏалы (wild animal)",
           "емлыч (wild animal)"
         ],
         "verbs": []
@@ -42052,7 +42083,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "уды",
-          "нэгъуч1ыцэ"
+          "нэгъучӏыцэ"
         ],
         "verbs": []
       },
@@ -42062,7 +42093,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "уды",
-          "ушхъухьак1о"
+          "ушхъухьакӏо"
         ],
         "verbs": []
       },
@@ -42071,7 +42102,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жьынэ1у"
+          "жьынэӏу"
         ],
         "verbs": []
       },
@@ -42080,7 +42111,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жьыуап1э"
+          "жьыуапӏэ"
         ],
         "verbs": []
       },
@@ -42093,7 +42124,7 @@ const englishDict = {
           "хьын",
           "гъэмартын (to win against)",
           "фын (to win against someone dominantly or overwhelmingly)",
-          "тек1он (to overcome)",
+          "текӏон (to overcome)",
           "гъэпщэн (Shapsug)",
           "къэхьын (to win a prize)"
         ]
@@ -42130,15 +42161,15 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1э нашъхьэ",
-          "нак1э",
-          "нэк1ао"
+          "нэкӏэ нашъхьэ",
+          "накӏэ",
+          "нэкӏао"
         ],
         "verbs": [
-          "нэк1эон",
-          "енэк1эон (to wink at someone)",
-          "нэк1э нашъхьэ фэш1ын (to wink at someone)",
-          "нашъхьэ фэш1ын (to wink at someone)"
+          "нэкӏэон",
+          "енэкӏэон (to wink at someone)",
+          "нэкӏэ нашъхьэ фэшӏын (to wink at someone)",
+          "нашъхьэ фэшӏын (to wink at someone)"
         ]
       },
       "word": "wink"
@@ -42156,9 +42187,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уш",
+          "ӏуш",
           "акъыл",
-          "акъылыш1у",
+          "акъылышӏу",
           "акъылышху"
         ],
         "verbs": []
@@ -42179,7 +42210,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сэнэш1 / сэнаш1э"
+          "сэнэшӏ / сэнашӏэ"
         ],
         "verbs": []
       },
@@ -42188,7 +42219,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыгорэк1э"
+          "зыгорэкӏэ"
         ],
         "verbs": []
       },
@@ -42197,7 +42228,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъуч1ыч (thin thread of metal)"
+          "гъучӏыч (thin thread of metal)"
         ],
         "verbs": []
       },
@@ -42228,7 +42259,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1оц1ы- (prepositional verval suffix)"
+          "кӏоцӏы- (prepositional verval suffix)"
         ],
         "verbs": []
       },
@@ -42256,8 +42287,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1эгъуаб",
-          "л1эгъуаб"
+          "лӏэгъуаб",
+          "лӏэгъуаб"
         ],
         "verbs": []
       },
@@ -42307,7 +42338,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "(slightly vulgar) сытец1 (I don\u0027t give a shit)"
+          "(slightly vulgar) сытецӏ (I don\u0027t give a shit)"
         ],
         "verbs": []
       },
@@ -42316,7 +42347,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "(slightly vulgar) сытец1"
+          "(slightly vulgar) сытецӏ"
         ],
         "verbs": []
       },
@@ -42384,7 +42415,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "фэпщыл1ын"
+          "фэпщылӏын"
         ]
       },
       "word": "worship"
@@ -42392,14 +42423,14 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офы (work, job)",
-          "лъэжьап1э (workplace, worksite)",
+          "ӏофы (work, job)",
+          "лъэжьапӏэ (workplace, worksite)",
           "пшъэрылъ (task)",
-          "1офш1эн (work to do, tasks)",
+          "ӏофшӏэн (work to do, tasks)",
           "хъызмэт (chores, housework)"
         ],
         "verbs": [
-          "1оф ш1эн (to do work)",
+          "ӏоф шӏэн (to do work)",
           "лъэжьэн / къэлэжьэн (to work)",
           "пылэжьэхьан (to work on something)"
         ]
@@ -42418,7 +42449,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэжьап1э"
+          "лъэжьапӏэ"
         ],
         "verbs": []
       },
@@ -42427,7 +42458,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэжьап1э"
+          "лъэжьапӏэ"
         ],
         "verbs": []
       },
@@ -42445,8 +42476,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1э",
-          "гуща1э (Shapsug)",
+          "гущыӏэ",
+          "гущаӏэ (Shapsug)",
           "псалъэ"
         ],
         "verbs": []
@@ -42456,7 +42487,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэу1у"
+          "пхъэуӏу"
         ],
         "verbs": []
       },
@@ -42465,10 +42496,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "у1агъэ"
+          "уӏагъэ"
         ],
         "verbs": [
-          "у1эн / къыу1эн"
+          "уӏэн / къыуӏэн"
         ]
       },
       "word": "wound"
@@ -42477,7 +42508,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1утын",
+          "ӏутын",
           "щылэжьэн"
         ]
       },
@@ -42486,7 +42517,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1э",
+          "пкӏэ",
           "уасэ (cost)"
         ],
         "verbs": []
@@ -42496,7 +42527,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыфэш1ыпхъэ",
+          "зыфэшӏыпхъэ",
           "зытефэрэ",
           "зифэшъошэ"
         ],
@@ -42507,7 +42538,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лэжьак1о"
+          "лэжьакӏо"
         ],
         "verbs": []
       },
@@ -42516,8 +42547,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэш1уашъхь",
-          "мэш1ош1ыгъ"
+          "мэшӏуашъхь",
+          "мэшӏошӏыгъ"
         ],
         "verbs": []
       },
@@ -42536,7 +42567,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офш1энынчъэ"
+          "ӏофшӏэнынчъэ"
         ],
         "verbs": []
       },
@@ -42555,13 +42586,15 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гумэк1ын (to feel worried / anxious / uneasy)",
-          "фэгумэк1ын (to worry about someone or something)",
-          "гъэгумэк1ын (to worry someone)",
-          "(dialectal) фэгу1эн (to worry for someone)",
-          "(dialectal) гу1эн",
-          "(dialectal) гъэгу1эн (to worry someone)",
-          "(dialectal) тегу1эхьан (to worry about)"
+          "гумэкӏын (to feel worried",
+          "to feel anxious",
+          "to feel uneasy)",
+          "фэгумэкӏын (to worry about someone or something)",
+          "гъэгумэкӏын (to worry someone)",
+          "(dialectal) фэгуӏэн (to worry for someone)",
+          "(dialectal) гуӏэн",
+          "(dialectal) гъэгуӏэн (to worry someone)",
+          "(dialectal) тегуӏэхьан (to worry about)"
         ]
       },
       "word": "worry"
@@ -42569,7 +42602,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1энчъ"
+          "пкӏэнчъ"
         ],
         "verbs": []
       },
@@ -42578,8 +42611,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэзтеупк1",
-          "мэзупк1"
+          "мэзтеупкӏ",
+          "мэзупкӏ"
         ],
         "verbs": []
       },
@@ -42588,7 +42621,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1анчъэ"
+          "гущыӏанчъэ"
         ],
         "verbs": []
       },
@@ -42626,7 +42659,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "у1агъэ"
+          "уӏагъэ"
         ],
         "verbs": []
       },
@@ -42635,10 +42668,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1агъо"
+          "шӏагъо"
         ],
         "verbs": [
-          "ш1огъэш1эгъонын (to wonder at)"
+          "шӏогъэшӏэгъонын (to wonder at)"
         ]
       },
       "word": "wonder"
@@ -42646,7 +42679,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1агъо"
+          "шӏагъо"
         ],
         "verbs": []
       },
@@ -42657,8 +42690,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къыдэхъун (things to work out with someone)",
-          "зэпэк1эк1ын (things/problems to work out)",
-          "зэпэк1эгъэк1ын (to make problem work out)"
+          "зэпэкӏэкӏын (things/problems to work out)",
+          "зэпэкӏэгъэкӏын (to make problem work out)"
         ]
       },
       "word": "work out"
@@ -42687,7 +42720,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1оилъ"
+          "шӏоилъ"
         ],
         "verbs": []
       },
@@ -42696,7 +42729,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжьыныфык1"
+          "бжьыныфыкӏ"
         ],
         "verbs": []
       },
@@ -42705,7 +42738,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэ1ук1э"
+          "зэӏукӏэ"
         ],
         "verbs": []
       },
@@ -42753,11 +42786,11 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэхэхьан (people to gather around)",
-          "щызэ1ук1эн (to gather at a certain place)",
+          "щызэӏукӏэн (to gather at a certain place)",
           "угъоин / къэугъоин (to gather stuff/people)",
-          "зэ1угъэк1эн (to make people gather at a certian place)",
-          "зэхэугъоен / зэк1эугъоен (to gather people/stuff together, to concentrate people/stuff together)",
-          "зэугъоил1эн (to concentrate into one place)"
+          "зэӏугъэкӏэн (to make people gather at a certian place)",
+          "зэхэугъоен / зэкӏэугъоен (to gather people/stuff together, to concentrate people/stuff together)",
+          "зэугъоилӏэн (to concentrate into one place)"
         ]
       },
       "word": "gather"
@@ -42776,7 +42809,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бензин игъэхъоп1э"
+          "бензин игъэхъопӏэ"
         ],
         "verbs": []
       },
@@ -42823,8 +42856,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэц1энлъыхьан",
-          "(dialectal) къэц1элъыхьан",
+          "къэцӏэнлъыхьан",
+          "(dialectal) къэцӏэлъыхьан",
           "джэрыон"
         ]
       },
@@ -42869,7 +42902,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1уап1э"
+          "кӏуапӏэ"
         ],
         "verbs": []
       },
@@ -42880,9 +42913,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэгъэхъэн (to earn)",
-          "1эк1эхьан / къы1эк1эхьан (to get ahold of)",
-          "1эгъэк1эхьан (to make someone gain something)",
-          "зы1эк1эгъэхьажьын (to make oneself gain something) (to obtain, to acquire, to gain)"
+          "ӏэкӏэхьан / къыӏэкӏэхьан (to get ahold of)",
+          "ӏэгъэкӏэхьан (to make someone gain something)",
+          "зыӏэкӏэгъэхьажьын (to make oneself gain something) (to obtain, to acquire, to gain)"
         ]
       },
       "word": "gain"
@@ -42890,8 +42923,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэк1ы",
-          "ш1ои"
+          "хэкӏы",
+          "шӏои"
         ],
         "verbs": []
       },
@@ -42900,7 +42933,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьапк1"
+          "хьапкӏ"
         ],
         "verbs": []
       },
@@ -42909,7 +42942,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьапк1"
+          "хьапкӏ"
         ],
         "verbs": []
       },
@@ -42918,7 +42951,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэк1"
+          "хэкӏ"
         ],
         "verbs": []
       },
@@ -42927,7 +42960,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэпылъап1э"
+          "шъхьэпылъапӏэ"
         ],
         "verbs": []
       },
@@ -42938,8 +42971,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ещэк1ыгъ",
-          "ещэхьэк1ыгъ"
+          "ещэкӏыгъ",
+          "ещэхьэкӏыгъ"
         ],
         "verbs": []
       },
@@ -42948,7 +42981,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1апшъэ (arm)",
+          "ӏапшъэ (arm)",
           "лъашъхьэ (leg)"
         ],
         "verbs": []
@@ -42958,11 +42991,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыц1ыгъэ"
+          "цӏыцӏыгъэ"
         ],
         "verbs": [
           "зэлъэн (to become wrinkled)",
-          "ц1ыц1ын (to wrinkle a fabric/paper by pressing it)"
+          "цӏыцӏын (to wrinkle a fabric/paper by pressing it)"
         ]
       },
       "word": "wrinkle"
@@ -42987,8 +43020,8 @@ const englishDict = {
           "зэхэкъутыхьан",
           "зэхэубэтэн",
           "зэхэубэтыхьан",
-          "ш1огъэон (to wreck someone\u0027s property or plan)",
-          "ш1оубэтэн (to wreck/break someone\u0027s property)"
+          "шӏогъэон (to wreck someone\u0027s property or plan)",
+          "шӏоубэтэн (to wreck/break someone\u0027s property)"
         ]
       },
       "word": "wreck"
@@ -42996,7 +43029,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэнак1о"
+          "бэнакӏо"
         ],
         "verbs": []
       },
@@ -43006,7 +43039,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэгущы1эжьын"
+          "пэгущыӏэжьын"
         ]
       },
       "word": "wrangle"
@@ -43014,8 +43047,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1онт1агъ",
-          "мыхъо-мыш1 (wrongdoing)",
+          "ӏонтӏагъ",
+          "мыхъо-мышӏ (wrongdoing)",
           "мытэрэз",
           "тэрэзыдж"
         ],
@@ -43026,7 +43059,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мыхъо-мыш1"
+          "мыхъо-мышӏ"
         ],
         "verbs": []
       },
@@ -43048,8 +43081,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэлъэгъабэ зи1э",
-          "т1у1угъэ (folds)"
+          "зэлъэгъабэ зиӏэ",
+          "тӏуӏугъэ (folds)"
         ],
         "verbs": []
       },
@@ -43068,12 +43101,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1оц1ылъхьан",
-          "к1оц1ыщыхьан (to wrap around)",
-          "къещыхьак1ын (to wrap around)",
+          "кӏоцӏылъхьан",
+          "кӏоцӏыщыхьан (to wrap around)",
+          "къещыхьакӏын (to wrap around)",
           "щэхьын",
           "щыхьан",
-          "къещэк1ын"
+          "къещэкӏын"
         ]
       },
       "word": "wrap"
@@ -43082,8 +43115,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къуанчэу",
-          "1онт1агъэу",
-          "1орт1агъэу (Shapsug)",
+          "ӏонтӏагъэу",
+          "ӏортӏагъэу (Shapsug)",
           "мытэрэзэу",
           "хэукъоныгъэу",
           "пхэнджэу"
@@ -43095,7 +43128,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхак1о"
+          "тхакӏо"
         ],
         "verbs": []
       },
@@ -43105,7 +43138,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1оц1ыщыхьан"
+          "кӏоцӏыщыхьан"
         ]
       },
       "word": "wrap in"
@@ -43133,7 +43166,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "мыхъо-мыш1агъэ зехьан"
+          "мыхъо-мышӏагъэ зехьан"
         ]
       },
       "word": "wrongdo"
@@ -43165,7 +43198,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гухэк1ын",
+          "гухэкӏын",
           "гу къеон"
         ]
       },
@@ -43184,7 +43217,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэгок1ын"
+          "зэгокӏын"
         ]
       },
       "word": "get crazy"
@@ -43193,7 +43226,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ык1эен",
+          "шӏыкӏэен",
           "бзэджэн"
         ]
       },
@@ -43203,9 +43236,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ягъэ егъэк1ын",
+          "ягъэ егъэкӏын",
           "гъэохъун",
-          "пэ1ууцон (to stand in front of someone)"
+          "пэӏууцон (to stand in front of someone)"
         ]
       },
       "word": "get in the way"
@@ -43256,7 +43289,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "у1эн"
+          "уӏэн"
         ]
       },
       "word": "get wounded"
@@ -43265,8 +43298,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэпычын / зэпырык1ын",
-          "шъхьадэк1ын (to get over above something)",
+          "зэпычын / зэпырыкӏын",
+          "шъхьадэкӏын (to get over above something)",
           "ебэкъон / елъэбэкъон (to step over something, to step across something, to step past something)"
         ]
       },
@@ -43276,7 +43309,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэпычын / зэпырык1ын"
+          "зэпычын / зэпырыкӏын"
         ]
       },
       "word": "get across"
@@ -43285,8 +43318,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэк1ын",
-          "пхырык1ын"
+          "хэкӏын",
+          "пхырыкӏын"
         ]
       },
       "word": "get through"
@@ -43295,7 +43328,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэк1ын"
+          "хэкӏын"
         ]
       },
       "word": "get decreased"
@@ -43304,10 +43337,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бэты",
-          "гупц1анэ",
+          "гупцӏанэ",
           "псэнчъэ",
           "огъурлы",
-          "гупс1анэ (Shapsug)"
+          "гупсӏанэ (Shapsug)"
         ],
         "verbs": []
       },
@@ -43316,7 +43349,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ымэтх"
+          "чӏымэтх"
         ],
         "verbs": []
       },
@@ -43325,7 +43358,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыпчъын ш1эныгъэ"
+          "чӏыпчъын шӏэныгъэ"
         ],
         "verbs": []
       },
@@ -43344,8 +43377,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "маш1о хэнэн",
-          "маш1о къык1энэн"
+          "машӏо хэнэн",
+          "машӏо къыкӏэнэн"
         ]
       },
       "word": "get on fire"
@@ -43358,10 +43391,10 @@ const englishDict = {
           "хэнэн / къыхэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid)",
           "тенэн / къытенэн (to get stuck on above something)",
           "инэн / къинэн (to get stuck inside something)",
-          "ч1энэн / къыч1энэн (to get stuck under something)",
+          "чӏэнэн / къычӏэнэн (to get stuck under something)",
           "пынэн / къыпынэн (to get stuck and undetachable)",
-          "дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole)",
-          "ш1онэн"
+          "дэпӏытӏэн (to get stuck and squeezed in a narrow place or hole)",
+          "шӏонэн"
         ]
       },
       "word": "get stuck"
@@ -43374,9 +43407,9 @@ const englishDict = {
           "хэнэн / къыхэнэн (to get trapped in a company, bushes, forest, liquid, gas or solid)",
           "тенэн / къытенэн (to get trapped on above something)",
           "инэн / къинэн (to get trapped inside something)",
-          "ч1энэн / къыч1энэн (to get trapped under something)",
+          "чӏэнэн / къычӏэнэн (to get trapped under something)",
           "пынэн / къыпынэн (to get trapped and undetachable)",
-          "дэп1ыт1эн (to get trapped and squeezed in a narrow place or hole)"
+          "дэпӏытӏэн (to get trapped and squeezed in a narrow place or hole)"
         ]
       },
       "word": "get trapped"
@@ -43410,7 +43443,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыкъэш1эжьын"
+          "зыкъэшӏэжьын"
         ]
       },
       "word": "get ahold of oneself"
@@ -43429,9 +43462,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэм къик1ыжьын / пэгъуанэм къик1ыжьын (to get fed up",
+          "пэм къикӏыжьын / пэгъуанэм къикӏыжьын (to get fed up",
           "to become sick and tired of)",
-          "(vulgar) шъутым къик1ыжьын / шъутыгъуанэм къик1ыжьын (to get fed up)"
+          "(vulgar) шъутым къикӏыжьын / шъутыгъуанэм къикӏыжьын (to get fed up)"
         ]
       },
       "word": "get fed up"
@@ -43439,7 +43472,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "цабэ зы1ут щэрэхъ"
+          "цабэ зыӏут щэрэхъ"
         ],
         "verbs": []
       },
@@ -43449,7 +43482,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэк1одэхьын"
+          "хэкӏодэхьын"
         ]
       },
       "word": "get lost (in an area)"
@@ -43472,10 +43505,10 @@ const englishDict = {
         "verbs": [
           "гъощэн",
           "хэгъощэн (to get lost by going the wrong way)",
-          "к1одын (to be not found)",
-          "хэк1одэн (to get lost in the forest, inside a liquid or gas)",
-          "ик1одэн (to get lost inside)",
-          "к1охъун (to go the wrong way)"
+          "кӏодын (to be not found)",
+          "хэкӏодэн (to get lost in the forest, inside a liquid or gas)",
+          "икӏодэн (to get lost inside)",
+          "кӏохъун (to go the wrong way)"
         ]
       },
       "word": "get lost"
@@ -43503,7 +43536,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ок1ын"
+          "шӏокӏын"
         ]
       },
       "word": "get away from"
@@ -43512,8 +43545,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уц1ынын / ц1ынэу хъун",
-          "гъэуц1ынын / ц1ынэу ш1ын (to make wet)",
+          "уцӏынын / цӏынэу хъун",
+          "гъэуцӏынын / цӏынэу шӏын (to make wet)",
           "шъун (clothes or body)",
           "гъэшъун (to wet clothes or body)"
         ]
@@ -43524,8 +43557,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уц1ынын / ц1ынэу хъун",
-          "гъэуц1ынын (to make wet)",
+          "уцӏынын / цӏынэу хъун",
+          "гъэуцӏынын (to make wet)",
           "шъун (clothes and body)"
         ]
       },
@@ -43566,7 +43599,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэк1эплъыхьан"
+          "зэкӏэплъыхьан"
         ]
       },
       "word": "get furious"
@@ -43577,7 +43610,7 @@ const englishDict = {
         "verbs": [
           "утэшъон",
           "шъхьэ убытын",
-          "зешъок1ыжьын (to get drunk)",
+          "зешъокӏыжьын (to get drunk)",
           "иутышъухьан (to get drunk inside something)"
         ]
       },
@@ -43608,8 +43641,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ук1ын",
-          "ш1ок1ын (to successfully get away from, to evade)"
+          "ӏукӏын",
+          "шӏокӏын (to successfully get away from, to evade)"
         ]
       },
       "word": "get away"
@@ -43618,7 +43651,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гухэк1ын"
+          "гухэкӏын"
         ]
       },
       "word": "get hurt"
@@ -43626,7 +43659,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэпкъгъэк1од"
+          "лъэпкъгъэкӏод"
         ],
         "verbs": []
       },
@@ -43646,7 +43679,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "тэджын / къэтэджын",
-          "къызшъхьапк1этын (to get up quickly)"
+          "къызшъхьапкӏэтын (to get up quickly)"
         ]
       },
       "word": "get up"
@@ -43664,7 +43697,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэк1эплъыхьан",
+          "зэкӏэплъыхьан",
           "етэн"
         ]
       },
@@ -43694,9 +43727,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1эхьан / къы1эк1эхьан",
-          "1эгъэк1эхьан (to make someone get something)",
-          "зы1эк1эгъэхьажьын (to make oneself get something)",
+          "ӏэкӏэхьан / къыӏэкӏэхьан",
+          "ӏэгъэкӏэхьан (to make someone get something)",
+          "зыӏэкӏэгъэхьажьын (to make oneself get something)",
           "къэгъэхъэн (to obtain, to acquire, to gain)"
         ]
       },
@@ -43706,9 +43739,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1эхьан / къы1эк1эхьан",
-          "1эгъэк1эхьан (to make someone get ahold of something)",
-          "зы1эк1эгъэхьажьын (to make oneself get ahold of something)"
+          "ӏэкӏэхьан / къыӏэкӏэхьан",
+          "ӏэгъэкӏэхьан (to make someone get ahold of something)",
+          "зыӏэкӏэгъэхьажьын (to make oneself get ahold of something)"
         ]
       },
       "word": "get ahold of"
@@ -43718,9 +43751,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "хэнэжьын",
-          "к1энэжьын",
+          "кӏэнэжьын",
           "щыун",
-          "щысэхъук1ын"
+          "щысэхъукӏын"
         ]
       },
       "word": "get out of the habit"
@@ -43729,7 +43762,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан"
+          "зэӏыхьан"
         ]
       },
       "word": "get confused"
@@ -43747,7 +43780,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къыдэк1ухьан",
+          "къыдэкӏухьан",
           "къыухьан",
           "къыщыухьан"
         ]
@@ -43760,7 +43793,7 @@ const englishDict = {
         "verbs": [
           "хэпэзэн",
           "шъхьэукъэн",
-          "т1эк1у хэчъыен"
+          "тӏэкӏу хэчъыен"
         ]
       },
       "word": "get drowsy"
@@ -43780,7 +43813,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зешъок1ыжьын",
+          "зешъокӏыжьын",
           "шъхьэ убытын",
           "шъхьэ убытын"
         ]
@@ -43809,10 +43842,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "жьыбгъэ зы1угъэон",
-          "жьыбгъэ зы1угъэхьан",
-          "жьы зы1угъэхьан",
-          "жьы зы1угъэон"
+          "жьыбгъэ зыӏугъэон",
+          "жьыбгъэ зыӏугъэхьан",
+          "жьы зыӏугъэхьан",
+          "жьы зыӏугъэон"
         ]
       },
       "word": "get fresh air"
@@ -43862,7 +43895,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пшъашъэ",
-          "пшъэшъэжъый / пшъэшъэ ц1ык1у (little girl)"
+          "пшъэшъэжъый / пшъэшъэ цӏыкӏу (little girl)"
         ],
         "verbs": []
       },
@@ -43936,8 +43969,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэбар егъэ1уныр (to report), къэбар егъэш1эныр (to report)",
-          "1опщын"
+          "къэбар егъэӏуныр (to report), къэбар егъэшӏэныр (to report)",
+          "ӏопщын"
         ]
       },
       "word": "give updates"
@@ -43946,8 +43979,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэбар егъэ1уныр (to report), къэбар егъэш1эныр (to report)",
-          "1опщын"
+          "къэбар егъэӏуныр (to report), къэбар егъэшӏэныр (to report)",
+          "ӏопщын"
         ]
       },
       "word": "give an update"
@@ -43956,7 +43989,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гупык1–тын"
+          "гупыкӏ–тын"
         ]
       },
       "word": "give charity"
@@ -44002,8 +44035,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ухьафтын",
-          "гуш1уапк1э (gift for good news)",
+          "шӏухьафтын",
+          "гушӏуапкӏэ (gift for good news)",
           "тыны"
         ],
         "verbs": [
@@ -44016,7 +44049,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "(vulgar) тец1эн"
+          "(vulgar) тецӏэн"
         ]
       },
       "word": "give a shit"
@@ -44025,7 +44058,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тец1эн"
+          "тецӏэн"
         ]
       },
       "word": "give a damn"
@@ -44052,8 +44085,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1э къэ1этын (to surrender)",
-          "ыгу к1одын / гук1одын (to give up all hope or expectations)"
+          "ӏэ къэӏэтын (to surrender)",
+          "ыгу кӏодын / гукӏодын (to give up all hope or expectations)"
         ]
       },
       "word": "give up"
@@ -44062,7 +44095,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "еуцол1эн"
+          "еуцолӏэн"
         ]
       },
       "word": "give in"
@@ -44070,7 +44103,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэпылъап1э"
+          "шъхьэпылъапӏэ"
         ],
         "verbs": []
       },
@@ -44084,16 +44117,16 @@ const englishDict = {
           "пцантхьэ"
         ],
         "verbs": [
-          "тепк1эн (to get glued on)",
-          "тегъэпк1эн (to glue something on something)",
-          "ч1эпк1эн (to get glued under)",
-          "ч1эгъэпк1эн (to glue something under something)",
-          "ипк1эн (to get glued inside)",
-          "игъэпк1эн (to glue something inside something)",
-          "пыпк1эн (to get glued on the surface of an object)",
-          "пыгъэпк1эн (to glue something on the surface of an object)",
-          "дэпк1эн (to get glued inside another object)",
-          "дэгъэпк1эн (to glue something inside another object)"
+          "тепкӏэн (to get glued on)",
+          "тегъэпкӏэн (to glue something on something)",
+          "чӏэпкӏэн (to get glued under)",
+          "чӏэгъэпкӏэн (to glue something under something)",
+          "ипкӏэн (to get glued inside)",
+          "игъэпкӏэн (to glue something inside something)",
+          "пыпкӏэн (to get glued on the surface of an object)",
+          "пыгъэпкӏэн (to glue something on the surface of an object)",
+          "дэпкӏэн (to get glued inside another object)",
+          "дэгъэпкӏэн (to glue something inside another object)"
         ]
       },
       "word": "glue"
@@ -44168,7 +44201,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къыхэц1ыук1ын, къыхэлыдык1ын, къыхэнэфык1ын"
+          "къыхэцӏыукӏын, къыхэлыдыкӏын, къыхэнэфыкӏын"
         ]
       },
       "word": "glimmer"
@@ -44176,7 +44209,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэш1охь"
+          "мэшӏохь"
         ],
         "verbs": []
       },
@@ -44185,7 +44218,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1унк1ы",
+          "шӏункӏы",
           "нэхай"
         ],
         "verbs": []
@@ -44207,8 +44240,8 @@ const englishDict = {
         "verbs": [
           "дэхьыен",
           "щытхъун / къыщытхъун",
-          "щытхъук1э фэусэн",
-          "ищытхъу 1он"
+          "щытхъукӏэ фэусэн",
+          "ищытхъу ӏон"
         ]
       },
       "word": "glorify"
@@ -44235,8 +44268,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эбыцу",
-          "1алъ"
+          "ӏэбыцу",
+          "ӏалъ"
         ],
         "verbs": []
       },
@@ -44245,7 +44278,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тепк1агъ"
+          "тепкӏагъ"
         ],
         "verbs": []
       },
@@ -44255,7 +44288,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэплъэк1ын"
+          "зэплъэкӏын"
         ]
       },
       "word": "glance back"
@@ -44264,7 +44297,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тегъэпк1эн"
+          "тегъэпкӏэн"
         ]
       },
       "word": "glue on"
@@ -44286,8 +44319,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "пцын",
-          "иу1уч1ык1ын",
-          "ипцык1ын"
+          "иуӏучӏыкӏын",
+          "ипцыкӏын"
         ]
       },
       "word": "gouge"
@@ -44306,7 +44339,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэ 1эш1у"
+          "мэ ӏэшӏу"
         ],
         "verbs": []
       },
@@ -44334,7 +44367,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "дэгъу",
-          "ш1у"
+          "шӏу"
         ],
         "verbs": []
       },
@@ -44353,7 +44386,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ош1у"
+          "ошӏу"
         ],
         "verbs": []
       },
@@ -44390,7 +44423,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчэдыжь ш1у"
+          "пчэдыжь шӏу"
         ],
         "verbs": []
       },
@@ -44399,7 +44432,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчыхьэ ш1у"
+          "пчыхьэ шӏу"
         ],
         "verbs": []
       },
@@ -44420,8 +44453,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "еблэгъэн",
-          "1ухьан",
-          "ыдэжь к1он"
+          "ӏухьан",
+          "ыдэжь кӏон"
         ]
       },
       "word": "go near"
@@ -44430,7 +44463,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэпычын / зэпырык1ын (to go across)",
+          "зэпычын / зэпырыкӏын (to go across)",
           "зэблэчъын (to run across)",
           "ебэкъон / елъэбэкъон (to step over something, to step across something, to step past something)"
         ]
@@ -44441,7 +44474,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэк1ын"
+          "хэкӏын"
         ]
       },
       "word": "go through"
@@ -44488,7 +44521,7 @@ const englishDict = {
           "бзэгухь",
           "бзэгу хьын",
           "убын",
-          "бэ1уал"
+          "бэӏуал"
         ],
         "verbs": [
           "бзэгухьын",
@@ -44504,8 +44537,8 @@ const englishDict = {
         "lemmas": [
           "бзэгухь",
           "бзэгу зихьырэр",
-          "зэщыгъэхьак1о",
-          "бэ1уал",
+          "зэщыгъэхьакӏо",
+          "бэӏуал",
           "бзэгухь (a person who gossips)"
         ],
         "verbs": []
@@ -44544,7 +44577,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1одын"
+          "кӏодын"
         ]
       },
       "word": "go missing"
@@ -44553,7 +44586,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэк1он"
+          "дэкӏон"
         ]
       },
       "word": "go with"
@@ -44562,7 +44595,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэк1он"
+          "дэкӏон"
         ]
       },
       "word": "go alongside"
@@ -44573,7 +44606,7 @@ const englishDict = {
         "verbs": [
           "гъощэн",
           "хэгъощэн",
-          "к1охъун (to go the go way)"
+          "кӏохъун (to go the go way)"
         ]
       },
       "word": "go astray"
@@ -44582,9 +44615,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэк1оен (to go up)",
-          "дэгъэк1оен (to make someone go up)",
-          "ч1ык1ын (Shapsug)"
+          "дэкӏоен (to go up)",
+          "дэгъэкӏоен (to make someone go up)",
+          "чӏыкӏын (Shapsug)"
         ]
       },
       "word": "go up"
@@ -44611,7 +44644,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "текощык1ын"
+          "текощыкӏын"
         ]
       },
       "word": "go off"
@@ -44619,16 +44652,16 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ук1",
-          "зы1удз (offensive)",
+          "ӏукӏ",
+          "зыӏудз (offensive)",
           "зегъэхь (offensive)",
-          "зы1уегъэх (offensive)"
+          "зыӏуегъэх (offensive)"
         ],
         "verbs": [
-          "1ук1ын / 1ук1ыжьын",
-          "1угъэк1ын (to make someone go away from)",
-          "1ухъушъутын (to run away)",
-          "(Shapsug) 1ушъутын (to run away)"
+          "ӏукӏын / ӏукӏыжьын",
+          "ӏугъэкӏын (to make someone go away from)",
+          "ӏухъушъутын (to run away)",
+          "(Shapsug) ӏушъутын (to run away)"
         ]
       },
       "word": "go away"
@@ -44636,7 +44669,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэш1о-гуш1у"
+          "нэшӏо-гушӏу"
         ],
         "verbs": []
       },
@@ -44646,7 +44679,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1ожьын",
+          "кӏожьын",
           "гъэзэжьын"
         ]
       },
@@ -44656,7 +44689,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "чэщы рэхьат",
-          "чэщы рэхьат къыок1у"
+          "чэщы рэхьат къыокӏу"
         ],
         "verbs": []
       },
@@ -44684,7 +44717,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1уак1э"
+          "тӏуакӏэ"
         ],
         "verbs": []
       },
@@ -44693,7 +44726,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хъярк1э"
+          "хъяркӏэ"
         ],
         "verbs": []
       },
@@ -44702,7 +44735,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хъярк1э"
+          "хъяркӏэ"
         ],
         "verbs": []
       },
@@ -44712,7 +44745,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэк1эк1он"
+          "зэкӏэкӏон"
         ]
       },
       "word": "go backward"
@@ -44721,8 +44754,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэзек1он (to manage)",
-          "гъэ1орыш1эн"
+          "гъэзекӏон (to manage)",
+          "гъэӏорышӏэн"
         ]
       },
       "word": "govern"
@@ -44731,7 +44764,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "маш1о хэнэн / маш1о к1энэн (to catch fire",
+          "машӏо хэнэн / машӏо кӏэнэн (to catch fire",
           "to combust",
           "to get ignited",
           "to begin to burn",
@@ -44744,7 +44777,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1угъэ"
+          "шӏугъэ"
         ],
         "verbs": []
       },
@@ -44754,7 +44787,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "сапэм дэк1оен"
+          "сапэм дэкӏоен"
         ]
       },
       "word": "go waste"
@@ -44772,7 +44805,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ч1эхьан"
+          "чӏэхьан"
         ]
       },
       "word": "go under"
@@ -44781,9 +44814,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан",
-          "шъхьэ къы1эпык1ын",
-          "ышъо ик1ын"
+          "зэӏыхьан",
+          "шъхьэ къыӏэпыкӏын",
+          "ышъо икӏын"
         ]
       },
       "word": "go crazy"
@@ -44792,7 +44825,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан",
+          "зэӏыхьан",
           "зыохьын"
         ]
       },
@@ -44822,14 +44855,14 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1он (to walk, to go to somewhere)",
-          "щык1он (to go in a certain area)",
-          "дэк1оен (to go up)",
+          "кӏон (to walk, to go to somewhere)",
+          "щыкӏон (to go in a certain area)",
+          "дэкӏоен (to go up)",
           "ехын (to go down)",
-          "къэк1ухьан (to walk around, to roam, to stroll, to ramble)",
-          "зэк1эк1он / къызэк1эк1он (to go backward)",
+          "къэкӏухьан (to walk around, to roam, to stroll, to ramble)",
+          "зэкӏэкӏон / къызэкӏэкӏон (to go backward)",
           "техьан (to go on)",
-          "ч1эхьан (to go under)",
+          "чӏэхьан (to go under)",
           "хэхьан (to go to an area with some liquid or gas)",
           "хэхьан (to go into a forest or field)",
           "хэхьан (to go through)",
@@ -44838,17 +44871,17 @@ const englishDict = {
           "ихьан (to go inside, to enter)",
           "дэхьан (to enter a defined area, such as a yard, village, area, etc.)",
           "дэхьан (to go between)",
-          "к1оц1ыхьан (to go within inside something)",
+          "кӏоцӏыхьан (to go within inside something)",
           "къохьан (to go behind)",
           "шъхьадэхьан (to go over)",
-          "шъхьапырык1ын (to go beyond)",
-          "фэ1офытэн (to go for someone to bring something)",
-          "ш1ок1он (to go to somewhere against someone\u0027s will or interest)",
-          "гъэк1он (to make someone go to)",
-          "рик1он (to go on something)",
-          "к1ун (to walk a certain distance)",
-          "дэт1ысхьан (to go to settle in a city, village, etc.)",
-          "ит1ысхьан (to go to settle in a country)"
+          "шъхьапырыкӏын (to go beyond)",
+          "фэӏофытэн (to go for someone to bring something)",
+          "шӏокӏон (to go to somewhere against someone\u0027s will or interest)",
+          "гъэкӏон (to make someone go to)",
+          "рикӏон (to go on something)",
+          "кӏун (to walk a certain distance)",
+          "дэтӏысхьан (to go to settle in a city, village, etc.)",
+          "итӏысхьан (to go to settle in a country)"
         ]
       },
       "word": "go"
@@ -44876,7 +44909,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къыдэк1ухьан",
+          "къыдэкӏухьан",
           "къыухьан",
           "къыщыухьан"
         ]
@@ -44887,7 +44920,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэк1ухьан"
+          "къэкӏухьан"
         ]
       },
       "word": "go for a walk"
@@ -44895,7 +44928,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "теплъэш1у"
+          "теплъэшӏу"
         ],
         "verbs": []
       },
@@ -44907,8 +44940,8 @@ const englishDict = {
         "verbs": [
           "техьан (to go on, to go above, to go on the surface of)",
           "телъэдэн (to run on)",
-          "лъык1отэн (to advance, to progress, to proceed)",
-          "лъыгъэк1отэн (to advance something, to progress something, to proceed something)",
+          "лъыкӏотэн (to advance, to progress, to proceed)",
+          "лъыгъэкӏотэн (to advance something, to progress something, to proceed something)",
           "(dialectal) игъэкъун"
         ]
       },
@@ -44918,7 +44951,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "фэ1офытэн"
+          "фэӏофытэн"
         ]
       },
       "word": "go for someone bring something"
@@ -44927,7 +44960,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэк1ын (to leave one\u0027s house especially for hanging out, recreation or entertainment)"
+          "дэкӏын (to leave one\u0027s house especially for hanging out, recreation or entertainment)"
         ]
       },
       "word": "go out"
@@ -44979,7 +45012,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъумы-т1ымын"
+          "гъумы-тӏымын"
         ]
       },
       "word": "grumble"
@@ -45038,10 +45071,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching)",
-          "зы1эк1эубытэн (to grab and hold in the hand)",
-          "зэхэш1ык1ын (to comprehend",
+          "зыӏэкӏэубытэн (to grab and hold in the hand)",
+          "зэхэшӏыкӏын (to comprehend",
           "to understand or grasp fully and thoroughly)",
-          "пытэу 1ыгъэн (to grip tightly)"
+          "пытэу ӏыгъэн (to grip tightly)"
         ]
       },
       "word": "grasp"
@@ -45051,8 +45084,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold), to grab by catching",
-          "зы1эк1эубытэн (to grab and hold in the hand)",
-          "пытэу 1ыгъэн (to grip tightly)"
+          "зыӏэкӏэубытэн (to grab and hold in the hand)",
+          "пытэу ӏыгъэн (to grip tightly)"
         ]
       },
       "word": "grip"
@@ -45063,7 +45096,7 @@ const englishDict = {
         "verbs": [
           "штэн / къэштэн (to take and grab something)",
           "убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching)",
-          "зы1эк1эубытэн (to grab and hold in the hand)"
+          "зыӏэкӏэубытэн (to grab and hold in the hand)"
         ]
       },
       "word": "grab"
@@ -45072,9 +45105,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "мыжъо-пшэхъо зэхэлъ",
-          "мыжъок1ашъхъ",
+          "мыжъокӏашъхъ",
           "мыжъо-пшэхъо зэхэлъ",
-          "мыжъуак1э (мыжъо гъэушкъоигъ)"
+          "мыжъуакӏэ (мыжъо гъэушкъоигъ)"
         ],
         "verbs": []
       },
@@ -45083,7 +45116,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжыны ц1ын"
+          "бжыны цӏын"
         ],
         "verbs": []
       },
@@ -45110,7 +45143,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "блапц1э"
+          "блапцӏэ"
         ],
         "verbs": []
       },
@@ -45162,12 +45195,12 @@ const englishDict = {
           "хэхъон",
           "нахь инэу хъун (to grow bigger)",
           "инэу хъун",
-          "шъхьацы гъэк1ын (to grow headhair)",
-          "к1ын / къик1ын (to grow (plants or hair))",
-          "гъэк1ын (to grow something (plants or hair))",
-          "шъхьац гъэк1ын (to grow headhair)",
-          "цы гъэк1ын (to grow hair)",
-          "жак1э гъэк1ын (to grow beard)"
+          "шъхьацы гъэкӏын (to grow headhair)",
+          "кӏын / къикӏын (to grow (plants or hair))",
+          "гъэкӏын (to grow something (plants or hair))",
+          "шъхьац гъэкӏын (to grow headhair)",
+          "цы гъэкӏын (to grow hair)",
+          "жакӏэ гъэкӏын (to grow beard)"
         ]
       },
       "word": "grow"
@@ -45205,8 +45238,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэныт1ы",
-          "бэн зыт1ырэр",
+          "бэнытӏы",
+          "бэн зытӏырэр",
           "хьадэгъалӏ"
         ],
         "verbs": []
@@ -45216,8 +45249,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэныт1ы",
-          "бэн зыт1ырэр"
+          "бэнытӏы",
+          "бэн зытӏырэр"
         ],
         "verbs": []
       },
@@ -45226,7 +45259,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьэдэт1эк1"
+          "хьэдэтӏэкӏ"
         ],
         "verbs": []
       },
@@ -45235,7 +45268,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьэдэт1эк1"
+          "хьэдэтӏэкӏ"
         ],
         "verbs": []
       },
@@ -45253,7 +45286,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1ау"
+          "пкӏау"
         ],
         "verbs": []
       },
@@ -45285,7 +45318,7 @@ const englishDict = {
           "убын",
           "хьаджын",
           "убын",
-          "хъок1ын (to grind, to remove material by rubbing rapidly)"
+          "хъокӏын (to grind, to remove material by rubbing rapidly)"
         ]
       },
       "word": "grind"
@@ -45314,8 +45347,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "игъорыгъоу",
-          "ц1ык1у-ц1ык1оу",
-          "мэк1э-мак1эу"
+          "цӏыкӏу-цӏыкӏоу",
+          "мэкӏэ-макӏэу"
         ],
         "verbs": []
       },
@@ -45325,7 +45358,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "уцы",
-          "мэз гъэхъунэ ц1ык1у"
+          "мэз гъэхъунэ цӏыкӏу"
         ],
         "verbs": []
       },
@@ -45334,8 +45367,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хъуп1э",
-          "мэкъуп1э"
+          "хъупӏэ",
+          "мэкъупӏэ"
         ],
         "verbs": []
       },
@@ -45354,7 +45387,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шэк1уахь"
+          "шэкӏуахь"
         ],
         "verbs": []
       },
@@ -45390,7 +45423,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэк1агъу"
+          "жэкӏагъу"
         ],
         "verbs": []
       },
@@ -45437,7 +45470,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ышъхьашъо"
+          "чӏышъхьашъо"
         ],
         "verbs": []
       },
@@ -45447,9 +45480,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1уфэс ехын",
+          "шӏуфэс ехын",
           "сэлам ехын",
-          "пэгъок1ын"
+          "пэгъокӏын"
         ]
       },
       "word": "greet"
@@ -45459,7 +45492,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "дэн",
-          "къаблэу ш1ын"
+          "къаблэу шӏын"
         ]
       },
       "word": "grant approval"
@@ -45467,8 +45500,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ы",
-          "ч1ыгу"
+          "чӏы",
+          "чӏыгу"
         ],
         "verbs": []
       },
@@ -45516,7 +45549,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уфэс",
+          "шӏуфэс",
           "сэлам"
         ],
         "verbs": []
@@ -45526,7 +45559,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уфэс",
+          "шӏуфэс",
           "сэлам"
         ],
         "verbs": []
@@ -45536,7 +45569,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэ 1эш1у"
+          "мэ ӏэшӏу"
         ],
         "verbs": []
       },
@@ -45565,7 +45598,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щэ1ун"
+          "щэӏун"
         ]
       },
       "word": "groan"
@@ -45575,7 +45608,7 @@ const englishDict = {
         "lemmas": [
           "гукъау",
           "гъэны",
-          "гук1ае"
+          "гукӏае"
         ],
         "verbs": []
       },
@@ -45593,7 +45626,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьак1о"
+          "шъхьакӏо"
         ],
         "verbs": []
       },
@@ -45603,7 +45636,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1ыфы хъун",
+          "кӏыфы хъун",
           "ышъо пычъын",
           "ышъо течъын"
         ]
@@ -45615,7 +45648,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гукъао ехын",
-          "гукъао е1он"
+          "гукъао еӏон"
         ]
       },
       "word": "grieve"
@@ -45632,7 +45665,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьэ1уц1"
+          "хьэӏуцӏ"
         ],
         "verbs": []
       },
@@ -45642,9 +45675,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьацы гъэк1ын (to grow headhair)",
-          "цы гъэк1ын (to grow hair)",
-          "жак1э гъэк1ын (to grow beard)"
+          "шъхьацы гъэкӏын (to grow headhair)",
+          "цы гъэкӏын (to grow hair)",
+          "жакӏэ гъэкӏын (to grow beard)"
         ]
       },
       "word": "grow hair"
@@ -45653,9 +45686,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щхыпц1ын",
-          "(Shapsug) гуш1опс1ын",
-          "1угуш1ук1ын"
+          "щхыпцӏын",
+          "(Shapsug) гушӏопсӏын",
+          "ӏугушӏукӏын"
         ]
       },
       "word": "grin"
@@ -45665,7 +45698,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьак1э"
+          "хьакӏэ"
         ],
         "verbs": []
       },
@@ -45674,7 +45707,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эрахъо"
+          "кӏэрахъо"
         ],
         "verbs": []
       },
@@ -45693,7 +45726,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "псы ек1эхын (ащ псы рек1эхы - (s)he gulps down water)",
+          "псы екӏэхын (ащ псы рекӏэхы - (s)he gulps down water)",
           "дырын"
         ]
       },
@@ -45712,7 +45745,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьак1эщ"
+          "хьакӏэщ"
         ],
         "verbs": []
       },
@@ -45722,9 +45755,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэш1эн ӏон (to try to guess right)",
-          "къэш1эн (to guess right)",
-          "къэмыш1эн (to guess wrong)"
+          "къэшӏэн ӏон (to try to guess right)",
+          "къэшӏэн (to guess right)",
+          "къэмышӏэн (to guess wrong)"
         ]
       },
       "word": "guess"
@@ -45733,7 +45766,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэш1эн"
+          "къэшӏэн"
         ]
       },
       "word": "guess right"
@@ -45759,8 +45792,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уб",
-          "ехъумп1эгъу"
+          "ӏуб",
+          "ехъумпӏэгъу"
         ],
         "verbs": []
       },
@@ -45770,8 +45803,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къэрэгъул",
-          "ухъумак1о",
-          "пэсак1о (guarding grain, garden and melon crops)"
+          "ухъумакӏо",
+          "пэсакӏо (guarding grain, garden and melon crops)"
         ],
         "verbs": [
           "ухъумэн / къэухъумэн",
@@ -45810,7 +45843,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "епц1ыжьырэ",
+          "епцӏыжьырэ",
           "къэрарынчъэ"
         ],
         "verbs": []
@@ -45844,8 +45877,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1э",
-          "1апэ"
+          "ӏэ",
+          "ӏапэ"
         ],
         "verbs": [
           "етын / етыжьын (to hand over)"
@@ -45868,8 +45901,8 @@ const englishDict = {
           "уатэ"
         ],
         "verbs": [
-          "хэ1ун",
-          "хэ1ул1эн"
+          "хэӏун",
+          "хэӏулӏэн"
         ]
       },
       "word": "hammer"
@@ -45896,9 +45929,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэпэ1эплъэк1",
-          "1эплъэк1ыжъые",
-          "нэ1аплъэк1"
+          "нэпэӏэплъэкӏ",
+          "ӏэплъэкӏыжъые",
+          "нэӏаплъэкӏ"
         ],
         "verbs": []
       },
@@ -45907,7 +45940,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "па1о"
+          "паӏо"
         ],
         "verbs": []
       },
@@ -45926,7 +45959,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пагэ",
-          "зызыш1ош1ыжьырэ"
+          "зызышӏошӏыжьырэ"
         ],
         "verbs": []
       },
@@ -45946,7 +45979,7 @@ const englishDict = {
         "lemmas": [
           "ныкъо",
           "азы ныкъо (a half of)",
-          "лъэныкъо / к1элъэныкъо / зыбгъу (one side of, half of)",
+          "лъэныкъо / кӏэлъэныкъо / зыбгъу (one side of, half of)",
           "ныкъо сыкъо"
         ],
         "verbs": []
@@ -45965,7 +45998,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "баш1э",
+          "башӏэ",
           "нэутх"
         ],
         "verbs": []
@@ -45986,9 +46019,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бжыб",
-          "1эбжыб",
-          "1ап1э",
-          "1апл1э"
+          "ӏэбжыб",
+          "ӏапӏэ",
+          "ӏаплӏэ"
         ],
         "verbs": []
       },
@@ -46030,7 +46063,7 @@ const englishDict = {
         ],
         "verbs": [
           "къин егъэхъун (to harm, to bother, to disturb)",
-          "ягъэ егъэк1ын (to bother, to harm someone not physically)",
+          "ягъэ егъэкӏын (to bother, to harm someone not physically)",
           "гоон",
           "егоон"
         ]
@@ -46060,7 +46093,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэк1эупс"
+          "жэкӏэупс"
         ],
         "verbs": []
       },
@@ -46072,8 +46105,8 @@ const englishDict = {
         "verbs": [
           "тебэнэн",
           "пынэн",
-          "пэш1онэн",
-          "гъэгумэк1ын"
+          "пэшӏонэн",
+          "гъэгумэкӏын"
         ]
       },
       "word": "harass"
@@ -46082,11 +46115,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къопс",
-          "1эубытып1э",
+          "ӏэубытыпӏэ",
           "дакъэ"
         ],
         "verbs": [
-          "е1эзэн (to handle something, to deal with, to manage something)",
+          "еӏэзэн (to handle something, to deal with, to manage something)",
           "пылэжьыхьан (to work on something)"
         ]
       },
@@ -46123,8 +46156,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъу",
-          "1эхъу-лъэхъу"
+          "ӏэхъу",
+          "ӏэхъу-лъэхъу"
         ],
         "verbs": []
       },
@@ -46133,9 +46166,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъу",
-          "1эхъу-пшъэхъу",
-          "1эхъу-пшъэхъухэр"
+          "ӏэхъу",
+          "ӏэхъу-пшъэхъу",
+          "ӏэхъу-пшъэхъухэр"
         ],
         "verbs": []
       },
@@ -46153,7 +46186,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэхэ1у"
+          "шъхьэхэӏу"
         ],
         "verbs": []
       },
@@ -46172,7 +46205,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "уды (witch)",
-          "нэгъуч1ыцэ (witch)",
+          "нэгъучӏыцэ (witch)",
           "ныожъ (old hag)"
         ],
         "verbs": []
@@ -46182,8 +46215,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гук1эгъу зыхэмылъ",
-          "гук1эгъунчъэ"
+          "гукӏэгъу зыхэмылъ",
+          "гукӏэгъунчъэ"
         ],
         "verbs": []
       },
@@ -46204,7 +46237,7 @@ const englishDict = {
         "verbs": [
           "дэгъолъын",
           "бгъодэхьан",
-          "ек1ол1эн",
+          "екӏолӏэн",
           "гогъолъхьан",
           "бгъодэгъолъхьан",
           "гъэшъузын"
@@ -46218,7 +46251,7 @@ const englishDict = {
         "verbs": [
           "дэгъолъын",
           "бгъодэхьан",
-          "ек1ол1эн",
+          "екӏолӏэн",
           "гогъолъхьан",
           "бгъодэгъолъхьан",
           "гъэшъузын"
@@ -46232,7 +46265,7 @@ const englishDict = {
         "verbs": [
           "дэгъолъын",
           "бгъодэхьан",
-          "ек1ол1эн",
+          "екӏолӏэн",
           "гогъолъхьан",
           "бгъодэгъолъхьан",
           "гъэшъузын"
@@ -46244,10 +46277,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "и1эн (to have, to possess, to have ownership of)",
+          "иӏэн (to have, to possess, to have ownership of)",
           "хэлъын (to have a certain characteristic such as kindness, stingyness, meanness, mercy, etc.)",
-          "1ыгъэн (to have something, to hold something)",
-          "зигъэ1эн (to make oneself have)"
+          "ӏыгъэн (to have something, to hold something)",
+          "зигъэӏэн (to make oneself have)"
         ]
       },
       "word": "have"
@@ -46274,9 +46307,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэм къик1ыжьын / пэгъуанэм къик1ыжьын (to get fed up",
+          "пэм къикӏыжьын / пэгъуанэм къикӏыжьын (to get fed up",
           "to become sick and tired of)",
-          "(vulgar) шъутым къик1ыжьын / шъутыгъуанэм къик1ыжьын (to get fed up",
+          "(vulgar) шъутым къикӏыжьын / шъутыгъуанэм къикӏыжьын (to get fed up",
           "to become sick and tired of)"
         ]
       },
@@ -46285,8 +46318,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эрэхъоц1ык1у",
-          "шхончк1эк1"
+          "кӏэрэхъоцӏыкӏу",
+          "шхончкӏэкӏ"
         ],
         "verbs": []
       },
@@ -46324,8 +46357,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тел1эхьан (to fall in love)",
-          "тенэц1эхьан (to fall in love)"
+          "телӏэхьан (to fall in love)",
+          "тенэцӏэхьан (to fall in love)"
         ]
       },
       "word": "have a crush on"
@@ -46335,8 +46368,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэтегъэфэн",
-          "зэгъэк1ун",
-          "зэфэдэ пш1ын"
+          "зэгъэкӏун",
+          "зэфэдэ пшӏын"
         ]
       },
       "word": "harmonize"
@@ -46382,7 +46415,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэш1ык1ын"
+          "хэшӏыкӏын"
         ]
       },
       "word": "have expertise"
@@ -46391,7 +46424,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэш1ык1ын"
+          "хэшӏыкӏын"
         ]
       },
       "word": "have deep knowledge"
@@ -46399,7 +46432,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къухьэуцуп1э"
+          "къухьэуцупӏэ"
         ],
         "verbs": []
       },
@@ -46408,7 +46441,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эбжъэнэдак1"
+          "ӏэбжъэнэдакӏ"
         ],
         "verbs": []
       },
@@ -46436,9 +46469,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ныкъуал1э",
-          "ныкъол1ы",
-          "ныкъол1агъэ"
+          "ныкъуалӏэ",
+          "ныкъолӏы",
+          "ныкъолӏагъэ"
         ],
         "verbs": []
       },
@@ -46447,9 +46480,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ныкъуал1э",
-          "ныкъол1ы",
-          "ныкъол1агъэ"
+          "ныкъуалӏэ",
+          "ныкъолӏы",
+          "ныкъолӏагъэ"
         ],
         "verbs": []
       },
@@ -46482,7 +46515,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "пытэ хъун",
-          "пытэу ш1ын / гъэпытэн (to harden something)",
+          "пытэу шӏын / гъэпытэн (to harden something)",
           "псыхьан (to temper, to strengthen or toughen a material, especially metal, by heat treatment)",
           "чъын",
           "къын",
@@ -46504,7 +46537,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гукъэк1ын"
+          "гукъэкӏын"
         ]
       },
       "word": "have a thought"
@@ -46513,7 +46546,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гукъэк1ын"
+          "гукъэкӏын"
         ]
       },
       "word": "have an idea"
@@ -46530,7 +46563,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъуаш1э"
+          "шъуашӏэ"
         ],
         "verbs": []
       },
@@ -46539,7 +46572,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "насыпыш1уагъ"
+          "насыпышӏуагъ"
         ],
         "verbs": []
       },
@@ -46568,7 +46601,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эш1эн"
+          "кӏэшӏэн"
         ]
       },
       "word": "harness"
@@ -46577,11 +46610,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щыш1ын / къыщыш1ын (something to happen to someone)",
+          "щышӏын / къыщышӏын (something to happen to someone)",
           "хъун / къэхъун (to occur)",
-          "къехъул1эн (an incident to happen to someone, to experi)",
+          "къехъулӏэн (an incident to happen to someone, to experi)",
           "техъухьан (to happen above something)",
-          "ч1эхъухьан (to happen under something)",
+          "чӏэхъухьан (to happen under something)",
           "хэхъухьан (to happen within an area of mass)",
           "ихъухьан (to happen inside something)"
         ]
@@ -46600,8 +46633,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пылъап1э",
-          "щыгъын пылъап1э",
+          "пылъапӏэ",
+          "щыгъын пылъапӏэ",
           "пылъалъэ"
         ],
         "verbs": []
@@ -46612,7 +46645,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щыш1ын"
+          "щышӏын"
         ]
       },
       "word": "happen to"
@@ -46639,7 +46672,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ахь хэлъын"
+          "ӏахь хэлъын"
         ]
       },
       "word": "have a share"
@@ -46656,11 +46689,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уабэ"
+          "шӏуабэ"
         ],
         "verbs": [
-          "гъэпсынк1эн",
-          "ш1эхын"
+          "гъэпсынкӏэн",
+          "шӏэхын"
         ]
       },
       "word": "hasten"
@@ -46669,7 +46702,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ук1эн"
+          "зэӏукӏэн"
         ]
       },
       "word": "have a meeting"
@@ -46708,7 +46741,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "шъхьасын",
-          "гук1эгъу фэлъэгъун (to show mercy for)"
+          "гукӏэгъу фэлъэгъун (to show mercy for)"
         ]
       },
       "word": "have mercy for"
@@ -46718,7 +46751,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "шъхьасын (to have mercy upon)",
-          "гук1эгъу фэш1ын",
+          "гукӏэгъу фэшӏын",
           "гу егъун (гуегъун)"
         ]
       },
@@ -46778,7 +46811,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "теплъэш1у"
+          "теплъэшӏу"
         ],
         "verbs": []
       },
@@ -46809,7 +46842,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ерагъэу",
-          "ерагък1э / ерагъэк1э",
+          "ерагъкӏэ / ерагъэкӏэ",
           "егъэзыгъэу",
           "ныкъо сыкъоу"
         ],
@@ -46840,7 +46873,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу к1одын / гук1одын"
+          "ыгу кӏодын / гукӏодын"
         ]
       },
       "word": "have a breakdown"
@@ -46858,7 +46891,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гук1эгъу фэлъэгъун"
+          "гукӏэгъу фэлъэгъун"
         ]
       },
       "word": "have mercy upon"
@@ -46884,7 +46917,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъурк1"
+          "гъуркӏ"
         ],
         "verbs": []
       },
@@ -46895,8 +46928,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъогъу",
-          "1эхъогъу"
+          "ӏэхъогъу",
+          "ӏэхъогъу"
         ],
         "verbs": [
           "хъун",
@@ -46929,7 +46962,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эдакъэ (hand)",
+          "ӏэдакъэ (hand)",
           "лъэдакъэ (leg)"
         ],
         "verbs": []
@@ -46948,7 +46981,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эдакъэ"
+          "ӏэдакъэ"
         ],
         "verbs": []
       },
@@ -46967,7 +47000,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "уцы",
-          "цык1аф"
+          "цыкӏаф"
         ],
         "verbs": []
       },
@@ -46999,8 +47032,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъхьэтелъхьэ",
-          "пэ1отелъхьэ",
-          "гъуч1 па1о (iron helmet)"
+          "пэӏотелъхьэ",
+          "гъучӏ паӏо (iron helmet)"
         ],
         "verbs": []
       },
@@ -47028,7 +47061,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэгап1э"
+          "лъэгапӏэ"
         ],
         "verbs": []
       },
@@ -47038,9 +47071,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "мыдэ",
-          "мык1э",
+          "мыкӏэ",
           "мэу",
-          "(dialectal) мы т1эк1ум"
+          "(dialectal) мы тӏэкӏум"
         ],
         "verbs": []
       },
@@ -47049,13 +47082,13 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпы1эгъу",
-          "1эпы1эгъу"
+          "ӏэпыӏэгъу",
+          "ӏэпыӏэгъу"
         ],
         "verbs": [
-          "дэ1эпы1эн",
-          "1эпы1эгъоу фэхъун",
-          "1эпы1эн"
+          "дэӏэпыӏэн",
+          "ӏэпыӏэгъоу фэхъун",
+          "ӏэпыӏэн"
         ]
       },
       "word": "help"
@@ -47075,8 +47108,8 @@ const englishDict = {
         "verbs": [
           "плъын",
           "гъэплъын (to heat up something)",
-          "зэк1эгъэстыхьан",
-          "п1онк1ын (to bubble up from heat)"
+          "зэкӏэгъэстыхьан",
+          "пӏонкӏын (to bubble up from heat)"
         ]
       },
       "word": "heat up"
@@ -47103,7 +47136,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ахъо",
+          "ӏахъо",
           "былымахъу"
         ],
         "verbs": []
@@ -47132,7 +47165,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыргъ"
+          "цӏыргъ"
         ],
         "verbs": []
       },
@@ -47170,7 +47203,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "джэныкъо",
-          "жант1э (near the hearth)"
+          "жантӏэ (near the hearth)"
         ],
         "verbs": []
       },
@@ -47181,7 +47214,7 @@ const englishDict = {
         "lemmas": [
           "чэты",
           "кьэты (Shapsug)",
-          "анак1э (young hen)"
+          "анакӏэ (young hen)"
         ],
         "verbs": []
       },
@@ -47190,8 +47223,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьамык1",
-          "тхьамыщк1 (Shapsug)",
+          "тхьамыкӏ",
+          "тхьамыщкӏ (Shapsug)",
           "къулайцыз"
         ],
         "verbs": []
@@ -47210,8 +47243,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гук1эгъу зыхэмылъ",
-          "гук1эгъунчъэ"
+          "гукӏэгъу зыхэмылъ",
+          "гукӏэгъунчъэ"
         ],
         "verbs": []
       },
@@ -47257,7 +47290,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "де1эн"
+          "деӏэн"
         ]
       },
       "word": "help push with"
@@ -47275,8 +47308,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ощыкI",
-          "отычык1",
-          "обзэгъук1"
+          "отычыкӏ",
+          "обзэгъукӏ"
         ],
         "verbs": []
       },
@@ -47314,10 +47347,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ун / къэ1ун (to be heard)",
-          "е1ун (to hear something)",
+          "ӏун / къэӏун (to be heard)",
+          "еӏун (to hear something)",
           "зэхэхын (to hear something)",
-          "егъэ1ун (to make someone hear)"
+          "егъэӏун (to make someone hear)"
         ]
       },
       "word": "hear"
@@ -47326,7 +47359,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "джэхьнэм",
-          "джэхьнэм маш1о"
+          "джэхьнэм машӏо"
         ],
         "verbs": []
       },
@@ -47345,7 +47378,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "псао",
-          "узынчъэ, псауныгъэ зи1э"
+          "узынчъэ, псауныгъэ зиӏэ"
         ],
         "verbs": []
       },
@@ -47354,7 +47387,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эзэгъу"
+          "ӏэзэгъу"
         ],
         "verbs": []
       },
@@ -47363,7 +47396,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эзэгъу"
+          "ӏэзэгъу"
         ],
         "verbs": []
       },
@@ -47372,7 +47405,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эзэгъу"
+          "ӏэзэгъу"
         ],
         "verbs": []
       },
@@ -47383,7 +47416,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэтелъхьан (to heap stuff on each other)",
-          "зэк1элъхьан (to heap stuff under each other)"
+          "зэкӏэлъхьан (to heap stuff under each other)"
         ]
       },
       "word": "heap up"
@@ -47391,7 +47424,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эдакъэ"
+          "ӏэдакъэ"
         ],
         "verbs": []
       },
@@ -47400,7 +47433,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эдакъэ"
+          "ӏэдакъэ"
         ],
         "verbs": []
       },
@@ -47428,7 +47461,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "е1эзэн"
+          "еӏэзэн"
         ]
       },
       "word": "help someone medically"
@@ -47437,7 +47470,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "е1эзэн (to help someone medically)",
+          "еӏэзэн (to help someone medically)",
           "гъэхъужьын (to successfully heal someone to good health)",
           "къэгъэнэхъэжьын (to save from death, to revive)"
         ]
@@ -47447,10 +47480,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гухэк1",
+          "гухэкӏ",
           "гукъау",
           "гугъэуз",
-          "гук1ае"
+          "гукӏае"
         ],
         "verbs": []
       },
@@ -47459,10 +47492,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гухэк1",
+          "гухэкӏ",
           "гукъау",
           "гугъэуз",
-          "гук1ае"
+          "гукӏае"
         ],
         "verbs": []
       },
@@ -47482,9 +47515,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэпыупк1ын",
-          "упк1этэн",
-          "пыупк1ын"
+          "зэпыупкӏын",
+          "упкӏэтэн",
+          "пыупкӏын"
         ]
       },
       "word": "hew"
@@ -47492,8 +47525,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эп",
-          "к1эпы"
+          "кӏэп",
+          "кӏэпы"
         ],
         "verbs": []
       },
@@ -47502,7 +47535,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ахъо"
+          "ӏахъо"
         ],
         "verbs": []
       },
@@ -47511,7 +47544,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъогъу"
+          "ӏэхъогъу"
         ],
         "verbs": []
       },
@@ -47539,7 +47572,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ышъхьэ"
+          "лӏышъхьэ"
         ],
         "verbs": []
       },
@@ -47559,7 +47592,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу къэ1этын / ыгу дэщэен",
+          "ыгу къэӏэтын / ыгу дэщэен",
           "гъэгушхон"
         ]
       },
@@ -47587,7 +47620,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1эшъхьагъ"
+          "пӏэшъхьагъ"
         ],
         "verbs": []
       },
@@ -47596,7 +47629,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ор1отэжь"
+          "ӏорӏотэжь"
         ],
         "verbs": []
       },
@@ -47606,9 +47639,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "сэлам",
-          "ш1уфэс",
+          "шӏуфэс",
           "ал (oi, expresses an order with a touch of threat)",
-          "(Shapsug) к1элэ (oi, expresses an order with a touch of threat)"
+          "(Shapsug) кӏэлэ (oi, expresses an order with a touch of threat)"
         ],
         "verbs": []
       },
@@ -47639,7 +47672,7 @@ const englishDict = {
         "lemmas": [
           "бгы",
           "бгылъэ",
-          "1ошъхьэлъэ",
+          "ӏошъхьэлъэ",
           "къушъхьалъ"
         ],
         "verbs": []
@@ -47658,7 +47691,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уашъхьэ"
+          "ӏуашъхьэ"
         ],
         "verbs": []
       },
@@ -47677,9 +47710,9 @@ const englishDict = {
           "пыохьан (to beat someone by hitting)",
           "теутын (to hit with a projectil such as an arrow, rock or bullet)",
           "лъыон (to strike toward)",
-          "зэк1эон (to strike backward)",
+          "зэкӏэон (to strike backward)",
           "теон (to hit the surface of)",
-          "ч1эон (to hit under something)",
+          "чӏэон (to hit under something)",
           "зыохьан (to strike in all directions seemingly in a random manner, to go berserk)"
         ]
       },
@@ -47706,7 +47739,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "апшъэрэ еджап1"
+          "апшъэрэ еджапӏ"
         ],
         "verbs": []
       },
@@ -47725,8 +47758,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бгылъэ",
-          "1ошъхьалъэ",
-          "т1ыбгы-сыбг"
+          "ӏошъхьалъэ",
+          "тӏыбгы-сыбг"
         ],
         "verbs": []
       },
@@ -47754,7 +47787,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пэ1ууцон",
+          "пэӏууцон",
           "гъэохъун",
           "пэрыохъу уфэхъун",
           "гъэохъун"
@@ -47765,9 +47798,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэбылъып1э (place)",
-          "зыщыгъэбылъып1э (place)",
-          "ч1эухъумэныр",
+          "гъэбылъыпӏэ (place)",
+          "зыщыгъэбылъыпӏэ (place)",
+          "чӏэухъумэныр",
           "гъэбылъыныр",
           "ушъэфыныр"
         ],
@@ -47779,7 +47812,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъагэ",
-          "1этыгъэ"
+          "ӏэтыгъэ"
         ],
         "verbs": []
       },
@@ -47800,8 +47833,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэбзыхык1ын",
-          "дэгъэбзыхык1эн (to hide someone completely)"
+          "дэбзыхыкӏын",
+          "дэгъэбзыхыкӏэн (to hide someone completely)"
         ]
       },
       "word": "hide completely,"
@@ -47810,7 +47843,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "е1ок1ын"
+          "еӏокӏын"
         ]
       },
       "word": "hint"
@@ -47821,7 +47854,7 @@ const englishDict = {
         "verbs": [
           "гъэбылъын (to hide something)",
           "зыгъэбылъын (to hide oneself)",
-          "ч1эгъэбылъхьан (to hide under)",
+          "чӏэгъэбылъхьан (to hide under)",
           "тегъэбылъхьан (to hide on something)",
           "дэгъэбылъхьан (to hide in)",
           "игъэбылъхьан (to hide inside)",
@@ -47844,11 +47877,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къэи",
-          "хьак1"
+          "хьакӏ"
         ],
         "verbs": [
           "къыин / къэкъэин",
-          "хьак1эн"
+          "хьакӏэн"
         ]
       },
       "word": "hiccup"
@@ -47856,7 +47889,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэджэ-1удж (displeasing to the eye",
+          "нэджэ-ӏудж (displeasing to the eye",
           "not aesthetically pleasing)"
         ],
         "verbs": []
@@ -47897,8 +47930,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "у1он",
-          "еу1ун"
+          "уӏон",
+          "еуӏун"
         ]
       },
       "word": "hollow"
@@ -47943,7 +47976,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уанэ"
+          "шӏуанэ"
         ],
         "verbs": []
       },
@@ -48020,9 +48053,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ыгъэн",
+          "ӏыгъэн",
           "къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching)",
-          "зы1эк1эубытэн (to grab and hold in the hand)"
+          "зыӏэкӏэубытэн (to grab and hold in the hand)"
         ]
       },
       "word": "hold"
@@ -48040,7 +48073,7 @@ const englishDict = {
         ],
         "verbs": [
           "угъонын (to make a hole)",
-          "гъуанэ фэш1ын (to make a hole)"
+          "гъуанэ фэшӏын (to make a hole)"
         ]
       },
       "word": "hole"
@@ -48048,7 +48081,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъоу хьак1у"
+          "шъоу хьакӏу"
         ],
         "verbs": []
       },
@@ -48069,7 +48102,7 @@ const englishDict = {
         "lemmas": [
           "арышъхьае",
           "шъхьай",
-          "шъхьак1э"
+          "шъхьакӏэ"
         ],
         "verbs": []
       },
@@ -48135,8 +48168,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эрэхъуалъ",
-          "1убырылъ"
+          "кӏэрэхъуалъ",
+          "ӏубырылъ"
         ],
         "verbs": []
       },
@@ -48156,7 +48189,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "пытэу убытын",
-          "пытэу 1ыгъэх"
+          "пытэу ӏыгъэх"
         ]
       },
       "word": "hold with strength"
@@ -48167,8 +48200,8 @@ const englishDict = {
           "бысым"
         ],
         "verbs": [
-          "гъэхьак1эн",
-          "хьак1эн"
+          "гъэхьакӏэн",
+          "хьакӏэн"
         ]
       },
       "word": "host"
@@ -48240,7 +48273,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "губгъэн фэлъэгъун",
-          "губгъэн фэш1ын",
+          "губгъэн фэшӏын",
           "гоон"
         ]
       },
@@ -48259,7 +48292,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шэк1уахь",
+          "шэкӏуахь",
           "хьэджашъу"
         ],
         "verbs": []
@@ -48312,9 +48345,9 @@ const englishDict = {
         "verbs": [
           "лъытэн",
           "пхъатэ етын",
-          "пхъатэ фэш1ын",
+          "пхъатэ фэшӏын",
           "лъытэн",
-          "гъэлъэп1эн",
+          "гъэлъэпӏэн",
           "пхъатэ етын"
         ]
       },
@@ -48323,8 +48356,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьак1эщ",
-          "хьэк1ап1э"
+          "хьакӏэщ",
+          "хьэкӏапӏэ"
         ],
         "verbs": []
       },
@@ -48373,7 +48406,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэ1этэен"
+          "дэӏэтэен"
         ]
       },
       "word": "hold higher"
@@ -48409,7 +48442,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эпщы",
+          "кӏэпщы",
           "шыукъамыщ"
         ],
         "verbs": []
@@ -48419,7 +48452,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хап1э"
+          "хапӏэ"
         ],
         "verbs": []
       },
@@ -48437,7 +48470,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэлак1о"
+          "гъэлакӏо"
         ],
         "verbs": []
       },
@@ -48446,7 +48479,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "унэ1ут"
+          "унэӏут"
         ],
         "verbs": []
       },
@@ -48456,7 +48489,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъыпкъагъэ зыхэлъ",
-          "шъыпкъэ зы1орэр",
+          "шъыпкъэ зыӏорэр",
           "шъхьаихыгъ (frank, candid)"
         ],
         "verbs": []
@@ -48476,7 +48509,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэфэк1"
+          "мэфэкӏ"
         ],
         "verbs": []
       },
@@ -48485,7 +48518,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ае",
+          "ӏае",
           "дэи"
         ],
         "verbs": []
@@ -48497,7 +48530,7 @@ const englishDict = {
         "lemmas": [
           "губжыпх",
           "губжыл",
-          "губжыгъош1у"
+          "губжыгъошӏу"
         ],
         "verbs": []
       },
@@ -48544,8 +48577,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ззк1эгъэнагъ",
-          "зэк1эгъэплъыхьагъ"
+          "ззкӏэгъэнагъ",
+          "зэкӏэгъэплъыхьагъ"
         ],
         "verbs": []
       },
@@ -48555,7 +48588,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "(slightly vulgar) хьэшъутыубат",
-          "(vulgar) шъхьи шъути и1эп"
+          "(vulgar) шъхьи шъути иӏэп"
         ],
         "verbs": []
       },
@@ -48585,7 +48618,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэджак1э"
+          "бэджакӏэ"
         ],
         "verbs": []
       },
@@ -48597,8 +48630,8 @@ const englishDict = {
           "жэукъ"
         ],
         "verbs": [
-          "жэ зэк1эк1ын",
-          "жэр зэк1эк1ын"
+          "жэ зэкӏэкӏын",
+          "жэр зэкӏэкӏын"
         ]
       },
       "word": "yawn"
@@ -48676,7 +48709,7 @@ const englishDict = {
         "verbs": [
           "куон",
           "текуон (to yell at)",
-          "тец1эц1эн / тец1эц1эхьан (to scold)",
+          "тецӏэцӏэн / тецӏэцӏэхьан (to scold)",
           "щыхьан (to yell at)"
         ]
       },
@@ -48687,7 +48720,7 @@ const englishDict = {
         "lemmas": [
           "джыри (still, thus far)",
           "(dialectal) дэхьэ",
-          "шъхьай / шъхьак1э (despite that)"
+          "шъхьай / шъхьакӏэ (despite that)"
         ],
         "verbs": []
       },
@@ -48698,7 +48731,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ы",
+          "лӏы",
           "(possible dated) тхьаматэ"
         ],
         "verbs": []
@@ -48708,7 +48741,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыфы"
+          "цӏыфы"
         ],
         "verbs": []
       },
@@ -48717,8 +48750,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэлак1э (hunger)",
-          "мэлак1э л1эн (to be hungry)"
+          "мэлакӏэ (hunger)",
+          "мэлакӏэ лӏэн (to be hungry)"
         ],
         "verbs": []
       },
@@ -48727,8 +48760,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэлак1э (hunger)",
-          "мэлак1э л1эн (to be hungry)",
+          "мэлакӏэ (hunger)",
+          "мэлакӏэ лӏэн (to be hungry)",
           "гъаблэ"
         ],
         "verbs": []
@@ -48738,7 +48771,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шак1о"
+          "шакӏо"
         ],
         "verbs": []
       },
@@ -48747,7 +48780,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзылъфыгъ шак1о"
+          "бзылъфыгъ шакӏо"
         ],
         "verbs": []
       },
@@ -48765,7 +48798,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1эш1эгъу"
+          "лӏэшӏэгъу"
         ],
         "verbs": []
       },
@@ -48774,8 +48807,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шынэгъак1",
-          "ц1ынэгъак1"
+          "шынэгъакӏ",
+          "цӏынэгъакӏ"
         ],
         "verbs": []
       },
@@ -48803,7 +48836,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пщып1э",
+          "пщыпӏэ",
           "чэл",
           "бгъэнышъхьэун"
         ],
@@ -48814,7 +48847,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыфышъо"
+          "цӏыфышъо"
         ],
         "verbs": []
       },
@@ -48825,10 +48858,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэузын (to make someone else feel pain)",
-          "хэгъэузык1ын",
-          "ыгу хэк1ын (to hurt emotionally)",
+          "хэгъэузыкӏын",
+          "ыгу хэкӏын (to hurt emotionally)",
           "ыгу къегъэон (to hurt emotionally)",
-          "у1эн (to wound)"
+          "уӏэн (to wound)"
         ]
       },
       "word": "hurt"
@@ -48836,7 +48869,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шэк1уахь",
+          "шэкӏуахь",
           "хьэджашъу"
         ],
         "verbs": []
@@ -48846,7 +48879,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэш1о-гуш1у"
+          "нэшӏо-гушӏу"
         ],
         "verbs": []
       },
@@ -48855,12 +48888,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1уабэ"
+          "шӏуабэ"
         ],
         "verbs": [
           "гузэжъон (to be in a hurry)",
           "тхъытхъын (to be in a hurry)",
-          "гъэпсынк1эн (to hasten)",
+          "гъэпсынкӏэн (to hasten)",
           "гъэгузэжъон (to make someone hurry)",
           "хъыжъэн (to be in a hurry)"
         ]
@@ -48898,7 +48931,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "быты",
-          "тхыбы1у"
+          "тхыбыӏу"
         ],
         "verbs": []
       },
@@ -48908,7 +48941,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "быты",
-          "тхыбы1у"
+          "тхыбыӏу"
         ],
         "verbs": []
       },
@@ -48918,7 +48951,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "быты",
-          "тхыбы1у"
+          "тхыбыӏу"
         ],
         "verbs": []
       },
@@ -48927,7 +48960,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1ыт",
+          "укӏыт",
           "нэхаш (the quality of being modest)"
         ],
         "verbs": []
@@ -48937,14 +48970,14 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1апл1э",
-          "1апл1ещэк1"
+          "ӏаплӏэ",
+          "ӏаплӏещэкӏ"
         ],
         "verbs": [
-          "1апл1э ещэк1ын",
-          "1апл1э фэш1ын",
-          "1апл1эк1э къещэк1ын",
-          "1эхэмк1э убытыжьын"
+          "ӏаплӏэ ещэкӏын",
+          "ӏаплӏэ фэшӏын",
+          "ӏаплӏэкӏэ къещэкӏын",
+          "ӏэхэмкӏэ убытыжьын"
         ]
       },
       "word": "hug"
@@ -48953,9 +48986,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыгъэпсынк1эн (to hurry up, you make oneself faster)",
-          "гъэпсынк1эн (to make someone else hurry up)",
-          "ш1эхын",
+          "зыгъэпсынкӏэн (to hurry up, you make oneself faster)",
+          "гъэпсынкӏэн (to make someone else hurry up)",
+          "шӏэхын",
           "гузэжъон (to be in a hurry)"
         ]
       },
@@ -48982,7 +49015,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьак1о (indignity, humiliation, insult, offense)"
+          "шъхьакӏо (indignity, humiliation, insult, offense)"
         ],
         "verbs": []
       },
@@ -48991,7 +49024,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эчъэ-лъачъ"
+          "ӏэчъэ-лъачъ"
         ],
         "verbs": []
       },
@@ -49000,7 +49033,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эчъэ-лъачъ"
+          "ӏэчъэ-лъачъ"
         ],
         "verbs": []
       },
@@ -49009,7 +49042,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эчъэ-лъачъ"
+          "ӏэчъэ-лъачъ"
         ],
         "verbs": []
       },
@@ -49019,9 +49052,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьак1о ехын",
-          "ушъхьак1ун",
-          "хьайнапэу ш1ын"
+          "шъхьакӏо ехын",
+          "ушъхьакӏун",
+          "хьайнапэу шӏын"
         ]
       },
       "word": "humiliate"
@@ -49030,8 +49063,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шэк1он",
-          "ешэк1он (to hunt something)",
+          "шэкӏон",
+          "ешэкӏон (to hunt something)",
           "убытын / къэубытын (to be hunting something)"
         ]
       },
@@ -49091,7 +49124,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эндыкъ"
+          "ӏэндыкъ"
         ],
         "verbs": []
       },
@@ -49109,7 +49142,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьэшхъурэ1у"
+          "хьэшхъурэӏу"
         ],
         "verbs": []
       },
@@ -49118,7 +49151,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ош1"
+          "шӏошӏ"
         ],
         "verbs": []
       },
@@ -49140,7 +49173,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъо",
-          "шъо пстэумк1и"
+          "шъо пстэумкӏи"
         ],
         "verbs": []
       },
@@ -49176,7 +49209,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1алэ"
+          "кӏалэ"
         ],
         "verbs": []
       },
@@ -49185,7 +49218,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ныбжьык1э"
+          "ныбжьыкӏэ"
         ],
         "verbs": []
       },
@@ -49194,7 +49227,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ныбжьык1э"
+          "ныбжьыкӏэ"
         ],
         "verbs": []
       },
@@ -49204,7 +49237,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "щэзгъэ",
-          "щэгъапц1э"
+          "щэгъапцӏэ"
         ],
         "verbs": []
       },
@@ -49240,7 +49273,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "блэнашк1э"
+          "блэнашкӏэ"
         ],
         "verbs": []
       },
@@ -49249,7 +49282,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шынахьык1"
+          "шынахьыкӏ"
         ],
         "verbs": []
       },
@@ -49267,9 +49300,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1элэгъу (youth time)",
-          "к1элэ-гъуалэхэр (the young, youth, young people)",
-          "ныбжьык1эгъу (youth time)"
+          "кӏэлэгъу (youth time)",
+          "кӏэлэ-гъуалэхэр (the young, youth, young people)",
+          "ныбжьыкӏэгъу (youth time)"
         ],
         "verbs": []
       },
@@ -49278,7 +49311,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1элэ-гъуалэхэр"
+          "кӏэлэ-гъуалэхэр"
         ],
         "verbs": []
       },
@@ -49287,9 +49320,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1элэц1ык1у",
+          "кӏэлэцӏыкӏу",
           "шъэожъые",
-          "к1элэхъуц1ык1у"
+          "кӏэлэхъуцӏыкӏу"
         ],
         "verbs": []
       },
@@ -49309,7 +49342,7 @@ const englishDict = {
         "lemmas": [
           "щхыу",
           "щхыузыгъ (labneh)",
-          "щэгъэпц1агъэ"
+          "щэгъэпцӏагъэ"
         ],
         "verbs": []
       },
@@ -49340,7 +49373,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1умыл"
+          "ӏумыл"
         ],
         "verbs": []
       },
@@ -49383,7 +49416,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гукъэк1",
+          "гукъэкӏ",
           "гурыш"
         ],
         "verbs": []
@@ -49406,7 +49439,7 @@ const englishDict = {
           "хьакъ-мэкъ",
           "къыгъэ (moron)",
           "(vulgar) цуманэ",
-          "шъхьэ1ужъу"
+          "шъхьэӏужъу"
         ],
         "verbs": []
       },
@@ -49415,7 +49448,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1энчъ"
+          "пкӏэнчъ"
         ],
         "verbs": []
       },
@@ -49504,8 +49537,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1омы1офын",
-          "пхъэтэпэмыхь ш1ын (to make something unimportant/insignificant)"
+          "шӏомыӏофын",
+          "пхъэтэпэмыхь шӏын (to make something unimportant/insignificant)"
         ]
       },
       "word": "ignore"
@@ -49514,8 +49547,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "маш1о хэнэн / маш1о к1энэн (to get ignited)",
-          "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn)"
+          "машӏо хэнэн / машӏо кӏэнэн (to get ignited)",
+          "машӏо хэгъэнэн / машӏо кӏэгъэнэн (to ignite, to cause to begin to burn)"
         ]
       },
       "word": "ignite"
@@ -49523,7 +49556,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1эныгъэ мак1э зи1э",
+          "шӏэныгъэ макӏэ зиӏэ",
           "хэзымышIыкIырэ",
           "щымыгъуазэ"
         ],
@@ -49534,7 +49567,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэхэмыш1ык1эу"
+          "зэхэмышӏыкӏэу"
         ],
         "verbs": []
       },
@@ -49576,7 +49609,7 @@ const englishDict = {
           "цыхэ",
           "губжыпх",
           "губжыл",
-          "губжыгъош1у"
+          "губжыгъошӏу"
         ],
         "verbs": []
       },
@@ -49635,8 +49668,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэш1ош1",
-          "нэп1эхъ"
+          "нэшӏошӏ",
+          "нэпӏэхъ"
         ],
         "verbs": []
       },
@@ -49648,7 +49681,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къыгъэ",
-          "делэ1о-делэшъу"
+          "делэӏо-делэшъу"
         ],
         "verbs": []
       },
@@ -49659,9 +49692,9 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "хэлъхьан",
-          "гъэт1ысын / хэгъэт1ысхьан",
-          "т1эн (Shapsug)",
-          "хэт1эн (Shapsug)"
+          "гъэтӏысын / хэгъэтӏысхьан",
+          "тӏэн (Shapsug)",
+          "хэтӏэн (Shapsug)"
         ]
       },
       "word": "implant"
@@ -49670,7 +49703,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
+          "ишӏыхьан / къишӏыхьан (to lock inside, to imprison inside, to confine inside)"
         ]
       },
       "word": "imprison"
@@ -49678,7 +49711,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "иш1ыхьагъ"
+          "ишӏыхьагъ"
         ],
         "verbs": []
       },
@@ -49688,7 +49721,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "джыдэдэм",
-          "занк1эу"
+          "занкӏэу"
         ],
         "verbs": []
       },
@@ -49697,7 +49730,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1уадж"
+          "кӏуадж"
         ],
         "verbs": []
       },
@@ -49725,8 +49758,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "нахьыш1оу ш1ын",
-          "нахь дэгъоу ш1ын"
+          "нахьышӏоу шӏын",
+          "нахь дэгъоу шӏын"
         ]
       },
       "word": "improve"
@@ -49734,7 +49767,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "техьэ-тек1"
+          "техьэ-текӏ"
         ],
         "verbs": []
       },
@@ -49744,7 +49777,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пхъатэ",
-          "пк1э"
+          "пкӏэ"
         ],
         "verbs": []
       },
@@ -49763,7 +49796,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гузэжъопх",
-          "щы1эныгъэ зыхэмылъэр",
+          "щыӏэныгъэ зыхэмылъэр",
           "гузэжъуал (hasty)"
         ],
         "verbs": []
@@ -49792,7 +49825,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыпэш1ыжьын"
+          "зыпэшӏыжьын"
         ]
       },
       "word": "imitate"
@@ -49836,8 +49869,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэу1он",
-          "у1эн / къыу1эн"
+          "хэуӏон",
+          "уӏэн / къыуӏэн"
         ]
       },
       "word": "incise"
@@ -49845,7 +49878,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хэу1уагъэ"
+          "хэуӏуагъэ"
         ],
         "verbs": []
       },
@@ -49855,10 +49888,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хъан",
-          "хьэк1ап1э",
-          "хьак1эщ",
-          "хьак1эщ",
-          "хьэк1ап1э"
+          "хьэкӏапӏэ",
+          "хьакӏэщ",
+          "хьакӏэщ",
+          "хьэкӏапӏэ"
         ],
         "verbs": []
       },
@@ -49877,13 +49910,13 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хъуанэ (swear)",
-          "шъхьак1о (indignity, humiliation, insult, offense)"
+          "шъхьакӏо (indignity, humiliation, insult, offense)"
         ],
         "verbs": [
-          "ушъхьак1ун",
-          "шъхьак1о ехын",
+          "ушъхьакӏун",
+          "шъхьакӏо ехын",
           "егъэчъэхын (to insult someone and hurt its reputation)",
-          "1аеу дэгущы1эн (to speak with someone badly, to speak ill with someone)"
+          "ӏаеу дэгущыӏэн (to speak with someone badly, to speak ill with someone)"
         ]
       },
       "word": "insult"
@@ -49918,7 +49951,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжыдзэгъал1э"
+          "бжыдзэгъалӏэ"
         ],
         "verbs": []
       },
@@ -49946,7 +49979,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
           "зэхэлъхьан (to put together)"
         ]
       },
@@ -49955,7 +49988,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэугупшысыгъэ / къэгупшысыгъэ / къыч1эхыгъэ",
+          "къэугупшысыгъэ / къэгупшысыгъэ / къычӏэхыгъэ",
           "къэгупшысыгъэ"
         ],
         "verbs": []
@@ -49965,10 +49998,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "емык1у",
+          "емыкӏу",
           "хьайнап (shameful)",
           "дахэп",
-          "1ае"
+          "ӏае"
         ],
         "verbs": []
       },
@@ -49977,7 +50010,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "у1агъэ"
+          "уӏагъэ"
         ],
         "verbs": []
       },
@@ -49987,7 +50020,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "у1эн / къыу1эн"
+          "уӏэн / къыуӏэн"
         ]
       },
       "word": "injure"
@@ -49997,9 +50030,13 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "блэн",
-          "зэк1оц1ыпхэн / зэкъолъэдэн / зэкъодзэн (to make a rope/lace tangled, to tangle, to make a rope/lace mixed together or intertwined)",
-          "зэхэнэн / зэш1онэн / зэк1оц1энэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated)",
-          "зэхэгъэнэн / зэш1огъэнэн / зэк1оц1эгъэнэн (to entangl, to twist or interweave in such a manner as not to be easily separated)"
+          "зэкӏоцӏыпхэн (to tied within each other, to tangled or intertwined)",
+          "зэкъолъэдэн (to tangled or intertwined)",
+          "зэкъодзэн (to tangled or intertwined)",
+          "зэшӏонэн",
+          "зэхэнэн / зэкӏоцӏэнэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated)",
+          "зэхэгъэнэн / зэкӏоцӏэгъэнэн (to make something stuck within each other)",
+          "зэшӏогъэнэн (to entangle, to twist or interweave in such a manner as not to be easily separated)"
         ]
       },
       "word": "intertwine"
@@ -50054,7 +50091,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эщак1о"
+          "кӏэщакӏо"
         ],
         "verbs": []
       },
@@ -50063,7 +50100,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жъып1э"
+          "жъыпӏэ"
         ],
         "verbs": []
       },
@@ -50072,8 +50109,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эт1эй",
-          "ныпс1э (Shapsug)"
+          "кӏэтӏэй",
+          "ныпсӏэ (Shapsug)"
         ],
         "verbs": []
       },
@@ -50082,7 +50119,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled and intertwined)"
+          "зэкӏоцӏыпхагъ (tied within each other, tangled or intertwined)",
+          "зэкъолъэдагъ (ropes or shoe laces to be tied together, tangled or intertwined)",
+          "зэкъодзагъ (tangled or intertwined)"
         ],
         "verbs": []
       },
@@ -50110,7 +50149,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьац1э-п1ац1э"
+          "хьацӏэ-пӏацӏэ"
         ],
         "verbs": []
       },
@@ -50119,7 +50158,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ык1о"
+          "лӏыкӏо"
         ],
         "verbs": []
       },
@@ -50128,7 +50167,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гуры1огъуай"
+          "гурыӏогъуай"
         ],
         "verbs": []
       },
@@ -50137,7 +50176,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гуры1огъош1у"
+          "гурыӏогъошӏу"
         ],
         "verbs": []
       },
@@ -50175,10 +50214,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ои (morally dirty)",
-          "емык1у зыхэлъ, губгъэн зыхэлъ",
-          "1ае",
-          "емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
+          "шӏои (morally dirty)",
+          "емыкӏу зыхэлъ, губгъэн зыхэлъ",
+          "ӏае",
+          "емыкӏу зыхэлъ, укӏытэныгъэ зыхэмылъ"
         ],
         "verbs": []
       },
@@ -50189,8 +50228,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "тетын",
-          "темык1ын",
-          "пхырыгъэк1ын",
+          "темыкӏын",
+          "пхырыгъэкӏын",
           "зыригъэнэн / зегъэнэн (to persist)",
           "инатэу фэхъун (to become persistent for)"
         ]
@@ -50203,7 +50242,7 @@ const englishDict = {
         "verbs": [
           "дэгъолъын",
           "бгъодэхьан",
-          "ек1ол1эн",
+          "екӏолӏэн",
           "гогъолъхьан",
           "бгъодэгъолъхьан",
           "гъэшъузын"
@@ -50215,9 +50254,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "теуфагъэу",
-          "ехьыл1агъэу",
+          "ехьылӏагъэу",
           "егъэпхыгъэу",
-          "ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+          "ащ теуфагъэу / ащ ехьылӏагъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
         ],
         "verbs": []
       },
@@ -50226,7 +50265,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къонц1эу"
+          "къонцӏэу"
         ],
         "verbs": []
       },
@@ -50244,7 +50283,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эмэ-псым / 1эдэ-уад (tools)"
+          "ӏэмэ-псым / ӏэдэ-уад (tools)"
         ],
         "verbs": []
       },
@@ -50253,7 +50292,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъымы1эс"
+          "лъымыӏэс"
         ],
         "verbs": []
       },
@@ -50271,9 +50310,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ыч1ып1эк1э",
-          "ыч1ып1эу",
-          "ащ ыч1ып1эк1э (instead of that)",
+          "ычӏыпӏэкӏэ",
+          "ычӏыпӏэу",
+          "ащ ычӏыпӏэкӏэ (instead of that)",
           "(Arabic) ибэдалэу"
         ],
         "verbs": []
@@ -50283,7 +50322,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэш1эгъоны"
+          "гъэшӏэгъоны"
         ],
         "verbs": []
       },
@@ -50347,7 +50386,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэгъэуп1эп1эгъу"
+          "нэгъэупӏэпӏэгъу"
         ],
         "verbs": []
       },
@@ -50357,7 +50396,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "е1ок1ын"
+          "еӏокӏын"
         ]
       },
       "word": "insinuate"
@@ -50365,7 +50404,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчъэ1упэ"
+          "пчъэӏупэ"
         ],
         "verbs": []
       },
@@ -50374,7 +50413,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1оч1адж"
+          "кӏочӏадж"
         ],
         "verbs": []
       },
@@ -50395,9 +50434,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уш",
+          "ӏуш",
           "акъыл",
-          "акъылыш1у",
+          "акъылышӏу",
           "акъылышху"
         ],
         "verbs": []
@@ -50459,7 +50498,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1онтагъ",
+          "ӏонтагъ",
           "мытэрэз"
         ],
         "verbs": []
@@ -50497,7 +50536,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э"
+          "ащ пае / ащ фэшӏкӏэ / джащ пае / джащ фэшӏыкӏэ"
         ],
         "verbs": []
       },
@@ -50507,7 +50546,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъогогъу (as in гъогогъуищы: three times)",
-          "къыхэк1ын (to occur (among several occasions), an instance to happen)"
+          "къыхэкӏын (to occur (among several occasions), an instance to happen)"
         ],
         "verbs": []
       },
@@ -50517,7 +50556,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъогогъу (as in гъогогъуищы: three times)",
-          "къыхэк1ын (to occur (among several occasions), an instance to happen))"
+          "къыхэкӏын (to occur (among several occasions), an instance to happen))"
         ],
         "verbs": []
       },
@@ -50526,8 +50565,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къехъул1агъэр (an incident that happened to someone)",
-          "хъугъэ-ш1агъ"
+          "къехъулӏагъэр (an incident that happened to someone)",
+          "хъугъэ-шӏагъ"
         ],
         "verbs": []
       },
@@ -50537,9 +50576,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "е1отэн / е1отэжьын (to inform someone)",
-          "макъэ егъэ1ун (to inform someone)",
-          "къэбар егъэш1эн (to inform someone)"
+          "еӏотэн / еӏотэжьын (to inform someone)",
+          "макъэ егъэӏун (to inform someone)",
+          "къэбар егъэшӏэн (to inform someone)"
         ]
       },
       "word": "inform"
@@ -50548,7 +50587,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to cause to begin to burn)"
+          "машӏо хэгъэнэн / машӏо кӏэгъэнэн (to cause to begin to burn)"
         ]
       },
       "word": "inflame"
@@ -50575,8 +50614,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъыпкъэмк1э",
-          "шъыпкъэ п1ощтымэ"
+          "шъыпкъэмкӏэ",
+          "шъыпкъэ пӏощтымэ"
         ],
         "verbs": []
       },
@@ -50585,7 +50624,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэдзэк1ак1о"
+          "зэдзэкӏакӏо"
         ],
         "verbs": []
       },
@@ -50636,8 +50675,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ыш1эу",
-          "ымыш1ахэу"
+          "ышӏэу",
+          "ымышӏахэу"
         ],
         "verbs": []
       },
@@ -50646,7 +50685,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эн"
+          "кӏэн"
         ],
         "verbs": []
       },
@@ -50660,8 +50699,8 @@ const englishDict = {
           "хэхьан (to get involved)",
           "хэщэн (to involve someone to)",
           "хэгъэхьан (to involve something to, to add someone to)",
-          "1э хэлъын (to be involved with)",
-          "1э хэлъхьан (to get involved with something)"
+          "ӏэ хэлъын (to be involved with)",
+          "ӏэ хэлъхьан (to get involved with something)"
         ]
       },
       "word": "involve"
@@ -50669,8 +50708,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ы1э хэлъ",
-          "и1ахь хэлъ"
+          "ыӏэ хэлъ",
+          "иӏахь хэлъ"
         ],
         "verbs": []
       },
@@ -50697,7 +50736,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1энлъэ-к1уанлъ"
+          "цӏэнлъэ-кӏуанлъ"
         ],
         "verbs": []
       },
@@ -50706,7 +50745,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьак1о (indignity, humiliation, insult, offense)"
+          "шъхьакӏо (indignity, humiliation, insult, offense)"
         ],
         "verbs": []
       },
@@ -50716,7 +50755,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1элъэ1ун"
+          "кӏэлъэӏун"
         ]
       },
       "word": "invoke"
@@ -50725,8 +50764,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыш1эн",
-          "зэхэгъэк1ухьан"
+          "зэӏышӏэн",
+          "зэхэгъэкӏухьан"
         ]
       },
       "word": "intermix"
@@ -50769,8 +50808,8 @@ const englishDict = {
           "хэлъын (to be lying in an area with some mass that is a liquid, gas or solid such as water, fire, sand)",
           "дэтын (to be inside in object that can be opened and close in a standing position)",
           "дэлъын (to be inside in object that can be opened and close in a lying position)",
-          "к1оц1ы (inside)",
-          "ык1оц1ы (in something\u0027s inside)",
+          "кӏоцӏы (inside)",
+          "ыкӏоцӏы (in something\u0027s inside)",
           "дэ- (prepositional verval suffix, in a defined area, such as a yard, area, settlement, etc.)",
           "дэ- (prepositional verval suffix, inside another object such as a book, fridge, drawer, closet, etc)",
           "и- (prepositional verval suffix, inside something such as a house, hole, bag, basket, etc.)"
@@ -50786,12 +50825,12 @@ const englishDict = {
           "илъын (to be inside in a lying position)",
           "дэтын (to be inside in object that can be opened and close in a standing position)",
           "дэлъын (to be inside in object that can be opened and close in a lying position)",
-          "к1оц1ы (inside)",
-          "к1оц1ы",
-          "ык1оц1ы (in something\u0027s inside)",
+          "кӏоцӏы (inside)",
+          "кӏоцӏы",
+          "ыкӏоцӏы (in something\u0027s inside)",
           "дэ- (prepositional verval suffix, inside another object such as a book, fridge, drawer, closet, etc)",
           "и- (prepositional verval suffix, inside something such as a house, hole, bag, basket, etc.)",
-          "к1оц1ы- (prepositional verval suffix, within inside)"
+          "кӏоцӏы- (prepositional verval suffix, within inside)"
         ],
         "verbs": []
       },
@@ -50802,7 +50841,7 @@ const englishDict = {
         "lemmas": [
           "пашъхьэ",
           "ипашъхьэ",
-          "пэ1у- (prepositional verval suffix)"
+          "пэӏу- (prepositional verval suffix)"
         ],
         "verbs": []
       },
@@ -50831,9 +50870,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зыпкъ имыт",
-          "зэхъок1ырэ",
-          "теубытагъэ зимы1э",
-          "техьэ-тек1"
+          "зэхъокӏырэ",
+          "теубытагъэ зимыӏэ",
+          "техьэ-текӏ"
         ],
         "verbs": []
       },
@@ -50852,10 +50891,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хьаулый",
-          "пк1э зимы1э",
-          "пк1э и1эп",
+          "пкӏэ зимыӏэ",
+          "пкӏэ иӏэп",
           "хьаулыеу",
-          "пк1энчъэу",
+          "пкӏэнчъэу",
           "бедэхьау"
         ],
         "verbs": []
@@ -50865,7 +50904,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэк1оц1"
+          "лъэкӏоцӏ"
         ],
         "verbs": []
       },
@@ -50874,7 +50913,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэк1оц1"
+          "лъэкӏоцӏ"
         ],
         "verbs": []
       },
@@ -50892,7 +50931,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1эгъу"
+          "гущыӏэгъу"
         ],
         "verbs": []
       },
@@ -50901,7 +50940,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "цыхьэмыш1"
+          "цыхьэмышӏ"
         ],
         "verbs": []
       },
@@ -50928,7 +50967,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьагъэпц1ы",
+          "тхьагъэпцӏы",
           "хъоршэр"
         ],
         "verbs": []
@@ -50947,7 +50986,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыфышъхьэ",
+          "цӏыфышъхьэ",
           "нэбгыр"
         ],
         "verbs": []
@@ -50968,7 +51007,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъуч1ы",
+          "гъучӏы",
           "уты (iron for pressing clothes)"
         ],
         "verbs": [
@@ -50998,9 +51037,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъу (hand shackles)",
+          "ӏэхъу (hand shackles)",
           "лъэхъу (leg shackles)",
-          "1эхъу-лъэхъу"
+          "ӏэхъу-лъэхъу"
         ],
         "verbs": []
       },
@@ -51009,7 +51048,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъотехьэтек1"
+          "шъотехьэтекӏ"
         ],
         "verbs": []
       },
@@ -51029,7 +51068,7 @@ const englishDict = {
         "lemmas": [
           "губжыпх",
           "губжыл",
-          "губжыгъош1у"
+          "губжыгъошӏу"
         ],
         "verbs": []
       },
@@ -51119,8 +51158,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офыгъу",
-          "1офтхьэбзэ"
+          "ӏофыгъу",
+          "ӏофтхьэбзэ"
         ],
         "verbs": []
       },
@@ -51142,7 +51181,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къырик1огъу"
+          "къырикӏогъу"
         ],
         "verbs": []
       },
@@ -51162,11 +51201,11 @@ const englishDict = {
         "lemmas": [
           "хъу",
           "хъун (to itch)",
-          "хъупц1"
+          "хъупцӏ"
         ],
         "verbs": [
           "хъун",
-          "хъупц1ын",
+          "хъупцӏын",
           "бжьыбжьын (to feel a rash, to feel burning sensation on the skin)"
         ]
       },
@@ -51175,9 +51214,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э",
-          "итеплъэк1э",
-          "ынахэк1э"
+          "зэрэкъэлъагъорэмкӏэ",
+          "итеплъэкӏэ",
+          "ынахэкӏэ"
         ],
         "verbs": []
       },
@@ -51186,9 +51225,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э",
-          "итеплъэк1э",
-          "ынахэк1э"
+          "зэрэкъэлъагъорэмкӏэ",
+          "итеплъэкӏэ",
+          "ынахэкӏэ"
         ],
         "verbs": []
       },
@@ -51197,9 +51236,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э",
-          "итеплъэк1э",
-          "ынахэк1э"
+          "зэрэкъэлъагъорэмкӏэ",
+          "итеплъэкӏэ",
+          "ынахэкӏэ"
         ],
         "verbs": []
       },
@@ -51208,9 +51247,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э",
-          "итеплъэк1э",
-          "ынахэк1э"
+          "зэрэкъэлъагъорэмкӏэ",
+          "итеплъэкӏэ",
+          "ынахэкӏэ"
         ],
         "verbs": []
       },
@@ -51219,9 +51258,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э",
-          "итеплъэк1э",
-          "ынахэк1э"
+          "зэрэкъэлъагъорэмкӏэ",
+          "итеплъэкӏэ",
+          "ынахэкӏэ"
         ],
         "verbs": []
       },
@@ -51230,9 +51269,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэрэкъэлъагъорэмк1э",
-          "итеплъэк1э",
-          "ынахэк1э"
+          "зэрэкъэлъагъорэмкӏэ",
+          "итеплъэкӏэ",
+          "ынахэкӏэ"
         ],
         "verbs": []
       },
@@ -51285,7 +51324,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэупк1эпк1эн"
+          "гъэупкӏэпкӏэн"
         ]
       },
       "word": "zip up"
@@ -51313,7 +51352,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къуанч1э"
+          "къуанчӏэ"
         ],
         "verbs": []
       },
@@ -51354,7 +51393,7 @@ const englishDict = {
           "хэгъэнэн (to jam something in an area with liquid, gas or solid)",
           "тегъэнэн (to jam on above something)",
           "игъэнэн (to jam inside something)",
-          "ч1эгъэнэн (to jam under something)"
+          "чӏэгъэнэн (to jam under something)"
         ]
       },
       "word": "jam"
@@ -51362,7 +51401,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ако",
+          "кӏако",
           "сако (Shapsug)"
         ],
         "verbs": []
@@ -51401,7 +51440,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мыч1ы"
+          "мычӏы"
         ],
         "verbs": []
       },
@@ -51419,7 +51458,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дышъэк1"
+          "дышъэкӏ"
         ],
         "verbs": []
       },
@@ -51428,7 +51467,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сэмэркъэуш1ыл"
+          "сэмэркъэушӏыл"
         ],
         "verbs": []
       },
@@ -51438,9 +51477,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1э ш1ын",
-          "(vulgar) 1эк1э еон",
-          "(very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
+          "ӏэкӏэ шӏын",
+          "(vulgar) ӏэкӏэ еон",
+          "(very vulgar) ӏэкӏэ тешӏыкӏын (to masturbate off something)"
         ]
       },
       "word": "jerk off"
@@ -51481,7 +51520,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эшъхьэ"
+          "ӏэшъхьэ"
         ],
         "verbs": []
       },
@@ -51527,7 +51566,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэш1о-гуш1у"
+          "нэшӏо-гушӏу"
         ],
         "verbs": []
       },
@@ -51536,7 +51575,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэш1о-гуш1у"
+          "нэшӏо-гушӏу"
         ],
         "verbs": []
       },
@@ -51545,7 +51584,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офш1энынчъэ"
+          "ӏофшӏэнынчъэ"
         ],
         "verbs": []
       },
@@ -51557,8 +51596,8 @@ const englishDict = {
           "сэмэркъэу"
         ],
         "verbs": [
-          "сэмэркъэу ш1ын",
-          "сэмэркъэу дэш1ын (to joke with)",
+          "сэмэркъэу шӏын",
+          "сэмэркъэу дэшӏын (to joke with)",
           "есэмэркъэун (to joke with)"
         ]
       },
@@ -51568,7 +51607,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "чэфыныгъ",
-          "гуш1уагъо",
+          "гушӏуагъо",
           "жъот"
         ],
         "verbs": []
@@ -51578,7 +51617,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сэмэркъэуш1ыл"
+          "сэмэркъэушӏыл"
         ],
         "verbs": []
       },
@@ -51587,7 +51626,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зек1о"
+          "зекӏо"
         ],
         "verbs": []
       },
@@ -51606,8 +51645,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1офы",
-          "1энат1э (post, position, job)"
+          "ӏофы",
+          "ӏэнатӏэ (post, position, job)"
         ],
         "verbs": []
       },
@@ -51628,34 +51667,34 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пк1эн",
-          "дэпк1эен (to jump upward)",
-          "епк1эхын (to jump down)",
+          "пкӏэн",
+          "дэпкӏэен (to jump upward)",
+          "епкӏэхын (to jump down)",
           "лъэн",
-          "тепк1эн (to jump on something)",
-          "тепк1ын / къытепк1ын (to jump off something)",
-          "ч1эпк1эн (to jump under something)",
-          "ч1эпк1ын / къыч1эпк1ын (to jump from under something)",
-          "1упк1эн (to jump near something)",
-          "1упк1ын / къы1ук1ын (to jump away from something)",
-          "дэпк1эн (to jump into a yard, to jump between, to jump inside another object that can be opened and closed)",
-          "дэпк1ын / къыдэпк1ын (to jump from a yard, to jump from inside another object that can be opened)",
-          "гопк1эн / бгъодэпк1эн (to jump besides something)",
-          "гопк1ын / къыгопк1ын / бгъодэпк1ын / къыбгъодэпк1ын (to jump from besides something)",
-          "ипк1эн (to jump inside something)",
-          "ипк1ын / къыипк1ын (to jump from inside something)",
-          "къопк1эн (to jump behind something)",
-          "къопк1ын / къыкъопк1ын (to jump from behind something)",
-          "жэхэпк1эн (to intensively jump on/against something)",
-          "пыпк1эн (to jump on a tree or branch, to jump on the tip of)",
-          "пыпк1ын / къыпыпк1ын (to jump from a tree or branch, to jump from the tp of)",
-          "блэпк1ын (to jump pass something, to jump over something)",
-          "шъхьадэпк1ын (to jump over something)",
-          "шъхьапырыпк1ын (to jump beyond something)",
-          "зэк1эпк1эн (to jump backward)",
-          "лъыпк1эн (to jump toward something)",
+          "тепкӏэн (to jump on something)",
+          "тепкӏын / къытепкӏын (to jump off something)",
+          "чӏэпкӏэн (to jump under something)",
+          "чӏэпкӏын / къычӏэпкӏын (to jump from under something)",
+          "ӏупкӏэн (to jump near something)",
+          "ӏупкӏын / къыӏукӏын (to jump away from something)",
+          "дэпкӏэн (to jump into a yard, to jump between, to jump inside another object that can be opened and closed)",
+          "дэпкӏын / къыдэпкӏын (to jump from a yard, to jump from inside another object that can be opened)",
+          "гопкӏэн / бгъодэпкӏэн (to jump besides something)",
+          "гопкӏын / къыгопкӏын / бгъодэпкӏын / къыбгъодэпкӏын (to jump from besides something)",
+          "ипкӏэн (to jump inside something)",
+          "ипкӏын / къыипкӏын (to jump from inside something)",
+          "къопкӏэн (to jump behind something)",
+          "къопкӏын / къыкъопкӏын (to jump from behind something)",
+          "жэхэпкӏэн (to intensively jump on/against something)",
+          "пыпкӏэн (to jump on a tree or branch, to jump on the tip of)",
+          "пыпкӏын / къыпыпкӏын (to jump from a tree or branch, to jump from the tp of)",
+          "блэпкӏын (to jump pass something, to jump over something)",
+          "шъхьадэпкӏын (to jump over something)",
+          "шъхьапырыпкӏын (to jump beyond something)",
+          "зэкӏэпкӏэн (to jump backward)",
+          "лъыпкӏэн (to jump toward something)",
           "къызыщылъэтын (to unexpectedly jump up)",
-          "пк1этэн (to jump rapidly, to hop around)"
+          "пкӏэтэн (to jump rapidly, to hop around)"
         ]
       },
       "word": "jump"
@@ -51663,7 +51702,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1агъэ"
+          "пкӏагъэ"
         ],
         "verbs": []
       },
@@ -51691,7 +51730,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гопк1эн"
+          "гопкӏэн"
         ]
       },
       "word": "jump aside"
@@ -51699,7 +51738,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ны1эп (only)",
+          "ныӏэп (only)",
           "къодый (simply, merely)",
           "зафэ (a just person)"
         ],
@@ -51711,7 +51750,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "жэхэпк1эн"
+          "жэхэпкӏэн"
         ]
       },
       "word": "jump onto"
@@ -51722,7 +51761,7 @@ const englishDict = {
         "verbs": [
           "къыхэщын (to stick out from among)",
           "къищын (to stick out from inside something)",
-          "къыч1эщын (to stick out from under something)",
+          "къычӏэщын (to stick out from under something)",
           "къытещын (to stick out from above something)",
           "къыпыщын (to stick out from a tree, to stick out from the tip of something)",
           "къыкъощын (to stick out from behind something)",
@@ -51735,8 +51774,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "блэпк1ын",
-          "шъхьапырыпк1ын"
+          "блэпкӏын",
+          "шъхьапырыпкӏын"
         ]
       },
       "word": "jump pass"
@@ -51745,8 +51784,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "блэпк1ын",
-          "шъхьадэпк1ын"
+          "блэпкӏын",
+          "шъхьадэпкӏын"
         ]
       },
       "word": "jump over"
@@ -51823,7 +51862,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1унк1ыбзэ"
+          "ӏункӏыбзэ"
         ],
         "verbs": []
       },
@@ -51833,7 +51872,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ыгъэн"
+          "ӏыгъэн"
         ]
       },
       "word": "keep"
@@ -51842,7 +51881,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "платыку, шъхьэтехъу",
-          "шъхьэк1апх"
+          "шъхьэкӏапх"
         ],
         "verbs": []
       },
@@ -51910,7 +51949,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэпкъ",
-          "л1эужыгъу"
+          "лӏэужыгъу"
         ],
         "verbs": []
       },
@@ -51939,10 +51978,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъэожъые",
-          "к1элэхъу",
-          "к1элэхъуц1ык1у",
-          "к1элэц1ык1у",
-          "чэц1ы (kid, young goat)"
+          "кӏэлэхъу",
+          "кӏэлэхъуцӏыкӏу",
+          "кӏэлэцӏыкӏу",
+          "чэцӏы (kid, young goat)"
         ],
         "verbs": []
       },
@@ -51951,8 +51990,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1ак1о",
-          "л1ыук1"
+          "укӏакӏо",
+          "лӏыукӏ"
         ],
         "verbs": []
       },
@@ -51975,8 +52014,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гупц1анэ",
-          "гупс1анэ (Shapsug)"
+          "гупцӏанэ",
+          "гупсӏанэ (Shapsug)"
         ],
         "verbs": []
       },
@@ -51987,8 +52026,8 @@ const englishDict = {
         "lemmas": [
           "хъупхъэ",
           "огъурлы",
-          "ц1ыф дэгъу",
-          "л1акъо (kind, type, race)"
+          "цӏыф дэгъу",
+          "лӏакъо (kind, type, race)"
         ],
         "verbs": []
       },
@@ -52035,8 +52074,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пыты",
-          "пщэрыхьап1э",
-          "шхынш1эщ"
+          "пщэрыхьапӏэ",
+          "шхыншӏэщ"
         ],
         "verbs": []
       },
@@ -52056,13 +52095,13 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ук1ын",
-          "гъэл1эн (to cause to die)",
-          "хиук1ыхьан (to kill in a war/forest)",
-          "хэук1ыхьан (to be killed in a war/forest)",
-          "(dialectal) гъэк1одын",
-          "гъэл1эн",
-          "1эк1эук1эн (to kill somebody inadvertently)"
+          "укӏын",
+          "гъэлӏэн (to cause to die)",
+          "хиукӏыхьан (to kill in a war/forest)",
+          "хэукӏыхьан (to be killed in a war/forest)",
+          "(dialectal) гъэкӏодын",
+          "гъэлӏэн",
+          "ӏэкӏэукӏэн (to kill somebody inadvertently)"
         ]
       },
       "word": "kill"
@@ -52075,7 +52114,7 @@ const englishDict = {
           "ешъутырын (to kick something or someone)",
           "хэшъутырэн / жэхэшъутырэн (to intensively kick someone or something)",
           "хэшъутырыхьан (to continuously kick someone, to beat someone by kicking them)",
-          "ч1эшъутырэн (to kick under)",
+          "чӏэшъутырэн (to kick under)",
           "ишъутырэн (to kick inside)"
         ]
       },
@@ -52085,8 +52124,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to kindle, to start fire)",
-          "зэхэнэн / зэк1энэн (to catch fire by itself)"
+          "машӏо хэгъэнэн / машӏо кӏэгъэнэн (to kindle, to start fire)",
+          "зэхэнэн / зэкӏэнэн (to catch fire by itself)"
         ]
       },
       "word": "kindle"
@@ -52094,7 +52133,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гупц1анэ"
+          "гупцӏанэ"
         ],
         "verbs": []
       },
@@ -52113,7 +52152,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "(vulgar) шъутык1э гъэк1он"
+          "(vulgar) шъутыкӏэ гъэкӏон"
         ]
       },
       "word": "kick ass"
@@ -52150,7 +52189,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхылъып1э"
+          "тхылъыпӏэ"
         ],
         "verbs": []
       },
@@ -52164,7 +52203,7 @@ const englishDict = {
           "шъэжъые"
         ],
         "verbs": [
-          "ш1обзын (to slice to kill)"
+          "шӏобзын (to slice to kill)"
         ]
       },
       "word": "knife"
@@ -52184,7 +52223,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "утэн",
-          "1отын",
+          "ӏотын",
           "гъэшъэбэн / гъэушъэбын"
         ]
       },
@@ -52214,7 +52253,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "куамэ (knot in a tree)",
-          "зэкъодзап1э (knot in a rope)",
+          "зэкъодзапӏэ (knot in a rope)",
           "зэкъодзагъ"
         ],
         "verbs": []
@@ -52225,7 +52264,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "къопс",
-          "1эубытып1э",
+          "ӏэубытыпӏэ",
           "шъхьакъутым (on the end of a cane or stick)"
         ],
         "verbs": []
@@ -52236,8 +52275,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1эн",
-          "хэш1ык1ын (to have an expertise about)"
+          "шӏэн",
+          "хэшӏыкӏын (to have an expertise about)"
         ]
       },
       "word": "know"
@@ -52254,7 +52293,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1эныгъэ"
+          "шӏэныгъэ"
         ],
         "verbs": []
       },
@@ -52282,7 +52321,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -52311,7 +52350,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эн"
+          "кӏэн"
         ],
         "verbs": []
       },
@@ -52363,9 +52402,9 @@ const englishDict = {
           "къат-къатэу (stratum)"
         ],
         "verbs": [
-          "зэтеупл1энк1эн (to fold up somethng",
+          "зэтеуплӏэнкӏэн (to fold up somethng",
           "to layer up somethng)",
-          "(Shapsug) зэтеул1эк1эн"
+          "(Shapsug) зэтеулӏэкӏэн"
         ]
       },
       "word": "layer"
@@ -52373,7 +52412,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэрэк1о"
+          "гъэрэкӏо"
         ],
         "verbs": []
       },
@@ -52405,14 +52444,14 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хэку",
-          "ч1ыгу",
-          "ч1ышъхьашъу (land surface)",
-          "ч1ылъэ",
-          "ч1ыналъэ"
+          "чӏыгу",
+          "чӏышъхьашъу (land surface)",
+          "чӏылъэ",
+          "чӏыналъэ"
         ],
         "verbs": [
-          "т1ысын / къэт1ысын",
-          "къет1ысэхын (to land)"
+          "тӏысын / къэтӏысын",
+          "къетӏысэхын (to land)"
         ]
       },
       "word": "land"
@@ -52420,7 +52459,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1асэ",
+          "кӏасэ",
           "лъэжъуагъ"
         ],
         "verbs": [
@@ -52501,9 +52540,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гык1ап1э (wash-house)",
-          "гык1ыгъэ (laundry, that which needs to be, is being, or has been laundered)",
-          "гык1алъэ (washing machine)"
+          "гыкӏапӏэ (wash-house)",
+          "гыкӏыгъэ (laundry, that which needs to be, is being, or has been laundered)",
+          "гыкӏалъэ (washing machine)"
         ],
         "verbs": []
       },
@@ -52513,9 +52552,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гык1эн (to do laundry), гык1ын (to launder something)",
-          "гык1эн (to do laundering)",
-          "гык1ын (to launder something)"
+          "гыкӏэн (to do laundry), гыкӏын (to launder something)",
+          "гыкӏэн (to do laundering)",
+          "гыкӏын (to launder something)"
         ]
       },
       "word": "launder"
@@ -52523,7 +52562,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гык1ыгъ"
+          "гыкӏыгъ"
         ],
         "verbs": []
       },
@@ -52562,7 +52601,7 @@ const englishDict = {
           "щэджэгъуашхэ"
         ],
         "verbs": [
-          "т1упщын",
+          "тӏупщын",
           "дэфыен (to launch upward)",
           "дэгъэбыбэен (to launch high)"
         ]
@@ -52572,7 +52611,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ык1ухь"
+          "чӏыкӏухь"
         ],
         "verbs": []
       },
@@ -52581,7 +52620,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ылъэтеплъ"
+          "чӏылъэтеплъ"
         ],
         "verbs": []
       },
@@ -52640,12 +52679,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щык1агъэ",
-          "нэц1эк1",
+          "щыкӏагъэ",
+          "нэцӏэкӏ",
           "дагъо"
         ],
         "verbs": [
-          "щык1эн / къыщык1эн"
+          "щыкӏэн / къыщыкӏэн"
         ]
       },
       "word": "lack"
@@ -52662,7 +52701,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къухьэуцуп1э"
+          "къухьэуцупӏэ"
         ],
         "verbs": []
       },
@@ -52671,9 +52710,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ет1анэ",
-          "ет1анэк1э",
-          "(dialectal) ет1уанэ"
+          "етӏанэ",
+          "етӏанэкӏэ",
+          "(dialectal) етӏуанэ"
         ],
         "verbs": []
       },
@@ -52683,10 +52722,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэт1ылъын (to lay down)",
+          "гъэтӏылъын (to lay down)",
           "илъхьан (to lay something inside)",
           "телъхьан (to lay something on)",
-          "ч1элъхьан (to lay something under)",
+          "чӏэлъхьан (to lay something under)",
           "дэлъхьан (to lay something in)",
           "хэлъхьан (to lay something among other objects or in an area with solid, gas or liquid)"
         ]
@@ -52696,8 +52735,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэ мыш1эу",
-          "бэ темыш1эу",
+          "бэ мышӏэу",
+          "бэ темышӏэу",
           "джырэблагъэ"
         ],
         "verbs": []
@@ -52707,8 +52746,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1энэк1алъ",
-          "к1энэк1алъ"
+          "кӏэнэкӏалъ",
+          "кӏэнэкӏалъ"
         ],
         "verbs": []
       },
@@ -52717,7 +52756,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1энэк1алъ"
+          "кӏэнэкӏалъ"
         ],
         "verbs": []
       },
@@ -52726,7 +52765,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1энэк1алъ"
+          "кӏэнэкӏалъ"
         ],
         "verbs": []
       },
@@ -52772,7 +52811,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэк1эц1ын"
+          "къэкӏэцӏын"
         ]
       },
       "word": "lay eggs"
@@ -52790,8 +52829,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэкъуац1э",
-          "унэгъуац1э"
+          "лъэкъуацӏэ",
+          "унэгъуацӏэ"
         ],
         "verbs": []
       },
@@ -52827,7 +52866,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "кок1"
+          "кокӏ"
         ],
         "verbs": []
       },
@@ -52837,9 +52876,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъао",
-          "к1элэжъ",
-          "к1элэхъу",
-          "к1элак1э"
+          "кӏэлэжъ",
+          "кӏэлэхъу",
+          "кӏэлакӏэ"
         ],
         "verbs": []
       },
@@ -52848,7 +52887,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэк1ояп1э",
+          "дэкӏояпӏэ",
           "лъэой",
           "лъэугъуае (Shapsug)"
         ],
@@ -52869,7 +52908,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэт1ылъын"
+          "гъэтӏылъын"
         ]
       },
       "word": "lay down"
@@ -52916,7 +52955,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэц1эк1"
+          "нэцӏэкӏ"
         ],
         "verbs": []
       },
@@ -52947,7 +52986,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "тхьапэ",
-          "пк1ашъ"
+          "пкӏашъ"
         ],
         "verbs": []
       },
@@ -52974,9 +53013,9 @@ const englishDict = {
           "ищэн (to take/lead someone to inside something)",
           "дэщэен (to lead/take someone up)",
           "ещэхын (to lead/take someone down)",
-          "къещэк1ын (to take/lead someone around)",
+          "къещэкӏын (to take/lead someone around)",
           "щэжьын (to lead someone back to, to take someone back to, to return someone back to)",
-          "ещэл1эн (to take someone to, to lead someone to)",
+          "ещэлӏэн (to take someone to, to lead someone to)",
           "блэщын (to take/lead (someone) across, to take/lead (someone) past something)",
           "пэщэн (to lead as a leader)"
         ]
@@ -52986,7 +53025,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нек1о"
+          "некӏо"
         ],
         "verbs": []
       },
@@ -53004,9 +53043,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ышъо",
+          "кӏышъо",
           "шъо",
-          "шъо1уац (leather wrapper)"
+          "шъоӏуац (leather wrapper)"
         ],
         "verbs": []
       },
@@ -53015,7 +53054,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжыны ц1ын"
+          "бжыны цӏын"
         ],
         "verbs": []
       },
@@ -53026,10 +53065,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэлэнлэн",
-          "т1упщын",
+          "тӏупщын",
           "итIупщыхьан",
-          "ит1упщыхьан (to let loose inside something)",
-          "хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)"
+          "итӏупщыхьан (to let loose inside something)",
+          "хэтӏупщыхьан (to let loose something into the water, sea, gas, fire, forest)"
         ]
       },
       "word": "let loose"
@@ -53039,8 +53078,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэлэнлэн",
-          "т1упщын",
-          "игъэк1ын (to let someone go outside/out)"
+          "тӏупщын",
+          "игъэкӏын (to let someone go outside/out)"
         ]
       },
       "word": "let go"
@@ -53087,7 +53126,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эщак1о"
+          "кӏэщакӏо"
         ],
         "verbs": []
       },
@@ -53096,8 +53135,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъу",
-          "1эхъу-лъэхъу"
+          "ӏэхъу",
+          "ӏэхъу-лъэхъу"
         ],
         "verbs": []
       },
@@ -53115,7 +53154,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1эшъэхъу"
+          "пкӏэшъэхъу"
         ],
         "verbs": []
       },
@@ -53133,7 +53172,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ык1о"
+          "лӏыкӏо"
         ],
         "verbs": []
       },
@@ -53143,7 +53182,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "жьаугъуадж",
-          "жьауш1"
+          "жьаушӏ"
         ],
         "verbs": []
       },
@@ -53153,24 +53192,24 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ик1ын (to go out, to leave a room, building, house, etc.)",
-          "ик1ыжьын (to leave the house)",
+          "икӏын (to go out, to leave a room, building, house, etc.)",
+          "икӏыжьын (to leave the house)",
           "къэтэджыжьын (to stand and leave)",
-          "къы1унэн (to remain behind, to leave behind)",
+          "къыӏунэн (to remain behind, to leave behind)",
           "къинэн (to remian inside, to leave inside)",
           "къэгъэнэн / къэгъэнэжьын (to remain something, to remain leftovers, to leave leftovers)",
           "къэнэн / къэнэжьын (something to remain as a leftover)",
           "къинэжьын (something to remain inside as a leftovers)",
           "къытенэжьын (to remain something above, to leave behind something above)",
-          "къыч1энэжьын (to remain something under, to leave behind something under)",
+          "къычӏэнэжьын (to remain something under, to leave behind something under)",
           "бгынэн (to abandon/desert)",
-          "пык1ыжьын (to divorce)",
-          "хэк1ын (to leave a company or group)",
+          "пыкӏыжьын (to divorce)",
+          "хэкӏын (to leave a company or group)",
           "тегъэнэн / къытегъэнэн (to leave something above something)",
-          "ч1эгъэнэн / къыч1эгъэнэн (to leave something under something)",
+          "чӏэгъэнэн / къычӏэгъэнэн (to leave something under something)",
           "хэгъэнэн / къыхэгъэнэн (to leave something in an area with liquid or gas, to leave something in the forest)",
           "дэгъэнэн / къыдэгъэнэн (to leave something in)",
-          "1угъэнэн / къы1угъэнэн (to leave something near)",
+          "ӏугъэнэн / къыӏугъэнэн (to leave something near)",
           "щынэжьын (to abandon, to leave)"
         ]
       },
@@ -53180,7 +53219,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къы1унэн / къы1угъэнэн"
+          "къыӏунэн / къыӏугъэнэн"
         ]
       },
       "word": "leave behind"
@@ -53198,8 +53237,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэбар егъэ1уныр, къэбар егъэш1эныр",
-          "1опщын"
+          "къэбар егъэӏуныр, къэбар егъэшӏэныр",
+          "ӏопщын"
         ]
       },
       "word": "let know"
@@ -53208,7 +53247,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэгъэш1эн"
+          "зэгъэшӏэн"
         ]
       },
       "word": "learn"
@@ -53217,7 +53256,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "блэгъэк1ын"
+          "блэгъэкӏын"
         ]
       },
       "word": "let past"
@@ -53226,7 +53265,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "блэгъэк1ын"
+          "блэгъэкӏын"
         ]
       },
       "word": "let cross"
@@ -53235,7 +53274,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "блэгъэк1ын"
+          "блэгъэкӏын"
         ]
       },
       "word": "let time past"
@@ -53244,7 +53283,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зытегъэк1эн"
+          "зытегъэкӏэн"
         ]
       },
       "word": "lean on"
@@ -53253,9 +53292,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къыщыгъэк1эн",
-          "нахь мак1э ш1ын",
-          "хэгъэк1ын"
+          "къыщыгъэкӏэн",
+          "нахь макӏэ шӏын",
+          "хэгъэкӏын"
         ]
       },
       "word": "lessen"
@@ -53273,10 +53312,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "егъэк1ын (to lean something against)",
-          "тегъэк1эн (to lean something on)",
-          "зегъэк1ын (to lean against)",
-          "зытегъэк1эн (to lean on)",
+          "егъэкӏын (to lean something against)",
+          "тегъэкӏэн (to lean something on)",
+          "зегъэкӏын (to lean against)",
+          "зытегъэкӏэн (to lean on)",
           "зытещэен",
           "егъэусыен (to lean something against)",
           "зэусэин (to lean on each other)"
@@ -53306,7 +53345,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ч1эчъын (to leak from beneath something)"
+          "чӏэчъын (to leak from beneath something)"
         ]
       },
       "word": "leak"
@@ -53324,7 +53363,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зытегъэк1эн"
+          "зытегъэкӏэн"
         ]
       },
       "word": "lean over"
@@ -53332,8 +53371,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эн",
-          "къык1эныгъэр"
+          "кӏэн",
+          "къыкӏэныгъэр"
         ],
         "verbs": []
       },
@@ -53398,8 +53437,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "игъэк1ын",
-          "ч1эгъэк1ын"
+          "игъэкӏын",
+          "чӏэгъэкӏын"
         ]
       },
       "word": "let out"
@@ -53437,9 +53476,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1упш1э",
-          "1у (front of the lips)",
-          "1упэ"
+          "ӏупшӏэ",
+          "ӏу (front of the lips)",
+          "ӏупэ"
         ],
         "verbs": []
       },
@@ -53448,9 +53487,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1упш1э",
-          "1у (front of the lips)",
-          "1упэ"
+          "ӏупшӏэ",
+          "ӏу (front of the lips)",
+          "ӏупэ"
         ],
         "verbs": []
       },
@@ -53477,8 +53516,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1у",
-          "тхьамш1ыгъу"
+          "шӏу",
+          "тхьамшӏыгъу"
         ],
         "verbs": []
       },
@@ -53489,8 +53528,8 @@ const englishDict = {
         "lemmas": [
           "нэфнэ",
           "нэфы",
-          "псынк1э (lightweight)",
-          "(Shapsug) псык1э (lightweight)"
+          "псынкӏэ (lightweight)",
+          "(Shapsug) псыкӏэ (lightweight)"
         ],
         "verbs": [
           "къыхэнэн (to illuminate)",
@@ -53503,7 +53542,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчык1э"
+          "пчыкӏэ"
         ],
         "verbs": []
       },
@@ -53512,18 +53551,18 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пц1ы",
-          "нэпц1ы"
+          "пцӏы",
+          "нэпцӏы"
         ],
         "verbs": [
-          "пц1ын (to speak falsehood)",
-          "пц1ы усын (to speak falsehood)",
-          "пс1ын (Shapsug, to speak falsehood)",
-          "фэп1ын (to lie to someone)",
-          "пц1ы фэусын (to lie to someone)",
+          "пцӏын (to speak falsehood)",
+          "пцӏы усын (to speak falsehood)",
+          "псӏын (Shapsug, to speak falsehood)",
+          "фэпӏын (to lie to someone)",
+          "пцӏы фэусын (to lie to someone)",
           "щылъын (to be lying)",
           "телъын (to be lying on)",
-          "ч1элъын (to be lying under)",
+          "чӏэлъын (to be lying under)",
           "хэлъын (to be lying within some area with liquid, gas or solid)",
           "дэлъын (to be lying in)",
           "илъын (to be lying inside)",
@@ -53531,7 +53570,7 @@ const englishDict = {
           "голъын / бгъодэлъын (to be lying under)",
           "гъолъын (to lie down)",
           "тегъолъхьан (to lie down on something)",
-          "ч1эгъолъхьан (to lie down under something)",
+          "чӏэгъолъхьан (to lie down under something)",
           "хэгъолъхьан (to lie down within an area with liquid, solid or gas)",
           "дэгъолъхьан (to lie down in)",
           "игъолъхьан (to lie down inside)",
@@ -53613,7 +53652,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзэяк1о"
+          "бзэякӏо"
         ],
         "verbs": []
       },
@@ -53622,7 +53661,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзэш1эныгъ"
+          "бзэшӏэныгъ"
         ],
         "verbs": []
       },
@@ -53632,7 +53671,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бзыужъый",
-          "бзыуц1ык1у"
+          "бзыуцӏыкӏу"
         ],
         "verbs": []
       },
@@ -53650,7 +53689,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бзэш1эныгъэл1"
+          "бзэшӏэныгъэлӏ"
         ],
         "verbs": []
       },
@@ -53669,8 +53708,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пц1ыус",
-          "пц1ырый"
+          "пцӏыус",
+          "пцӏырый"
         ],
         "verbs": []
       },
@@ -53680,10 +53719,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1этын / къэ1этын",
+          "ӏэтын / къэӏэтын",
           "къэштэн (to pick up)",
           "къэгъэтэджын (to lift something and make it stand on its legs)",
-          "те1этык1ын (to lift something from above something)"
+          "теӏэтыкӏын (to lift something from above something)"
         ]
       },
       "word": "lift"
@@ -53691,7 +53730,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэ1этыгъэ",
+          "къэӏэтыгъэ",
           "къэштагъэ",
           "къэгъэтэджыгъэ"
         ],
@@ -53702,7 +53741,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ык1у"
+          "цӏыкӏу"
         ],
         "verbs": []
       },
@@ -53721,8 +53760,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псынк1э",
-          "псык1э (Shapsug)"
+          "псынкӏэ",
+          "псыкӏэ (Shapsug)"
         ],
         "verbs": []
       },
@@ -53731,7 +53770,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псынк1эу"
+          "псынкӏэу"
         ],
         "verbs": []
       },
@@ -53740,7 +53779,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъаш1э"
+          "гъашӏэ"
         ],
         "verbs": []
       },
@@ -53749,8 +53788,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ык1у-ц1ык1оу",
-          "т1эк1у-т1эк1оу"
+          "цӏыкӏу-цӏыкӏоу",
+          "тӏэкӏу-тӏэкӏоу"
         ],
         "verbs": []
       },
@@ -53759,12 +53798,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэпц1 щытхъуа1у",
+          "нэпцӏ щытхъуаӏу",
           "дэубэдашх",
-          "1ордегъашт"
+          "ӏордегъашт"
         ],
         "verbs": [
-          "нэпц1ыгъэк1э щытхъун"
+          "нэпцӏыгъэкӏэ щытхъун"
         ]
       },
       "word": "lickspittle"
@@ -53772,7 +53811,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэш1охь"
+          "мэшӏохь"
         ],
         "verbs": []
       },
@@ -53782,7 +53821,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къы1унэн (to linger behind)",
+          "къыӏунэн (to linger behind)",
           "къэтын",
           "къэгужъон"
         ]
@@ -53793,7 +53832,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гохьы",
-          "го1у"
+          "гоӏу"
         ],
         "verbs": []
       },
@@ -53812,10 +53851,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "теп1о / шъхьатеп1о (lid, the top or cover of a container)"
+          "тепӏо / шъхьатепӏо (lid, the top or cover of a container)"
         ],
         "verbs": [
-          "теп1он (to close/cover a container)"
+          "тепӏон (to close/cover a container)"
         ]
       },
       "word": "lid"
@@ -53827,7 +53866,7 @@ const englishDict = {
           "гъолъын",
           "гъолъын (to lie down)",
           "тегъолъхьан (to lie down on something)",
-          "ч1эгъолъхьан (to lie down under something)",
+          "чӏэгъолъхьан (to lie down under something)",
           "хэгъолъхьан (to lie down within an area with liquid, solid or gas)",
           "дэгъолъхьан (to lie down in)",
           "игъолъхьан (to lie down inside)",
@@ -53840,7 +53879,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "да1о"
+          "даӏо"
         ],
         "verbs": []
       },
@@ -53854,9 +53893,9 @@ const englishDict = {
           "ехьщыр"
         ],
         "verbs": [
-          "к1эсэн",
-          "ук1эсын (to start liking something)",
-          "гу е1ун"
+          "кӏэсэн",
+          "укӏэсын (to start liking something)",
+          "гу еӏун"
         ]
       },
       "word": "like"
@@ -53864,10 +53903,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьак1эщ",
-          "щысып1э",
-          "зэхэсып1э",
-          "(in some dialects) хьак1эщ"
+          "хьакӏэщ",
+          "щысыпӏэ",
+          "зэхэсыпӏэ",
+          "(in some dialects) хьакӏэщ"
         ],
         "verbs": []
       },
@@ -53877,9 +53916,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэ1он",
-          "едэ1ун (to listen to)",
-          "к1эдэ1ук1ын (to listen to someone very carefully)"
+          "дэӏон",
+          "едэӏун (to listen to)",
+          "кӏэдэӏукӏын (to listen to someone very carefully)"
         ]
       },
       "word": "listen"
@@ -53887,8 +53926,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1эк1у",
-          "мак1э"
+          "тӏэкӏу",
+          "макӏэ"
         ],
         "verbs": []
       },
@@ -53897,7 +53936,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхылъ1ыгъып1э"
+          "тхылъӏыгъыпӏэ"
         ],
         "verbs": []
       },
@@ -53908,7 +53947,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "псэун (to inhabit)",
-          "щы1эн (to exist, to be alive)"
+          "щыӏэн (to exist, to be alive)"
         ]
       },
       "word": "live"
@@ -53936,9 +53975,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1упэлэн",
-          "1упш1эгъал",
-          "1упэгъал"
+          "ӏупэлэн",
+          "ӏупшӏэгъал",
+          "ӏупэгъал"
         ],
         "verbs": []
       },
@@ -53956,7 +53995,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эгъэналъэ"
+          "кӏэгъэналъэ"
         ],
         "verbs": []
       },
@@ -53967,7 +54006,7 @@ const englishDict = {
         "lemmas": [
           "пшъэшъэжъые",
           "пшъэшъэжъый",
-          "пшъэшъэ ц1ык1у"
+          "пшъэшъэ цӏыкӏу"
         ],
         "verbs": []
       },
@@ -53977,7 +54016,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "едэ1ун"
+          "едэӏун"
         ]
       },
       "word": "listen to"
@@ -53994,8 +54033,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щы1ак1э",
-          "псэук1э"
+          "щыӏакӏэ",
+          "псэукӏэ"
         ],
         "verbs": []
       },
@@ -54042,7 +54081,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "егъэпхын",
-          "пыш1эн"
+          "пышӏэн"
         ]
       },
       "word": "link"
@@ -54052,7 +54091,7 @@ const englishDict = {
         "lemmas": [
           "дэхэт (it is probabil that, it is likely that)",
           "щытын (that is probably the case)",
-          "ч1эк1ын (it would turn out to be)",
+          "чӏэкӏын (it would turn out to be)",
           "енэгуй (probably)",
           "енэгуягъо (probably)"
         ],
@@ -54063,9 +54102,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1элэц1ык1у",
+          "кӏэлэцӏыкӏу",
           "шъэожъые",
-          "к1элэхъуц1ык1у"
+          "кӏэлэхъуцӏыкӏу"
         ],
         "verbs": []
       },
@@ -54092,7 +54131,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпкъ-лъэпкъ"
+          "ӏэпкъ-лъэпкъ"
         ],
         "verbs": [
           "лъэщэн",
@@ -54105,7 +54144,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1ыгъун"
+          "кӏыгъун"
         ]
       },
       "word": "live with"
@@ -54114,7 +54153,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу къэ1этын / ыгу дэщэен (to encourage, to hearten, to cheer up, to reassure)"
+          "ыгу къэӏэтын / ыгу дэщэен (to encourage, to hearten, to cheer up, to reassure)"
         ]
       },
       "word": "lift up"
@@ -54123,8 +54162,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин",
-          "уц1эп1ын"
+          "ушӏоин",
+          "уцӏэпӏын"
         ]
       },
       "word": "litter"
@@ -54135,8 +54174,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэгуан",
-          "ч1ыох",
-          "к1эй (valley)",
+          "чӏыох",
+          "кӏэй (valley)",
           "охы"
         ],
         "verbs": []
@@ -54147,8 +54186,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэгуан",
-          "ч1ыох",
-          "к1эй (valley)",
+          "чӏыох",
+          "кӏэй (valley)",
           "охы"
         ],
         "verbs": []
@@ -54158,7 +54197,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъопэк1ыхь"
+          "гъопэкӏыхь"
         ],
         "verbs": []
       },
@@ -54211,9 +54250,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэгок1ын",
-          "шъхьэ къы1эпык1ын",
-          "ышъо ик1ын"
+          "зэгокӏын",
+          "шъхьэ къыӏэпыкӏын",
+          "ышъо икӏын"
         ]
       },
       "word": "lost one\u0027s mind"
@@ -54232,11 +54271,11 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1у лъэгъун",
-          "ш1улъэгъун",
-          "(slang) фэл1эн",
-          "тел1эхьан (to fall in love with)",
-          "тенэц1эхьан  (to fall in love with)"
+          "шӏу лъэгъун",
+          "шӏулъэгъун",
+          "(slang) фэлӏэн",
+          "телӏэхьан (to fall in love with)",
+          "тенэцӏэхьан  (to fall in love with)"
         ]
       },
       "word": "love"
@@ -54245,7 +54284,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "енэц1ын"
+          "енэцӏын"
         ]
       },
       "word": "look lustfully"
@@ -54254,8 +54293,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1эхъопсын (to miss someone)",
-          "енэц1ын (to desire)"
+          "кӏэхъопсын (to miss someone)",
+          "енэцӏын (to desire)"
         ]
       },
       "word": "long for"
@@ -54267,9 +54306,9 @@ const englishDict = {
         ],
         "verbs": [
           "гъэлэнлэн",
-          "т1упщын",
-          "ит1упщыхьан (to let loose inside something)",
-          "хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)",
+          "тӏупщын",
+          "итӏупщыхьан (to let loose inside something)",
+          "хэтӏупщыхьан (to let loose something into the water, sea, gas, fire, forest)",
           "къелэлэхын (to be hanged down loosely)",
           "къегъэлэлэхын (to hang down something loosely)"
         ]
@@ -54298,7 +54337,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэк1ын"
+          "хэкӏын"
         ]
       },
       "word": "lose weight"
@@ -54355,7 +54394,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэгъаш1э",
+          "бэгъашӏэ",
           "жъырку"
         ],
         "verbs": []
@@ -54365,7 +54404,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэгъаш1э"
+          "бэгъашӏэ"
         ],
         "verbs": []
       },
@@ -54374,7 +54413,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэгъаш1э"
+          "бэгъашӏэ"
         ],
         "verbs": []
       },
@@ -54383,7 +54422,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэк1ы"
+          "бэкӏы"
         ],
         "verbs": []
       },
@@ -54392,8 +54431,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэк1ы",
-          "п1элъэ к1ыхьэ зи1э"
+          "бэкӏы",
+          "пӏэлъэ кӏыхьэ зиӏэ"
         ],
         "verbs": []
       },
@@ -54402,8 +54441,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэк1ы",
-          "п1элъэ к1ыхьэ зи1э"
+          "бэкӏы",
+          "пӏэлъэ кӏыхьэ зиӏэ"
         ],
         "verbs": []
       },
@@ -54412,8 +54451,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэк1ы",
-          "п1элъэ к1ыхьэ зи1э"
+          "бэкӏы",
+          "пӏэлъэ кӏыхьэ зиӏэ"
         ],
         "verbs": []
       },
@@ -54425,8 +54464,8 @@ const englishDict = {
           "гъот"
         ],
         "verbs": [
-          "хъунк1эн",
-          "ехъунк1ын"
+          "хъункӏэн",
+          "ехъункӏын"
         ]
       },
       "word": "loot"
@@ -54435,9 +54474,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бэ хъугъи",
-          "бэ теш1агъэу",
-          "бэш1агъэу",
-          "1аджиш1агъэу"
+          "бэ тешӏагъэу",
+          "бэшӏагъэу",
+          "ӏаджишӏагъэу"
         ],
         "verbs": []
       },
@@ -54446,7 +54485,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэщы1"
+          "бэщыӏ"
         ],
         "verbs": []
       },
@@ -54455,7 +54494,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэщы1"
+          "бэщыӏ"
         ],
         "verbs": []
       },
@@ -54464,7 +54503,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ык1ухь ныкъу"
+          "чӏыкӏухь ныкъу"
         ],
         "verbs": []
       },
@@ -54473,7 +54512,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьандзуач1"
+          "хьандзуачӏ"
         ],
         "verbs": []
       },
@@ -54482,7 +54521,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хымац1"
+          "хымацӏ"
         ],
         "verbs": []
       },
@@ -54491,7 +54530,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мац1э"
+          "мацӏэ"
         ],
         "verbs": []
       },
@@ -54501,7 +54540,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къы1унэн (to remain at a certain place instead of moving on)"
+          "къыӏунэн (to remain at a certain place instead of moving on)"
         ]
       },
       "word": "loiter"
@@ -54509,9 +54548,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущык1ыгъо",
+          "гущыкӏыгъо",
           "гохьыдж",
-          "1эежъ"
+          "ӏэежъ"
         ],
         "verbs": []
       },
@@ -54529,9 +54568,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ыхьэ",
-          "(dialectal) к1ахьы",
-          "к1ыхьэ-лыхь (sluggish, slow and prolonged)"
+          "кӏыхьэ",
+          "(dialectal) кӏахьы",
+          "кӏыхьэ-лыхь (sluggish, slow and prolonged)"
         ],
         "verbs": []
       },
@@ -54540,7 +54579,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1оч1адж"
+          "кӏочӏадж"
         ],
         "verbs": []
       },
@@ -54552,7 +54591,7 @@ const englishDict = {
         "verbs": [
           "гъощэн",
           "хэгъощэн",
-          "к1охъун (to go the go way)"
+          "кӏохъун (to go the go way)"
         ]
       },
       "word": "lose one\u0027s way"
@@ -54581,7 +54620,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "егъэтын (to lock a door or a locker)",
-          "иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
+          "ишӏыхьан / къишӏыхьан (to lock inside, to imprison inside, to confine inside)"
         ]
       },
       "word": "lock"
@@ -54591,7 +54630,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэлэнлэн",
-          "т1упщын"
+          "тӏупщын"
         ]
       },
       "word": "loosen"
@@ -54600,7 +54639,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гохьы",
-          "го1у"
+          "гоӏу"
         ],
         "verbs": []
       },
@@ -54631,24 +54670,24 @@ const englishDict = {
           "пыплъэн (to look on clothes or tree)",
           "гоплъэн / бгъодэплъэн (to look besides)",
           "къоплъэн (to look behind)",
-          "зэк1эплъэн / зэплъэк1ын (to look back)",
+          "зэкӏэплъэн / зэплъэкӏын (to look back)",
           "лъыплъэн (to look after)",
           "дэплъэен (to look up)",
           "еплъэхын (to look under)",
           "шъхьадэплъын (to look over)",
           "хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects)",
           "теплъыхьан (to take a good look on something)",
-          "ч1эплъыхьан (to take a good look under something)",
+          "чӏэплъыхьан (to take a good look under something)",
           "иплъыхьан (to take a good look inside something)",
           "дэплъыхьан (to take a good look in something, to take a good look between)",
           "пыплъыхьан (to take a good look on someone\u0027s clothes and examine it)",
           "къэплъыхьан (to look around in a certain area and examining it)",
           "зыплъыхьан (to look around oneself, to look around the area where oneself is standing)",
           "хэплъэн (to view certain parts of something)",
-          "теплъык1ын / къытеплъык1ын (to look from above something)",
-          "ч1эплъык1ын / къыч1эплъык1ын (to look from under something)",
-          "иплъык1ын / къиплъык1ын (to look from inside something, to look outside)",
-          "хэплъык1ын / къыхэплъык1ын (to look from among people)"
+          "теплъыкӏын / къытеплъыкӏын (to look from above something)",
+          "чӏэплъыкӏын / къычӏэплъыкӏын (to look from under something)",
+          "иплъыкӏын / къиплъыкӏын (to look from inside something, to look outside)",
+          "хэплъыкӏын / къыхэплъыкӏын (to look from among people)"
         ]
       },
       "word": "look"
@@ -54656,7 +54695,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ашъутэ"
+          "цӏашъутэ"
         ],
         "verbs": []
       },
@@ -54666,7 +54705,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ц1эшъутэн"
+          "цӏэшъутэн"
         ]
       },
       "word": "loss the right way"
@@ -54674,7 +54713,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыфэ (loan money)"
+          "чӏыфэ (loan money)"
         ],
         "verbs": []
       },
@@ -54683,7 +54722,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1э"
+          "цӏэ"
         ],
         "verbs": []
       },
@@ -54693,8 +54732,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэц1энлъыхьан",
-          "(dialectal) къэц1элъыхьан",
+          "къэцӏэнлъыхьан",
+          "(dialectal) къэцӏэлъыхьан",
           "джэрыон"
         ]
       },
@@ -54703,8 +54742,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джэрыуак1о",
-          "къэк1ухьал"
+          "джэрыуакӏо",
+          "къэкӏухьал"
         ],
         "verbs": []
       },
@@ -54717,8 +54756,8 @@ const englishDict = {
           "егъэхын (to lower something, to bring something down)",
           "гъэшъхъын (in height)",
           "къегъэхын (to lower something)",
-          "хэгъэк1ын (in amount)",
-          "къыщыгъэк1эн (to reduce)",
+          "хэгъэкӏын (in amount)",
+          "къыщыгъэкӏэн (to reduce)",
           "гъэпыутын (to lower the price)"
         ]
       },
@@ -54728,12 +54767,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэк1одын",
-          "ш1ок1одын",
-          "хэгъэк1одэн (to lose among other people or objects, in a forest or an area with solid, liquid or gas)",
-          "ч1эгъэк1одэн (to lose under something)",
-          "игъэк1одэн (to lose inside something)",
-          "ш1ок1он (to lose money in gambling or business)"
+          "гъэкӏодын",
+          "шӏокӏодын",
+          "хэгъэкӏодэн (to lose among other people or objects, in a forest or an area with solid, liquid or gas)",
+          "чӏэгъэкӏодэн (to lose under something)",
+          "игъэкӏодэн (to lose inside something)",
+          "шӏокӏон (to lose money in gambling or business)"
         ]
       },
       "word": "lose"
@@ -54741,7 +54780,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -54751,7 +54790,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)"
+          "дэлъхьапӏэ / дэлъыпӏэ (an object or place in which stuff are stored)"
         ],
         "verbs": []
       },
@@ -54760,7 +54799,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэкъопц1анэ"
+          "лъэкъопцӏанэ"
         ],
         "verbs": []
       },
@@ -54769,8 +54808,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гущы1эрый",
-          "гущы1ал"
+          "гущыӏэрый",
+          "гущыӏал"
         ],
         "verbs": []
       },
@@ -54779,7 +54818,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1одыгъэ",
+          "кӏодыгъэ",
           "гъозадж"
         ],
         "verbs": []
@@ -54789,8 +54828,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэзтеупк1",
-          "мэзупк1"
+          "мэзтеупкӏ",
+          "мэзупкӏ"
         ],
         "verbs": []
       },
@@ -54801,8 +54840,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "лъыплъэн",
-          "пык1эрэплъын",
-          "на1э тегъэтын"
+          "пыкӏэрэплъын",
+          "наӏэ тегъэтын"
         ]
       },
       "word": "look after"
@@ -54820,8 +54859,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэк1эплъэн",
-          "зэплъэк1ын"
+          "зэкӏэплъэн",
+          "зэплъэкӏын"
         ]
       },
       "word": "look back"
@@ -54830,7 +54869,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан"
+          "зэӏыхьан"
         ]
       },
       "word": "lose composure"
@@ -54839,7 +54878,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан"
+          "зэӏыхьан"
         ]
       },
       "word": "lose self control"
@@ -54848,7 +54887,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан"
+          "зэӏыхьан"
         ]
       },
       "word": "lose mind"
@@ -54857,9 +54896,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан",
-          "шъхьэ къы1эпык1ын",
-          "ышъо ик1ын"
+          "зэӏыхьан",
+          "шъхьэ къыӏэпыкӏын",
+          "ышъо икӏын"
         ]
       },
       "word": "lose it"
@@ -54868,7 +54907,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан"
+          "зэӏыхьан"
         ]
       },
       "word": "lose one\u0027s temper"
@@ -54877,7 +54916,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыхьан"
+          "зэӏыхьан"
         ]
       },
       "word": "lose one\u0027s sanity"
@@ -54904,7 +54943,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу к1одын / гук1одын"
+          "ыгу кӏодын / гукӏодын"
         ]
       },
       "word": "lose hope"
@@ -54913,7 +54952,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу к1одын / гук1одын"
+          "ыгу кӏодын / гукӏодын"
         ]
       },
       "word": "lose motivation"
@@ -54923,7 +54962,7 @@ const englishDict = {
         "lemmas": [
           "гъэшъыхъыгъ / лъхъанчэ (of less than normal height, below the average or normal level from which elevation is measured)",
           "мылъагэ",
-          "мак1э (low price, low in amount)"
+          "макӏэ (low price, low in amount)"
         ],
         "verbs": []
       },
@@ -54941,7 +54980,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ып1эрыс"
+          "чӏыпӏэрыс"
         ],
         "verbs": []
       },
@@ -54952,10 +54991,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "насыпыш1у",
-          "насып зи1эр",
-          "насып дэгъу зи1эр",
-          "бэрэ1умаф"
+          "насыпышӏу",
+          "насып зиӏэр",
+          "насып дэгъу зиӏэр",
+          "бэрэӏумаф"
         ],
         "verbs": []
       },
@@ -54973,8 +55012,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэц1ал",
-          "нэц1ал"
+          "нэцӏал",
+          "нэцӏал"
         ],
         "verbs": []
       },
@@ -54986,7 +55025,7 @@ const englishDict = {
         "verbs": [
           "хъопсэн",
           "ехъопсэн (to lust for)",
-          "енэц1ын (look lustfully)"
+          "енэцӏын (look lustfully)"
         ]
       },
       "word": "lust"
@@ -55013,7 +55052,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ет1эгъой"
+          "етӏэгъой"
         ],
         "verbs": []
       },
@@ -55031,8 +55070,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэзтеупк1",
-          "мэзупк1"
+          "мэзтеупкӏ",
+          "мэзупкӏ"
         ],
         "verbs": []
       },
@@ -55041,8 +55080,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэзтеупк1",
-          "мэзупк1"
+          "мэзтеупкӏ",
+          "мэзупкӏ"
         ],
         "verbs": []
       },
@@ -55107,7 +55146,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "угъонын",
-          "пхырыугъонык1ын"
+          "пхырыугъоныкӏын"
         ]
       },
       "word": "make hole"
@@ -55134,7 +55173,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хъулъфыгъэ",
-          "л1ы"
+          "лӏы"
         ],
         "verbs": []
       },
@@ -55152,7 +55191,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1э",
+          "пӏэ",
           "медэр",
           "ошэкур"
         ],
@@ -55212,7 +55251,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "арджан",
-          "п1уаблэ"
+          "пӏуаблэ"
         ],
         "verbs": []
       },
@@ -55270,7 +55309,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "узэнк1ын",
+          "узэнкӏын",
           "узэпкъын",
           "узэфын"
         ]
@@ -55281,7 +55320,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
           "зэхэлъхьан (to put together)"
         ]
       },
@@ -55290,7 +55329,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэугупшысыгъэ / къэгупшысыгъэ / къыч1эхыгъэ"
+          "къэугупшысыгъэ / къэгупшысыгъэ / къычӏэхыгъэ"
         ],
         "verbs": []
       },
@@ -55300,8 +55339,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыгъэхьан",
-          "зэ1ыгъэхьан (to disarray",
+          "зэӏыгъэхьан",
+          "зэӏыгъэхьан (to disarray",
           "to disorder",
           "to make a mess",
           "to mess up",
@@ -55317,7 +55356,7 @@ const englishDict = {
         "verbs": [
           "укъон / зэщыгъэкъон (to spoil, to ruin, to mar, to damage)",
           "(dialectal) ухъон",
-          "ш1оукъон / ш1огъэукъон (to spoil to someone)"
+          "шӏоукъон / шӏогъэукъон (to spoil to someone)"
         ]
       },
       "word": "mar"
@@ -55328,7 +55367,7 @@ const englishDict = {
         "verbs": [
           "бырсырын",
           "гъэбырсырын",
-          "мыхъо-мыш1агъэ зехьан"
+          "мыхъо-мышӏагъэ зехьан"
         ]
       },
       "word": "make trouble"
@@ -55354,9 +55393,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэщк1эрау",
+          "бэщкӏэрау",
           "токъмакъ",
-          "бэщкIэко шъхьахъут1ым"
+          "бэщкIэко шъхьахъутӏым"
         ],
         "verbs": []
       },
@@ -55404,7 +55443,7 @@ const englishDict = {
           "тхьаматэ",
           "зыер",
           "фэкъулай",
-          "фэ1эпы1ас"
+          "фэӏэпыӏас"
         ],
         "verbs": []
       },
@@ -55413,9 +55452,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эхъу (for hands)",
+          "ӏэхъу (for hands)",
           "лъэхъу (for legs)",
-          "1эхъу-лъэхъу"
+          "ӏэхъу-лъэхъу"
         ],
         "verbs": []
       },
@@ -55444,7 +55483,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "уды",
-          "ушхъухьак1о"
+          "ушхъухьакӏо"
         ],
         "verbs": []
       },
@@ -55463,8 +55502,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уак1э",
-          "къэ1уак1э"
+          "ӏуакӏэ",
+          "къэӏуакӏэ"
         ],
         "verbs": []
       },
@@ -55475,7 +55514,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "хэгъэтын (to make it remian)",
-          "1ыгъэн (to maintain)"
+          "ӏыгъэн (to maintain)"
         ]
       },
       "word": "maintain"
@@ -55510,7 +55549,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жъоныгъуак1маз"
+          "жъоныгъуакӏмаз"
         ],
         "verbs": []
       },
@@ -55529,9 +55568,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэунэшк1ун",
-          "упэш1ын (Shapsug)",
-          "уцэ1ун"
+          "гъэунэшкӏун",
+          "упэшӏын (Shapsug)",
+          "уцэӏун"
         ]
       },
       "word": "masticate"
@@ -55541,7 +55580,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэщэн (to marry a girl)",
-          "дэк1он (to marry a man)"
+          "дэкӏон (to marry a man)"
         ]
       },
       "word": "marry"
@@ -55615,13 +55654,13 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)",
-          "е1эзэн (to handle something, to deal with, to manage something)",
-          "гъэзек1он (to manage something or someone)",
-          "лъэк1ын / фэлъэк1ын (to manage to do, to be able to do)",
+          "еӏэзэн (to handle something, to deal with, to manage something)",
+          "гъэзекӏон (to manage something or someone)",
+          "лъэкӏын / фэлъэкӏын (to manage to do, to be able to do)",
           "зэпыгъэфэн (to arrange)",
-          "гъэ1орыш1эн",
-          "фэш1эн (to be able to do, to manage to do)",
-          "фэш1ын (to be able to make/build, to manage to make)"
+          "гъэӏорышӏэн",
+          "фэшӏэн (to be able to do, to manage to do)",
+          "фэшӏын (to be able to make/build, to manage to make)"
         ]
       },
       "word": "manage"
@@ -55630,7 +55669,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэгъэ1ун"
+          "къэгъэӏун"
         ]
       },
       "word": "make sound"
@@ -55639,7 +55678,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэгъэ1ун"
+          "къэгъэӏун"
         ]
       },
       "word": "make noise"
@@ -55666,8 +55705,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "еш1ужьын (to make peace with someone)",
-          "зэш1ужьын (to make peace with each other)"
+          "ешӏужьын (to make peace with someone)",
+          "зэшӏужьын (to make peace with each other)"
         ]
       },
       "word": "make up with"
@@ -55676,8 +55715,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "еш1ужьын (to make peace with someone)",
-          "зэш1ужьын (to make peace with each other)"
+          "ешӏужьын (to make peace with someone)",
+          "зэшӏужьын (to make peace with each other)"
         ]
       },
       "word": "make peace"
@@ -55716,7 +55755,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "дэхьащхын",
-          "къыгъэу къигъэк1ын"
+          "къыгъэу къигъэкӏын"
         ]
       },
       "word": "make a fool of"
@@ -55726,7 +55765,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "дэхьащхын",
-          "къыгъэу къигъэк1ын"
+          "къыгъэу къигъэкӏын"
         ]
       },
       "word": "make fool of"
@@ -55744,7 +55783,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэлъэп1эн"
+          "гъэлъэпӏэн"
         ]
       },
       "word": "make expensive"
@@ -55752,7 +55791,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ыгъэ"
+          "лӏыгъэ"
         ],
         "verbs": []
       },
@@ -55780,20 +55819,20 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ын",
-          "фэш1ын (to make for)",
-          "зэхэш1ыхьан (to make something using, to make something from)",
-          "к1эш1ыхьан (to make under something)",
-          "теш1ыхьан (to make on something)",
-          "хэш1ыхьан (to make in the water, sea, fire, gas, forest, field)",
-          "дэш1ыхьан (to make between, to make inside another object, to make inside a yard, village, area, etc.)",
-          "иш1ыхьан (to make inside)",
-          "пыш1ыхьан (to make on a tree, to make on the surface of a device or tool)",
-          "къош1ыхьан (to make behind something)",
-          "гош1ыхьан / бгъодэш1ыхьан (to make besides something)",
-          "зэтеш1ыхьан (to make on each other)",
-          "зэч1эш1ыхьан (to make under each other)",
-          "зэриш1ыхьан (to make inside each other)"
+          "шӏын",
+          "фэшӏын (to make for)",
+          "зэхэшӏыхьан (to make something using, to make something from)",
+          "кӏэшӏыхьан (to make under something)",
+          "тешӏыхьан (to make on something)",
+          "хэшӏыхьан (to make in the water, sea, fire, gas, forest, field)",
+          "дэшӏыхьан (to make between, to make inside another object, to make inside a yard, village, area, etc.)",
+          "ишӏыхьан (to make inside)",
+          "пышӏыхьан (to make on a tree, to make on the surface of a device or tool)",
+          "къошӏыхьан (to make behind something)",
+          "гошӏыхьан / бгъодэшӏыхьан (to make besides something)",
+          "зэтешӏыхьан (to make on each other)",
+          "зэчӏэшӏыхьан (to make under each other)",
+          "зэришӏыхьан (to make inside each other)"
         ]
       },
       "word": "make"
@@ -55802,8 +55841,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гухэгъэк1ын",
-          "нэшхъэеу ш1ын"
+          "гухэгъэкӏын",
+          "нэшхъэеу шӏын"
         ]
       },
       "word": "make sad"
@@ -55823,8 +55862,8 @@ const englishDict = {
         "verbs": [
           "хэхъон / пкъым къиуцон / такъырэу хъун / инэу хъун (to grow up)",
           "игъо хъун",
-          "т1ыргъон (to ripen)",
-          "(Shapsug) т1ыгъон (to ripen)"
+          "тӏыргъон (to ripen)",
+          "(Shapsug) тӏыгъон (to ripen)"
         ]
       },
       "word": "mature"
@@ -55841,10 +55880,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "фэ1аз",
-          "1эпэ1ас",
+          "фэӏаз",
+          "ӏэпэӏас",
           "фэкъулай",
-          "фэ1эпы1ас"
+          "фэӏэпыӏас"
         ],
         "verbs": []
       },
@@ -55854,9 +55893,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1э ш1ын",
-          "(vulgar) 1эк1э еон",
-          "(very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
+          "ӏэкӏэ шӏын",
+          "(vulgar) ӏэкӏэ еон",
+          "(very vulgar) ӏэкӏэ тешӏыкӏын (to masturbate off something)"
         ]
       },
       "word": "masturbate"
@@ -55892,7 +55931,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэк1огъу (marriageable age for woman)",
+          "дэкӏогъу (marriageable age for woman)",
           "къэщэгъу (marriageable age for man)"
         ],
         "verbs": []
@@ -55903,7 +55942,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бэ",
-          "1аджэ / 1эджы"
+          "ӏаджэ / ӏэджы"
         ],
         "verbs": []
       },
@@ -55949,7 +55988,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэгъэучъы1ын"
+          "къэгъэучъыӏын"
         ]
       },
       "word": "make it cold"
@@ -55959,7 +55998,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэбаин",
-          "баи ш1ын",
+          "баи шӏын",
           "гъэунэн"
         ]
       },
@@ -55968,8 +56007,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сырныч / мэш1ощыхъу (match to ignite fire with)",
-          "(dialectal) мэш1уач (match to ignite fire with)",
+          "сырныч / мэшӏощыхъу (match to ignite fire with)",
+          "(dialectal) мэшӏуач (match to ignite fire with)",
           "дихьагъу (competitive match)"
         ],
         "verbs": [
@@ -55999,7 +56038,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ы1о-л1ышъу"
+          "лӏыӏо-лӏышъу"
         ],
         "verbs": []
       },
@@ -56008,7 +56047,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьа1э"
+          "шъхьаӏэ"
         ],
         "verbs": []
       },
@@ -56018,7 +56057,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1э1эжьын"
+          "кӏэӏэжьын"
         ]
       },
       "word": "make off"
@@ -56028,8 +56067,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэхэхын (to make out sound clearly)",
-          "зэхэш1ык1ын (to make out, to make sense, to comprehend)",
-          "къигъэк1ын (to make out something as)",
+          "зэхэшӏыкӏын (to make out, to make sense, to comprehend)",
+          "къигъэкӏын (to make out something as)",
           "шъхьэм къиубытын"
         ]
       },
@@ -56039,9 +56078,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэхэш1ык1ын",
+          "зэхэшӏыкӏын",
           "шъхьэм къиубытын",
-          "мэхьанэ и1эн"
+          "мэхьанэ иӏэн"
         ]
       },
       "word": "make sense"
@@ -56058,7 +56097,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэл1-зэшъуз"
+          "зэлӏ-зэшъуз"
         ],
         "verbs": []
       },
@@ -56076,9 +56115,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "унэшъош1ы (master of ceremonies)",
+          "унэшъошӏы (master of ceremonies)",
           "пащ",
-          "1эшъхьэтет"
+          "ӏэшъхьэтет"
         ],
         "verbs": []
       },
@@ -56088,7 +56127,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пкъыгъо",
-          "1офыгъу (issue)"
+          "ӏофыгъу (issue)"
         ],
         "verbs": []
       },
@@ -56098,7 +56137,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1охъун"
+          "ӏохъун"
         ]
       },
       "word": "make a slip in speaking; say something mistakenly"
@@ -56106,7 +56145,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэхат1э"
+          "пхъэхатӏэ"
         ],
         "verbs": []
       },
@@ -56116,7 +56155,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыгъэхьан (to disarray",
+          "зэӏыгъэхьан (to disarray",
           "to disorder",
           "to make a mess",
           "to mess up",
@@ -56130,7 +56169,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыгъэхьан (to disarray",
+          "зэӏыгъэхьан (to disarray",
           "to disorder",
           "to make a mess",
           "to mess up",
@@ -56144,7 +56183,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыгъэхьан (to disarray",
+          "зэӏыгъэхьан (to disarray",
           "to disorder",
           "to make a mess",
           "to mess up",
@@ -56175,7 +56214,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шэк1ы",
+          "шэкӏы",
           "джэнапхъэ (material for dress)"
         ],
         "verbs": []
@@ -56185,7 +56224,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1агъо"
+          "шӏагъо"
         ],
         "verbs": []
       },
@@ -56196,7 +56235,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "угъонын",
-          "гъуанэ фэш1ын"
+          "гъуанэ фэшӏын"
         ]
       },
       "word": "make a hole"
@@ -56205,8 +56244,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уш1оин",
-          "уц1эп1ын"
+          "ушӏоин",
+          "уцӏэпӏын"
         ]
       },
       "word": "make dirty"
@@ -56224,7 +56263,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "нэпэтелъхьэ",
-          "нэ1урыхъу"
+          "нэӏурыхъу"
         ],
         "verbs": []
       },
@@ -56246,7 +56285,7 @@ const englishDict = {
         "lemmas": [
           "лы",
           "лалэ",
-          "лы1у (piece of meat)"
+          "лыӏу (piece of meat)"
         ],
         "verbs": []
       },
@@ -56256,8 +56295,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гупыт",
-          "гук1эгъунчъэ",
-          "шъхьас зимы1э"
+          "гукӏэгъунчъэ",
+          "шъхьас зимыӏэ"
         ],
         "verbs": []
       },
@@ -56268,10 +56307,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "тефэн (to come across coincidentally, to encounter coincidentally)",
-          "1ук1эн (to meet someone)",
-          "пэгъок1ын (to welcome, to approach, to encounter intentionally)",
-          "зэ1ук1эн (to meet up together)",
-          "зэ1угъэк1эн (to make people meet)"
+          "ӏукӏэн (to meet someone)",
+          "пэгъокӏын (to welcome, to approach, to encounter intentionally)",
+          "зэӏукӏэн (to meet up together)",
+          "зэӏугъэкӏэн (to make people meet)"
         ]
       },
       "word": "meet"
@@ -56280,8 +56319,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "анэл",
-          "лыпц1э",
-          "лыпц1э"
+          "лыпцӏэ",
+          "лыпцӏэ"
         ],
         "verbs": []
       },
@@ -56299,7 +56338,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сатыуш1"
+          "сатыушӏ"
         ],
         "verbs": []
       },
@@ -56308,7 +56347,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэ1ук1э"
+          "зэӏукӏэ"
         ],
         "verbs": []
       },
@@ -56317,8 +56356,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэ1ук1ап1э",
-          "зыщэ1ук1ап1э"
+          "зэӏукӏапӏэ",
+          "зыщэӏукӏапӏэ"
         ],
         "verbs": []
       },
@@ -56327,7 +56366,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1асэ"
+          "ӏасэ"
         ],
         "verbs": []
       },
@@ -56336,7 +56375,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ык1ухь ныкъу"
+          "чӏыкӏухь ныкъу"
         ],
         "verbs": []
       },
@@ -56345,7 +56384,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыопс к1ыб"
+          "чӏыопс кӏыб"
         ],
         "verbs": []
       },
@@ -56363,7 +56402,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэхэгъэк1ухьагъ",
+          "зэхэгъэкӏухьагъ",
           "зэхэпхъагъ",
           "зэхэлъ"
         ],
@@ -56394,9 +56433,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тк1ун, жъун",
-          "гъэтк1ун (to make something melt)",
-          "зэхэгъэтк1ухьан (to melt together)"
+          "ткӏун, жъун",
+          "гъэткӏун (to make something melt)",
+          "зэхэгъэткӏухьан (to melt together)"
         ]
       },
       "word": "melt"
@@ -56404,7 +56443,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тк1угъэ"
+          "ткӏугъэ"
         ],
         "verbs": []
       },
@@ -56422,7 +56461,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1асэу"
+          "ӏасэу"
         ],
         "verbs": []
       },
@@ -56449,7 +56488,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "уц 1эзэгъу",
+          "уц ӏэзэгъу",
           "фышхъо"
         ],
         "verbs": []
@@ -56468,7 +56507,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэкъуп1э"
+          "мэкъупӏэ"
         ],
         "verbs": []
       },
@@ -56477,7 +56516,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ны1эп (only)",
+          "ныӏэп (only)",
           "къодый (simply)"
         ],
         "verbs": []
@@ -56487,7 +56526,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ык1о"
+          "лӏыкӏо"
         ],
         "verbs": []
       },
@@ -56496,7 +56535,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ык1о"
+          "лӏыкӏо"
         ],
         "verbs": []
       },
@@ -56505,14 +56544,14 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ап1э / пц1ап1э",
-          "гук1эгъу зыхэмылъ",
-          "гук1эгъунчъэ"
+          "цӏапӏэ / пцӏапӏэ",
+          "гукӏэгъу зыхэмылъ",
+          "гукӏэгъунчъэ"
         ],
         "verbs": [
           "къегъэхьын (къебгъэхьын",
           "къыригъэхьын)",
-          "къигъэк1ын"
+          "къигъэкӏын"
         ]
       },
       "word": "mean"
@@ -56521,7 +56560,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пц1эун"
+          "пцӏэун"
         ]
       },
       "word": "meow"
@@ -56530,7 +56569,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пц1эун"
+          "пцӏэун"
         ]
       },
       "word": "mew"
@@ -56566,7 +56605,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэш1о-гуш1у"
+          "нэшӏо-гушӏу"
         ],
         "verbs": []
       },
@@ -56575,7 +56614,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэш1о-гуш1у"
+          "нэшӏо-гушӏу"
         ],
         "verbs": []
       },
@@ -56602,7 +56641,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гук1эгъу",
+          "гукӏэгъу",
           "шъхьас"
         ],
         "verbs": []
@@ -56612,7 +56651,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "унэ1ут"
+          "унэӏут"
         ],
         "verbs": []
       },
@@ -56622,10 +56661,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "игугъу ш1ын",
-          "ыц1э къэ1он",
-          "унашъо ш1ын (to mention someone in order to bring to attention, to bring to attention)",
-          "унашъо фэш1ын (to mention something to someone in order to bring an attention to the subject)"
+          "игугъу шӏын",
+          "ыцӏэ къэӏон",
+          "унашъо шӏын (to mention someone in order to bring to attention, to bring to attention)",
+          "унашъо фэшӏын (to mention something to someone in order to bring an attention to the subject)"
         ]
       },
       "word": "mention"
@@ -56634,7 +56673,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ык1эен"
+          "шӏыкӏэен"
         ]
       },
       "word": "mess around"
@@ -56642,7 +56681,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ык1э",
+          "шӏыкӏэ",
           "амал (method, means, way)"
         ],
         "verbs": []
@@ -56661,7 +56700,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэ1ук1э"
+          "зэӏукӏэ"
         ],
         "verbs": []
       },
@@ -56670,10 +56709,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэ1ук1э"
+          "зэӏукӏэ"
         ],
         "verbs": [
-          "зэ1ук1эн"
+          "зэӏукӏэн"
         ]
       },
       "word": "meet-up"
@@ -56682,7 +56721,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ук1эн"
+          "зэӏукӏэн"
         ]
       },
       "word": "meet up"
@@ -56708,7 +56747,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэ1ыгъэхьагъ",
+          "зэӏыгъэхьагъ",
           "зэгъэфагъэп (not arranged)"
         ],
         "verbs": []
@@ -56721,7 +56760,7 @@ const englishDict = {
         "verbs": [
           "зэхэхьан (to be merged)",
           "зэхэгъэхьан",
-          "зэхэк1ок1эн"
+          "зэхэкӏокӏэн"
         ]
       },
       "word": "merge"
@@ -56740,7 +56779,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1э"
+          "пкӏэ"
         ],
         "verbs": []
       },
@@ -56750,7 +56789,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыгъэхьан (to disorganize, to disarray",
+          "зэӏыгъэхьан (to disorganize, to disarray",
           "to disorder",
           "to make a mess",
           "to mess up",
@@ -56764,7 +56803,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "езбырэу зэгъэш1эн",
+          "езбырэу зэгъэшӏэн",
           "гум иубытэн",
           "шъхьэм иубытэн"
         ]
@@ -56775,10 +56814,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "мэхьанэнчъэ",
-          "мэхьанэ и1эп",
-          "пк1э и1эп",
-          "пк1энчъ",
-          "(vulgar) шъхьи шъути и1эп"
+          "мэхьанэ иӏэп",
+          "пкӏэ иӏэп",
+          "пкӏэнчъ",
+          "(vulgar) шъхьи шъути иӏэп"
         ],
         "verbs": []
       },
@@ -56835,7 +56874,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пшъэрылъ",
-          "гъэцэк1эны"
+          "гъэцэкӏэны"
         ],
         "verbs": []
       },
@@ -56844,9 +56883,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псэк1оды",
+          "псэкӏоды",
           "гунахь",
-          "псэк1од"
+          "псэкӏод"
         ],
         "verbs": []
       },
@@ -56883,7 +56922,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "азэнаджап1"
+          "азэнаджапӏ"
         ],
         "verbs": []
       },
@@ -56893,7 +56932,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1аеу зек1он"
+          "ӏаеу зекӏон"
         ]
       },
       "word": "misbehave"
@@ -56901,7 +56940,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1аеу зек1уагъ"
+          "ӏаеу зекӏуагъ"
         ],
         "verbs": []
       },
@@ -56910,8 +56949,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ык1ай",
-          "шхъухьаш1э"
+          "шӏыкӏай",
+          "шхъухьашӏэ"
         ],
         "verbs": []
       },
@@ -56931,8 +56970,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "блэун (to miss a target)",
-          "к1эхъосын (to long for)",
-          "шӏок1он (to miss an opportunity)",
+          "кӏэхъосын (to long for)",
+          "шӏокӏон (to miss an opportunity)",
           "охъун (to miss one\u0027s aim, to miss the mark, to fail to hit, to miscue)",
           "плъэхъун (to fail to see, to overlook, to fail to notice)"
         ]
@@ -56955,7 +56994,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэджак1э"
+          "бэджакӏэ"
         ],
         "verbs": []
       },
@@ -56973,7 +57012,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэхэгъэк1ухьагъ",
+          "зэхэгъэкӏухьагъ",
           "зэхэпхъагъ",
           "зэхэлъ"
         ],
@@ -56984,7 +57023,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэрэт1ин"
+          "бэрэтӏин"
         ],
         "verbs": []
       },
@@ -57012,7 +57051,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "егупшысак1э"
+          "егупшысакӏэ"
         ],
         "verbs": []
       },
@@ -57074,7 +57113,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ос1эбыцу (1эбыцу)"
+          "осӏэбыцу (ӏэбыцу)"
         ],
         "verbs": []
       },
@@ -57110,7 +57149,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ык1ай",
+          "шӏыкӏай",
           "шэнчъэ"
         ],
         "verbs": []
@@ -57131,7 +57170,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "кок1"
+          "кокӏ"
         ],
         "verbs": []
       },
@@ -57172,9 +57211,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "насып 1ай",
+          "насып ӏай",
           "бэлахь",
-          "тхьамык1агъу",
+          "тхьамыкӏагъу",
           "фэмыгъо (misfortune for)"
         ],
         "verbs": []
@@ -57184,7 +57223,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьамык1агъу",
+          "тхьамыкӏагъу",
           "игъуадж"
         ],
         "verbs": []
@@ -57194,7 +57233,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьамык1агъу",
+          "тхьамыкӏагъу",
           "игъуадж"
         ],
         "verbs": []
@@ -57224,13 +57263,13 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыш1эн",
-          "хэк1ухьан (to become mingled with",
+          "зэӏышӏэн",
+          "хэкӏухьан (to become mingled with",
           "to become mixed with)",
-          "хэгъэк1ухьан (to mingle with, to mix with)",
-          "зэхэк1ухьан (to become mixed together, to become mingled together)",
-          "зэхэгъэк1ухьан (to mix things together, to mingle things together)",
-          "зэхэгъощэн / зэхэгъэк1ок1эн (to mix-up between somethings usually by confusion, mistake or misunderstanding)"
+          "хэгъэкӏухьан (to mingle with, to mix with)",
+          "зэхэкӏухьан (to become mixed together, to become mingled together)",
+          "зэхэгъэкӏухьан (to mix things together, to mingle things together)",
+          "зэхэгъощэн / зэхэгъэкӏокӏэн (to mix-up between somethings usually by confusion, mistake or misunderstanding)"
         ]
       },
       "word": "mix-up"
@@ -57239,13 +57278,13 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыш1эн",
-          "хэк1ухьан (to become mingled with",
+          "зэӏышӏэн",
+          "хэкӏухьан (to become mingled with",
           "to become mixed with)",
-          "хэгъэк1ухьан (to mingle with, to mix with)",
-          "зэхэк1ухьан (to become mixed together, to become mingled together)",
-          "зэхэгъэк1ухьан (to mix things together, to mingle things together)",
-          "зэхэгъощэн / зэхэгъэк1ок1эн (to mix-up between somethings usually by confusion, mistake or misunderstanding)"
+          "хэгъэкӏухьан (to mingle with, to mix with)",
+          "зэхэкӏухьан (to become mixed together, to become mingled together)",
+          "зэхэгъэкӏухьан (to mix things together, to mingle things together)",
+          "зэхэгъощэн / зэхэгъэкӏокӏэн (to mix-up between somethings usually by confusion, mistake or misunderstanding)"
         ]
       },
       "word": "mix up"
@@ -57254,13 +57293,13 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыш1эн",
-          "хэк1ухьан (to become mingled with",
+          "зэӏышӏэн",
+          "хэкӏухьан (to become mingled with",
           "to become mixed with)",
-          "хэгъэк1ухьан (to mingle with, to mix with)",
-          "зэхэк1ухьан (to become mixed together, to become mingled together)",
-          "зэхэгъэк1ухьан (to mix things together, to mingle things together)",
-          "зэхэгъощэн / зэхэгъэк1ок1эн (to mix between somethings usually by confusion, mistake, muddle or misunderstanding)"
+          "хэгъэкӏухьан (to mingle with, to mix with)",
+          "зэхэкӏухьан (to become mixed together, to become mingled together)",
+          "зэхэгъэкӏухьан (to mix things together, to mingle things together)",
+          "зэхэгъощэн / зэхэгъэкӏокӏэн (to mix between somethings usually by confusion, mistake, muddle or misunderstanding)"
         ]
       },
       "word": "mix"
@@ -57269,12 +57308,12 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зэ1ыш1эн",
-          "хэк1ухьан (to become mingled with",
+          "зэӏышӏэн",
+          "хэкӏухьан (to become mingled with",
           "to become mixed with)",
-          "хэгъэк1ухьан (to mingle with, to mix with)",
-          "зэхэк1ухьан (to become mixed together, to become mingled together)",
-          "зэхэгъэк1ухьан (to mix things together, to mingle things together)"
+          "хэгъэкӏухьан (to mingle with, to mix with)",
+          "зэхэкӏухьан (to become mixed together, to become mingled together)",
+          "зэхэгъэкӏухьан (to mix things together, to mingle things together)"
         ]
       },
       "word": "mingle"
@@ -57282,7 +57321,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ымыш1ахэу"
+          "ымышӏахэу"
         ],
         "verbs": []
       },
@@ -57291,7 +57330,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "цыхьэмыш1"
+          "цыхьэмышӏ"
         ],
         "verbs": []
       },
@@ -57310,7 +57349,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зыпэш1ыжьын"
+          "зыпэшӏыжьын"
         ]
       },
       "word": "mimic"
@@ -57341,7 +57380,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "жэ",
-          "(uncommon) 1у"
+          "(uncommon) ӏу"
         ],
         "verbs": []
       },
@@ -57405,9 +57444,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьамп1ырашъу",
-          "(dialectal) хьэнт1эрэп1ый",
-          "хьэт1рэп1ый (Shapsug)"
+          "хьампӏырашъу",
+          "(dialectal) хьэнтӏэрэпӏый",
+          "хьэтӏрэпӏый (Shapsug)"
         ],
         "verbs": []
       },
@@ -57417,7 +57456,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гуащэ (wife\u0027s mother-in-law)",
-          "ш1угуащэ (husband\u0027s mother-in-law)"
+          "шӏугуащэ (husband\u0027s mother-in-law)"
         ],
         "verbs": []
       },
@@ -57426,7 +57465,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уашъхьэ"
+          "ӏуашъхьэ"
         ],
         "verbs": []
       },
@@ -57435,7 +57474,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1уашъхьэ",
+          "ӏуашъхьэ",
           "ошъадэ"
         ],
         "verbs": []
@@ -57445,7 +57484,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ыбзыу"
+          "шӏыбзыу"
         ],
         "verbs": []
       },
@@ -57484,8 +57523,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "анэл",
-          "лыпц1э",
-          "лыпц1э"
+          "лыпцӏэ",
+          "лыпцӏэ"
         ],
         "verbs": []
       },
@@ -57503,7 +57542,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "аргъойпа1у"
+          "аргъойпаӏу"
         ],
         "verbs": []
       },
@@ -57532,7 +57571,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "бгыпэ",
-          "бгы1у"
+          "бгыӏу"
         ],
         "verbs": []
       },
@@ -57541,7 +57580,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къушъхьэч1эс",
+          "къушъхьэчӏэс",
           "бгырыс"
         ],
         "verbs": []
@@ -57551,7 +57590,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къушъхьэч1эс",
+          "къушъхьэчӏэс",
           "бгырыс"
         ],
         "verbs": []
@@ -57580,7 +57619,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгыч1э"
+          "бгычӏэ"
         ],
         "verbs": []
       },
@@ -57652,8 +57691,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ынэ (wet)",
-          "псы1э-псыблэ (damp, moist, moderately wet)",
+          "цӏынэ (wet)",
+          "псыӏэ-псыблэ (damp, moist, moderately wet)",
           "лэбы",
           "шынэ"
         ],
@@ -57666,8 +57705,8 @@ const englishDict = {
         "lemmas": [
           "ахъщэ",
           "парэ",
-          "нэгъэц1ыу",
-          "хъурыш1э"
+          "нэгъэцӏыу",
+          "хъурышӏэ"
         ],
         "verbs": []
       },
@@ -57752,7 +57791,7 @@ const englishDict = {
           "нахь бэм",
           "нахь бэрэм",
           "нахьыбэрэм",
-          "нахьыбэрэмк1э"
+          "нахьыбэрэмкӏэ"
         ],
         "verbs": []
       },
@@ -57772,7 +57811,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ухын (to put something away)",
+          "ӏухын (to put something away)",
           "щыгъэзыен (to move something to make way)",
           "щыдзыен (to move something to make way)",
           "зыщыгъэзыен (to move oneself away of)",
@@ -57789,7 +57828,7 @@ const englishDict = {
           "нахь",
           "нахьыбэ",
           "нахь ин (greater)",
-          "бэк1э (more in)"
+          "бэкӏэ (more in)"
         ],
         "verbs": []
       },
@@ -57798,7 +57837,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэгъэуп1эп1эгъу"
+          "нэгъэупӏэпӏэгъу"
         ],
         "verbs": []
       },
@@ -57817,7 +57856,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1энэк1эн",
+          "кӏэнэкӏэн",
           "дэхьащхын"
         ]
       },
@@ -57830,12 +57869,12 @@ const englishDict = {
           "хъыен",
           "гъэхъыен (to move something)",
           "кощын (to move elsewhere)",
-          "к1отэн (to move forward)",
-          "лъык1отэн (to move forward/away a bit)",
-          "гъэк1отэн / лъыгъэк1отэн (to move a little)",
-          "зэк1эк1он (to move backward)",
-          "егъэк1отыл1эн (to move something closer to something)",
-          "фэгъэк1отэн (to bring something nearer to someone for him/her)"
+          "кӏотэн (to move forward)",
+          "лъыкӏотэн (to move forward/away a bit)",
+          "гъэкӏотэн / лъыгъэкӏотэн (to move a little)",
+          "зэкӏэкӏон (to move backward)",
+          "егъэкӏотылӏэн (to move something closer to something)",
+          "фэгъэкӏотэн (to bring something nearer to someone for him/her)"
         ]
       },
       "word": "move"
@@ -57861,7 +57900,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1ыт",
+          "укӏыт",
           "нэхаш"
         ],
         "verbs": []
@@ -57871,7 +57910,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыфыгъэ"
+          "цӏыфыгъэ"
         ],
         "verbs": []
       },
@@ -57908,7 +57947,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "упк1эн"
+          "упкӏэн"
         ]
       },
       "word": "mow"
@@ -57917,7 +57956,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щэ1ун"
+          "щэӏун"
         ]
       },
       "word": "moan"
@@ -57962,7 +58001,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ащ къыдак1оу"
+          "ащ къыдакӏоу"
         ],
         "verbs": []
       },
@@ -57996,7 +58035,7 @@ const englishDict = {
         "verbs": [
           "егъэон (to perform multiplication on a number)",
           "гъэбэгъон (to grow in number/amount)",
-          "къегъэбэк1ын (to make something a lot)",
+          "къегъэбэкӏын (to make something a lot)",
           "бэгъон (to spawn)"
         ]
       },
@@ -58024,7 +58063,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хьэ1у"
+          "хьэӏу"
         ],
         "verbs": []
       },
@@ -58034,8 +58073,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "жэдэ1ухьан",
-          "1упчъэпчъэн"
+          "жэдэӏухьан",
+          "ӏупчъэпчъэн"
         ]
       },
       "word": "mutter"
@@ -58044,8 +58083,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "жэдэ1ухьан",
-          "1упчъэпчъэн"
+          "жэдэӏухьан",
+          "ӏупчъэпчъэн"
         ]
       },
       "word": "mumble"
@@ -58094,7 +58133,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэбы1у"
+          "лъэбыӏу"
         ],
         "verbs": []
       },
@@ -58148,7 +58187,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пак1э"
+          "пакӏэ"
         ],
         "verbs": []
       },
@@ -58157,7 +58196,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэрк1о чъыг",
+          "мэркӏо чъыг",
           "хьэкъухъ"
         ],
         "verbs": []
@@ -58205,7 +58244,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "фае",
-          "ищык1агъ (need to)"
+          "ищыкӏагъ (need to)"
         ],
         "verbs": []
       },
@@ -58214,9 +58253,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ук1ак1о",
+          "укӏакӏо",
           "мэхъаджэ",
-          "л1ыук1"
+          "лӏыукӏ"
         ],
         "verbs": []
       },
@@ -58226,7 +58265,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "уцэ1ун"
+          "уцэӏун"
         ]
       },
       "word": "munch"
@@ -58262,7 +58301,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьагъэпц1"
+          "тхьагъэпцӏ"
         ],
         "verbs": []
       },
@@ -58293,12 +58332,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1э"
+          "цӏэ"
         ],
         "verbs": [
-          "ц1э усын",
-          "ц1э фэусын (to give a name to)",
-          "иунашъо ш1ын (to mention)"
+          "цӏэ усын",
+          "цӏэ фэусын (to give a name to)",
+          "иунашъо шӏын (to mention)"
         ]
       },
       "word": "name"
@@ -58306,7 +58345,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэпэ1эплъэк1"
+          "нэпэӏэплъэкӏ"
         ],
         "verbs": []
       },
@@ -58346,7 +58385,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгъузап1э"
+          "бгъузапӏэ"
         ],
         "verbs": []
       },
@@ -58364,7 +58403,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыопс"
+          "чӏыопс"
         ],
         "verbs": []
       },
@@ -58373,7 +58412,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпс-лъэпс"
+          "ӏэпс-лъэпс"
         ],
         "verbs": []
       },
@@ -58382,7 +58421,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пц1анэ",
+          "пцӏанэ",
           "псӏанэ (Shapsug)"
         ],
         "verbs": []
@@ -58392,8 +58431,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэхэш1ык1ынчъэ, гулъытэ зимы1э",
-          "делэгъош1у (someone to fool easily)"
+          "зэхэшӏыкӏынчъэ, гулъытэ зимыӏэ",
+          "делэгъошӏу (someone to fool easily)"
         ],
         "verbs": []
       },
@@ -58402,11 +58441,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ае",
-          "1эежъ",
+          "ӏае",
+          "ӏэежъ",
           "угъэмэхъэшэнэу щыт",
           "гуштэгъуадж",
-          "гущык1ыгъо"
+          "гущыкӏыгъо"
         ],
         "verbs": []
       },
@@ -58415,7 +58454,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эбжъэнэпыупк1ы"
+          "ӏэбжъэнэпыупкӏы"
         ],
         "verbs": []
       },
@@ -58424,12 +58463,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъуч1ы1унэ",
+          "гъучӏыӏунэ",
           "бжъанэ (claw)"
         ],
         "verbs": [
-          "хэ1ун",
-          "хэ1ул1эн (to nail down)"
+          "хэӏун",
+          "хэӏулӏэн (to nail down)"
         ]
       },
       "word": "nail"
@@ -58479,7 +58518,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэ1отэн"
+          "къэӏотэн"
         ]
       },
       "word": "narrate"
@@ -58488,7 +58527,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шэнычъэ",
-          "ш1ык1ай"
+          "шӏыкӏай"
         ],
         "verbs": []
       },
@@ -58524,7 +58563,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1этыку"
+          "кӏэтыку"
         ],
         "verbs": []
       },
@@ -58547,7 +58586,7 @@ const englishDict = {
           "пшъэ",
           "пшъэтыкъ",
           "пшъэбы (back of the neck)",
-          "пшъэк1ыб (back of the neck)"
+          "пшъэкӏыб (back of the neck)"
         ],
         "verbs": []
       },
@@ -58556,7 +58595,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1э"
+          "кӏэ"
         ],
         "verbs": []
       },
@@ -58565,8 +58604,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэгъуч1элъ",
-          "(dialectal) джэгъуч1элъ"
+          "жэгъучӏэлъ",
+          "(dialectal) джэгъучӏэлъ"
         ],
         "verbs": []
       },
@@ -58584,7 +58623,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэхъугъак1"
+          "къэхъугъакӏ"
         ],
         "verbs": []
       },
@@ -58593,7 +58632,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэхъугъак1"
+          "къэхъугъакӏ"
         ],
         "verbs": []
       },
@@ -58631,7 +58670,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гъунэгъу",
-          "1энэгъу (neighbor at the table)"
+          "ӏэнэгъу (neighbor at the table)"
         ],
         "verbs": []
       },
@@ -58667,7 +58706,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лыпц1э"
+          "лыпцӏэ"
         ],
         "verbs": []
       },
@@ -58676,7 +58715,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ык1о"
+          "лӏыкӏо"
         ],
         "verbs": []
       },
@@ -58685,7 +58724,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэк1орэ тхьэмафэ"
+          "къэкӏорэ тхьэмафэ"
         ],
         "verbs": []
       },
@@ -58703,11 +58742,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щык1агъэ"
+          "щыкӏагъэ"
         ],
         "verbs": [
-          "щык1эн (to require, to need something required)",
-          "ищык1агъ (needed)"
+          "щыкӏэн (to require, to need something required)",
+          "ищыкӏагъ (needed)"
         ]
       },
       "word": "need"
@@ -58724,7 +58763,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэзетщап1э"
+          "гъэзетщапӏэ"
         ],
         "verbs": []
       },
@@ -58753,8 +58792,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ыуж",
-          "ыужк1э",
-          "къык1элъык1орэ",
+          "ыужкӏэ",
+          "къыкӏэлъыкӏорэ",
           "ыужырэ"
         ],
         "verbs": []
@@ -58764,7 +58803,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "унак1э"
+          "унакӏэ"
         ],
         "verbs": []
       },
@@ -58773,8 +58812,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэк1орэ гъэ",
-          "к1элъык1о илъыс"
+          "къэкӏорэ гъэ",
+          "кӏэлъыкӏо илъыс"
         ],
         "verbs": []
       },
@@ -58810,13 +58849,13 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1утын (to be near in a standing position)",
-          "1улъын (to be near in a lying position)",
+          "ӏутын (to be near in a standing position)",
+          "ӏулъын (to be near in a lying position)",
           "ыдэжь (near of)",
           "благъэ (close)",
           "пэблагъ (close to)",
           "пэгъунэгъу (close to)",
-          "1у- (prepositional verval suffix)"
+          "ӏу- (prepositional verval suffix)"
         ],
         "verbs": []
       },
@@ -58835,8 +58874,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "егъаш1эм",
-          "егъаш1и",
+          "егъашӏэм",
+          "егъашӏи",
           "ныбжьи",
           "сыдигъуи (always, never)"
         ],
@@ -58866,8 +58905,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыублэгъэк1э",
-          "езыгъэжьэгъэк1э"
+          "зыублэгъэкӏэ",
+          "езыгъэжьэгъэкӏэ"
         ],
         "verbs": []
       },
@@ -58876,8 +58915,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэк1орэгъум",
-          "къэк1огъум"
+          "къэкӏорэгъум",
+          "къэкӏогъум"
         ],
         "verbs": []
       },
@@ -58907,7 +58946,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "амк1ышъ"
+          "амкӏышъ"
         ],
         "verbs": []
       },
@@ -58925,7 +58964,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1ок1ипл1ырэ пш1ырэ"
+          "тӏокӏиплӏырэ пшӏырэ"
         ],
         "verbs": []
       },
@@ -58934,8 +58973,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псынк1э",
-          "псык1э (Shapsug)"
+          "псынкӏэ",
+          "псыкӏэ (Shapsug)"
         ],
         "verbs": []
       },
@@ -58944,8 +58983,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ак1э",
-          "с1ак1ьэ (Shapsug)"
+          "цӏакӏэ",
+          "сӏакӏьэ (Shapsug)"
         ],
         "verbs": []
       },
@@ -58955,9 +58994,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хъупхъэ (kind)",
-          "ш1у (well)",
+          "шӏу (well)",
           "дэгъу (good)",
-          "(slang) ц1ап1э (awesome)"
+          "(slang) цӏапӏэ (awesome)"
         ],
         "verbs": []
       },
@@ -58976,7 +59015,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пк1ыхьэп1э 1ай"
+          "пкӏыхьэпӏэ ӏай"
         ],
         "verbs": []
       },
@@ -59042,7 +59081,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "непэ непэк1э"
+          "непэ непэкӏэ"
         ],
         "verbs": []
       },
@@ -59051,7 +59090,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шэк1огъумаз"
+          "шэкӏогъумаз"
         ],
         "verbs": []
       },
@@ -59060,7 +59099,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зак1"
+          "закӏ"
         ],
         "verbs": []
       },
@@ -59089,7 +59128,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "макъэ",
-          "1эмэкъэ-лъэмакъ (noise from the movement of arms and legs)"
+          "ӏэмэкъэ-лъэмакъ (noise from the movement of arms and legs)"
         ],
         "verbs": []
       },
@@ -59154,8 +59193,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэ мыш1эу",
-          "бэ темыш1эу",
+          "бэ мышӏэу",
+          "бэ темышӏэу",
           "джырэблагъэ"
         ],
         "verbs": []
@@ -59220,8 +59259,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щы1эц1э",
-          "пкъыгъуац1э"
+          "щыӏэцӏэ",
+          "пкъыгъуацӏэ"
         ],
         "verbs": []
       },
@@ -59241,8 +59280,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "to address something to, to bring to attention)",
-          "макъэ егъэ1ун (to notify someone)",
-          "къэбар егъэш1эн (to notify someone)"
+          "макъэ егъэӏун (to notify someone)",
+          "къэбар егъэшӏэн (to notify someone)"
         ]
       },
       "word": "notify"
@@ -59287,7 +59326,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1оигъоджэн"
+          "шӏоигъоджэн"
         ]
       },
       "word": "not want"
@@ -59297,10 +59336,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "хьаулый",
-          "пк1э зимы1э",
-          "пк1э и1эп",
+          "пкӏэ зимыӏэ",
+          "пкӏэ иӏэп",
           "хьаулыеу",
-          "пк1энчъэу",
+          "пкӏэнчъэу",
           "бедэхьау"
         ]
       },
@@ -59312,7 +59351,7 @@ const englishDict = {
           "шъхьэубат",
           "мышъо-мыл",
           "(slightly vulgar) хьэшъутыубат",
-          "(vulgar) шъхьи шъути и1эп"
+          "(vulgar) шъхьи шъути иӏэп"
         ],
         "verbs": []
       },
@@ -59322,7 +59361,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "оркъ",
-          "л1экъолъэш"
+          "лӏэкъолъэш"
         ],
         "verbs": []
       },
@@ -59332,7 +59371,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "оркъ",
-          "л1экъолъэш"
+          "лӏэкъолъэш"
         ],
         "verbs": []
       },
@@ -59341,8 +59380,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зыублэгъэк1э",
-          "езыгъэжьэгъэк1э"
+          "зыублэгъэкӏэ",
+          "езыгъэжьэгъэкӏэ"
         ],
         "verbs": []
       },
@@ -59409,7 +59448,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1аст1э"
+          "пӏастӏэ"
         ],
         "verbs": []
       },
@@ -59418,9 +59457,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьары1у",
-          "1уагъэ",
-          "гущы1э пыт"
+          "тхьарыӏу",
+          "ӏуагъэ",
+          "гущыӏэ пыт"
         ],
         "verbs": []
       },
@@ -59445,8 +59484,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ш1ои",
-          "емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
+          "шӏои",
+          "емыкӏу зыхэлъ, укӏытэныгъэ зыхэмылъ"
         ],
         "verbs": []
       },
@@ -59455,7 +59494,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гуры1огъуай"
+          "гурыӏогъуай"
         ],
         "verbs": []
       },
@@ -59473,7 +59512,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "плъак1о, к1элъыплъак1о"
+          "плъакӏо, кӏэлъыплъакӏо"
         ],
         "verbs": []
       },
@@ -59482,8 +59521,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1орыш1э",
-          "да1о"
+          "ӏорышӏэ",
+          "даӏо"
         ],
         "verbs": []
       },
@@ -59502,10 +59541,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "дэ1он",
-          "1орыш1эн (to be obeying)",
-          "фэ1орыш1эн (to obey someone)",
-          "гъэ1орыш1эн (to make someone obey)"
+          "дэӏон",
+          "ӏорышӏэн (to be obeying)",
+          "фэӏорышӏэн (to obey someone)",
+          "гъэӏорышӏэн (to make someone obey)"
         ]
       },
       "word": "obey"
@@ -59514,9 +59553,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эк1эхьан / къы1эк1эхьан",
-          "1эгъэк1эхьан (to make someone obtain something)",
-          "зы1эк1эгъэхьажьын (to make oneself obtain something)",
+          "ӏэкӏэхьан / къыӏэкӏэхьан",
+          "ӏэгъэкӏэхьан (to make someone obtain something)",
+          "зыӏэкӏэгъэхьажьын (to make oneself obtain something)",
           "къэгъэхъэн (to obtain, to acquire, to gain)"
         ]
       },
@@ -59555,7 +59594,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къыхэк1ын (to occur (among several occasions))"
+          "къыхэкӏын (to occur (among several occasions))"
         ],
         "verbs": []
       },
@@ -59585,8 +59624,8 @@ const englishDict = {
         "verbs": [
           "къэфын",
           "къэхъун",
-          "щыш1ын / къыщыш1ын (something to happen to someone)",
-          "къехъул1эн (an incident to happen to someone)",
+          "щышӏын / къыщышӏын (something to happen to someone)",
+          "къехъулӏэн (an incident to happen to someone)",
           "тефэн (to occur at a certain time)",
           "зэтефэн (to occur at the same time or with coordinated timing)"
         ]
@@ -59608,7 +59647,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къытек1ыгъэр"
+          "къытекӏыгъэр"
         ],
         "verbs": []
       },
@@ -59628,13 +59667,13 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ыгу хэгъэк1ын",
-          "шъхьак1о ехын",
-          "ушъхьак1ун",
+          "ыгу хэгъэкӏын",
+          "шъхьакӏо ехын",
+          "ушъхьакӏун",
           "егъэчъэхын (to speak bad about someone)",
-          "ыгу хэгъэк1ын",
-          "ушъхьак1ун",
-          "шъхьак1о ехын"
+          "ыгу хэгъэкӏын",
+          "ушъхьакӏун",
+          "шъхьакӏо ехын"
         ]
       },
       "word": "offend"
@@ -59651,7 +59690,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэк1ы"
+          "бэкӏы"
         ],
         "verbs": []
       },
@@ -59669,7 +59708,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьак1о (indignity, humiliation, insult, offense)"
+          "шъхьакӏо (indignity, humiliation, insult, offense)"
         ],
         "verbs": []
       },
@@ -59678,7 +59717,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "псэхал1э"
+          "псэхалӏэ"
         ],
         "verbs": []
       },
@@ -59687,7 +59726,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къулыкъуш1ап1э"
+          "къулыкъушӏапӏэ"
         ],
         "verbs": []
       },
@@ -59737,7 +59776,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "тхъу",
-          "ч1ыдагъ (earth oil)"
+          "чӏыдагъ (earth oil)"
         ],
         "verbs": []
       },
@@ -59765,7 +59804,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ал (expresses an order with a touch of threat)",
-          "(Shapsug) к1элэ (expresses an order with a touch of threat)"
+          "(Shapsug) кӏэлэ (expresses an order with a touch of threat)"
         ],
         "verbs": []
       },
@@ -59798,7 +59837,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ыжъы"
+          "лӏыжъы"
         ],
         "verbs": []
       },
@@ -59807,7 +59846,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1ыжъы"
+          "лӏыжъы"
         ],
         "verbs": []
       },
@@ -59870,7 +59909,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жъы1о"
+          "жъыӏо"
         ],
         "verbs": []
       },
@@ -59889,7 +59928,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "жъыгъо",
-          "л1ыжъыгъу"
+          "лӏыжъыгъу"
         ],
         "verbs": []
       },
@@ -59909,7 +59948,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1энк1эжъапхъэ"
+          "кӏэнкӏэжъапхъэ"
         ],
         "verbs": []
       },
@@ -59967,7 +60006,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бжьынык1"
+          "бжьыныкӏ"
         ],
         "verbs": []
       },
@@ -60030,7 +60069,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пш1анэ"
+          "пшӏанэ"
         ],
         "verbs": []
       },
@@ -60048,8 +60087,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "плъак1о",
-          "к1элъыплъак1о"
+          "плъакӏо",
+          "кӏэлъыплъакӏо"
         ],
         "verbs": []
       },
@@ -60085,7 +60124,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ны1эп"
+          "ныӏэп"
         ],
         "verbs": []
       },
@@ -60108,10 +60147,10 @@ const englishDict = {
           "телъын (to be on in a lying position)",
           "ыпшъэ",
           "ышъхьагъы",
-          "ык1ы1у (the surface of)",
-          "ыпшъэк1э",
-          "ышъхьагък1э",
-          "ык1ы1ук1э",
+          "ыкӏыӏу (the surface of)",
+          "ыпшъэкӏэ",
+          "ышъхьагъкӏэ",
+          "ыкӏыӏукӏэ",
           "те- (prepositional verval suffix)"
         ],
         "verbs": []
@@ -60132,8 +60171,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мак1э",
-          "т1эк1у"
+          "макӏэ",
+          "тӏэкӏу"
         ],
         "verbs": []
       },
@@ -60142,8 +60181,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1эк1у",
-          "мак1э"
+          "тӏэкӏу",
+          "макӏэ"
         ],
         "verbs": []
       },
@@ -60154,7 +60193,7 @@ const englishDict = {
         "lemmas": [
           "бэ",
           "бэрэ",
-          "1эджы",
+          "ӏэджы",
           "хъущэ"
         ],
         "verbs": []
@@ -60164,7 +60203,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ап1э"
+          "ӏапӏэ"
         ],
         "verbs": []
       },
@@ -60176,7 +60215,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "адрабгъу",
-          "адрэк1"
+          "адрэкӏ"
         ],
         "verbs": []
       },
@@ -60186,8 +60225,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1оф ш1эн / лэжьэн (to perform a work or labor)",
-          "зек1он (to act)",
+          "ӏоф шӏэн / лэжьэн (to perform a work or labor)",
+          "зекӏон (to act)",
           "гъэлэжьэн (to operate something)"
         ]
       },
@@ -60211,7 +60250,7 @@ const englishDict = {
         "lemmas": [
           "шъхьаихыгъэу",
           "зи мыгъэбылъэу",
-          "1ухыгъэу"
+          "ӏухыгъэу"
         ],
         "verbs": []
       },
@@ -60221,8 +60260,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1ухын / къы1ухын",
-          "зэ1ухын"
+          "ӏухын / къыӏухын",
+          "зэӏухын"
         ]
       },
       "word": "open"
@@ -60230,7 +60269,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэ1азэ"
+          "нэӏазэ"
         ],
         "verbs": []
       },
@@ -60240,7 +60279,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "зек1он"
+          "зекӏон"
         ]
       },
       "word": "operate like"
@@ -60248,7 +60287,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гупц1анэ"
+          "гупцӏанэ"
         ],
         "verbs": []
       },
@@ -60266,10 +60305,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэч1ынат1",
-          "къыпэ1улъ",
-          "къыпэч1ынэт1э",
-          "къыпэ1ут"
+          "пэчӏынатӏ",
+          "къыпэӏулъ",
+          "къыпэчӏынэтӏэ",
+          "къыпэӏут"
         ],
         "verbs": []
       },
@@ -60278,10 +60317,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэч1ынат1",
-          "къыпэ1улъ",
-          "къыпэч1ынэт1э",
-          "къыпэ1ут"
+          "пэчӏынатӏ",
+          "къыпэӏулъ",
+          "къыпэчӏынэтӏэ",
+          "къыпэӏут"
         ],
         "verbs": []
       },
@@ -60290,10 +60329,10 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэч1ынат1",
-          "къыпэ1улъ",
-          "къыпэч1ынэт1э",
-          "къыпэ1ут"
+          "пэчӏынатӏ",
+          "къыпэӏулъ",
+          "къыпэчӏынэтӏэ",
+          "къыпэӏут"
         ],
         "verbs": []
       },
@@ -60302,8 +60341,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэ1утэу",
-          "пэ1усэу / къыпэ1усэу"
+          "пэӏутэу",
+          "пэӏусэу / къыпэӏусэу"
         ],
         "verbs": []
       },
@@ -60344,7 +60383,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэгъэфэн (to put things in place/order)",
-          "зэ1эхын (to clean up)"
+          "зэӏэхын (to clean up)"
         ]
       },
       "word": "organize"
@@ -60353,7 +60392,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "зэгъэфагъэ",
-          "зэ1эхыгъэ",
+          "зэӏэхыгъэ",
           "зэгъэфагъ",
           "зэгъэзэфагъэ"
         ],
@@ -60364,7 +60403,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпс-лъэпс"
+          "ӏэпс-лъэпс"
         ],
         "verbs": []
       },
@@ -60373,7 +60412,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1амы (fruit)",
+          "тӏамы (fruit)",
           "(Kfar Kama dialect) гъожьыплъыжь",
           "гъожьышэплъ"
         ],
@@ -60384,9 +60423,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хъык1ы",
-          "к1эщак1о",
-          "зэхэщак1о"
+          "хъыкӏы",
+          "кӏэщакӏо",
+          "зэхэщакӏо"
         ],
         "verbs": []
       },
@@ -60395,7 +60434,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жэры1о"
+          "жэрыӏо"
         ],
         "verbs": []
       },
@@ -60433,7 +60472,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "л1эужыгъо"
+          "лӏэужыгъо"
         ],
         "verbs": []
       },
@@ -60466,8 +60505,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэмык1",
-          "нэмык1",
+          "пэмыкӏ",
+          "нэмыкӏ",
           "адрэ"
         ],
         "verbs": []
@@ -60478,7 +60517,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "адрабгъу",
-          "адрэк1"
+          "адрэкӏ"
         ],
         "verbs": []
       },
@@ -60529,7 +60568,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъуашэ",
-          "шъо1у"
+          "шъоӏу"
         ],
         "verbs": [
           "зэгъэпэшын"
@@ -60540,7 +60579,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэш1эгъоны"
+          "гъэшӏэгъоны"
         ],
         "verbs": []
       },
@@ -60598,7 +60637,7 @@ const englishDict = {
           "течъын",
           "(slang) тебыбын (literally means: to outfly)",
           "ыпэ ишъын",
-          "к1ок1э тек1ын"
+          "кӏокӏэ текӏын"
         ]
       },
       "word": "outrun"
@@ -60619,7 +60658,7 @@ const englishDict = {
           "течъын",
           "(slang) тебыбын (literally means: to outfly)",
           "ыпэ ишъын",
-          "к1ок1э тек1ын"
+          "кӏокӏэ текӏын"
         ]
       },
       "word": "outdistance"
@@ -60627,7 +60666,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1ы1утелъ"
+          "кӏыӏутелъ"
         ],
         "verbs": []
       },
@@ -60648,7 +60687,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шъхьэпырык1ын"
+          "шъхьэпырыкӏын"
         ]
       },
       "word": "overstep"
@@ -60657,7 +60696,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тек1он",
+          "текӏон",
           "фикъун"
         ]
       },
@@ -60667,9 +60706,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1оубытын (to overtake something against the other\u0027s will or interest)",
+          "шӏоубытын (to overtake something against the other\u0027s will or interest)",
           "къытехын (to capture from, to overtake from, to seize from, to deliberately take from)",
-          "к1эхьан / течъын / ыпэ ишъын (to outrun, to pass a more slowly moving object or entity)"
+          "кӏэхьан / течъын / ыпэ ишъын (to outrun, to pass a more slowly moving object or entity)"
         ]
       },
       "word": "overtake"
@@ -60677,7 +60716,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ик1эрык1эу"
+          "икӏэрыкӏэу"
         ],
         "verbs": []
       },
@@ -60704,7 +60743,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хырык1"
+          "хырыкӏ"
         ],
         "verbs": []
       },
@@ -60733,7 +60772,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тегъэк1ын",
+          "тегъэкӏын",
           "тедзын"
         ]
       },
@@ -60743,9 +60782,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тек1он (to overcome, to surpass)",
+          "текӏон (to overcome, to surpass)",
           "фикъун (to overcome with strength)",
-          "те1эшъхьан (to overcome a temptation)"
+          "теӏэшъхьан (to overcome a temptation)"
         ]
       },
       "word": "overcome"
@@ -60780,7 +60819,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ык1ы1у (on the surface of)",
+          "ыкӏыӏу (on the surface of)",
           "шъхьадэ- (prepositional verval suffix)"
         ],
         "verbs": []
@@ -60791,8 +60830,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ушъорэк1ын",
-          "еук1орэик1ын"
+          "ушъорэкӏын",
+          "еукӏорэикӏын"
         ]
       },
       "word": "overturn"
@@ -60811,7 +60850,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъэпшъыщэн",
-          "(vulgar slang) шъутым къик1ыжьын (to do a certain activity repetitively many times to the point that one gets bored or burned out from that activity)"
+          "(vulgar slang) шъутым къикӏыжьын (to do a certain activity repetitively many times to the point that one gets bored or burned out from that activity)"
         ]
       },
       "word": "overdo"
@@ -60904,7 +60943,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэк1убгъу",
+          "нэкӏубгъу",
           "(dialectal) тхьапэ"
         ],
         "verbs": []
@@ -60914,7 +60953,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхылъып1э",
+          "тхылъыпӏэ",
           "тхьапэ"
         ],
         "verbs": []
@@ -60939,8 +60978,8 @@ const englishDict = {
         "verbs": [
           "лэн",
           "гъэлэн",
-          "ч1элэк1ын",
-          "ч1элэк1ын (to paint beneath)"
+          "чӏэлэкӏын",
+          "чӏэлэкӏын (to paint beneath)"
         ]
       },
       "word": "paint"
@@ -60967,7 +61006,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1элъмэкъ"
+          "ӏэлъмэкъ"
         ],
         "verbs": []
       },
@@ -60994,7 +61033,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "хъуп1э"
+          "хъупӏэ"
         ],
         "verbs": []
       },
@@ -61003,7 +61042,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгъэшхъуант1",
+          "бгъэшхъуантӏ",
           "бзыукъолэн"
         ],
         "verbs": []
@@ -61041,9 +61080,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "псынк1эу блэк1ын",
+          "псынкӏэу блэкӏын",
           "блихын",
-          "псынк1эу блэк1ын",
+          "псынкӏэу блэкӏын",
           "блэшъутын (Shapsug)",
           "блэхъушъутын"
         ]
@@ -61054,7 +61093,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "чэгъу",
-          "к1ыфы"
+          "кӏыфы"
         ],
         "verbs": []
       },
@@ -61063,7 +61102,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "щы1эныгъэ"
+          "щыӏэныгъэ"
         ],
         "verbs": []
       },
@@ -61072,7 +61111,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бэщы1",
+          "бэщыӏ",
           "самбыр",
           "къинбэщэч"
         ],
@@ -61159,7 +61198,7 @@ const englishDict = {
         "lemmas": [
           "гъончэдж (pants, trousers)",
           "(dialectal) гъошэдж / гъочэдж",
-          "гъончэдж ч1эгъч1элъ / гъончэдж цӏыкӏу (underwear)"
+          "гъончэдж чӏэгъчӏэлъ / гъончэдж цӏыкӏу (underwear)"
         ],
         "verbs": []
       },
@@ -61179,7 +61218,7 @@ const englishDict = {
         "lemmas": [
           "ныбэкъ",
           "ныбэ хъурай",
-          "быт1ыхъурай",
+          "бытӏыхъурай",
           "ныбэшъу"
         ],
         "verbs": []
@@ -61190,7 +61229,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "гъэш1он"
+          "гъэшӏон"
         ]
       },
       "word": "pamper"
@@ -61224,7 +61263,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъончэдж ч1эгъч1элъ",
+          "гъончэдж чӏэгъчӏэлъ",
           "гъончэдж цӏыкӏу"
         ],
         "verbs": []
@@ -61245,8 +61284,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1у",
-          "т1урыт1у (by pairs)",
+          "тӏу",
+          "тӏурытӏу (by pairs)",
           "лъэныкъо (one of a pair)"
         ],
         "verbs": []
@@ -61256,7 +61295,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "т1урыт1у къашъо"
+          "тӏурытӏу къашъо"
         ],
         "verbs": []
       },
@@ -61266,16 +61305,16 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "тепк1эн (to get pasted on)",
-          "тегъэпк1эн (to paste something on something)",
-          "ч1эпк1эн (to get pasted under)",
-          "ч1эгъэпк1эн (to paste something under something)",
-          "ипк1эн (to get pasted inside)",
-          "игъэпк1эн (to paste something inside something)",
-          "пыпк1эн (to get pasted on the surface of an object)",
-          "пыгъэпк1эн (to paste something on the surface of an object)",
-          "дэпк1эн (to get pasted inside another object)",
-          "дэгъэпк1эн (to paste something inside another object)"
+          "тепкӏэн (to get pasted on)",
+          "тегъэпкӏэн (to paste something on something)",
+          "чӏэпкӏэн (to get pasted under)",
+          "чӏэгъэпкӏэн (to paste something under something)",
+          "ипкӏэн (to get pasted inside)",
+          "игъэпкӏэн (to paste something inside something)",
+          "пыпкӏэн (to get pasted on the surface of an object)",
+          "пыгъэпкӏэн (to paste something on the surface of an object)",
+          "дэпкӏэн (to get pasted inside another object)",
+          "дэгъэпкӏэн (to paste something inside another object)"
         ]
       },
       "word": "paste"
@@ -61283,7 +61322,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъэлак1о"
+          "гъэлакӏо"
         ],
         "verbs": []
       },
@@ -61292,7 +61331,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэпырык1ып1э (the passage between two places)"
+          "зэпырыкӏыпӏэ (the passage between two places)"
         ],
         "verbs": []
       },
@@ -61313,8 +61352,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "теон",
-          "1э щыфэн (to pat, to stroke, to pet, to fondle)",
-          "(Shapsug) епэш1эн (to pat, to stroke, to pet, to fondle)"
+          "ӏэ щыфэн (to pat, to stroke, to pet, to fondle)",
+          "(Shapsug) епэшӏэн (to pat, to stroke, to pet, to fondle)"
         ]
       },
       "word": "pat"
@@ -61322,7 +61361,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ушъхь"
+          "ӏушъхь"
         ],
         "verbs": []
       },
@@ -61340,7 +61379,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "блэк1ыгъэ / зэман (past time)",
+          "блэкӏыгъэ / зэман (past time)",
           "блэ- (prepositional verval suffix)"
         ],
         "verbs": []
@@ -61350,7 +61389,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гъогурык1о"
+          "гъогурыкӏо"
         ],
         "verbs": []
       },
@@ -61361,7 +61400,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "тедэжьын (to cover a tear with a patch)",
-          "тегъэпк1эн (to stick on)"
+          "тегъэпкӏэн (to stick on)"
         ]
       },
       "word": "patch"
@@ -61370,7 +61409,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "щыщ (part of)",
-          "1ахь (someons\u0027s part, portion or share)",
+          "ӏахь (someons\u0027s part, portion or share)",
           "лъэныкъо (part of an object, part of a thing)"
         ],
         "verbs": []
@@ -61429,8 +61468,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "у1он",
-          "еу1ун"
+          "уӏон",
+          "еуӏун"
         ]
       },
       "word": "peck"
@@ -61466,7 +61505,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ышъхьэк1э"
+          "ышъхьэкӏэ"
         ],
         "verbs": []
       },
@@ -61485,7 +61524,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ош1у"
+          "ошӏу"
         ],
         "verbs": []
       },
@@ -61516,7 +61555,7 @@ const englishDict = {
           "хьэмашэ",
           "цыулэ / былыхъу (childish)",
           "былыхъу (childish)",
-          "(vulgar, slang) к1э"
+          "(vulgar, slang) кӏэ"
         ],
         "verbs": []
       },
@@ -61529,12 +61568,12 @@ const englishDict = {
           "щэхэпс"
         ],
         "verbs": [
-          "щагум ик1ын",
+          "щагум икӏын",
           "гъутхьан",
           "тегъутхьан (to pee on)",
-          "ч1эгъутхьан (to pee under)",
+          "чӏэгъутхьан (to pee under)",
           "игъутхьан (to pee inside)",
-          "1угъутхьан (to pee near)",
+          "ӏугъутхьан (to pee near)",
           "хэгъутхьан (to pee in an area with fire, liquid or gas)",
           "зыпэгъутхьажьын (to have the urgue to pee"
         ]
@@ -61586,7 +61625,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "емынэ",
-          "былымыл1э (for animals)"
+          "былымылӏэ (for animals)"
         ],
         "verbs": []
       },
@@ -61606,7 +61645,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "пынэн",
-          "пэш1онэн"
+          "пэшӏонэн"
         ]
       },
       "word": "pester"
@@ -61614,7 +61653,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыдагъ",
+          "чӏыдагъ",
           "кудэ",
           "шъотэгын",
           "тхъу",
@@ -61663,7 +61702,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыфхэр"
+          "цӏыфхэр"
         ],
         "verbs": []
       },
@@ -61684,11 +61723,11 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зыригъэнэн / зэбгъэнэн",
-          "къаигъэ ыш1ыгъ",
+          "къаигъэ ышӏыгъ",
           "инатэу фэхъун (to become persistent for)",
           "тетын",
-          "темык1ын",
-          "пхырыгъэк1ын"
+          "темыкӏын",
+          "пхырыгъэкӏын"
         ]
       },
       "word": "persist"
@@ -61717,7 +61756,7 @@ const englishDict = {
         "lemmas": [
           "фит",
           "фитыныгъ",
-          "1изын"
+          "ӏизын"
         ],
         "verbs": []
       },
@@ -61745,15 +61784,15 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъуамп1э"
+          "шъуампӏэ"
         ],
         "verbs": [
           "тетхъын (to peel off from, to tear off from)",
           "течын (to peel off)",
           "шъо течын (to tear off the skin)",
-          "шъуамп1э техын (to take off the peel)",
+          "шъуампӏэ техын (to take off the peel)",
           "шъо техын (to take off the skin)",
-          "гъэжъоп1он / тек1эп1ык1ын (to peel wheat-seeds and the like)"
+          "гъэжъопӏон / текӏэпӏыкӏын (to peel wheat-seeds and the like)"
         ]
       },
       "word": "peel"
@@ -61809,7 +61848,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "исэн (to penetrate inside)",
-          "хэхьан / к1оц1ыхьан (to penetrate through)"
+          "хэхьан / кӏоцӏыхьан (to penetrate through)"
         ]
       },
       "word": "penetrate"
@@ -61817,7 +61856,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъу1уа"
+          "шъуӏуа"
         ],
         "verbs": []
       },
@@ -61827,7 +61866,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ш1ош1ын (to be perceived as)"
+          "шӏошӏын (to be perceived as)"
         ]
       },
       "word": "perceive"
@@ -61836,8 +61875,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1э щыфэн (to pat, to stroke, to pet, to fondle)",
-          "(Shapsug) епэш1эн (to pat, to stroke, to pet, to fondle)"
+          "ӏэ щыфэн (to pat, to stroke, to pet, to fondle)",
+          "(Shapsug) епэшӏэн (to pat, to stroke, to pet, to fondle)"
         ]
       },
       "word": "pet"
@@ -61845,7 +61884,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пылъап1э (device used to hang up coats, shirts, etc)"
+          "пылъапӏэ (device used to hang up coats, shirts, etc)"
         ],
         "verbs": []
       },
@@ -61855,7 +61894,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1одын"
+          "кӏодын"
         ]
       },
       "word": "perish"
@@ -61864,7 +61903,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэк1ухьан"
+          "къэкӏухьан"
         ]
       },
       "word": "perambulate"
@@ -61890,7 +61929,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ыбгъэ"
+          "чӏыбгъэ"
         ],
         "verbs": []
       },
@@ -61899,7 +61938,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ц1ыфы",
+          "цӏыфы",
           "нэбгыр (used when the amount of people in a sentence is important)",
           "(Shapsug) нэбгы"
         ],
@@ -61920,7 +61959,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэстэ гъуанэм ригъэк1эу (to attempt to do something as perfect as possible)"
+          "мэстэ гъуанэм ригъэкӏэу (to attempt to do something as perfect as possible)"
         ],
         "verbs": []
       },
@@ -61929,7 +61968,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "епц1ыжьырэ",
+          "епцӏыжьырэ",
           "къэрарынчъэ"
         ],
         "verbs": []
@@ -61939,7 +61978,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэкъумэщыш1"
+          "мэкъумэщышӏ"
         ],
         "verbs": []
       },
@@ -61989,7 +62028,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гущыIэрый, шъхьэубат",
-          "мышъомылы1у"
+          "мышъомылыӏу"
         ],
         "verbs": []
       },
@@ -61998,7 +62037,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "уц 1эзэгъу щап1э"
+          "уц ӏэзэгъу щапӏэ"
         ],
         "verbs": []
       },
@@ -62075,9 +62114,9 @@ const englishDict = {
         "verbs": [
           "(slightly vulgar) гъутхьан",
           "тегъутхьан (to pee on)",
-          "ч1эгъутхьан (to pee under)",
+          "чӏэгъутхьан (to pee under)",
           "игъутхьан (to pee inside)",
-          "1угъутхьан (to pee near)",
+          "ӏугъутхьан (to pee near)",
           "хэгъутхьан (to pee in an area with fire, liquid or gas)",
           "зыпэгъутхьажьын (to have the urgue to urinate)"
         ]
@@ -62088,7 +62127,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "уцы",
-          "1эзэгъу уц",
+          "ӏэзэгъу уц",
           "уцы такъыр"
         ],
         "verbs": []
@@ -62098,7 +62137,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгъэхэ1у"
+          "бгъэхэӏу"
         ],
         "verbs": []
       },
@@ -62107,7 +62146,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бгъэхэ1ушъхь"
+          "бгъэхэӏушъхь"
         ],
         "verbs": []
       },
@@ -62116,7 +62155,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эбгъу",
+          "ӏэбгъу",
           "такъыр",
           "налъэ (single piece)",
           "парчъэ",
@@ -62141,10 +62180,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "штэн / къэштэн (to take, to lift, to hold and pick up)",
-          "къэ1этын (to lift and raise up)",
+          "къэӏэтын (to lift and raise up)",
           "техын (to pick up from above)",
           "щыпын / къэщыпын (to pick up stuff/people usaully from the ground)",
-          "тещыпык1ын (to pick up stuff from)",
+          "тещыпыкӏын (to pick up stuff from)",
           "пхъотэн (to pick up suddenly, to snatch)"
         ]
       },
@@ -62153,7 +62192,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къыхэчъыгъ, къыхиутыгъ (к1ышъом)",
+          "къыхэчъыгъ, къыхиутыгъ (кӏышъом)",
           "фыкъуадэ"
         ],
         "verbs": []
@@ -62232,7 +62271,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "еп1эск1ун"
+          "епӏэскӏун"
         ]
       },
       "word": "pinch"
@@ -62240,8 +62279,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1эрэхъоц1ык1у",
-          "шхончк1эк1"
+          "кӏэрэхъоцӏыкӏу",
+          "шхончкӏэкӏ"
         ],
         "verbs": []
       },
@@ -62256,7 +62295,7 @@ const englishDict = {
           "пычын (to pull off fruit or flower)",
           "хэдэн (to pick something out of)",
           "щыпын / къэщыпын (to pick up stuff/people usaully from the ground)",
-          "тещыпык1ын (to pick up stuff from)"
+          "тещыпыкӏын (to pick up stuff from)"
         ]
       },
       "word": "pick"
@@ -62274,7 +62313,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "деуп1эп1эн"
+          "деупӏэпӏэн"
         ]
       },
       "word": "pile in"
@@ -62283,7 +62322,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хэ1ун"
+          "хэӏун"
         ]
       },
       "word": "pierce"
@@ -62291,15 +62330,15 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зы1удз",
+          "зыӏудз",
           "зегъэхь",
-          "зы1уегъэх",
-          "к1о дэхьэжь"
+          "зыӏуегъэх",
+          "кӏо дэхьэжь"
         ],
         "verbs": [
-          "зы1удзын",
+          "зыӏудзын",
           "зегъэхьын",
-          "зы1уегъэхын"
+          "зыӏуегъэхын"
         ]
       },
       "word": "piss off"
@@ -62307,14 +62346,14 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "гук1эгъу",
+          "гукӏэгъу",
           "шъхьас"
         ],
         "verbs": [
           "шъхьасын",
-          "гук1эгъу фэш1ын",
+          "гукӏэгъу фэшӏын",
           "гу егъун (гуегъун)",
-          "гук1эгъу фэлъэгъун (to show mercy for)"
+          "гукӏэгъу фэлъэгъун (to show mercy for)"
         ]
       },
       "word": "pity"
@@ -62322,11 +62361,11 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "нэшэбэгу ш1о1угъ"
+          "нэшэбэгу шӏоӏугъ"
         ],
         "verbs": [
-          "ш1о1ун",
-          "гъэш1о1ун (to pickle something)"
+          "шӏоӏун",
+          "гъэшӏоӏун (to pickle something)"
         ]
       },
       "word": "pickle"
@@ -62343,7 +62382,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "купк1ы"
+          "купкӏы"
         ],
         "verbs": []
       },
@@ -62354,7 +62393,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэтелъхьан (to pile stuff on each other)",
-          "зэк1элъхьан (to pile stuff under each other)",
+          "зэкӏэлъхьан (to pile stuff under each other)",
           "зэкъолъхьан (to pile stuff behind each other)",
           "зэдэлъхьан (to put stuff in each other)",
           "зэрилъхьан (to put stuff inside each other)",
@@ -62368,7 +62407,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "зэтелъхьан (to pile stuff on each other)",
-          "зэк1элъхьан (to pile stuff under each other)",
+          "зэкӏэлъхьан (to pile stuff under each other)",
           "зэкъолъхьан (to pile stuff behind each other)",
           "зэдэлъхьан (to put stuff in each other)",
           "зэрилъхьан (to put stuff inside each other)",
@@ -62382,7 +62421,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "къэщыпын",
-          "тещыпык1ын (to pick up stuff from)"
+          "тещыпыкӏын (to pick up stuff from)"
         ]
       },
       "word": "pick up stuff"
@@ -62455,7 +62494,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лы1у-лы1оу"
+          "лыӏу-лыӏоу"
         ],
         "verbs": []
       },
@@ -62469,7 +62508,7 @@ const englishDict = {
         "verbs": [
           "еон / къеон (to play an instrument)",
           "джэгун (to play a game)",
-          "еш1эн / къеш1эн (to play a game)"
+          "ешӏэн / къешӏэн (to play a game)"
         ]
       },
       "word": "play"
@@ -62479,7 +62518,7 @@ const englishDict = {
         "lemmas": [
           "еуагъэ / къеуагъэ (played an instrument)",
           "джэгугъэ (played a game)",
-          "еш1агъэ / къеш1агъэ (to play a game)"
+          "ешӏагъэ / къешӏагъэ (to play a game)"
         ],
         "verbs": []
       },
@@ -62488,20 +62527,20 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ып1э",
-          "-п1э (suffix)",
+          "чӏыпӏэ",
+          "-пӏэ (suffix)",
           "еры",
-          "ч1ып1э"
+          "чӏыпӏэ"
         ],
         "verbs": [
           "илъхьан (to place inside)",
           "телъхьан (to place on)",
-          "ч1элъхьан (to place under)",
+          "чӏэлъхьан (to place under)",
           "гъэуцун (to place)",
           "тегъэуцун (to place on)",
           "дэгъэуцон (to place between)",
           "зэтелъхьан (to place on each other)",
-          "к1элъырыгъэуцон (to place next to)"
+          "кӏэлъырыгъэуцон (to place next to)"
         ]
       },
       "word": "place"
@@ -62509,7 +62548,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "мэ 1эш1у"
+          "мэ ӏэшӏу"
         ],
         "verbs": []
       },
@@ -62527,8 +62566,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэк1ырэ",
-          "къэк1ырэхэр"
+          "къэкӏырэ",
+          "къэкӏырэхэр"
         ],
         "verbs": []
       },
@@ -62537,7 +62576,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1адэ"
+          "ӏадэ"
         ],
         "verbs": []
       },
@@ -62547,7 +62586,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хъохъ",
-          "къыпц1э"
+          "къыпцӏэ"
         ],
         "verbs": []
       },
@@ -62557,7 +62596,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "емынэ",
-          "былымыл1э (cattle plague)",
+          "былымылӏэ (cattle plague)",
           "тэлау"
         ],
         "verbs": []
@@ -62568,7 +62607,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "гохьы",
-          "го1у",
+          "гоӏу",
           "рэхьат (comfortable)"
         ],
         "verbs": []
@@ -62597,7 +62636,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъонт1эу"
+          "шъонтӏэу"
         ],
         "verbs": [
           "бэскъэн"
@@ -62638,7 +62677,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эпс-лъэпс"
+          "ӏэпс-лъэпс"
         ],
         "verbs": []
       },
@@ -62648,8 +62687,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "хъунк1эн",
-          "ехъунк1ын"
+          "хъункӏэн",
+          "ехъункӏын"
         ]
       },
       "word": "plunder"
@@ -62658,7 +62697,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "планета",
-          "жъогъозек1у"
+          "жъогъозекӏу"
         ],
         "verbs": []
       },
@@ -62687,7 +62726,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жъонак1о"
+          "жъонакӏо"
         ],
         "verbs": []
       },
@@ -62696,7 +62735,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жъонак1о"
+          "жъонакӏо"
         ],
         "verbs": []
       },
@@ -62707,10 +62746,10 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "хэлъхьан",
-          "гъэт1ысын / хэгъэт1ысхьан",
-          "т1эн (Shapsug)",
-          "хэт1эн (Shapsug)",
-          "ч1элъхьан (to plant under the ground)"
+          "гъэтӏысын / хэгъэтӏысхьан",
+          "тӏэн (Shapsug)",
+          "хэтӏэн (Shapsug)",
+          "чӏэлъхьан (to plant under the ground)"
         ]
       },
       "word": "plant"
@@ -62719,7 +62758,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "хэлъхьагъэ",
-          "гъэт1ысыгъэ / хэгъэт1ысхьагъэ"
+          "гъэтӏысыгъэ / хэгъэтӏысхьагъэ"
         ],
         "verbs": []
       },
@@ -62728,8 +62767,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "техак1о",
-          "хъунк1ак1о"
+          "техакӏо",
+          "хъункӏакӏо"
         ],
         "verbs": []
       },
@@ -62747,7 +62786,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "жьы1эш1у"
+          "жьыӏэшӏу"
         ],
         "verbs": []
       },
@@ -62769,17 +62808,17 @@ const englishDict = {
         ],
         "verbs": [
           "ин (to cover or coat something with plaster)",
-          "к1эен (to plaster under)",
-          "тепк1эн (to get plastered on)",
-          "тегъэпк1эн (to plaster something on something)",
-          "ч1эпк1эн (to get plastered under)",
-          "ч1эгъэпк1эн (to plaster something under something)",
-          "ипк1эн (to get plastered inside)",
-          "игъэпк1эн (to plaster something inside something)",
-          "пыпк1эн (to get plastered on the surface of an object)",
-          "пыгъэпк1эн (to plaster something on the surface of an object)",
-          "дэпк1эн (to get plastered inside another object)",
-          "дэгъэпк1эн (to plaster something inside another object)"
+          "кӏэен (to plaster under)",
+          "тепкӏэн (to get plastered on)",
+          "тегъэпкӏэн (to plaster something on something)",
+          "чӏэпкӏэн (to get plastered under)",
+          "чӏэгъэпкӏэн (to plaster something under something)",
+          "ипкӏэн (to get plastered inside)",
+          "игъэпкӏэн (to plaster something inside something)",
+          "пыпкӏэн (to get plastered on the surface of an object)",
+          "пыгъэпкӏэн (to plaster something on the surface of an object)",
+          "дэпкӏэн (to get plastered inside another object)",
+          "дэгъэпкӏэн (to plaster something inside another object)"
         ]
       },
       "word": "plaster"
@@ -62808,7 +62847,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джэгуак1о"
+          "джэгуакӏо"
         ],
         "verbs": []
       },
@@ -62817,7 +62856,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джэгуп1э"
+          "джэгупӏэ"
         ],
         "verbs": []
       },
@@ -62826,7 +62865,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "джэгуп1э"
+          "джэгупӏэ"
         ],
         "verbs": []
       },
@@ -62893,8 +62932,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "зэ1ук1ап1э",
-          "зыщэ1ук1ап1э"
+          "зэӏукӏапӏэ",
+          "зыщэӏукӏапӏэ"
         ],
         "verbs": []
       },
@@ -62912,7 +62951,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сэмэркъэуш1ыл",
+          "сэмэркъэушӏыл",
           "сэмэркъэу зыхэлъ",
           "шъхьэпай"
         ],
@@ -62923,8 +62962,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "уфэупц1э (уфэ-упц1)",
-          "лант1э"
+          "уфэупцӏэ (уфэ-упцӏ)",
+          "лантӏэ"
         ],
         "verbs": []
       },
@@ -62945,8 +62984,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "и1эбэн (to poke inside)",
-          "ч1э1эбэн (to poke under)"
+          "иӏэбэн (to poke inside)",
+          "чӏэӏэбэн (to poke under)"
         ]
       },
       "word": "poke"
@@ -62983,8 +63022,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "п1аст1э",
-          "п1астэ"
+          "пӏастӏэ",
+          "пӏастэ"
         ],
         "verbs": []
       },
@@ -62994,7 +63033,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэшы",
-          "к1уач1э (strong)"
+          "кӏуачӏэ (strong)"
         ],
         "verbs": []
       },
@@ -63004,14 +63043,14 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къетк1ухын (to pour down, to drip down, to drop down)",
+          "къеткӏухын (to pour down, to drip down, to drop down)",
           "игъэхъон (to fill liquid into)",
-          "ик1эн (intensive)",
-          "ик1утэн (slightly intensive)",
-          "ек1эхын (to pour down)",
-          "тетк1он (to drip liquid on something one drop at a time)",
-          "к1эгъэхьан (to water plants)",
-          "к1эк1эн (to pour liquid under, to spill liquid under)"
+          "икӏэн (intensive)",
+          "икӏутэн (slightly intensive)",
+          "екӏэхын (to pour down)",
+          "теткӏон (to drip liquid on something one drop at a time)",
+          "кӏэгъэхьан (to water plants)",
+          "кӏэкӏэн (to pour liquid under, to spill liquid under)"
         ]
       },
       "word": "pour"
@@ -63019,7 +63058,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тк1оны"
+          "ткӏоны"
         ],
         "verbs": [
           "фэгъэзэн"
@@ -63039,7 +63078,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ырык1у"
+          "чӏырыкӏу"
         ],
         "verbs": []
       },
@@ -63075,8 +63114,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "тхьамык1",
-          "тхьамыщк1 (Shapsug)",
+          "тхьамыкӏ",
+          "тхьамыщкӏ (Shapsug)",
           "къулайцыз"
         ],
         "verbs": []
@@ -63097,7 +63136,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "щэнаут",
-          "уцыгъал1"
+          "уцыгъалӏ"
         ],
         "verbs": []
       },
@@ -63107,7 +63146,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "и1эн (to have, to possess, to have ownership of)"
+          "иӏэн (to have, to possess, to have ownership of)"
         ]
       },
       "word": "possess"
@@ -63133,7 +63172,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "к1оч1энчъэ"
+          "кӏочӏэнчъэ"
         ],
         "verbs": []
       },
@@ -63151,7 +63190,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "папц1э"
+          "папцӏэ"
         ],
         "verbs": []
       },
@@ -63160,7 +63199,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пчъэ1упэ",
+          "пчъэӏупэ",
           "лъэгуц"
         ],
         "verbs": []
@@ -63172,7 +63211,7 @@ const englishDict = {
         "lemmas": [
           "ныбэкъ",
           "ныбэ хъурай",
-          "быт1ыхъурай",
+          "бытӏыхъурай",
           "ныбэшъу"
         ],
         "verbs": []
@@ -63192,7 +63231,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "1эхъуамбэр фэгъэпсын"
+          "ӏэхъуамбэр фэгъэпсын"
         ]
       },
       "word": "point to"
@@ -63200,8 +63239,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъхьэк1афэ",
-          "1эдэб"
+          "шъхьэкӏафэ",
+          "ӏэдэб"
         ],
         "verbs": []
       },
@@ -63220,7 +63259,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "шъойцый (шъой-цый)",
-          "шъо1удж"
+          "шъоӏудж"
         ],
         "verbs": []
       },
@@ -63241,8 +63280,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "п1онк1ын (to bubble up from heat)",
-          "(Shapsug) п1эрк1ын"
+          "пӏонкӏын (to bubble up from heat)",
+          "(Shapsug) пӏэркӏын"
         ]
       },
       "word": "pop"
@@ -63250,7 +63289,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1ушъхь"
+          "ӏушъхь"
         ],
         "verbs": []
       },
@@ -63260,8 +63299,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "пкъэу (column, pole, pillar, post)",
-          "1энат1э (post, position, job)",
-          "1энат1э"
+          "ӏэнатӏэ (post, position, job)",
+          "ӏэнатӏэ"
         ],
         "verbs": []
       },
@@ -63279,7 +63318,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "1эрам"
+          "ӏэрам"
         ],
         "verbs": []
       },
@@ -63288,7 +63327,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "бынэу къык1эхъуагъэхэр"
+          "бынэу къыкӏэхъуагъэхэр"
         ],
         "verbs": []
       },
@@ -63316,7 +63355,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "к1энэк1эн"
+          "кӏэнэкӏэн"
         ]
       },
       "word": "poke fun"
@@ -63325,7 +63364,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "щыщ (portion of)",
-          "1ахь (someons\u0027s part, portion or share)"
+          "ӏахь (someons\u0027s part, portion or share)"
         ],
         "verbs": []
       },
@@ -63334,7 +63373,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "есып1э (swimming pool)",
+          "есыпӏэ (swimming pool)",
           "лъэбанэ (puddle)"
         ],
         "verbs": []
@@ -63344,9 +63383,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ч1ып1э (spot, position)",
-          "щытып1э",
-          "1энат1э (post, position, job)"
+          "чӏыпӏэ (spot, position)",
+          "щытыпӏэ",
+          "ӏэнатӏэ (post, position, job)"
         ],
         "verbs": []
       },

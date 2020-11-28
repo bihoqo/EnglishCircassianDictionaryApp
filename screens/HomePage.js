@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import React from 'react';
-import { View, Text, StyleSheet, ToastAndroid, StatusBar, BackHandler, Alert } from 'react-native';
+import { View, Text, StyleSheet, ToastAndroid, StatusBar, BackHandler, Alert, ScrollView } from 'react-native';
 import AutocompleteSection from './AutocompleteSection.js';
 import CircassianWordSection from './CircassianWordSection.js';
 import EnglishWordSection from './EnglishWordSection.js';
@@ -15,6 +15,8 @@ const HomePage = () => {
     const [historyOfSearchedWords, setHistoryOfSearchedWords] = useState([]);
     const [numberOfEnglishWords, setNumberOfEnglishWords] = useState(0);
     const [numberOfCircassianWords, setNumberOfCircassianWords] = useState(0);
+
+    const appVersion = "v1.0";
 
     /**
      * a function that handles the phone's back button press event
@@ -178,10 +180,13 @@ const HomePage = () => {
             return <Text style={styles.numberOfWordsText}>Loading...</Text>
         }
         return (
-            <View>
-                <Text selectable={true} style={styles.homePageTitle}>The English-Circassian dicitonary</Text>
-                <Text selectable={true} style={styles.numberOfWordsText}>Number of Circassian words: {numberOfEnglishWords}</Text>
-                <Text selectable={true} style={styles.numberOfWordsText}>Number of English words: {numberOfCircassianWords}</Text>
+            <View style={{ flex: 1 }}>
+                <ScrollView>
+                    <Text selectable={true} style={styles.homePageTitle}>The English-Circassian dicitonary</Text>
+                    <Text selectable={true} style={styles.numberOfWordsText}>Number of Circassian words: {numberOfEnglishWords}</Text>
+                    <Text selectable={true} style={styles.numberOfWordsText}>Number of English words: {numberOfCircassianWords}</Text>
+                </ScrollView>
+                <View><Text style={styles.versionText}>{appVersion}</Text></View>
             </View>
         )
     }
@@ -243,6 +248,13 @@ const styles = StyleSheet.create({
         padding: 20,
         fontSize: 26,
         fontWeight: "bold"
+    },
+    versionText: {
+        textAlign: 'right',
+        alignSelf: 'stretch',
+        color: "gray",
+        fontSize: 20,
+        padding: 10
     }
 });
 

@@ -76,7 +76,12 @@ const styles = StyleSheet.create({
 });
 
 const removeTextBetweenBrackets = (text) => {
-    return text.replace(/ *\([^)]*\) */g, "");
+    const result = text.replace(/ *\([^)]*\) */g, "");
+    if (result.includes("/")) {
+        return result.split("/")[0].trim();
+    } else {
+        return result;
+    }
 }
 
 export default EnglishWordSection;
