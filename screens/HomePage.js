@@ -78,14 +78,14 @@ const HomePage = () => {
      * @param {string} newWord - new word to select
      */
     const newWordSelectionHandlder = (newWord) => {
-        newWord = newWord.toLowerCase();
+        newWord = newWord.toLowerCase().trim();
         setShowAutocomplete(false);
 
         // get new word's object from the dictionary json
         let key = getJsonKey(newWord);
         if (getFittingDictionary(newWord).hasOwnProperty(key)) {
             const newWordObj = getFittingDictionary(newWord)[key].find((wordObj) => {
-                return wordObj['searchWord'].toLowerCase() === newWord;
+                return wordObj['word'].toLowerCase() === newWord;
             });
             if (newWordObj == undefined) {
                 showToastWithText(newWord);
@@ -153,14 +153,14 @@ const HomePage = () => {
      * @param {string} text - the text that was inserted inside the search-bar
      */
     const getFilteredWordsInAutocomplete = (text) => {
-        text = text.toLowerCase().trim().split("ӏ").join("1");
+        text = text.toLowerCase().trim().split("1").join("ӏ");
         let filteredWords = [];
         if (text.length >= 1) {
             let key = getJsonKey(text);
             if (getFittingDictionary(text).hasOwnProperty(key)) {
                 getFittingDictionary(text)[key].forEach((wordObj) => {
-                    if (wordObj['searchWord'].toLowerCase().startsWith(text)) {
-                        filteredWords.push(wordObj['searchWord']);
+                    if (wordObj['word'].toLowerCase().startsWith(text)) {
+                        filteredWords.push(wordObj['word']);
                     }
                 });
             }
@@ -179,6 +179,7 @@ const HomePage = () => {
         }
         return (
             <View>
+                <Text selectable={true} style={styles.homePageTitle}>The English-Circassian dicitonary</Text>
                 <Text selectable={true} style={styles.numberOfWordsText}>Number of Circassian words: {numberOfEnglishWords}</Text>
                 <Text selectable={true} style={styles.numberOfWordsText}>Number of English words: {numberOfCircassianWords}</Text>
             </View>
@@ -203,10 +204,10 @@ const HomePage = () => {
         } else if (Object.keys(selectedWordObj).length === 0 && selectedWordObj.constructor === Object) {
             return numberOfWordsView();
         } else {
-            if (isWordInEnglish(selectedWordObj['searchWord'])) {
+            if (isWordInEnglish(selectedWordObj['word'])) {
                 return <EnglishWordSection selectNewWord={newWordSelectionHandlder} selectedWordObj={selectedWordObj} />
             } else {
-                return <CircassianWordSection selectedWordObj={selectedWordObj} />
+                return <CircassianWordSection selectNewWord={newWordSelectionHandlder} selectedWordObj={selectedWordObj} />
             }
         }
     };
@@ -237,6 +238,11 @@ const styles = StyleSheet.create({
     numberOfWordsText: {
         padding: 20,
         fontSize: 20
+    },
+    homePageTitle: {
+        padding: 20,
+        fontSize: 26,
+        fontWeight: "bold"
     }
 });
 

@@ -26,12 +26,12 @@ const EnglishWordSection = (props) => {
     );
 
     const listOfLemmmas = () => {
-        const header = wordObj['meaning']['lemma'].length > 0 ? createHeader(wordObj['searchWord']) : null;
-        const footer = wordObj['meaning']['verb'].length > 0 ? createHeader("to " + wordObj['searchWord']) : null;
+        const header = wordObj['meaning']['lemmas'].length > 0 ? createHeader(wordObj['word']) : null;
+        const footer = wordObj['meaning']['verbs'].length > 0 ? createHeader("to " + wordObj['word']) : null;
         return <FlatList
             ListHeaderComponent={header}
             ListFooterComponent={footer}
-            data={wordObj['meaning']['lemma']}
+            data={wordObj['meaning']['lemmas']}
             keyExtractor={(item, index) => index.toString()}
             renderItem={renderWords} />
     }
@@ -41,7 +41,7 @@ const EnglishWordSection = (props) => {
             <FlatList
                 ListHeaderComponent={listOfLemmmas()}
                 removeClippedSubviews={false}
-                data={wordObj['meaning']['verb']}
+                data={wordObj['meaning']['verbs']}
                 keyExtractor={(item, index) => index.toString()}
                 renderItem={renderWords} />
         </View>

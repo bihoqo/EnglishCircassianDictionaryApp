@@ -21,10 +21,18 @@ const CircassianWordSection = (props) => {
             );
         });
 
+        // direct word in case of alternative forms
+        let selectAlternativeForm = null;
+        let meaningTextStyle = [styles.meaningText];
+        if (item['meaning'].includes("alternative form of")) {
+            selectAlternativeForm = () => props.selectNewWord(removeAlternativeFormOf(item['meaning']));
+            meaningTextStyle.push(styles.alternativeForm);
+        }
+
         return (
             <ListItem>
                 <ListItem.Content>
-                    <ListItem.Title selectable={true} style={styles.meaningText}>
+                    <ListItem.Title onPress={selectAlternativeForm} selectable={true} style={meaningTextStyle}>
                         {(index + 1) + '. ' + item['meaning']}
                     </ListItem.Title>
                     {examples}
@@ -108,6 +116,10 @@ const styles = StyleSheet.create({
         fontSize: 19,
         color: '#4a4a4a',
         fontStyle: 'italic'
+    },
+    alternativeForm: {
+        color: "#00BFFF",
+        textDecorationLine: 'underline'
     }
 });
 
@@ -130,6 +142,14 @@ const highlightTextBetweenQuotes = (text) => {
         result = [<Text selectable={true}>{text}</Text>];
     }
     return result;
+}
+
+/**
+ * a function that removes the alternative form of \"
+ * @param {string} text - for words that look like: alternative form of \"мэлыко\"
+ */
+const removeAlternativeFormOf = (text) => {
+    return text.split("\"")[1];
 }
 
 export default CircassianWordSection;
