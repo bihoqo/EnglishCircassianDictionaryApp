@@ -1,6 +1,6 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import React from 'react';
-import { View, Text, StyleSheet, ToastAndroid, StatusBar } from 'react-native';
+import { View, Text, StyleSheet, ToastAndroid, StatusBar, BackHandler, Alert } from 'react-native';
 import AutocompleteSection from './AutocompleteSection.js';
 import CircassianWordSection from './CircassianWordSection.js';
 import EnglishWordSection from './EnglishWordSection.js';
@@ -12,6 +12,53 @@ const HomePage = () => {
     const [searchedText, setSearchedText] = useState('');
     const [selectedWordObj, setSelectedWordObj] = useState({});
     const [showAutocomplete, setShowAutocomplete] = useState(false);
+    const [historyOfSearchedWords, setHistoryOfSearchedWords] = useState([]);
+    const [numberOfEnglishWords, setNumberOfEnglishWords] = useState(0);
+    const [numberOfCircassianWords, setNumberOfCircassianWords] = useState(0);
+
+    /**
+     * a function that handles the phone's back button press event
+     */
+    const backAction = () => {
+        // check if there is word selection history to go back to,
+        // if there's no history, exist the app otherwise go back to the previous word
+        if (historyOfSearchedWords.length < 2) {
+            Alert.alert("Hold on!", "Are you sure you want to exit the app?", [
+                {
+                    text: "Cancel",
+                    onPress: () => null,
+                    style: "cancel"
+                },
+                { text: "YES", onPress: () => BackHandler.exitApp() }
+            ]);
+        } else {
+            const historyArray = [...historyOfSearchedWords];
+            historyArray.pop();
+            setHistoryOfSearchedWords(historyArray);
+            setSelectedWordObj(historyArray[historyArray.length - 1]);
+        }
+        return true;
+    };
+
+    // handle the phone's back button press event
+    useEffect(() => {
+        BackHandler.addEventListener("hardwareBackPress", backAction);
+        return () => BackHandler.removeEventListener("hardwareBackPress", backAction);
+    }, [historyOfSearchedWords]);
+
+    // calculate the number words in both Circassian and English dictionaries
+    useEffect(() => {
+        let cirWords = 0;
+        let engWord = 0;
+        Object.keys(circassianDict).forEach((key) => {
+            cirWords += circassianDict[key].length;
+        });
+        setNumberOfCircassianWords(cirWords);
+        Object.keys(englishDict).forEach((key) => {
+            engWord += englishDict[key].length;
+        });
+        setNumberOfEnglishWords(engWord);
+    }, []);
 
     /**
      * a funciton that handles the inserted text in the search bar
@@ -44,6 +91,11 @@ const HomePage = () => {
                 showToastWithText(newWord);
             } else {
                 setSelectedWordObj(newWordObj);
+
+                // add new selected wordObj to history
+                const historyArray = [...historyOfSearchedWords];
+                historyArray.push(newWordObj);
+                setHistoryOfSearchedWords(historyArray);
             }
         } else {
             showToastWithText(newWord);
@@ -101,7 +153,7 @@ const HomePage = () => {
      * @param {string} text - the text that was inserted inside the search-bar
      */
     const getFilteredWordsInAutocomplete = (text) => {
-        text = text.toLowerCase();
+        text = text.toLowerCase().trim().split("ӏ").join("1");
         let filteredWords = [];
         if (text.length >= 1) {
             let key = getJsonKey(text);
@@ -122,18 +174,13 @@ const HomePage = () => {
      * there are in both English & Circassian dicitonary
      */
     const numberOfWordsView = () => {
-        let numberOfCircassianWords = 0;
-        let numberOfEnglishWords = 0;
-        Object.keys(circassianDict).forEach((key) => {
-            numberOfCircassianWords += circassianDict[key].length;
-        });
-        Object.keys(englishDict).forEach((key) => {
-            numberOfEnglishWords += englishDict[key].length;
-        });
+        if (numberOfEnglishWords == 0) {
+            return <Text style={styles.numberOfWordsText}>Loading...</Text>
+        }
         return (
             <View>
-                <Text selectable={true} style={styles.numberOfWordsText}>Number of Circassian words: {numberOfCircassianWords}</Text>
-                <Text selectable={true} style={styles.numberOfWordsText}>Number of English words: {numberOfEnglishWords}</Text>
+                <Text selectable={true} style={styles.numberOfWordsText}>Number of Circassian words: {numberOfEnglishWords}</Text>
+                <Text selectable={true} style={styles.numberOfWordsText}>Number of English words: {numberOfCircassianWords}</Text>
             </View>
         )
     }

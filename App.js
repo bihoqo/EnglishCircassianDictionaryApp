@@ -1,5 +1,5 @@
-import React from 'react';
-import { View, Text } from 'react-native';
+import React, { useEffect } from 'react';
+import { View, Text, BackHandler, Alert} from 'react-native';
 import HomePage from './screens/HomePage.js';
 
 export default function App() {
