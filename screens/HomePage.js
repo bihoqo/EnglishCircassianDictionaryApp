@@ -13,7 +13,10 @@ const HomePage = () => {
     const [selectedWordObj, setSelectedWordObj] = useState({});
     const [showAutocomplete, setShowAutocomplete] = useState(false);
 
-    // a funciton that handles the inserted text in the search bar
+    /**
+     * a funciton that handles the inserted text in the search bar
+     * @param {string} insertedText - the inserted text in the search-bar
+     */
     const updateSearch = (insertedText) => {
         setSearchedText(insertedText)
         if (insertedText.length > 0) {
@@ -23,6 +26,10 @@ const HomePage = () => {
         }
     };
 
+    /**
+     * a function that handles selecting a word to display
+     * @param {string} newWord - new word to select
+     */
     const newWordSelectionHandlder = (newWord) => {
         newWord = newWord.toLowerCase();
         setShowAutocomplete(false);
@@ -43,28 +50,44 @@ const HomePage = () => {
         }
     }
 
+    /**
+     * a function that shows a toast with the given tex value
+     * @param {string} textToDisplay - text to display in the toast
+     */
     const showToastWithText = (textToDisplay) => {
         const message = "Couldn't find the word: " + textToDisplay;
-        ToastAndroid.showWithGravity(
-            message,
-            ToastAndroid.SHORT,
-            ToastAndroid.BOTTOM
-        );
+        ToastAndroid.showWithGravity(message, ToastAndroid.SHORT, ToastAndroid.BOTTOM);
     };
 
-    const isWordInEnglish = (searchedText) => {
-        const firstLetter = searchedText.charAt(0).toLowerCase();
+    /**
+     * a funtion that checks if the given word is in the English language,
+     * the way the function determines that is, it checks if the given word
+     * starts in the latin alphabat
+     * @param {string} wordToCheck - the word to check
+     */
+    const isWordInEnglish = (wordToCheck) => {
+        const firstLetter = wordToCheck.charAt(0).toLowerCase();
         return firstLetter.match(/[a-z]/i);
     }
 
-    const getFittingDictionary = (searchedText) => {
-        if (isWordInEnglish(searchedText)) {
+    /**
+     * a function that checks if the given word is in English or Circassian,
+     * and returns the appropiate dictionary json
+     * @param {string} wordToCheck - the word to check from which dictionary it is
+     */
+    const getFittingDictionary = (wordToCheck) => {
+        if (isWordInEnglish(wordToCheck)) {
             return englishDict;
         } else {
             return circassianDict;
         }
     }
 
+    /**
+     * a function that recieves a word and returns the json
+     * key it is belong to in the dictionary json
+     * @param {string} word - the word to check
+     */
     const getJsonKey = (word) => {
         if (word.length === 1) {
             return "oneLetterWords";
@@ -73,8 +96,11 @@ const HomePage = () => {
         }
     }
 
-    // filter current displayed word options
-    const getFilteredWords = (text) => {
+    /**
+     * a funtion that returns the autocomplete options in the search-bar
+     * @param {string} text - the text that was inserted inside the search-bar
+     */
+    const getFilteredWordsInAutocomplete = (text) => {
         text = text.toLowerCase();
         let filteredWords = [];
         if (text.length >= 1) {
@@ -91,6 +117,10 @@ const HomePage = () => {
         return filteredWords;
     }
 
+    /**
+     * a function that returns a View which contains the number of words
+     * there are in both English & Circassian dicitonary
+     */
     const numberOfWordsView = () => {
         let numberOfCircassianWords = 0;
         let numberOfEnglishWords = 0;
@@ -108,11 +138,18 @@ const HomePage = () => {
         )
     }
 
+    /**
+     * a function that returns the AutocompleteSection component with its fitting parameters
+     */
     const autocompleteView = () => {
-        return <AutocompleteSection data={getFilteredWords(searchedText)}
+        return <AutocompleteSection data={getFilteredWordsInAutocomplete(searchedText)}
             selectNewWord={newWordSelectionHandlder} />;
     }
 
+    /**
+     * a function that returns either the English or Circacssian WordSection component,
+     * containing the details of the selected word 
+     */
     const displayedSection = () => {
         if (showAutocomplete) {
             return autocompleteView();
