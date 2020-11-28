@@ -11,8 +11,12 @@ const CircassianWordSection = (props) => {
             const translation = highlightTextBetweenQuotes(example['translation']);
             return (
                 <ListItem.Content key={index} style={styles.definitionContainer}>
-                    <ListItem.Title style={styles.sentenceText}>{sentence}</ListItem.Title>
-                    <ListItem.Title style={styles.translationText}>{translation}</ListItem.Title>
+                    <ListItem.Title selectable={true} style={styles.sentenceText}>
+                        {sentence}
+                    </ListItem.Title>
+                    <ListItem.Title selectable={true} style={styles.translationText}>
+                        {translation}
+                    </ListItem.Title>
                 </ListItem.Content>
             );
         });
@@ -20,7 +24,7 @@ const CircassianWordSection = (props) => {
         return (
             <ListItem>
                 <ListItem.Content>
-                    <ListItem.Title style={styles.meaningText}>
+                    <ListItem.Title selectable={true} style={styles.meaningText}>
                         {(index + 1) + '. ' + item['meaning']}
                     </ListItem.Title>
                     {examples}
@@ -31,12 +35,12 @@ const CircassianWordSection = (props) => {
 
     const header = (
         <View>
-            <Text style={styles.header}>
+            <Text selectable={true} style={styles.header}>
                 <Text style={styles.word}>{wordObj['word']}</Text>
                 <Text>  [{wordObj['ipa']}]</Text>
                 <Text> ({wordObj['type']})</Text>
             </Text>
-            <View style={styles.hr}/>
+            <View style={styles.hr} />
         </View>
     );
 
@@ -46,9 +50,9 @@ const CircassianWordSection = (props) => {
         const synonymsWords = wordObj['synonyms'] != null ? wordObj['synonyms'].join(', ') : '-';
         return (
             <View style={styles.footer}>
-                <Text style={styles.footerText}><Text style={styles.highlight}>Synonyms</Text>: {synonymsWords}</Text>
-                <Text style={styles.footerText}><Text style={styles.highlight}>Shapsug</Text>: {shapsugWord}</Text>
-                <Text style={styles.footerText}><Text style={styles.highlight}>Kabardian</Text>: {kabardianWord}</Text>
+                <Text selectable={true} key={Math.random()}style={styles.footerText}><Text style={styles.highlight}>Synonyms</Text>: {synonymsWords}</Text>
+                <Text selectable={true} style={styles.footerText}><Text style={styles.highlight}>Shapsug</Text>: {shapsugWord}</Text>
+                <Text selectable={true} style={styles.footerText}><Text style={styles.highlight}>Kabardian</Text>: {kabardianWord}</Text>
             </View>
         );
     };
@@ -57,6 +61,7 @@ const CircassianWordSection = (props) => {
         <FlatList
             ListHeaderComponent={header}
             ListFooterComponent={footerFun()}
+            removeClippedSubviews={false}
             data={wordObj['definitions']}
             keyExtractor={(item, index) => index.toString()}
             renderItem={renderDefinitions} />
@@ -106,19 +111,23 @@ const styles = StyleSheet.create({
     }
 });
 
+/**
+ * a functiuon that bolds all the words that are inside a ||
+ * @param {*} text - the text to bold
+ */
 const highlightTextBetweenQuotes = (text) => {
     const split = text.split("|");
     let result = [];
     if (split.length > 0) {
         split.forEach((part, index) => {
             if (index % 2 == 0) {
-                result.push(<Text key={index}>{part}</Text>);
+                result.push(<Text selectable={true} key={index}>{part}</Text>);
             } else {
-                result.push(<Text key={index} style={styles.highlight}>{part}</Text>);
+                result.push(<Text selectable={true} key={index} style={styles.highlight}>{part}</Text>);
             }
         });
     } else {
-        result = [<Text>{text}</Text>];
+        result = [<Text selectable={true}>{text}</Text>];
     }
     return result;
 }

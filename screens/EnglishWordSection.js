@@ -7,7 +7,7 @@ const EnglishWordSection = (props) => {
 
     const renderWords = ({ item, index }) => {
         return (
-            <ListItem onPress={() => props.selectNewWord(item)}>
+            <ListItem onPress={() => props.selectNewWord(removeTextBetweenBrackets(item))}>
                 <ListItem.Content>
                     <ListItem.Title style={styles.meaningText}>
                         {(index + 1) + '. ' + item}
@@ -16,29 +16,21 @@ const EnglishWordSection = (props) => {
             </ListItem>
         );
     }
-
     const createHeader = (title) => (
-        <View>
-            <Text style={styles.typeHeader}>
-                {title}:
-            </Text>
-        </View>
-    )
-
-    const header = (
-        <View>
-            <Text style={styles.header}>
-                <Text style={styles.word}>{wordObj['searchWord']}</Text>
-            </Text>
-            <View style={styles.hr}/>
-            {wordObj['meaning']['lemma'].length > 0 ? createHeader('Lemmas') : null}
-        </View>
+            <View>
+                <Text style={styles.header}>
+                    <Text style={styles.word}>{title}</Text>
+                </Text>
+                <View style={styles.hr} />
+            </View>
     );
 
     const listOfLemmmas = () => {
+        const header = wordObj['meaning']['lemma'].length > 0 ? createHeader(wordObj['searchWord']) : null;
+        const footer = wordObj['meaning']['verb'].length > 0 ? createHeader("to " + wordObj['searchWord']) : null;
         return <FlatList
             ListHeaderComponent={header}
-            ListFooterComponent={wordObj['meaning']['verb'].length > 0 ? createHeader('Verbs') : null}
+            ListFooterComponent={footer}
             data={wordObj['meaning']['lemma']}
             keyExtractor={(item, index) => index.toString()}
             renderItem={renderWords} />
@@ -48,6 +40,7 @@ const EnglishWordSection = (props) => {
         <View style={{ flex: 1 }}>
             <FlatList
                 ListHeaderComponent={listOfLemmmas()}
+                removeClippedSubviews={false}
                 data={wordObj['meaning']['verb']}
                 keyExtractor={(item, index) => index.toString()}
                 renderItem={renderWords} />
@@ -81,5 +74,9 @@ const styles = StyleSheet.create({
         marginRight: 20
     }
 });
+
+const removeTextBetweenBrackets = (text) => {
+    return text.replace(/ *\([^)]*\) */g, "");
+}
 
 export default EnglishWordSection;

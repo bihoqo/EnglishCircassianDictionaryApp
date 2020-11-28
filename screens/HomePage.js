@@ -132,8 +132,8 @@ const HomePage = () => {
         });
         return (
             <View>
-                <Text style={styles.numberOfWordsText}>Number of Circassian words: {numberOfCircassianWords}</Text>
-                <Text style={styles.numberOfWordsText}>Number of English words: {numberOfEnglishWords}</Text>
+                <Text selectable={true} style={styles.numberOfWordsText}>Number of Circassian words: {numberOfCircassianWords}</Text>
+                <Text selectable={true} style={styles.numberOfWordsText}>Number of English words: {numberOfEnglishWords}</Text>
             </View>
         )
     }
