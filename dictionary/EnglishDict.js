@@ -1,4 +1,3 @@
-
 const englishDict = {
   "pr": [
     {
@@ -1139,6 +1138,28 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
+          "лъэкӏын (able to)",
+          "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)",
+          "фэ- (verbal suffix that indicates the capability of performing the action, only applies to transitive verbs)"
+        ],
+        "verbs": []
+      },
+      "word": "able"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "лъэкӏын (able to)",
+          "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)",
+          "фэ- (verbal suffix that indicates the capability of performing the action, only applies to transitive verbs)"
+        ],
+        "verbs": []
+      },
+      "word": "able to"
+    },
+    {
+      "meaning": {
+        "lemmas": [
           "бэкӏай"
         ],
         "verbs": []
@@ -2094,6 +2115,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
+          "-жьы (verbal suffix that designates recurrence/repetition of action)",
           "джыри",
           "джызэ",
           "икӏэрыкӏэу (over again)"
@@ -2548,6 +2570,15 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
+          "-гъах (a verbal suffix that can be used to indicate that the verb was done/complicated)"
+        ],
+        "verbs": []
+      },
+      "word": "already"
+    },
+    {
+      "meaning": {
+        "lemmas": [
           "зэкӏэ",
           "(Shapsug) зэужэу"
         ],
@@ -2717,7 +2748,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ыкӏи"
+          "ыкӏи (as well as, and also)",
+          "-и (a verbal suffix that is used to introduce a clause or sentence which follows on in consequence from the first, meaning there is an emphasize that the second sentence happened because of the first and they are directly related)",
+          "-зэ (a verbal suffix that is used to introduce a clause or sentence which follows on in time from the first, unlike the suffix -и there is no emphasize that the second sentence happened due to the first one, rather, the emphasize is more of the time sequence)"
         ],
         "verbs": []
       },
@@ -4756,7 +4789,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шъыпкъэу"
+          "шъыпкъэу",
+          "-шъыпкъ (really, truly, suffix which is added to adjectives that means very)"
         ],
         "verbs": []
       },
@@ -4988,7 +5022,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къытэгъэзагъэу"
+          "къытегъэзагъэу"
         ],
         "verbs": []
       },
@@ -5723,6 +5757,15 @@ const englishDict = {
         "verbs": []
       },
       "word": "awfully"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "гъэшӏэгъонэу"
+        ],
+        "verbs": []
+      },
+      "word": "awkwardly"
     },
     {
       "meaning": {
@@ -11804,6 +11847,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "ӏон",
+          "риӏон (to say something to someone)",
           "хэӏухьан (to say in a group, to say among peopel)",
           "иӏухьан (to say inside)"
         ]
@@ -13846,6 +13890,15 @@ const englishDict = {
         "verbs": []
       },
       "word": "secretary"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+        ],
+        "verbs": []
+      },
+      "word": "self"
     },
     {
       "meaning": {
@@ -16232,7 +16285,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ыдэжь",
-          "ӏу- (prepositional verval suffix)"
+          "ӏу- (prepositional verval suffix)",
+          "-кӏэ (the instrumental case, a noun case that indicates the tool or thing that was used to perform the action)"
         ],
         "verbs": []
       },
@@ -16241,7 +16295,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ымышӏахэу"
+          "ымышӏахэу",
+          "ӏэкӏэ- (verbal prefix that denotes unintentional actions or actions that occurred unexpectedly)"
         ],
         "verbs": []
       },
@@ -18644,7 +18699,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "лъэкӏын",
-          "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
+          "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)",
+          "фэ- (verbal suffix that indicates the capability of performing the action, only applies to transitive verbs)"
         ],
         "verbs": []
       },
@@ -18655,7 +18711,8 @@ const englishDict = {
         "lemmas": [
           "лъэкӏын",
           "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)",
-          "ӏэпэӏэс / фэкъулай / фэӏэз (capable, able, skilled)"
+          "ӏэпэӏэс / фэкъулай / фэӏэз (capable, able, skilled)",
+          "фэ- (verbal suffix that indicates the capability of performing the action, only applies to transitive verbs)"
         ],
         "verbs": []
       },
@@ -24054,7 +24111,9 @@ const englishDict = {
           "игъэкъугъэ"
         ],
         "verbs": [
-          "ухын / къэухын"
+          "ухын / къэухын",
+          "-гъах (a verbal suffix that can be used to indicate that the verb  was done/complicated)",
+          "-жьы (verbal suffix that indicates completing doing an action)"
         ]
       },
       "word": "complete"
@@ -24696,7 +24755,8 @@ const englishDict = {
           "егъэжьэжьын",
           "ублэжьын",
           "лъыгъэкӏотэн (to advance something, to progress something, to proceed something)",
-          "(dialectal) игъэкъун"
+          "(dialectal) игъэкъун",
+          "-жьы (verbal suffix that indicates the continuation of doing the action)"
         ]
       },
       "word": "continue"
@@ -26455,7 +26515,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ӏотэн / къэӏотэн"
+          "ӏотэн / къэӏотэн (to tell something)",
+          "риӏотэн (to tell something to someone)",
+          "риӏон (to say something to someone)"
         ]
       },
       "word": "tell"
@@ -27125,7 +27187,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ежьхэ"
+          "ежьхэ",
+          "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
         ],
         "verbs": []
       },
@@ -27809,6 +27872,7 @@ const englishDict = {
           "цакӏэ",
           "пытын (to be on the tip of)",
           "пылъын (to be on the tip of)",
+          "пы- (prepositional verbal prefix)",
           "цыпэ",
           "пакӏэ",
           "кӏэ",
@@ -28168,6 +28232,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
+          "-щэ (a suffix that designates excessiveness)",
+          "-ӏо (a suffix that designates slight excessiveness)",
           "бащэ",
           "бащэу",
           "блифыгъэу / блифэу (excessively)",
@@ -28479,6 +28545,16 @@ const englishDict = {
         ]
       },
       "word": "toast (a proposed salutation (e.g. say \"cheers\"))"
+    },
+    {
+      "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "зэгъусэхэу (while being together)",
+          "зэдэ- (verbal prefix indicating together)"
+        ]
+      },
+      "word": "together"
     },
     {
       "meaning": {
@@ -29290,6 +29366,16 @@ const englishDict = {
         "verbs": []
       },
       "word": "travelling-bag"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "шъыпкъэу",
+          "-шъыпкъ (really, truly, suffix which is added to adjectives that means very)"
+        ],
+        "verbs": []
+      },
+      "word": "truly"
     },
     {
       "meaning": {
@@ -32072,6 +32158,15 @@ const englishDict = {
     },
     {
       "meaning": {
+        "lemmas": [
+          "-гъах (a verbal suffix that can be used to indicate that the verb was done/complicated)"
+        ],
+        "verbs": []
+      },
+      "word": "done"
+    },
+    {
+      "meaning": {
         "lemmas": [],
         "verbs": [
           "шӏыжьын",
@@ -33621,6 +33716,16 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
+          "ымышӏахэу",
+          "ӏэкӏэ- (verbal prefix that denotes unintentional actions or actions that occurred unexpectedly)"
+        ],
+        "verbs": []
+      },
+      "word": "unintentionally"
+    },
+    {
+      "meaning": {
+        "lemmas": [
           "зыхэмышӏыкӏырэ"
         ],
         "verbs": []
@@ -33760,7 +33865,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "те- (prepositional verval suffix)"
+          "те- (prepositional verbal suffix)"
         ],
         "verbs": []
       },
@@ -34110,7 +34215,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "рилэжьэн",
-          "гъэфедэн"
+          "гъэфедэн",
+          "гъэпсэолъэн"
         ]
       },
       "word": "use"
@@ -34123,6 +34229,15 @@ const englishDict = {
         "verbs": []
       },
       "word": "usually"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "-кӏэ (the instrumental case, a noun case that indicates the tool or thing that was used to perform the action)"
+        ],
+        "verbs": []
+      },
+      "word": "using"
     },
     {
       "meaning": {
@@ -34155,6 +34270,16 @@ const englishDict = {
         ]
       },
       "word": "utter"
+    },
+    {
+      "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "гъэфедэн",
+          "гъэпсэолъэн"
+        ]
+      },
+      "word": "utilize"
     }
   ],
   "ed": [
@@ -34165,7 +34290,8 @@ const englishDict = {
           "цакӏэ",
           "гъунэ",
           "цыпэ (tip)",
-          "шъхьаӏу (top edge)"
+          "шъхьаӏу (top edge)",
+          "пы- (prepositional verbal prefix)"
         ],
         "verbs": []
       },
@@ -35736,6 +35862,15 @@ const englishDict = {
         "verbs": []
       },
       "word": "everchanging"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "-ми (concessive mood)"
+        ],
+        "verbs": []
+      },
+      "word": "even if"
     }
   ],
   "ew": [
@@ -35888,6 +36023,15 @@ const englishDict = {
         ]
       },
       "word": "violate"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "-кӏэ (the instrumental case, a noun case that indicates the tool or thing that was used to perform the action)"
+        ],
+        "verbs": []
+      },
+      "word": "via"
     },
     {
       "meaning": {
@@ -37975,7 +38119,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "ухын / къэухын"
+          "ухын / къэухын",
+          "-гъах (a verbal suffix that can be used to indicate that the verb  was done/complicated)",
+          "-жьы (verbal suffix that indicates finishing doing an action)"
         ]
       },
       "word": "finish"
@@ -39337,7 +39483,7 @@ const englishDict = {
           "пае",
           "фэшӏ",
           "фэшӏкӏэ",
-          "(uncommon) папкӏэ"
+          "фэ- (verbal prefix that designates action performed for someone\u0027s sake or for some reason)"
         ],
         "verbs": []
       },
@@ -40043,7 +40189,8 @@ const englishDict = {
         "lemmas": [
           "гъогу",
           "лъагъо",
-          "амал (method, way, means)"
+          "амал (method, way, means)",
+          "зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done)"
         ],
         "verbs": []
       },
@@ -40993,6 +41140,15 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
+          "гъэшӏэгъонэу"
+        ],
+        "verbs": []
+      },
+      "word": "weirdly"
+    },
+    {
+      "meaning": {
+        "lemmas": [
           "фэмыф"
         ],
         "verbs": []
@@ -41727,7 +41883,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пэтырэ"
+          "пэтырэ",
+          "-эу (whilte, a verbal suffix that can be used to indicate the period in which the verb was being done)"
         ],
         "verbs": []
       },
@@ -42250,7 +42407,9 @@ const englishDict = {
         "lemmas": [
           "игъусэу",
           "ригъусэу",
-          "дэ- (verbal prefix indicating with)"
+          "дэ- (verbal prefix that designates action performed jointly with somebody)",
+          "-кӏэ (the instrumental case, a noun case that indicates the tool or thing that was used to perform the action)",
+          "ре- (a verbal prefix that designates the verb was done with a tool)"
         ],
         "verbs": []
       },
@@ -47553,6 +47712,15 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
+          "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+        ],
+        "verbs": []
+      },
+      "word": "herself"
+    },
+    {
+      "meaning": {
+        "lemmas": [
           "гушъхьабж"
         ],
         "verbs": []
@@ -47721,7 +47889,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ежь"
+          "ежь",
+          "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
         ],
         "verbs": []
       },
@@ -48211,7 +48380,8 @@ const englishDict = {
         "lemmas": [
           "таущтэу",
           "тэщтэу",
-          "сыдэущтэу"
+          "сыдэущтэу",
+          "зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done)"
         ],
         "verbs": []
       },
@@ -49340,6 +49510,24 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
+          "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+        ],
+        "verbs": []
+      },
+      "word": "yourself"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+        ],
+        "verbs": []
+      },
+      "word": "yourselves"
+    },
+    {
+      "meaning": {
+        "lemmas": [
           "щхыу",
           "щхыузыгъ (labneh)",
           "щэгъэпцӏагъэ"
@@ -49521,6 +49709,15 @@ const englishDict = {
         "verbs": []
       },
       "word": "if that is the case"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "-мэ (conditional mood)"
+        ],
+        "verbs": []
+      },
+      "word": "if"
     },
     {
       "meaning": {
@@ -50792,7 +50989,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "дэ- (prepositional verval suffix)",
+          "дэ- (prepositional verbal suffix)",
           "и- (prepositional suffix)"
         ],
         "verbs": []
@@ -51276,6 +51473,15 @@ const englishDict = {
         "verbs": []
       },
       "word": "it seems like"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+        ],
+        "verbs": []
+      },
+      "word": "itself"
     }
   ],
   "ze": [
@@ -55654,6 +55860,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)",
+          "фэ- (verbal suffix that indicates the capability of performing the action, only applies to transitive verbs)",
           "еӏэзэн (to handle something, to deal with, to manage something)",
           "гъэзекӏон (to manage something or someone)",
           "лъэкӏын / фэлъэкӏын (to manage to do, to be able to do)",
@@ -57321,7 +57528,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ымышӏахэу"
+          "ымышӏахэу",
+          "ӏэкӏэ- (verbal prefix that denotes unintentional actions or actions that occurred unexpectedly)"
         ],
         "verbs": []
       },
@@ -58317,6 +58525,15 @@ const englishDict = {
         "verbs": []
       },
       "word": "myopic"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+        ],
+        "verbs": []
+      },
+      "word": "myself"
     }
   ],
   "na": [
@@ -59333,6 +59550,16 @@ const englishDict = {
     },
     {
       "meaning": {
+        "lemmas": [
+          "-эп (a suffix meaning not)",
+          "мы- (a prefix meaning not)"
+        ],
+        "verbs": []
+      },
+      "word": "not"
+    },
+    {
+      "meaning": {
         "lemmas": [],
         "verbs": [
           "хьаулый",
@@ -60151,7 +60378,7 @@ const englishDict = {
           "ыпшъэкӏэ",
           "ышъхьагъкӏэ",
           "ыкӏыӏукӏэ",
-          "те- (prepositional verval suffix)"
+          "те- (prepositional verbal suffix)"
         ],
         "verbs": []
       },
@@ -60160,7 +60387,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "те- (prepositional verval suffix)"
+          "те- (prepositional verbal suffix)"
         ],
         "verbs": []
       },

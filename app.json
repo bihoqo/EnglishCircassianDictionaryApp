@@ -1,8 +1,13 @@
 {
   "expo": {
-    "name": "englishCircassianDictionary",
-    "slug": "englishcircassiandictionary",
-    "version": "1.0.0",
+    "name": "English-Circassian Dictionary",
+    "slug": "english-circassian-dictionary",
+    "privacy": "public",
+    "sdkVersion": "39.0.0",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -17,13 +22,17 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.learnadyghe.dictionary",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.learnadyghe.dictionary",
+      "versionCode": 2,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "permissions": []
     },
     "web": {
       "favicon": "./assets/favicon.png"

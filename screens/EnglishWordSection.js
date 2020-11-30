@@ -76,7 +76,8 @@ const styles = StyleSheet.create({
 });
 
 const removeTextBetweenBrackets = (text) => {
-    const result = text.replace(/ *\([^)]*\) */g, "");
+    let result = text.replace(/ *\([^)]*\) */g, "").trim();
+    result = result.replace(')', '');
     if (result.includes("/")) {
         return result.split("/")[0].trim();
     } else {
