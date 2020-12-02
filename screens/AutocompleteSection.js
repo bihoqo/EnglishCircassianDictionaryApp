@@ -1,12 +1,12 @@
 import { ListItem } from 'react-native-elements';
 import React from 'react';
-import { FlatList, ScrollView } from 'react-native';
+import { FlatList, Keyboard } from 'react-native';
 
 const AutocompleteSection = (props) => {
 
     const renderWords = ({item}) => {
         return (
-            <ListItem onPress={() => props.selectNewWord(item)}>
+            <ListItem onPress={() => wordOnPressHandler(item)}>
                 <ListItem.Content>
                     <ListItem.Title>
                         {item}
@@ -16,8 +16,16 @@ const AutocompleteSection = (props) => {
         );
     }
 
+    const wordOnPressHandler = (item) => {
+        props.selectNewWord(item);
+        Keyboard.dismiss();
+    }
+
     return (
-        <FlatList data={props.data} keyExtractor={(item, index) => index.toString()} renderItem={renderWords} />
+        <FlatList keyboardShouldPersistTaps='handled'
+            data={props.data}
+            keyExtractor={(item, index) => index.toString()}
+            renderItem={renderWords} />
     );
 }
 

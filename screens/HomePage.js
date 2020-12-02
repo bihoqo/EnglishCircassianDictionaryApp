@@ -16,7 +16,7 @@ const HomePage = () => {
     const [numberOfEnglishWords, setNumberOfEnglishWords] = useState(0);
     const [numberOfCircassianWords, setNumberOfCircassianWords] = useState(0);
 
-    const appVersion = "v1.0.1";
+    const appVersion = "v1.0.2";
 
     /**
      * a function that handles the phone's back button press event

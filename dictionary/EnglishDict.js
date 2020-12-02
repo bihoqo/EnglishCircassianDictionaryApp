@@ -13175,7 +13175,9 @@ const englishDict = {
           "джамбырыу"
         ],
         "verbs": [
-          "(vulgar) пӏысын"
+          "пыгъэчэрэзэн",
+          "пыгъэчэрэгъон",
+          "пыгъэчэрэзыхьан"
         ]
       },
       "word": "screw"
@@ -23150,7 +23152,7 @@ const englishDict = {
           "къогъу",
           "къуачӏэ",
           "къуапэ",
-          "(dialectal) къурнэ"
+          "къогъонэ"
         ],
         "verbs": []
       },
@@ -47087,6 +47089,14 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
+          "сэлам"
+        ]
+      },
+      "word": "hello"
+    },
+    {
+      "meaning": {
+        "lemmas": [
           "ӏэхъогъу",
           "ӏэхъогъу"
         ],
@@ -47817,6 +47827,14 @@ const englishDict = {
     }
   ],
   "hi": [
+    {
+      "meaning": {
+        "lemmas": [
+          "сэлам"
+        ]
+      },
+      "word": "hi"
+    },
     {
       "meaning": {
         "lemmas": [
