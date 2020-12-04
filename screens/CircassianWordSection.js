@@ -1,6 +1,7 @@
 import React from 'react';
 import { FlatList, View, Text, StyleSheet } from 'react-native';
 import { ListItem } from 'react-native-elements';
+import { convertToLatin } from './GlobalFunctions.js';
 
 const CircassianWordSection = (props) => {
     const wordObj = props.selectedWordObj;
@@ -8,12 +9,20 @@ const CircassianWordSection = (props) => {
     const renderDefinitions = ({ item, index }) => {
         const examples = item['examples'].map((example, index) => {
             const sentence = highlightTextBetweenQuotes(example['sentence']);
+            const latinSentence = highlightTextBetweenQuotes(convertToLatin(example['sentence']));
             const translation = highlightTextBetweenQuotes(example['translation']);
+
+            const latinSentencesSection = (
+                <ListItem.Title selectable={true} style={styles.latinSentenceText}>
+                    {latinSentence}
+                </ListItem.Title>
+            )
             return (
                 <ListItem.Content key={index} style={styles.definitionContainer}>
                     <ListItem.Title selectable={true} style={styles.sentenceText}>
                         {sentence}
                     </ListItem.Title>
+                    {props.checkedShowLatin ? latinSentencesSection : null}
                     <ListItem.Title selectable={true} style={styles.translationText}>
                         {translation}
                     </ListItem.Title>
@@ -45,6 +54,7 @@ const CircassianWordSection = (props) => {
         <View>
             <Text selectable={true} style={styles.header}>
                 <Text style={styles.word}>{wordObj['word']}</Text>
+                {props.checkedShowLatin ? <Text style={styles.wordInLatin}> {convertToLatin(wordObj['word'])}</Text> : null}
                 <Text>  [{wordObj['ipa']}]</Text>
                 <Text> ({wordObj['type']})</Text>
             </Text>
@@ -58,7 +68,7 @@ const CircassianWordSection = (props) => {
         const synonymsWords = wordObj['synonyms'] != null ? wordObj['synonyms'].join(', ') : '-';
         return (
             <View style={styles.footer}>
-                <Text selectable={true} key={Math.random()}style={styles.footerText}><Text style={styles.highlight}>Synonyms</Text>: {synonymsWords}</Text>
+                <Text selectable={true} key={Math.random()} style={styles.footerText}><Text style={styles.highlight}>Synonyms</Text>: {synonymsWords}</Text>
                 <Text selectable={true} style={styles.footerText}><Text style={styles.highlight}>Shapsug</Text>: {shapsugWord}</Text>
                 <Text selectable={true} style={styles.footerText}><Text style={styles.highlight}>Kabardian</Text>: {kabardianWord}</Text>
             </View>
@@ -82,11 +92,17 @@ const styles = StyleSheet.create({
     },
     header: {
         paddingTop: 10,
-        paddingLeft: 10
+        paddingLeft: 10,
+        paddingRight: 3
     },
     word: {
         fontSize: 30,
         fontWeight: "bold"
+    },
+    wordInLatin: {
+        fontSize: 30,
+        fontWeight: "bold",
+        color: '#33CC33'
     },
     highlight: {
         fontWeight: "bold",
@@ -111,6 +127,12 @@ const styles = StyleSheet.create({
     sentenceText: {
         fontSize: 19,
         color: 'black'
+    },
+    latinSentenceText: {
+        fontSize: 19,
+        color: '#33CC33',
+        paddingTop: 5,
+        paddingBottom: 5
     },
     translationText: {
         fontSize: 19,

@@ -123,20 +123,6 @@ const circassianDict = {
       ]
     }
   ],
-  "аӏ": [
-    {
-      "ipa": "aːʔʷəwət͡s",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "аӏууц",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "lily"
-        }
-      ]
-    }
-  ],
   "аг": [
     {
       "ipa": "aːgʷaɕ",
@@ -3972,914 +3958,6 @@ const circassianDict = {
       ]
     }
   ],
-  "ӏа": [
-    {
-      "etymology": "From ӏэ (hand) + пэ (nose)",
-      "ipa": "ʔaːpa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏапэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Бжьахъом |ыӏапэ| шъоур пэтӏэтӏы",
-              "translation": "The honey is drizziling from |the hand| of the bee-keeper."
-            }
-          ],
-          "meaning": "hand (more specifically: upper surface of the hand)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːʃa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏашэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пыйхэр къакӏох |ӏашэхэр| аӏыгъэхэу",
-              "translation": "The foes are coming holding |weapons|."
-            },
-            {
-              "sentence": "Дзэкӏолӏ сэлъэгъу |ӏашэ| ыӏыгъэу",
-              "translation": "I see a soldier holding |a weapon|."
-            },
-            {
-              "sentence": "Шъугущыӏэнэу шъукъэкӏуагъэмэ |шъуиӏашэр| чӏыгум тежъудзэх",
-              "translation": "If you guys came to talk throw |your arms| onto the ground."
-            },
-            {
-              "sentence": "Пацифистыр заом хэхьагъ |ӏашэнчъэу|",
-              "translation": "The pacifist entered the war |armlessly|"
-            }
-          ],
-          "meaning": "weapon, arms"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːɬən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏалъын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэлъын\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapʂaχʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏапшъэхъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэпшъэхъу\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapʂaχʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏащэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сянэ |ӏащэ|, ыӏыгъэ зэкӏэр къыӏэпэзы",
-              "translation": "My mother is |clumsy|, she drops everything she holds."
-            }
-          ],
-          "meaning": "clumsy"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːda",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏадэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ӏадэмкӏэ| лыр къештэ",
-              "translation": "The boy is lifting the meat |with the tongs|."
-            },
-            {
-              "sentence": "Кӏалэм ӏадэр ышти, машӏом хэӏэбагъ",
-              "translation": "The boy lifted the |tongs| and reached into the fire [with it]."
-            }
-          ],
-          "meaning": "tongs (An instrument or tool used for manipulating things in a fire without touching them with the hands)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ӏадэмкӏэ| гъучӏыӏунэр къыхитхъыгъ",
-              "translation": "The boy took out the nail |with the pliers|."
-            }
-          ],
-          "meaning": "pliers"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "фэӏаз"
-      ],
-      "ipa": "ʔaːza",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏазэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр джэгухэмкӏэ |ӏазэ|",
-              "translation": "The boy |is skilled| with games."
-            },
-            {
-              "sentence": "Кӏалэр джэгухэмкӏэ |ӏазэу| джэгугъ",
-              "translation": "The boy played the game |skillfully| with games."
-            },
-            {
-              "sentence": "Лӏым унэхэр |ӏазэу| ешӏых",
-              "translation": "The man is building houses |skillfully|."
-            }
-          ],
-          "meaning": "skilled; skillful"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Ар бжьэхъо |ӏаз|, ау бжьэхъон ӏэнатӏэм фаеп",
-              "translation": "He is an beekeeper |expert|, but he does not want to be in a beekeeping job."
-            }
-          ],
-          "meaning": "expert"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːɬmaq",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏалъмэкъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэлъмэкъ\""
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏэлгьанэ",
-      "ipa": "ʔald͡ʒaːana",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏалджанэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэлджанэ\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːsaw",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "ӏасэу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "meekly"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːsa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏасэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Цӏыф |ӏас|",
-              "translation": "|Well-behaved| person."
-            }
-          ],
-          "meaning": "well-behaved"
-        },
-        {
-          "examples": [],
-          "meaning": "meek (humble, non-boastful, modest, meager, or self-effacing)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Хьэр |ӏасэ|",
-              "translation": "The dog |is tamed|."
-            },
-            {
-              "sentence": "Шы |ӏас|",
-              "translation": "A |tamed| horse."
-            }
-          ],
-          "meaning": "tamed"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːpʂ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏапшъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм |ыӏапшъэ| ӏэпшъэхъу илъ",
-              "translation": "There is a bracelet in the girl\u0027s |wrist|."
-            }
-          ],
-          "meaning": "wrist"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔabɣ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏабг",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "platform for drying crops raised on four legs"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːʃʷʼə ʔʷəʃʷʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏашӏу-ӏушӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэшӏу-ӏушӏу\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏашӏу-ӏушӏу"
-      ],
-      "ipa": "ʔaːʃʷʼə ʔʷəʃʷʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏашӏуӏушӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏашӏу-ӏушӏу\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaʂħa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏашъхьэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "джэнэ |ӏашъхь|",
-              "translation": "|The sleeve| of a shirt."
-            }
-          ],
-          "meaning": "sleeve"
-        },
-        {
-          "examples": [],
-          "meaning": "forearm"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaʃʷʼə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏашӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэшӏу\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːna",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏанэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏанэхэр| шъхьаф-шъхьафэу къэхьых",
-              "translation": "Bring the |tables| separately."
-            },
-            {
-              "sentence": "Лагъэхэр |ӏанэм| ыкӏыӏу тешъулъхьэх",
-              "translation": "Put the plates on the surface of |the table|."
-            },
-            {
-              "sentence": "Кӏалэр |ӏанэм| кӏэлъыс",
-              "translation": "The boy is sitting on |the table|."
-            },
-            {
-              "sentence": "Унагъор |ӏанэм| ӏус",
-              "translation": "The family is sitting around |the table|."
-            },
-            {
-              "sentence": "Кӏалэм пхъэнтӏэкӏухэр |ӏанэм| кӏэлъырыгъэуцуагъэх",
-              "translation": "The boy placed the chairs next to |the table|."
-            },
-            {
-              "sentence": "|ӏанэр| тазэу щыт",
-              "translation": "|The table| is standing crookedly."
-            }
-          ],
-          "meaning": "table"
-        },
-        {
-          "examples": [],
-          "meaning": "table (three-legged)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːja",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏае",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Цӏыфы |ӏае|",
-              "translation": "|Ugly| man."
-            }
-          ],
-          "meaning": "ugly"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Шхын |ӏае|",
-              "translation": "|Bad tasting| food."
-            },
-            {
-              "sentence": "Сянэ шхын |ӏае| непэ къишӏыгъ",
-              "translation": "My mother made a |bad tasting| food today."
-            }
-          ],
-          "meaning": "bad-tasting; bad taste; distasteful"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |ӏаеу| мэгущыӏэ.",
-              "translation": "The boy is speaking |rudely|."
-            },
-            {
-              "sentence": "Ужэ гущыӏэ |ӏаехэр| къыдэмыкъэкӏ.",
-              "translation": "Don\u0027t let |rude| words slip your mouth."
-            },
-            {
-              "sentence": "Кӏалэм |ӏаеу| зешӏы.",
-              "translation": "The boy is acting |indecently|."
-            },
-            {
-              "sentence": "|ӏаеу| къысэплъы лӏыр.",
-              "translation": "The man is looking at me |indecently|."
-            }
-          ],
-          "meaning": "indecent; rude; inappropriate"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Жьыр |ӏаеу| къэлъагъо",
-              "translation": "Vomit looks |nasty|."
-            }
-          ],
-          "meaning": "disgusting; nasty"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|ӏае| хъугъэр",
-              "translation": "What happened is |horrible|."
-            },
-            {
-              "sentence": "цӏыфы  |ӏаежъ|",
-              "translation": "|Awful| person."
-            }
-          ],
-          "meaning": "awful; horrible"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːpɬʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏаплӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пхъэ |ӏаплӏэ|",
-              "translation": "|Handful| of woods."
-            },
-            {
-              "sentence": "|ӏаплӏэр| уӏитӏукӏэ зэкӏэбыубытэшъущтыр ары",
-              "translation": "|Armful| is how much you can grab in both of your hands."
-            },
-            {
-              "sentence": "Кӏалэм пхъэхэр зы |ӏаплӏэкӏэ| къыхьыгъ",
-              "translation": "The boy brought the woods in one |armful|."
-            }
-          ],
-          "meaning": "armful; handful"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм ыянэ |ӏаплӏ| рищэкӏыгъ",
-              "translation": "The girl |hugged| her mother."
-            },
-            {
-              "sentence": "Пшъашъэр |ӏаплӏэ| ещэкӏыкӏэ къэспэгъокӏыгъ",
-              "translation": "The girl greeted me |with a hug|."
-            }
-          ],
-          "meaning": "hug"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːpɬʼjaɕat͡ʃʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏаплӏещэкӏ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏаплӏещэкӏэр| ӏитӏумкӏэ зыгорэ зэкӏэбыубытэныр ары",
-              "translation": "|Hug| is grabbing someone with both hands."
-            },
-            {
-              "sentence": "Пшъашъэр |ӏаплӏещэнӏыкӏэ| къэспэгъокӏыгъ",
-              "translation": "The girl greeted me |with a hug|."
-            }
-          ],
-          "meaning": "hug"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏэгьэ",
-      "ipa": "ʔaːd͡ʒa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏаджэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏаджи| шӏагъи, еджапӏэхэр щыӏагъэхэп",
-              "translation": "|Long| time ago, there weren\u0027t schools."
-            },
-            {
-              "sentence": "Цӏыф |Iаджи| къысӏукӏагъ",
-              "translation": "I met with |many| people."
-            },
-            {
-              "sentence": "Ащ |ӏаджи| ылъэгъугъ",
-              "translation": "He saw |many| things."
-            },
-            {
-              "sentence": "Ащ |ӏаджи| ышӏагъ",
-              "translation": "He did |many| things."
-            }
-          ],
-          "meaning": "many"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "пылэлын",
-        "къыпылэлын",
-        "къелэлэхын"
-      ],
-      "ipa": "ʔaːjaw",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "ӏаеу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Быракъыр кӏыхьащэшъ, |ӏаеу| унэм къыпэщы",
-              "translation": "Because the flag is too long, it sticks out |badly| from the house."
-            },
-            {
-              "sentence": "Унэр |ӏаеу| щыт",
-              "translation": "The house is standing |badly|."
-            },
-            {
-              "sentence": "Пкъэур |ӏаеу| щыт, тӏэкӏу ӏонтагъ",
-              "translation": "The pillar is standing |badly|, it is bended a bit."
-            },
-            {
-              "sentence": "Шхыныр ӏаеу къикӏыгъ",
-              "translation": "The food turned out |awfully|."
-            }
-          ],
-          "meaning": "badly, horribly, awfully"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ӏаеу| мэзекӏо.",
-              "translation": "The boy is behaving |inappropriately|."
-            },
-            {
-              "sentence": "|ӏаеу| къысэплъы лӏыр.",
-              "translation": "The man is looking at me |indecently|."
-            }
-          ],
-          "meaning": "inappropriately; indecently"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːpʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏапӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Унэгъо |ӏапӏ|",
-              "translation": "The |belongings| of the family."
-            }
-          ],
-          "meaning": "things, belongings"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыр шъофым хахьи пхъэ |ӏапӏэ| чылэм къихьыжьыгъ",
-              "translation": "The man went to the fields and brought |a bundle| of wood to the village."
-            },
-            {
-              "sentence": "Цумпэ |ӏапӏэ| кӏалэм къыхьыгъ",
-              "translation": "The boy brought a |bunch| of strawberries."
-            }
-          ],
-          "meaning": "bundle, bunch; fascicle"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Мые |ӏапӏэ| матэм къих",
-              "translation": "Take |a handful of| apples from the basket."
-            },
-            {
-              "sentence": "Кӏалэм былым |ӏапӏэ| иӏ",
-              "translation": "The boy has |a handful of| fortune."
-            }
-          ],
-          "meaning": "a handful of; an armful of"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏаплӏэ фэшӏын"
-      ],
-      "ipa": "ʔaːpɬʼa jaɕat͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏаплӏэ ещэкӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм ыянэ |ӏаплӏэ рищэкӏыгъ|",
-              "translation": "The girl |hugged| her mother."
-            }
-          ],
-          "meaning": "to hug"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏаплӏэ ещэкӏын"
-      ],
-      "ipa": "ʔaːpɬʼa faʃʼən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏаплӏэ фэшӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм ыянэ |ӏаплӏэ ришӏыгъ|",
-              "translation": "The girl |hugged| her mother."
-            }
-          ],
-          "meaning": "to hug"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːħ xaɬħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏахь хэлъхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хэтрэ цӏыфыми |иӏахь| ӏофым |хилъхьэмэ|, ӏофыр псынкӏэу тыухыщт",
-              "translation": "|If| each person |contributes| to the work, we will finish work quickly."
-            }
-          ],
-          "meaning": "to contribute; to put one\u0027s share in"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːħ xaɬħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏахь хэлъын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ахъщэм |сиӏахь хэлъ|",
-              "translation": "|I have a share| in the money."
-            }
-          ],
-          "meaning": "to have a share in"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏахъуэ",
-      "synonyms": [
-        "хъуакӏо"
-      ],
-      "ipa": "ʔaχʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏахъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏахъор| цӏыфэу былымхэр зыгъэхъухэрэр ары",
-              "translation": "|Herdsman| is the person that herds cattle."
-            },
-            {
-              "sentence": "|ӏахъом| былымыхэр ефых",
-              "translation": "|The herdsman| drives the cattle."
-            },
-            {
-              "sentence": "Лӏым |ӏахъоу| ӏоф ешӏэ",
-              "translation": "The man is doing a job |as a herdsman|."
-            },
-            {
-              "sentence": "|ӏахъор| кӏуагъэ",
-              "translation": "|The herdsman| went."
-            }
-          ],
-          "meaning": "herdsman, herder"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːʃatnt͡ʂa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏашэнчъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Дзэкӏолӏыхэр |ӏашэнчъэу| зэуапӏэм къыщаукӏыгъэх",
-              "translation": "The soldiers |armlessly| were killed in the battle field."
-            },
-            {
-              "sentence": "Медикыр |ӏашэнчъэу| заом хахьэ цӏыфымэ аӏэзэнэу",
-              "translation": "The medic enters the war |armless| to treat people."
-            }
-          ],
-          "meaning": "armless, one that has no arms / weapons."
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːʃatnt͡ʂ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏашэнчъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏашэнчъэ\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏашӏу ӏушӏу"
-      ],
-      "ipa": "ʔaːʃʷʼə ʔʷəʃʷʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏашӏу-ӏушӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэшӏу-ӏушӏу\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːɮə",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏалы",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "wild (animal); untamed"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːħ-maq",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏахьмакъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэхьмакъ\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːħ-maq",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏахь-макъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэхьмакъ\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːħ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏахь",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым |иӏахьэ| ратыжьыгъ",
-              "translation": "They gave the man |his part of the portion|."
-            },
-            {
-              "sentence": "Лӏым |ӏахьэу| хилъхьагъэр бэ",
-              "translation": "The man\u0027s |contribution| is a lot."
-            },
-            {
-              "sentence": "Сшы |сиӏахь| къызтрихыгъ",
-              "translation": "My brother took |my share|."
-            },
-            {
-              "sentence": "Унагъом мэл заукӏым, ягъунэгъу лӏыжъым |ӏахьэ| фарагъэхьыгъ",
-              "translation": "When the family killed a sheep, they gave their neighbor old-man |his share|."
-            }
-          ],
-          "meaning": "share; part; portion"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːħəɮ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏахьыл",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ӏахьыл| бэ иӏ",
-              "translation": "The boy has a lot of |relatives|."
-            },
-            {
-              "sentence": "|Сиӏахьылхэр| тыунэ щышхэщтых",
-              "translation": "|My relatives| will eat in our house."
-            },
-            {
-              "sentence": "Куджаныр |сиӏахьыл| чыжь",
-              "translation": "Kujan |is my| far |relative|."
-            }
-          ],
-          "meaning": "relative (someone in the same family; someone connected by blood, marriage, or adoption)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːʃt͡ʃʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏашкӏ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "осы ӏашкӏ",
-              "translation": "snowball."
-            }
-          ],
-          "meaning": "clod"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "хьэкъуашъо"
-      ],
-      "ipa": "ʔaːnɬa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏанлъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "trough"
-        },
-        {
-          "examples": [],
-          "meaning": "washing tub"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːt͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏакӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Сӏакӏ| мэузы",
-              "translation": "|My wrist| hurts"
-            }
-          ],
-          "meaning": "wrist"
-        }
-      ]
-    }
-  ],
   "ба": [
     {
       "synonyms": [
@@ -6761,20 +5839,6 @@ const circassianDict = {
             }
           ],
           "meaning": "rime; hoarfrost; frozen dew"
-        }
-      ]
-    }
-  ],
-  "ӏе": [
-    {
-      "ipa": "ʔajɬən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏелъын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэлъын\""
         }
       ]
     }
@@ -11408,914 +10472,6 @@ const circassianDict = {
       ]
     }
   ],
-  "ӏо": [
-    {
-      "ipa": "ʔʷanəʁʷamaːz",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏоныгъомаз",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "September"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏуэху",
-      "ipa": "ʔʷaf",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏоф",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏофы\""
-        }
-      ]
-    },
-    {
-      "ipa": "baːkʷal",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофтабг",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "commissionaire"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "бгылъэ"
-      ],
-      "ipa": "ʔʷaʂħaːɬa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏошъхьалъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "hilly"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏуэху",
-      "ipa": "ʔʷafə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Джы |ӏофы| бэ сышӏэн фай",
-              "translation": "Now I need to do a lot of |work|."
-            },
-            {
-              "sentence": "|ӏофы| бэ сиӏ",
-              "translation": "I have a lot of |work|."
-            },
-            {
-              "sentence": "|ӏофым| макӏо кӏалэр",
-              "translation": "The young man is going to |work|."
-            },
-            {
-              "sentence": "|ӏофы| бэм тыхэбдзагъ о",
-              "translation": "You gave us a lot of |work|"
-            },
-            {
-              "sentence": "|ӏофым| сыкӏощт",
-              "translation": "I will go to |work|"
-            },
-            {
-              "sentence": "Сэ |ӏофы| сылъэхъу",
-              "translation": "I am looking for a |job|."
-            },
-            {
-              "sentence": "Илъэс хъугъэ |ӏофы| зэсымыгъотыр",
-              "translation": "It have already been a year since I couldn\u0027t find a |job|."
-            },
-            {
-              "sentence": "Жъэжъащэу шъолажьэ, мыщтэу иуахътэкӏэ |ӏофыр| тыухыщтэп",
-              "translation": "You guys work too slowly, we won\u0027t finish |the job| in time this way."
-            },
-            {
-              "sentence": "|ӏофэу| сышӏагъэмкӏэ укъэсфэразэба?",
-              "translation": "Aren\u0027t you pleased with me |with the work| I done?"
-            },
-            {
-              "sentence": "|ӏоф| къиным сышӏокӏышъугъ",
-              "translation": "I managed to avoid the hard |work|."
-            },
-            {
-              "sentence": "Кӏалэм сгу фэузы |иӏофкӏэ| къин ехъути",
-              "translation": "I feel bad for the boy because he suffers |in work|."
-            },
-            {
-              "sentence": "Лӏыр а |ӏофым| ӏут илъэсипшӏэ",
-              "translation": "The man has been in that |work| for ten years."
-            }
-          ],
-          "meaning": "work; job"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|ӏофы| сиӏ",
-              "translation": "I have |a job|."
-            },
-            {
-              "sentence": "Сыд |уиӏоф|",
-              "translation": "What is |your job|?"
-            }
-          ],
-          "meaning": "job"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Ар |ӏофа|?",
-              "translation": "Is that |a problem|?"
-            },
-            {
-              "sentence": "Ар |ӏофэп|",
-              "translation": "That is not |a problem|."
-            },
-            {
-              "sentence": "|ӏофым| сыхэт",
-              "translation": "I am in a |problem|."
-            }
-          ],
-          "meaning": "problem"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "лэжьапӏэ"
-      ],
-      "ipa": "ʔʷafʃʼaːpʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофшӏапӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ӏофшӏапӏэм| кӏуагъэ лэжьэнэу",
-              "translation": "The boy went to |the working place| to work."
-            }
-          ],
-          "meaning": "workplace; worksite"
-        },
-        {
-          "examples": [],
-          "meaning": "factory"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaʑən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏожьын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Коцыр |ӏожьын|",
-              "translation": "|To thresh| the wheat."
-            }
-          ],
-          "meaning": "to thresh"
-        }
-      ]
-    },
-    {
-      "kabardian": "жыӏэн",
-      "ipa": "ʔʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "кӏалэм гущыӏэр |еӏо|",
-              "translation": "The boy |is saying| the word."
-            },
-            {
-              "sentence": "лӏым хъуанэ |къыӏорэп|",
-              "translation": "The man |is not saying| a swear word."
-            },
-            {
-              "sentence": "хэт о ар |къыозыӏуагъэр|?",
-              "translation": "who |said| that to you?"
-            },
-            {
-              "sentence": "|сыӏуагъэр| тучаным укӏон фай",
-              "translation": "|what I said is|, you need to go to the shop"
-            },
-            {
-              "sentence": "сыд |уӏуагъэр|?",
-              "translation": "what |you said|?"
-            },
-            {
-              "sentence": "Сцӏэ |къапӏомэ| уцӏэ |къэсӏожьыщт|",
-              "translation": "|If you say| my name, |I will say| yours."
-            }
-          ],
-          "meaning": "to say something"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "лӏыжъыр кӏон |еӏо|",
-              "translation": "The old man |is trying| to go."
-            },
-            {
-              "sentence": "сыкъэгущыӏэн |сэӏо|",
-              "translation": "|I am trying| to speak."
-            },
-            {
-              "sentence": "пчъэр ӏухын |ӏо|, егъэтыгъэмэ тегъэплъ",
-              "translation": "|Try| to open the door, let\u0027s see if it is locked."
-            },
-            {
-              "sentence": "кӏалэм сыдэгущыӏэн |сыӏуагъ|, ау цӏыфыр къэдаӏорэп",
-              "translation": "|I tried| talking with the boy, but the dude doesn\u0027t listen."
-            },
-            {
-              "sentence": "кӏалэр километыр чъэн |ыӏуагъ|",
-              "translation": "the boy |tried| to run one kilometer."
-            },
-            {
-              "sentence": "Кӏалэм Адыгэбзэкӏэ гущыӏакӏэ зэригъэшӏэн |еӏо|",
-              "translation": "The boy |is trying| to learn how to speak the Adyghe language."
-            },
-            {
-              "sentence": "Тыгъуакӏор тучаным чӏэкӏошъэн |ыӏозэ| къаубытыгъ",
-              "translation": "The thief |tried| to sneak into the store but he got caught."
-            },
-            {
-              "sentence": "Хьакӏэр ежьэжьын |ыӏуагъ| шъхьакӏэм, бысымым ригъэжьэжьыгъэп",
-              "translation": "The guest |tried| to head back, however the host didn\u0027t let him to head back."
-            }
-          ],
-          "meaning": "to attempt, to try (to do something)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Атакъэр |маӏо|",
-              "translation": "The rooster |crows|."
-            }
-          ],
-          "meaning": "to crow; to make the shrill sound characteristic of a rooster"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaxən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏохын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "Misspelled of \"ӏухын\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷafʃʼaʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофшӏэгъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏофшӏэгъу| дэгъухэр сиӏэх",
-              "translation": "I have nice |colleagues|."
-            }
-          ],
-          "meaning": "colleague"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷafʃʼan",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофшӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |иӏофшӏэн| ыгъэцэкӏагъ",
-              "translation": "The boy committed |his tasks|."
-            }
-          ],
-          "meaning": "assignment, task, work (work to do; work to be done)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷafʃʼanənt͡ʂa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофшӏэнынчъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏофшӏэнынчъэу| мы къэралыгъом исыр бэ дэд",
-              "translation": "There are too many |unemployed| people in this country."
-            }
-          ],
-          "meaning": "unemployed; workless; jobless"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "гущыӏал",
-        "гущыӏэрый",
-        "жэмыӏан",
-        "жэмачыу",
-        "шъхьарыгущыӏ"
-      ],
-      "ipa": "ʔʷarʐʷar",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏоржъор",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Цӏыф |ӏоржъор|",
-              "translation": "A |babbler| person."
-            }
-          ],
-          "meaning": "twaddler, babbler"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷarəʃʼa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏорышӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "кӏэлэцӏыкӏу |ӏорышӏэх|",
-              "translation": "|An obedient| child."
-            }
-          ],
-          "meaning": "obedient, dutiful, a person that obeys"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaʁʷaɬħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏогъолъхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Къалэмкӏэ, цӏыфы унэнчъэхэр гъогум |ӏогъуалъхьэх|",
-              "translation": "In the city, homeless people |lie down near| the streets."
-            }
-          ],
-          "meaning": "to lie down near"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏуртӏагъ"
-      ],
-      "ipa": "ʔʷantaːʁ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏонтагъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чъыгыр |ӏонтагъ|",
-              "translation": "The tree |is crooked|."
-            },
-            {
-              "sentence": "Сурэтыр дэпкъым |ӏонтагъэу| пылъэгъагъэти сыгъэузэнкӏыжьыгъ",
-              "translation": "Because the picture was hanging |crookedly| on the wall, I straighten it."
-            }
-          ],
-          "meaning": "curve, crooked (set at an angle, not vertical or square)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|ӏонтагъэу| отхэ",
-              "translation": "You write |crookedly|."
-            },
-            {
-              "sentence": "Уихъурай |ӏонтагъ|",
-              "translation": "Your circle |is crooked|."
-            },
-            {
-              "sentence": "Пкъэур ӏаеу щыт, тӏэкӏу |ӏонтагъ|",
-              "translation": "The pillar is standing badly, it is |crooked| a bit."
-            }
-          ],
-          "meaning": "curve, crooked (not straight; having one or more bends or angles)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|ӏонтагъ| къапӏорэр",
-              "translation": "What you\u0027re saying |is wrong|"
-            },
-            {
-              "sentence": "Джэуап |ӏонтагъ| епдзыгъэр",
-              "translation": "You signed the |wrong| answer."
-            },
-            {
-              "sentence": "Джэуап |ӏонтагъ| лӏым уптымэ, угъэгубжьыщт",
-              "translation": "If you give the |wrong| answer to the man, he will get angry."
-            }
-          ],
-          "meaning": "incorrect, wrong"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏофшӏакӏо",
-        "лэжьакӏо"
-      ],
-      "ipa": "ʔʷafəʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофышӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чылэм |иӏофышӏэхэр| къэкӏуагъэх унэр ашӏынэу",
-              "translation": "The village\u0027s |toilers| came to build a house."
-            }
-          ],
-          "meaning": "toiler; worker; a person who toils or labors"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏофышӏэ",
-        "лэжьакӏо"
-      ],
-      "ipa": "ʔʷafəʃʼaːkʷʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофшӏакӏо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чылэм |иӏофшӏакӏохэр| къэкӏуагъэх унэр ашӏынэу",
-              "translation": "The village\u0027s |toilers| came to build a house."
-            }
-          ],
-          "meaning": "toiler; worker; a person who toils or labors"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷafʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофшӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏофышӏэ\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷataʐ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏотэжъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "fairy tale"
-        },
-        {
-          "examples": [],
-          "meaning": "old story"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷatan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏотэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"къэӏотэн\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "лэжьапкӏ"
-      ],
-      "ipa": "ʔʷafʃʼaːpt͡ʃʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофшӏапкӏ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "salary; wage; alternative form of \"лэжьапкӏ\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaftħaːbz",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофтхьабз",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сыдрэ |ӏофтхьабзи| бзыпхъэ ищыкӏагъ",
-              "translation": "Each |subject| needs a pattern."
-            }
-          ],
-          "meaning": "subject; topic"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷarʃʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏорышӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |мэӏуарышӏэ|",
-              "translation": "The boy |obeys|."
-            },
-            {
-              "sentence": "Сэ |сэӏуарышӏэ|",
-              "translation": "|I obeyed|."
-            },
-            {
-              "sentence": "О |уӏорышӏагъэп|",
-              "translation": "|You did not obey|."
-            },
-            {
-              "sentence": "Кӏалэр |ӏорышӏагъ|",
-              "translation": "The boy |obayed|."
-            },
-            {
-              "sentence": "Ным ыкъо |ыгъэӏорышӏэшъущтэп|",
-              "translation": "The kid\u0027s mother |cannot make him obey|."
-            }
-          ],
-          "meaning": "to obey; to be obeying"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaf xad͡zan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏоф хэдзэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏофым тыхэбдзагъ|",
-              "translation": "|You put us in a troublesome situation|."
-            },
-            {
-              "sentence": "Экзамыным |ӏофым сыхидзагъ|",
-              "translation": "The exam |put me in a troublesome situation|."
-            }
-          ],
-          "meaning": "to put someone in a troublesome situation"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaɬʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏолӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"еӏолӏэн\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷarʃʼad͡ʒan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏорышӏэджэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |мэӏорышӏаджэ|",
-              "translation": "The boy |disobeys|."
-            },
-            {
-              "sentence": "Кӏалэр ыянэ |еӏорышӏэджагъ|",
-              "translation": "The boy |disobeyed| his mother."
-            },
-            {
-              "sentence": "Кӏэлэцӏыкӏур ыянэрэ ыятэрэ |аӏорышӏаджэ|",
-              "translation": "The little boy |disobeys| his father and mother."
-            },
-            {
-              "sentence": "Пщылӏэу |ӏорышӏэджагъэр| аукӏыщтыгъ",
-              "translation": "A slave that |disobeyed| used to be killed."
-            }
-          ],
-          "meaning": "to disobey"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷarəʃʼaːd͡ʒ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏорышӏадж",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "кӏэлэцӏыкӏу |ӏорышӏадж|",
-              "translation": "|disobedient| child."
-            }
-          ],
-          "meaning": "disobedient, a person that does not obey"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷafətan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏофытэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Гъазет къыхьынэу шъэожъыер лӏым |ыӏофытагъ|",
-              "translation": "The man |sent| the kid to bring a newspaper."
-            },
-            {
-              "sentence": "Сянэ тучаным |сыӏофытагъ| щэ къэсхьынэу",
-              "translation": "My mother |send me| to the shop to bring milk."
-            }
-          ],
-          "meaning": "to send someone to bring something"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷaʔʷəd͡ʒ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏотын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to knead"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм ыкӏыб |ыӏотыгъ|",
-              "translation": "The boy |rubs| his back."
-            },
-            {
-              "sentence": "Кӏалэм ынэхэр |ыӏотыных|",
-              "translation": "The boy |rubs| his eyes."
-            }
-          ],
-          "meaning": "to rub"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷafəʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофыгъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Матиматикэм |иӏофыгъохэр|",
-              "translation": "|The problems of| mathematics."
-            }
-          ],
-          "meaning": "matter, issue, problem"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaftħabza",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофтхьэбзэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏофтхьэбзэ| гуадз",
-              "translation": "Additional |issue|."
-            }
-          ],
-          "meaning": "issue"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaχʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏохъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |ӏохъугъэ|",
-              "translation": "The boy |misspoke|."
-            }
-          ],
-          "meaning": "to make a slip in speaking; to say something mistakenly"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷafənt͡ʂa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофынчъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "unemployed, jobless"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тхьаусхэн"
-      ],
-      "ipa": "ʔʷajən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏоин",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Мэлыр |мэӏуае|",
-              "translation": "The sheep |bleats|."
-            }
-          ],
-          "meaning": "to bleat"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |мэӏуае|",
-              "translation": "The boy |whines|."
-            },
-            {
-              "sentence": "Кӏалэр пшъашъэм |фэӏуае|",
-              "translation": "The boy |whines for| the girl."
-            },
-            {
-              "sentence": "Кӏалэр |ӏоезэпыт|",
-              "translation": "The boy |always whine|."
-            }
-          ],
-          "meaning": "(slang) to whine; to complain"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷarətx",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏорытх",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "dictation; the process of speaking for someone else to write down the words"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷafʃʼaːt͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏофшӏакӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым |ӏофшӏакӏэ| ешӏэ",
-              "translation": "The man knows |how to work|."
-            },
-            {
-              "sentence": "Кӏалэр |ӏофшӏакӏэм| фэкъулай",
-              "translation": "The boy is skillful in the |manner of working|."
-            }
-          ],
-          "meaning": "how to work; way of working; manner of working"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷarʔʷataʑ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏорӏотэжь",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ӏорӏотэжькӏэ| хъугъэр зэхихыгъ",
-              "translation": "The boy heard what happened |by a rumor|."
-            }
-          ],
-          "meaning": "rumor, talk, hearsay"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "гущыӏал",
-        "гущыӏэрый",
-        "жэмыӏан",
-        "жэмачыу",
-        "шъхьарыгущыӏ"
-      ],
-      "ipa": "ʔʷarʒʷar",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏоржъор",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "twaddler, babbler"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ӏо| иӏэп хъугъэмкӏэ",
-              "translation": "The boy has no |saying| in what happened."
-            }
-          ],
-          "meaning": "saying"
-        }
-      ]
-    }
-  ],
   "та": [
     {
       "ipa": "/taːs/",
@@ -12627,2391 +10783,6 @@ const circassianDict = {
         {
           "examples": [],
           "meaning": "precipice, abyss, chasm"
-        }
-      ]
-    }
-  ],
-  "тӏ": [
-    {
-      "ipa": "tʼaraxən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏэрэхын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"етӏэрэхын\""
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼə",
-      "lang": "Adyghe",
-      "type": "num",
-      "word": "тӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Тӏу| хьакӏэхэу тиӏэр",
-              "translation": "We have |two| guests."
-            },
-            {
-              "sentence": "Налъ|итӏу| пицэм хэсхыгъ",
-              "translation": "I took |two| pieces from the pizza."
-            },
-            {
-              "sentence": "Хьалыгъу |тӏу| къэнэжьыгъэр ныӏэп",
-              "translation": "Only |two| bread left."
-            },
-            {
-              "sentence": "Нэбгыр|итӏу| щагум дэт",
-              "translation": "There are |two| people in the yard."
-            }
-          ],
-          "meaning": "two"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Туркуям |тӏу| зэрэсыкӏуагъэр",
-              "translation": "I went to Turkey |two times|."
-            },
-            {
-              "sentence": "|Тӏум| нахь бэрэ фылымым сеплъыгъ",
-              "translation": "I watched the movie more than |twice|."
-            },
-            {
-              "sentence": "Пшъашъэр тхылъым |тӏурэ| еджагъ",
-              "translation": "The girl read the book |two times|."
-            }
-          ],
-          "meaning": "twice; two times"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼat͡ʃə",
-      "lang": "Adyghe",
-      "type": "num",
-      "word": "тӏокӏы",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "twenty"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼat͡ʃitʷʼ",
-      "lang": "Adyghe",
-      "type": "num",
-      "word": "тӏокӏитӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "forty"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼat͡ʃiɕ",
-      "lang": "Adyghe",
-      "type": "num",
-      "word": "тӏокӏищ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "sixty"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼat͡ʃiɕra pʃʼəra",
-      "lang": "Adyghe",
-      "type": "num",
-      "word": "тӏокӏищырэ пшӏырэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "seventy"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼat͡ʃipɬʼ",
-      "lang": "Adyghe",
-      "type": "num",
-      "word": "тӏокӏиплӏ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "eighty"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼat͡ʃipɬʼəra pʃʼəra",
-      "lang": "Adyghe",
-      "type": "num",
-      "word": "тӏокӏиплӏырэ пшӏырэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "ninety"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaʂħaːɬa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏыбгы-сыбг",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "bumpy; hilly; uneven"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼəpɕən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏупщын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Топыр |тӏупщ|",
-              "translation": "|Release| the cannon."
-            },
-            {
-              "sentence": "Дзэкӏолӏыхэр |атӏупщыгъэх|",
-              "translation": "|They released| the soldiers."
-            },
-            {
-              "sentence": "Дзэкӏолӏыхэр заом |хатӏупщыхьагъэх|",
-              "translation": "|They released| the soldiers |in| the war."
-            },
-            {
-              "sentence": "Кӏалэм хьэр |ытӏупщызэ| къыригъэчъыхьагъ",
-              "translation": "The boy |released| the dog and allowed it run around."
-            }
-          ],
-          "meaning": "to release"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Торпеда |тӏупщын|",
-              "translation": "|to launch| a torpedo."
-            }
-          ],
-          "meaning": "to launch"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Пщылӏыхэр |тӏупщыных|",
-              "translation": "|To set free| slaves."
-            },
-            {
-              "sentence": "Слъакъохэр зэтепхагъэх, сӏэхэр |тӏупщыгъэх|",
-              "translation": "My legs are tied up, my hands |are loosed|."
-            }
-          ],
-          "meaning": "to set free; to let go; to let loose"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |тӏупщ|",
-              "translation": "|Leave| the boy |alone|."
-            },
-            {
-              "sentence": "Кӏалэм пшъашъэр ытӏупщырэп",
-              "translation": "The boy |is not leaving| the girl |alone|."
-            },
-            {
-              "sentence": "|Сытӏупщыба!|",
-              "translation": "|Leave me alone already!|"
-            }
-          ],
-          "meaning": "to leave someone from harm or annoyance"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "жъажъэ",
-        "тӏэи"
-      ],
-      "ipa": "tʼatʼaj",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "тӏэтӏэй",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыжъыр |тӏэтӏэеу| макӏо",
-              "translation": "The old man walks |slowly|."
-            },
-            {
-              "sentence": "Сыдэу |утӏэтӏэй|",
-              "translation": "You are so |slow|."
-            }
-          ],
-          "meaning": "(dialectal) slow"
-        },
-        {
-          "examples": [],
-          "meaning": "resin, tar"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏэтӏэй",
-        "жъажъэ"
-      ],
-      "ipa": "tʼajə",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "тӏэи",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "лӏыжъыр |тӏэи|",
-              "translation": "The old-man |is slow|."
-            },
-            {
-              "sentence": "лӏыжъыр |тӏэеу| макӏо",
-              "translation": "The old-man is walking |slowly|."
-            }
-          ],
-          "meaning": "(dialectal) slow"
-        }
-      ]
-    },
-    {
-      "ipa": "tˈaːmə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏамы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Тӏамы| сэшхы",
-              "translation": "I am eating |a orange|."
-            },
-            {
-              "sentence": "Кӏалэм |Тӏамы| ешхы",
-              "translation": "The boy is eating |a orange|."
-            },
-            {
-              "sentence": "|Тӏамы| сикӏас",
-              "translation": "I like |oranges|."
-            }
-          ],
-          "meaning": "(fruit) orange"
-        }
-      ]
-    },
-    {
-      "ipa": "tʼə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏы",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "ram"
-        }
-      ]
-    },
-    {
-      "ipa": "tʼəsən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏысын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Тӏыс|",
-              "translation": "|sit down|."
-            },
-            {
-              "sentence": "Кӏалэр |мэтӏысы|",
-              "translation": "The boy is |sitting down|."
-            },
-            {
-              "sentence": "Сыпшъыгъ, тӏэкӏу |сытӏысын| фай",
-              "translation": "I got tired, I need |to sit down|."
-            },
-            {
-              "sentence": "Къухьэлъатэр |къетӏысэхыгъ|",
-              "translation": "The airplane |sat down|."
-            },
-            {
-              "sentence": "Къакӏо, садэжь |къэтӏыс|",
-              "translation": "Come, |sit down| next to me."
-            },
-            {
-              "sentence": "|Умытӏыс|",
-              "translation": "|Don\u0027t sit down|."
-            },
-            {
-              "sentence": "Кӏалэр шым |тетӏысхьагъ|",
-              "translation": "The boy |sat on| the horse."
-            },
-            {
-              "sentence": "Кӏалэр щагум |дэтӏысхьагъ|",
-              "translation": "The boy |sat in| the yard."
-            },
-            {
-              "sentence": "Кӏалэр чъыгым |пытӏысхьагъ|",
-              "translation": "The boy |sat on| the tree."
-            },
-            {
-              "sentence": "Пхъэнтӏэкӏум |сытетӏысхьагъ|",
-              "translation": "|I sat on| the chair."
-            },
-            {
-              "sentence": "Псым |ухэмытӏысхь|",
-              "translation": "|Do not sit in| the water."
-            },
-            {
-              "sentence": "Зыфэсакъ, цӏынэм |ухэтӏысхьэ|",
-              "translation": "Careful, |you are sitting on| something wet."
-            }
-          ],
-          "meaning": "to sit down"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Къухьэлъатэр къебыбэхы |къэтӏысынэу|",
-              "translation": "The plane flies down |to land|."
-            },
-            {
-              "sentence": "Бзыур |къэтӏысыгъ|",
-              "translation": "The bird |landed|."
-            }
-          ],
-          "meaning": "to land"
-        }
-      ]
-    },
-    {
-      "ipa": "tʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "кӏалэм къэгъагъэхэр |етӏэх|",
-              "translation": "the boy |is implanting| the flowers."
-            }
-          ],
-          "meaning": "to implant"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏэкӏушӏэмэ"
-      ],
-      "ipa": "tʼakʷʼʁaːʃʼama",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "тӏэкӏугъашӏэмэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|тӏэкӏугъашӏэмэ| сышхэщт",
-              "translation": "I will eat |soon|."
-            },
-            {
-              "sentence": "|тӏэкӏугъашӏэмэ| филымыр къиублэщт",
-              "translation": "|Soon| the film will start."
-            },
-            {
-              "sentence": "|тӏэкӏугъашӏэм|",
-              "translation": "|soon|."
-            }
-          ],
-          "meaning": "soon"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏэкӏушӏэмэ"
-      ],
-      "ipa": "tʼakʷʼ ʁaːʃʼam",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "тӏэкӏу гъашӏэм",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"тӏэкӏугъашӏэмэ\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тетӏысхьапӏэ"
-      ],
-      "ipa": "tʼəsəpʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏысыпӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Енэгуягъо, мы |тӏысыпӏэр| сэсый",
-              "translation": "I think this is my |seat|."
-            },
-            {
-              "sentence": "Енэгуягъо, сэ |ситӏысыпӏэ| утес",
-              "translation": "I think you’re sitting in |my seat|."
-            },
-            {
-              "sentence": "Зы |тӏысыпӏэ| горэ щыӏа?",
-              "translation": "Is there |a seat| left?"
-            }
-          ],
-          "meaning": "seat"
-        }
-      ]
-    },
-    {
-      "ipa": "tʼakʷʼ",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "тӏэкӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм шхын |тӏэкӏу| ышхыгъэ",
-              "translation": "The boy ate |a bit of| food."
-            },
-            {
-              "sentence": "Телевидениер |тӏэкӏу| къэгъэхъый",
-              "translation": "Move the television |a bit| [closer]."
-            },
-            {
-              "sentence": "Шъхьангъупчъэр чагъэ |тӏэкӏу|",
-              "translation": "The window cracked |a bit|."
-            },
-            {
-              "sentence": "Кӏалэм |тӏэкӏу| тхылъэу иӏэр",
-              "translation": "The |amount of| books the boy has is |few|."
-            },
-            {
-              "sentence": "Шъоущыгъу |тӏэкӏу| къыхалъхь сищае",
-              "translation": "Put |a bit of| sugar in my tea."
-            },
-            {
-              "sentence": "|Тӏэкӏу| сынахь дэгъу",
-              "translation": "I am |a bit| better."
-            },
-            {
-              "sentence": "Кӏалэр |тӏэкӏу| гущыӏагъэ нахь, афэдиз бэу къиӏотагъэп",
-              "translation": "The boy spoke |a little bit|, he did not tell that much."
-            },
-            {
-              "sentence": "|Тӏэкӏу| нахь жъажъэу кӏо",
-              "translation": "Go |a bit| slower."
-            },
-            {
-              "sentence": "Ахъщэ |тӏэкӏу| сыӏыгъэр",
-              "translation": "I have |a little bit of| money."
-            }
-          ],
-          "meaning": "a bit; a little bit of; few; small amount of"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏэкӏугъашӏэмэ"
-      ],
-      "ipa": "tʼakʷʼːʃʼama",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "тӏэкӏушӏэмэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|тӏэкӏушӏэмэ| сышхэщт",
-              "translation": "I will eat |soon|."
-            },
-            {
-              "sentence": "|тӏэкӏушӏэмэ| филымыр къиублэщт",
-              "translation": "|Soon| the film will start."
-            },
-            {
-              "sentence": "|тӏэкӏушӏэмэ|",
-              "translation": "|soon|."
-            }
-          ],
-          "meaning": "soon"
-        }
-      ]
-    },
-    {
-      "ipa": "tʼakʷʼra",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "тӏэкӏурэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |тӏэкӏурэ| сиунэ къэкӏо",
-              "translation": "The boy is coming to my house |rarely|."
-            },
-            {
-              "sentence": "|Тӏэкӏурэ| тхылъхэмэ саджэ",
-              "translation": "I read books |rarely|."
-            }
-          ],
-          "meaning": "few times (rarely; uncommonly)"
-        }
-      ]
-    },
-    {
-      "ipa": "tʼakʷʼ ʁaːʃʼama",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "тӏэкӏу гъашӏэмэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Тӏэкӏу гъашӏэмэ| кӏалэр сиунэ къэкӏот",
-              "translation": "|Soon| the boy will come to my house."
-            },
-            {
-              "sentence": "|Тӏэкӏу гъашӏэмэ| тышхэщт, укъытдэшхэнэу уфаемэ?",
-              "translation": "We are going to eat |soon|, if you want to eat with us?"
-            }
-          ],
-          "meaning": "soon"
-        }
-      ]
-    },
-    {
-      "ipa": "tʼat͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏэкӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to undress (to remove somebody’s clothing)"
-        },
-        {
-          "examples": [],
-          "meaning": "to strip"
-        },
-        {
-          "examples": [],
-          "meaning": "to sack (to rob)"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼaːɮa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏуалэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "inch"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼat͡ʃʼaʐ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏокӏэжъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"тӏуакӏэ\""
-        }
-      ]
-    },
-    {
-      "ipa": "tʼatan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏэтэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to unbuckle; to unzip; to unbutton; to unfasten"
-        },
-        {
-          "examples": [],
-          "meaning": "to untie; to unbind; to undo; to unleash"
-        }
-      ]
-    },
-    {
-      "shapsug": "тӏыгъон",
-      "ipa": "tʼərʁʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏыргъон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Нашэр |тӏыргъуагъэ|",
-              "translation": "The melon |was ripen|."
-            },
-            {
-              "sentence": "Нашэр |мэтӏыгъо|",
-              "translation": "the melon is ripen."
-            }
-          ],
-          "meaning": "to ripen"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏолъфэныкъох"
-      ],
-      "ipa": "tʷʼaːzax",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏуазэх",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"тӏуазэ\""
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼaːt͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏуакӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Тӏуакӏэр| чӏыпӏэу къушъхьитӏум азыфагур ары",
-              "translation": "|A gorge| is the place between two mountains."
-            }
-          ],
-          "meaning": "gorge, ravine, canyon"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼərəs",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "тӏурыс",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏы |тӏурыс|",
-              "translation": "|Elderly| man."
-            }
-          ],
-          "meaning": "elderly"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Щыгъын |тӏурыс|",
-              "translation": "|Well-worn| clothes."
-            }
-          ],
-          "meaning": "well-worn (showing signs of wear because of extensive use)"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼərətʷʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏурытӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |мэткӏут| мыжъор лавэм хабдзэмэ",
-              "translation": "If you thrrock will melt."
-            }
-          ],
-          "meaning": "by two"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼərətʷʼ qaːʃʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏурытӏу къашъо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "pair dance"
-        }
-      ]
-    },
-    {
-      "ipa": "tʷʼaːna",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏуанэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "one\u0027s husband\u0027s other wife (in case of a husband that has more than ӏ wife)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тхъун"
-      ],
-      "ipa": "tʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Къазгъырымкӏэ |матӏэх|",
-              "translation": "They are |digging| with the shovel."
-            },
-            {
-              "sentence": "Кӏалэм машэ |ытӏыгъ|",
-              "translation": "The boy |dug| a hole."
-            },
-            {
-              "sentence": "Кӏалэм курб |етӏы| къэгъагъэ рилъхьанэу",
-              "translation": "The boy |digs| a hole to put flower in it."
-            },
-            {
-              "sentence": "Кӏалэм шӏуанэмкӏэ чӏыгур |етӏы|",
-              "translation": "The boy |is digging up| the ground with the hoe."
-            },
-            {
-              "sentence": "Лэжьакӏохэмэ бгыгъуанэр бгым |хатӏыкӏы|",
-              "translation": "The workers |are digging| the tunnel |out| of the hill."
-            },
-            {
-              "sentence": "Бэнытӏым бэны |ытӏыгъ|",
-              "translation": "The gravedigger |digged| a grave."
-            }
-          ],
-          "meaning": "to dig"
-        }
-      ]
-    },
-    {
-      "ipa": "tʼaːrqʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏаркъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "bifurcation (A division into two branches.)"
-        },
-        {
-          "examples": [],
-          "meaning": "furcation (A division into several branches.)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кохъо |тӏаркъу|",
-              "translation": "|Forked| pitchfork."
-            }
-          ],
-          "meaning": "forked; that splits into two or more directions, or parts"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏыргъон"
-      ],
-      "ipa": "tʼəʁʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏыгъон",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"тӏыргъон\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "еӏункӏын"
-      ],
-      "ipa": "tʼərɡʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏыргун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to push, to shove, to thrust"
-        }
-      ]
-    },
-    {
-      "ipa": "tʼərɡʷ",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏыргу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "bam (an expression of an impact noise)"
-        }
-      ]
-    },
-    {
-      "ipa": "tʼatʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏэтӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Шъор |мэтӏатӏэ|",
-              "translation": "Honey |is drizzling|"
-            },
-            {
-              "sentence": "Шъор джэхашъом |етӏэтӏэхы|",
-              "translation": "Honey |is drizzling down| on the floor"
-            }
-          ],
-          "meaning": "to drizzle (said about viscous substances like honey)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏуазэх"
-      ],
-      "ipa": "tʷʼaːzax",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏолъфэныкъох",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"тӏолъфэныкъо\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏолъфэныкъо"
-      ],
-      "ipa": "tʷʼaːza",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏуазэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сэрэ сышырэ |тытӏуаз|",
-              "translation": "Me and my brother are |twins|."
-            },
-            {
-              "sentence": "Куджанымрэ Аслъанымрэ |зэтӏуазэх|",
-              "translation": "Kujan and Aslan are |twins|."
-            }
-          ],
-          "meaning": "twin"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏуазэ"
-      ],
-      "ipa": "tʷʼaɬfanəqʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "тӏолъфэныкъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сэрэ сышырэ |тытӏолъфэныкъу|",
-              "translation": "Me and my brother are |twins|."
-            },
-            {
-              "sentence": "Куджанымрэ Аслъанымрэ |тӏолъфэныкъох|",
-              "translation": "Kujan and Aslan are |twins|."
-            }
-          ],
-          "meaning": "twin"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏэкӏунау"
-      ],
-      "ipa": "tʼakʷʼəjntʼa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "тӏэкӏунитӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ахъщэ |тӏэкӏунитӏэ| сыӏыгъэр",
-              "translation": "I have |very few| of money."
-            },
-            {
-              "sentence": "Лӏым кӏэлэ |тӏэкӏунитӏэ| иӏэр",
-              "translation": "The man has a |very few| sons."
-            }
-          ],
-          "meaning": "very small amount; very few"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тӏэкӏунитӏэ"
-      ],
-      "ipa": "tʼakʷʼənaːw",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "тӏэкӏунау",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ахъщэ |тӏэкӏунау| сыӏыгъэр",
-              "translation": "I have |very few| of money."
-            },
-            {
-              "sentence": "Лӏым кӏэлэ |тӏэкӏунау| иӏэр",
-              "translation": "The man has a |very few| sons."
-            }
-          ],
-          "meaning": "very small amount"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "мэкӏэжъый",
-        "мэкӏэ дэд"
-      ],
-      "ipa": "mat͡ʃʼaʐəj",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏэкӏужъый",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм ахъщэ |тӏэкӏужъый| ыӏыгъэр",
-              "translation": "The boy has |very few| money."
-            },
-            {
-              "sentence": "Шъоущыгъу |тӏэкӏужъый| сищае къыхэлъхь",
-              "translation": "Put |a very small amount of| sugar to my tea."
-            }
-          ],
-          "meaning": "very few"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "зэготӏэпӏыкӏын"
-      ],
-      "ipa": "tʼsapʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "тӏэпӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to rip (a garment) at the seams, to unstitch"
-        }
-      ]
-    }
-  ],
-  "ӏу": [
-    {
-      "synonyms": [
-        "ӏупэ"
-      ],
-      "ipa": "ʔʷəpʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏупшӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Унэ |ӏупшӏэм| урам щыӏэп",
-              "translation": "There is no street |in front| of the house."
-            },
-            {
-              "sentence": "Кӏалэм |ыӏупшӏэ| пшъашъэр щыт",
-              "translation": "The girl is standing |in front| of the boy."
-            },
-            {
-              "sentence": "|Сӏупшӏэ| къиуцу",
-              "translation": "Stand still |in front of me|."
-            }
-          ],
-          "meaning": "lip; lips"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏупшӏэ"
-      ],
-      "etymology": "From ӏу (mouth) + пэ (nose)",
-      "ipa": "ʔʷəpa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏупэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр пшъашъэм |ыӏупэкӏэ| ебыугъ",
-              "translation": "The boy kissed the girl |with the lips|."
-            },
-            {
-              "sentence": "Пшъашъэм |ыӏупэ| ылагъ ӏупэлэнкӏэ",
-              "translation": "The girl colored |her lips| with a lipstick."
-            },
-            {
-              "sentence": "|Сӏупэ| сецэкъэжьыгъ",
-              "translation": "I bite |my own lips|."
-            }
-          ],
-          "meaning": "lip; lips"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Унэ |ӏупэм| урам щыӏэп",
-              "translation": "There is no street |in front| of the house."
-            },
-            {
-              "sentence": "Кӏалэм |ыӏупэ| пшъашъэр щыт",
-              "translation": "The girl is standing |in front| of the boy."
-            },
-            {
-              "sentence": "|Сӏупэ| къиуцу",
-              "translation": "Stand still |in front of me|."
-            }
-          ],
-          "meaning": "front"
-        }
-      ]
-    },
-    {
-      "etymology": "From ӏу (mouth) + псы (water)",
-      "ipa": "ʔʷəp",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏупс",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏупсы\""
-        }
-      ]
-    },
-    {
-      "etymology": "From ӏу (mouth) + псы (water)",
-      "ipa": "ʔʷəp",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏупсы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏупсыр| цӏыфым ыжэ псэу къыдэкӏырэр ары",
-              "translation": "|Saliva| is the water that comes  out from the human\u0027s mouth."
-            },
-            {
-              "sentence": "|ӏупс| ужэ къыдэкӏы, лъэкӏыжь",
-              "translation": "|Saliva| is dripping from your mouth, wipe it off."
-            },
-            {
-              "sentence": "Хьэм ыбзэгу |ӏупс| бэ къыпытӏэтӏы",
-              "translation": "A lot of |saliva| is drizzling from the dog\u0027s tongue."
-            }
-          ],
-          "meaning": "saliva"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏукӏьыбзэ",
-      "ipa": "ʔʷənt͡ʃʼəbza",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏункӏыбзэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм |ӏункӏыбзэмкӏэ| пчъэр къыӏуихыгъ",
-              "translation": "The girl opened the door |with the key|."
-            },
-            {
-              "sentence": "Тыдэ хъугъэ |сиӏункӏыбзэ|?",
-              "translation": "Where did |my key| go?"
-            },
-            {
-              "sentence": "|ӏункӏыбзэр| пчъэм игъуанэ игъэхьан",
-              "translation": "To insert |the key| into the door\u0027s hole."
-            },
-            {
-              "sentence": "|ӏункӏыбзэр| гъуанэм ихьэрэп",
-              "translation": "|The key| does not go inside the hole."
-            }
-          ],
-          "meaning": "key"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷʂaːb",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏушъаб",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "one who speaks calmly, quietly and fluently"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷədaːn",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏудан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏудэнэ| кӏыхь",
-              "translation": "Long |thread|"
-            },
-            {
-              "sentence": "|ӏуданэкӏэ| ныор мадэ",
-              "translation": "The old-woman sews |with a thread|."
-            }
-          ],
-          "meaning": "thread"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏуащхьэ",
-      "ipa": "ʔʷaːʂħa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏуашъхьэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏуашъхьэм| дэкӏоен",
-              "translation": "To go up the |mount|."
-            },
-            {
-              "sentence": "|ӏуашъхьэм| къехыжьын",
-              "translation": "To come down from the |mount|."
-            }
-          ],
-          "meaning": "mount"
-        },
-        {
-          "examples": [],
-          "meaning": "hill"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaːʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏуагъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "oath"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəʒʷəa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏужъугъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "thickness"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏувы",
-      "ipa": "ʔʷaʐʷə",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏужъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "ӏэнэ |ӏужъу|",
-              "translation": "|Thick| table."
-            },
-            {
-              "sentence": "Тхылъ |ӏужъу|",
-              "translation": "|Thick| book."
-            },
-            {
-              "sentence": "Чэмым ыпшъашъо |ӏужъу|",
-              "translation": "The cow\u0027s neck skin |is thick|."
-            }
-          ],
-          "meaning": "thick"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "былымӏус",
-        "былым ӏус"
-      ],
-      "ipa": "ʔʷəs",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏус",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ӏус| шкӏэм реты",
-              "translation": "The boy is giving |food| to the calf."
-            },
-            {
-              "sentence": "Чэтмэ |ӏус| аритыгъ",
-              "translation": "He gave |food| to the chickens."
-            }
-          ],
-          "meaning": "food for animals; fodder"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏонтагъ"
-      ],
-      "ipa": "ʔʷəntʼaːʁ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏуртӏагъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏонтагъ\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəpt͡ʂanpt͡ʂan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏупчъэпчъэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to mutter"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəb",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏуб",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Псы |ӏуб|",
-              "translation": "A |sip| of water."
-            }
-          ],
-          "meaning": "sip; gulp"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷampam",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏумпэм",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "neglect, disregard"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷməɮ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏумыл",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "ice-covered ground, black ice"
-        }
-      ]
-    },
-    {
-      "shapsug": "къугъо",
-      "ipa": "ʔʷəʁʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏугъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Унэм ионджэкъ |ӏугъо| къекӏы",
-              "translation": "|Smoke| is coming out from the house\u0027s chimney."
-            },
-            {
-              "sentence": "|ӏугъоу| кумэ къарикӏырэм жьыр еушӏои",
-              "translation": "|The smoke| coming from the cars |contaminates| the air."
-            }
-          ],
-          "meaning": "smoke"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəpaf",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏупэф",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "white lips"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏуакӏьэ",
-      "synonyms": [
-        "къэӏуакӏэ"
-      ],
-      "ipa": "ʔʷaːt͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏуакӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "manner of speech; speech style; the way to say something"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷənan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏунэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to become stuck near (trapped and unable to move or progress)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Тучаным |сыкъыӏунагъ| къэбар къэсӏуатэу",
-              "translation": "|I remained| near the shop chatting."
-            },
-            {
-              "sentence": "Машӏор |къыӏунагъ|",
-              "translation": "The fire |lingered|."
-            }
-          ],
-          "meaning": "to stay behind; to remain; to linger; to loiter; to remain at a certain place instead of moving on"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəlalən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏулэлын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "хьэм ыбзэгу |ӏулэлы|",
-              "translation": "The dog\u0027s tongue |is hanging freely|."
-            },
-            {
-              "sentence": "уиӏупс |къыупӏулэлы|",
-              "translation": "|Your| saliva |is dripping from you|."
-            }
-          ],
-          "meaning": "to hang and bounce (freely)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəʂħ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏушъхь",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "palate"
-        },
-        {
-          "examples": [],
-          "meaning": "poppy (plant)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəbəbən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏубыбын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Бзыур |ӏубыбыжьыгъ|",
-              "translation": "The fly |flew away|."
-            },
-            {
-              "sentence": "Бзыур чъыгым |ӏубыбыжьыгъ|",
-              "translation": "The fly |flew away| from the tree."
-            }
-          ],
-          "meaning": "to fly away"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəxən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏухын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пчъэр |ӏух|",
-              "translation": "|Open| the door.."
-            },
-            {
-              "sentence": "Пчъэр |ӏухыгъ|",
-              "translation": "The door |is open|."
-            },
-            {
-              "sentence": "Кӏалэм пчъэр |ӏуехы|",
-              "translation": "The boy is |opening| the door."
-            },
-            {
-              "sentence": "Кӏалэм пчъэр |ӏуихыгъ|",
-              "translation": "The boy is |opened| the door."
-            },
-            {
-              "sentence": "Кӏалэм пчъэр |къыӏурегъэх|",
-              "translation": "|Make| the boy |open| the door."
-            },
-            {
-              "sentence": "Шъхьангъупчъэр |къыӏухи| бадзэр унэм идгъэбыбын тыӏощт",
-              "translation": "|Open| the window and we will try to make the housefly fly out of the house."
-            },
-            {
-              "sentence": "Пшъашъэм ӏункӏыбзэмкӏэ пчъэр |къыӏуихыгъ|",
-              "translation": "The girl |opened| the door with the key."
-            },
-            {
-              "sentence": "Тиунэ укъакӏомэ пчъэ |къыпфэӏусхыщт|",
-              "translation": "If you come to our house, |I will open| the door |for you|."
-            },
-            {
-              "sentence": "Пчъэр хьакӏэм |фэӏух|",
-              "translation": "|Open| the door |for| the guest."
-            },
-            {
-              "sentence": "Шъхьангъупчъэр |ӏусхыгъ|",
-              "translation": "|I opened| the window"
-            }
-          ],
-          "meaning": "to open"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "ӏанэр чъыгым |ӏух|",
-              "translation": "|Take| the table |away| from the tree."
-            },
-            {
-              "sentence": "Кӏалэм топыр чъыгым |ӏуехы|",
-              "translation": "The boy |is talking| the ball |away| from the tree."
-            },
-            {
-              "sentence": "Пхъэнтӏэкӏухэр |ӏумыхых|",
-              "translation": "|Don\u0027t take away| the chairs from there."
-            }
-          ],
-          "meaning": "to take something away from near something"
-        }
-      ]
-    },
-    {
-      "kabardian": "тхьэщӏын",
-      "ipa": "ʔʷəχʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏухъон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "пэӏухъор шъхьаныгъупчъэм |ӏухъон|",
-              "translation": "|To close| the curtain of the window."
-            }
-          ],
-          "meaning": "to close (e.g. a window) by hanging something over it"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷət͡ʃʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏукӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Неущ |тызэӏукӏэщта?|",
-              "translation": "|Will we meet| tomorrow?"
-            },
-            {
-              "sentence": "Кӏалэм пшъашъэр |ӏукӏагъ|",
-              "translation": "The boy |met| the girl."
-            },
-            {
-              "sentence": "Пшъашъэр |къэсӏукӏагъ|",
-              "translation": "The girl |met me|."
-            },
-            {
-              "sentence": "Пшъашъэм |сӏукӏагъ|",
-              "translation": "I |met| the girl."
-            },
-            {
-              "sentence": "Лӏым итхьэматэ ежь |ӏокӏэ|",
-              "translation": "The man |is meeting| with his boss."
-            },
-            {
-              "sentence": "Докторым |сыӏукӏэн| фай",
-              "translation": "|I need to meet| the doctor."
-            },
-            {
-              "sentence": "Сэшъхьахы докторым |сыӏукӏэнэ|",
-              "translation": "I am lazy |to meet| the doctor."
-            },
-            {
-              "sentence": "Докторым |сыӏукӏэшъурэп|",
-              "translation": "|I can\u0027t meet| the doctor."
-            },
-            {
-              "sentence": "Заомкӏэ, лӏым гукӏэгъу хэмылъэу, |ӏукӏэрэр| ыукӏыщтыгъ",
-              "translation": "In the war, the man having no mercy, was killing everyone |that| he |met|."
-            }
-          ],
-          "meaning": "to meet"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр пшъашъэм |ӏукӏэжьыгъ|",
-              "translation": "The boy |caught up| with the girl."
-            },
-            {
-              "sentence": "Нахь псынкӏэу сычъэмэ |усӏукӏэжьыщт|",
-              "translation": "If I run faster |I will catch up to| you."
-            }
-          ],
-          "meaning": "to catch up with someone (before it is too late)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷət͡ʃʼaʑən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏукӏэжьын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Неущ |тызэӏукӏэжьыщт|",
-              "translation": "|We will meet again| tomorrow?"
-            },
-            {
-              "sentence": "Кӏалэм пшъашъэр |ӏукӏыжьыгъ|",
-              "translation": "The boy |met| the girl |again|."
-            }
-          ],
-          "meaning": "to meet again"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр пшъашъэм |ӏукӏэжьыгъ|",
-              "translation": "The boy |caught up| with the girl."
-            },
-            {
-              "sentence": "Нахь псынкӏэу сычъэмэ |усӏукӏэжьыщт|",
-              "translation": "If I run faster |I will catch up to| you."
-            }
-          ],
-          "meaning": "to catch up with someone (before it is too late)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "кӏэхьан"
-      ],
-      "ipa": "ʔʷət͡ʃəħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏукӏыхьан",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏэхьан\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷətʼanə",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏутӏэны",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "plague"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to be heard; alternative form of \"къэӏун\""
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|Гъучӏыӏун|",
-              "translation": "Iron nail."
-            },
-            {
-              "sentence": "|Пхъэӏун|",
-              "translation": "Wooden nail."
-            },
-            {
-              "sentence": "|Шъхьэхэӏу|",
-              "translation": "Pair-pin."
-            }
-          ],
-          "meaning": "nail (iron, wood)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏупшӏэгъал",
-        "ӏупэгъал"
-      ],
-      "ipa": "ʔʷəpalan",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏупэлэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм ыӏупэ ылагъ |ӏупэлэнкӏэ|",
-              "translation": "The girl colored her lips |with a lipstick|."
-            }
-          ],
-          "meaning": "lipstick"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏупшӏэгъал",
-        "ӏупэгъал"
-      ],
-      "ipa": "ʔʷəpalan",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏупэгъал",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм ыӏупэ ылагъ |ӏупэгъалкӏэ|",
-              "translation": "The girl colored her lips |with a lipstick|."
-            }
-          ],
-          "meaning": "lipstick"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏупэлэн"
-      ],
-      "ipa": "ʔʷəpʃaʁaːɮ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏупшӏэгъал",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм ыӏупэ ылагъ |ӏупшӏэгъалкӏэ|",
-              "translation": "The girl colored her lips |with a lipstick|."
-            }
-          ],
-          "meaning": "lipstick"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "акъыл"
-      ],
-      "ipa": "ʔʷəʃ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏуш",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Бзылъфыгъэр  |ӏуш|",
-              "translation": "The woman |is wise|."
-            },
-            {
-              "sentence": "Лӏыжъ  |ӏушым| ыдэхь кӏуи дэгущыӏ",
-              "translation": "Go to the |wise| old-man and talk with him."
-            },
-            {
-              "sentence": "Сэтэнае гуащэр бзылъфыгъэ |ӏуш|",
-              "translation": "Lady Sataney is a |wise| woman."
-            }
-          ],
-          "meaning": "wise; clever, intelligent"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏукӏьын",
-      "ipa": "ʔʷat͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏукӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏукӏы ӏукӏы| мыу",
-              "translation": "|Go away, go away| from here."
-            },
-            {
-              "sentence": "Пшъашъэр чъыгым |ӏукӏыжьыгъ|",
-              "translation": "The girl |gone away| from the tree."
-            },
-            {
-              "sentence": "Мыу |шъуӏукӏы|",
-              "translation": "|Go away!| from here (said to plural)."
-            },
-            {
-              "sentence": "Кӏалэр анэм |ӏукӏыщтэп|",
-              "translation": "The boy |will not go away| from the table."
-            },
-            {
-              "sentence": "Лӏыжъыхэр |ӏукӏых|",
-              "translation": "The old men |are going away|."
-            },
-            {
-              "sentence": "Пшъашъэм кӏалэр |ӏуегъэкӏы| чъыгым",
-              "translation": "The girl |makes| the boy |go away| from the tree."
-            },
-            {
-              "sentence": "Кӏалэр ӏанэм |ӏуагъэкӏынэу| фаех лӏыжъыхэмэ",
-              "translation": "The old-men want |to make| the boy |go away| from the table."
-            },
-            {
-              "sentence": "Лӏыгъэкӏэ |уӏузгъэкӏынэу| уфая?",
-              "translation": "Do you want |me to make you go away| by force?"
-            },
-            {
-              "sentence": "Бэрэ укуомэ лӏыжъыхэр |ӏубгъэкӏыжьыщтых|",
-              "translation": "If you yell a lot, |you will make| the old-men |leave|."
-            }
-          ],
-          "meaning": "to go away"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым иӏоф ежь |ӏукӏыжьыгъ|",
-              "translation": "The man |quit| his work."
-            },
-            {
-              "sentence": "Лӏыр ӏофым |ӏукӏыжьыгъ|",
-              "translation": "The man |quit| work."
-            }
-          ],
-          "meaning": "to quit work"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏугъэкӏьын",
-      "ipa": "ʔʷaʁat͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏугъэкӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм кӏалэр |ӏуегъэкӏы| чъыгым",
-              "translation": "The girl |makes| the boy |go away| from the tree."
-            },
-            {
-              "sentence": "|Сыӏушъугъэкӏышъущтэп|",
-              "translation": "|You can\u0027t make me go away| (said to plural)."
-            },
-            {
-              "sentence": "Кӏалэр ӏанэм |ӏуагъэкӏынэу| фаех лӏыжъыхэмэ",
-              "translation": "The old-men want |to make| the boy |go away| from the table."
-            },
-            {
-              "sentence": "Лӏыгъэкӏэ |уӏузгъэкӏынэу| уфая?",
-              "translation": "Do you want |me to make you go away| by force?"
-            },
-            {
-              "sentence": "Бэрэ укуомэ лӏыжъыхэр |ӏубгъэкӏыжьыщтых|",
-              "translation": "If you yell a lot, |you will make| the old men |leave|."
-            }
-          ],
-          "meaning": "to make someone go away"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Тхьэматэм лӏыр ӏофым |ӏуигъэкӏыгъ|.",
-              "translation": "The boss |dismissed| the man from the job."
-            },
-            {
-              "sentence": "Лӏыр ӏофым |ӏуагъэкӏыгъ|.",
-              "translation": "The man |was dismissed| from work."
-            }
-          ],
-          "meaning": "to dismiss; to discharge; to fire an employee"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏуащхьэмахуэ",
-      "ipa": "ʔʷaːʂħamaːfa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏуашъхьэмафэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "Mount Elbrus"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəpt͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏупкӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏупкӏэ| еджэн",
-              "translation": "|Expressive| reading."
-            }
-          ],
-          "meaning": "expressive"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "гущыӏэ |ӏупкӏ|",
-              "translation": "|witty| word."
-            }
-          ],
-          "meaning": "witty"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷət͡ʃʼaħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏукӏэхьан",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏэхьан\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "кӏэрэхъуалъ"
-      ],
-      "ipa": "ʔʷbərəɬ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏубырылъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏубырылъыр| кӏэрахъор зэрылърэ шъор ары",
-              "translation": "|A holster| is the leather where the gun is stored."
-            },
-            {
-              "sentence": "Лӏым икӏэрахъохэр |ӏубырылъым| илъых",
-              "translation": "The man\u0027s guns are in |the holster|."
-            }
-          ],
-          "meaning": "holster"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏущэщэн",
-      "ipa": "ʔʷəʂaʂan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏушъэшъэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |мэӏушъашъэ|",
-              "translation": "The boy |whispers|."
-            },
-            {
-              "sentence": "Ащ |ӏушъэшъэныр| икӏас",
-              "translation": "He likes |to whisper|."
-            }
-          ],
-          "meaning": "to whisper"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷə",
-      "lang": "Adyghe",
-      "type": "prefix",
-      "word": "ӏу-",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "(added to verbs) around, near, by",
-          "tags": [
-            "added to verbs"
-          ]
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəʁʷaʃʷa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏугъуашъо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "smoky"
-        },
-        {
-          "examples": [],
-          "meaning": "tinted, smoke-colored"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəɬʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏулӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Саусырыкъо онэгум |риӏулӏыгъ|",
-              "translation": "|He swept him| from the horse back."
-            }
-          ],
-          "meaning": "to sweep off"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏухьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр чъыгым |ӏухьагъ|",
-              "translation": "The boy |went near| the tree."
-            },
-            {
-              "sentence": "Пкъэум ыдэжь |сыӏуахь|",
-              "translation": "|I went near| the pillar."
-            },
-            {
-              "sentence": "Хьэм ыдэжь |уӏумыхь|",
-              "translation": "|Do not go near| the dog."
-            },
-            {
-              "sentence": "Тучаным |тыӏухьагъ| зыгорэ къыӏэтыхынэу",
-              "translation": "|We went to| the shop to take something."
-            },
-            {
-              "sentence": "Мэфэкӏымкӏэ, сабыймэ чылэр къакӏухьэ, унэхэмэ |аӏухьэх| ӏэшӏухыр къаратыхэнэу",
-              "translation": "In the holiday, the children wander around the village, |going to| houses to get sweets."
-            }
-          ],
-          "meaning": "to go near"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷətən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏутын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр чъыгым |ӏут|",
-              "translation": "The boy |is standing near| the tree."
-            },
-            {
-              "sentence": "Кӏалэр чъыгым |ӏут|",
-              "translation": "The boy |is standing near| the tree."
-            },
-            {
-              "sentence": "Пшъашъэр тучаным |ӏутыгъ|",
-              "translation": "The girl |was near| the shop."
-            },
-            {
-              "sentence": "Кӏэлэцӏыкӏухэр лӏым ыдэжь |ӏутых|, тхыдэжъ къафеӏуатэу",
-              "translation": "The little kids |are around| the man, telling them a story."
-            }
-          ],
-          "meaning": "to stand near; to stand around"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Мы чӏыпӏэм аслъанхэр |ӏутых|",
-              "translation": "In this area, |there are| lions |around|."
-            }
-          ],
-          "meaning": "to be near; to be around"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Сэ еджапӏэм |сыӏут|",
-              "translation": "I am working |in| school."
-            },
-            {
-              "sentence": "Кӏалэр фабрикэм |ӏут|",
-              "translation": "The young man is working |in| the factory."
-            },
-            {
-              "sentence": "Фабрикэм |сыӏутыгъ|",
-              "translation": "I was working |in| a factory."
-            },
-            {
-              "sentence": "Лӏыр а ӏофым |ӏут| илъэсипшӏэ, ӏофыр ыпэ къыикӏыжьыгъэу чӏэкӏын",
-              "translation": "The man |has been in| that work for ten years, he probably got fed up with the job."
-            }
-          ],
-          "meaning": "to be employed in"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым къэбар къиӏуатэу |ӏут|",
-              "translation": "The man is |just standing| telling news."
-            },
-            {
-              "sentence": "ӏофымкӏэ кӏалэр |ӏут| зыгори ымышӏэу",
-              "translation": "In work, the boy is |just standing|, doing nothing."
-            },
-            {
-              "sentence": "Сыда ори умыхъыеу |уӏут| модэ? къакӏуи ори къэтдэӏэпыӏ",
-              "translation": "Why are you |just standing| there? come and help us."
-            },
-            {
-              "sentence": "Кӏалэри делэмэ афэдэу |ӏутыгъ|",
-              "translation": "The boy |just stood there| like an idiot."
-            },
-            {
-              "sentence": "Тэ тылажьэу кӏалэр |ӏутыгъ| къытэплъэу",
-              "translation": "While we were working, the boy |just stood there| watching us."
-            }
-          ],
-          "meaning": "to stand still doing nothing, to be around doing nothing, not helping and wasting time"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "хыӏушъо",
-        "псыӏушъо"
-      ],
-      "ipa": "ʔʷəʃʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏушъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хы |ӏушъо|",
-              "translation": "Sea |shore|."
-            },
-            {
-              "sentence": "Сэтэнае псыхъо |ӏушъом| ӏусыгъ гыкӏэу",
-              "translation": "Sataney was sitting near the river |shore|, doing laundry."
-            }
-          ],
-          "meaning": "shore, coast, seaboard, littoral"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "гукӏэн",
-        "ӏункӏэн",
-        "тӏыргун"
-      ],
-      "ipa": "jaʔʷənt͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏункӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"еӏункӏын\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəʁʷajət͡ʃʼəpʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏугъоикӏыпӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "flue (a pipe or duct that carries gaseous combustion products away from the point of combustion)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ыӏукӏэ| уешъон",
-              "translation": "To drink from the bottle."
-            }
-          ],
-          "meaning": "mouth"
-        },
-        {
-          "examples": [],
-          "meaning": "opening, aperture, hole"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəɕxəpt͡sʼət͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏущхыпцӏыкӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |ӏущхыпцӏыкӏыгъ|",
-              "translation": "The boy |chuckled|."
-            }
-          ],
-          "meaning": "to chuckle"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "гушӏопсӏын",
-        "щхыпцӏын"
-      ],
-      "ipa": "ʔʷɡʷəʃʼʷət͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏугушӏукӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр чэфэу |ӏугушӏукӏы|",
-              "translation": "The boy |smiles| happily."
-            }
-          ],
-          "meaning": "to smile"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəɮa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏулэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏэлэ |ӏулэ|",
-              "translation": "|foolish| boy."
-            }
-          ],
-          "meaning": "silly, stupid, foolish"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷəɮ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏул",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "pump (in horses)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷətʼəsħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏутӏысхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр чъыгым |ӏутӏысхьагъ|",
-              "translation": "The boy |sat near| the tree."
-            }
-          ],
-          "meaning": "to sit near"
         }
       ]
     }
@@ -16050,7 +11821,7 @@ const circassianDict = {
         {
           "examples": [
             {
-              "sentence": "Кӏалэр джэхашъо цӏашъутэм |тэцӏэшъутыкӏэгъ|",
+              "sentence": "Кӏалэр джэхашъо цӏашъутэм |тецӏэшъутыкӏыгъ|",
               "translation": "The boy |slipped over| the slippery surface."
             },
             {
@@ -16062,7 +11833,16 @@ const circassianDict = {
               "translation": "The boy |slipped over| the banana"
             }
           ],
-          "meaning": "to slip over a"
+          "meaning": "to slip over something"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Рекетыр ашъокум |тецӏэшъутыкӏыгъ|",
+              "translation": "The rocket |bounced off| the tank."
+            }
+          ],
+          "meaning": "to bounce off something"
         }
       ]
     },
@@ -17889,7 +13669,7 @@ const circassianDict = {
               "translation": "|We| need |to speak about| what we gonna do."
             }
           ],
-          "meaning": "to talk about"
+          "meaning": "to talk about; to discuss on"
         }
       ]
     },
@@ -18816,7 +14596,7 @@ const circassianDict = {
         {
           "examples": [
             {
-              "sentence": "гъогуэр |бырсыр| нэпэ",
+              "sentence": "гъогуэр |бырсыр| непэ",
               "translation": "Today, the road is |crowded|."
             }
           ],
@@ -19734,119 +15514,6 @@ const circassianDict = {
             }
           ],
           "meaning": "to stop, to cease, to quit"
-        }
-      ]
-    }
-  ],
-  "ӏы": [
-    {
-      "ipa": "ʔəʁan",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏыгъын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏыгъэн\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔəʁan",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏыгъэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм ахъщэ макӏ |ыӏыгъ|",
-              "translation": "The boy |has| few money."
-            },
-            {
-              "sentence": "Кӏалэм ахъщэу |ыӏыгъыр| ахъщэ макӏ",
-              "translation": "The money the boy |has| is few money."
-            },
-            {
-              "sentence": "ӏункӏыбзэр |уӏыгъа|?",
-              "translation": "|Do you hold| the key?"
-            },
-            {
-              "sentence": "Кӏэлэцӏыкӏу |сыӏыгъ|",
-              "translation": "|I am holding| a little boy."
-            },
-            {
-              "sentence": "|Сыӏыгъагъ| мые",
-              "translation": "|I was holding| an apple."
-            },
-            {
-              "sentence": "Пшъашъэм тхылъ бэ |ыӏыгъ|",
-              "translation": "The girl |holds| a lot books."
-            },
-            {
-              "sentence": "Къэлэм |уӏыгъэмкӏэ| тхэ",
-              "translation": "Write |with (using)| the pencil |you holding|."
-            },
-            {
-              "sentence": "Зы тон |сыӏыгъэшъущтэп|",
-              "translation": "|I can\u0027t hold| ӏ ton."
-            },
-            {
-              "sentence": "Пыйхэр къакӏох ӏашэхэр |аӏыгъэхэу|",
-              "translation": "The foes are coming |holding| weapons."
-            }
-          ],
-          "meaning": "to hold; to keep"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм ахъщэ мэкӏэжъый |ыӏыгъэр|",
-              "translation": "The boy |has| very few money."
-            },
-            {
-              "sentence": "Кӏалэм псылъэ |ыӏыгъ| псыкӏэ изэу",
-              "translation": "The boy |has| a water-bottle filled with water."
-            },
-            {
-              "sentence": "Кӏэгъэналъэ |шъуӏыгъа|?",
-              "translation": "|Do you have| a lighter?"
-            }
-          ],
-          "meaning": "to have"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым фабрикэр изакъоу |ыӏыгъ|",
-              "translation": "The man |maintains| the factory alone"
-            }
-          ],
-          "meaning": "to maintain"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔənd͡ʒər",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏынджыр",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "(Turkish) fig"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔəxən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏыхын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"къыӏыхын\""
         }
       ]
     }
@@ -21439,2240 +17106,6 @@ const circassianDict = {
       ]
     }
   ],
-  "ӏэ": [
-    {
-      "ipa": "ʔa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ыӏэхэр| пытэх",
-              "translation": "The boy\u0027s |arms| are firm."
-            },
-            {
-              "sentence": "|Уӏэ| кӏашъом къэса?",
-              "translation": "Does |your arm| reach the ceiling?"
-            },
-            {
-              "sentence": "Хьэр |сӏэ| къецакъагъ",
-              "translation": "The dog bited |my arm|."
-            },
-            {
-              "sentence": "Лъы |сӏэ| къекӏы",
-              "translation": "Blood is coming out of |my arm|."
-            },
-            {
-              "sentence": "|Сӏэ| уты ышхыгъэти плъыжьэу хъугъэ",
-              "translation": "Because |my arm| ate a blow it became red."
-            },
-            {
-              "sentence": "Пшъашъэм |ыӏэ| мастэ хагъахьи лъы хашъугъ",
-              "translation": "They inserted needle into the girl\u0027s |arm| and extracted blood."
-            }
-          ],
-          "meaning": "arm"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Слъакъохэр зэтепхагъэх, |сӏэхэр| тӏупщыгъэх",
-              "translation": "My legs are tied up, |my hands| are loosed."
-            },
-            {
-              "sentence": "|Уӏэкӏэ| гъэучъыӏалъэм ыкӏыӏу утеӏашъуа?",
-              "translation": "Can you touch the surface of the fridge |with your hand|?"
-            },
-            {
-              "sentence": "|ӏэмкӏэ| зыгорэ къэбыштэн",
-              "translation": "To lift something |with the hand|."
-            },
-            {
-              "sentence": "|ӏэмкӏэ| зыгорэм унэсын",
-              "translation": "To touch something |with the hand|."
-            },
-            {
-              "sentence": "|Уӏэ| сыд чӏэлъыр?",
-              "translation": "What is in |your hand|?"
-            }
-          ],
-          "meaning": "hand"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "лъагэ (high)"
-      ],
-      "ipa": "ʔataʁ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэтыгъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чъыгы |ӏэтыгъэм| ситоп пынагъ",
-              "translation": "My ball stuck on the |high| tree."
-            },
-            {
-              "sentence": "Мы унэр |ӏэтыгъ|",
-              "translation": "This house |is high|."
-            },
-            {
-              "sentence": "|Узэрэӏэтыгъэр|",
-              "translation": "|You are so high|."
-            }
-          ],
-          "meaning": "high"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм имакъэ |ӏэтыгъ|",
-              "translation": "The boy\u0027s voice |is loud|."
-            },
-            {
-              "sentence": "Музикэ макъэр |ӏэтыгъэу| къырегъаӏо",
-              "translation": "(s)he plays music |loudly|."
-            },
-            {
-              "sentence": "Кӏалэм пщынэм имакъэ |ӏэтыгъэу| къырегъаӏо",
-              "translation": "The boy plays the accordion |loudly|."
-            }
-          ],
-          "meaning": "loud voice (мэкъэ ӏэтыгъ)"
-        }
-      ]
-    },
-    {
-      "etymology": "From ӏэ (hand) + шъхьэ (head)",
-      "ipa": "ʔaʂħa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэшъхьэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏашъхьэ\""
-        }
-      ]
-    },
-    {
-      "etymology": "From ӏэ (hand) + гу (heart)",
-      "ipa": "ʔaɡʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэгу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |ӏэгу| тео",
-              "translation": "The boy |claps|"
-            }
-          ],
-          "meaning": "palm"
-        },
-        {
-          "examples": [],
-          "meaning": "yard, courtyard"
-        }
-      ]
-    },
-    {
-      "etymology": "From ӏэ (hand) + дакъэ (root)",
-      "ipa": "ʔadaːqa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэдакъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "the hand\u0027s heel; heel-palm"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏэпхъуамбэ",
-      "synonyms": [
-        "ӏэхъуамбэ"
-      ],
-      "ipa": "ʔapχaːba",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпхъабэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "(Shapsug) finger"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏэбжьанэ",
-      "etymology": "From ӏэ (hand) + бжъанэ (nail)",
-      "ipa": "ʔabʐaːna",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэбжъанэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Сӏэбжъанэр| папцӏэх",
-              "translation": "|My fingernails| are sharp."
-            },
-            {
-              "sentence": "ӏэбжъэнэпыупкӏыкӏэ пшъашъэм |ыӏэбжъанэр| преупкӏых",
-              "translation": "The girl cuts |her fingernails| using the nail clipper."
-            },
-            {
-              "sentence": "Кӏалэр |ыӏэбжъанэхэмэ| ацэкъэжьы",
-              "translation": "The boy bites |his fingernails|."
-            }
-          ],
-          "meaning": "fingernail"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏэпэпсӏый",
-      "kabardian": "ӏэпэпцӏий",
-      "synonyms": [
-        "ӏэпапцӏэ"
-      ],
-      "ipa": "ʔapapsʼəj",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпэпцӏый",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "fingertip"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔarʁʷəj",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэргъуй",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"аргъой\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "нэнэжъ"
-      ],
-      "etymology": "From анэ (mother) + жъы (old)",
-      "ipa": "ʔanaʐ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэнэжъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "grandma; grandmother"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тэтэжъ"
-      ],
-      "etymology": "From атэ (father) + жъы (old)",
-      "ipa": "ʔataʐ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэтэжъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "grandpa; grandfather"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaʃʷʼaj-ɬaʃʷʼaj",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэшӏой-лъэшӏой",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "having dirty hands and feet"
-        }
-      ]
-    },
-    {
-      "etymology": "From ӏэ (hand) + илъын (to be in it)",
-      "ipa": "ʔaɬən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэлъын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сӏэхъуамбэ |ӏэлъын| илъ",
-              "translation": "There is |a ring| on my finger."
-            },
-            {
-              "sentence": "Къэщагъэм ыӏэхъуамбэ |ӏэлъын| релъхьэ",
-              "translation": "A married person puts |a ring| onto his finger"
-            },
-            {
-              "sentence": "Кӏалэм |ӏэлъын| пшъашъэм ыӏэхъуамбэ рилъхьагъ",
-              "translation": "The boy put |a ring| onto the girl\u0027s finger."
-            },
-            {
-              "sentence": "Бзылъфыгъэм |иӏэлъын| мычӏ илъ",
-              "translation": "There is a jewel in the woman\u0027s |ring|."
-            }
-          ],
-          "meaning": "ring"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapʂaχʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэшъхьэхъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэпшъэхъу\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapʂħaχʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпшъхьэхъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэпшъэхъу\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏэхъу"
-      ],
-      "ipa": "ʔapʂaχʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпшъэхъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм ыӏапшъэ |ӏэпшъэхъу| илъ",
-              "translation": "There is a |bracelet| in the girl\u0027s wrist."
-            }
-          ],
-          "meaning": "bracelet"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaɬmaq",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэлъмэкъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Къащэфхэрэр тучанымкӏэ |ӏэлъмэкъымм| ралъхьэх",
-              "translation": "They put the things they buy in the shop into |bags|."
-            },
-            {
-              "sentence": "Тхылъхэр |ӏалъмэкъ| илъхьах",
-              "translation": "Put the books inside the |bag|."
-            },
-            {
-              "sentence": "Колэм пае |ӏалъмэкъ| уфая?",
-              "translation": "Do you want a |bag| for the Coke?"
-            }
-          ],
-          "meaning": "bag (used for shopping); paper bag"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔat͡ʃʼaːp",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэкӏап",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"пакӏэ\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔabʒəb",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэбжыб",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пынбдж |ӏэбжыб| хьын",
-              "translation": "To take a |handful of| rice."
-            },
-            {
-              "sentence": "Псы |ӏэбжыб| къыхэхын",
-              "translation": "To take up |a handful| of water."
-            }
-          ],
-          "meaning": "handful; fistful"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔabʒəmə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэбжым",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |ӏэбжымыкӏэ| ащ еуагъ",
-              "translation": "The boy hit him |with a fist| (The buy punched him)."
-            }
-          ],
-          "meaning": "fist"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔatajt͡ʃʼan",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэтекӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "arm wrestling"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏэлджанэ"
-      ],
-      "ipa": "ʔabɮa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэблэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "forearm"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏэлгьанэ",
-      "synonyms": [
-        "ӏэблэ"
-      ],
-      "ipa": "ʔald͡ʒaːana",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэлджанэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "forearm"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔandəq",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэндыкъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "hyaena"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔama-psəm",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэмэ-псым",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏэмэ-псымэхэр| тыдэ щыӏэха?",
-              "translation": "Where are |the tools|?"
-            }
-          ],
-          "meaning": "tool; instrument"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔazaʁʷət͡s",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэзэгъууц",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"уц ӏэзэгъу\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔazaʁʷə wət͡s",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэзэгъу уцы",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"уц ӏэзэгъу\""
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏэтэгъу",
-      "ipa": "ʔantaʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэнтэгъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Убзэгукӏэ |уӏэнтэгъу| унэсышъущта?",
-              "translation": "Can you touch |your elbow| with your tongue?"
-            },
-            {
-              "sentence": "Кӏалэр |ыӏэнтэгъукӏэ| къысэуагъ",
-              "translation": "The boy hit me |with his elbow|"
-            }
-          ],
-          "meaning": "elbow"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːpʂ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпшъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏапшъ\""
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏэфӏ",
-      "synonyms": [
-        "гоӏу",
-        "мыщыу"
-      ],
-      "ipa": "ʔaʃʷʼə",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэшӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Шоколадыр |ӏэшӏу|",
-              "translation": "Chocolate |is sweet|."
-            },
-            {
-              "sentence": "Кекс |ӏэшӏущэ|, шъоущыгъу бащэ хэлъ",
-              "translation": "The cake |is too sweet|, it has too much sugar."
-            }
-          ],
-          "meaning": "sweet"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Сянэ ишхын |ӏэшӏу|",
-              "translation": "My mother\u0027s food |is tasty|."
-            },
-            {
-              "sentence": "Къоӏусыр сэркӏэ |ӏэшӏу|",
-              "translation": "Banana |is tasty| for me."
-            },
-            {
-              "sentence": "Пшъашъэм шхыныр |ӏэшӏоу| къишӏыгъ",
-              "translation": "The girl made the food |tasty|."
-            }
-          ],
-          "meaning": "tasty"
-        },
-        {
-          "examples": [],
-          "meaning": "something sweet (e.g. candy, cage)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм мэ |ӏэшӏу| унэм ригъэутысагъ",
-              "translation": "The boy sprayed a |pleasant| smell in the house."
-            }
-          ],
-          "meaning": "pleasant (smell)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "пӏырагу",
-        "топ"
-      ],
-      "ipa": "ʔaɡʷaːw",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэгуау",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |ӏэгуаум| ешъутырыгъ",
-              "translation": "The boy kicked |the ball|."
-            },
-            {
-              "sentence": "Кӏалэхэр |ӏэгуаум| реджэгух",
-              "translation": "The boy are playing with |the ball|."
-            },
-            {
-              "sentence": "|ӏэгуаур| къыслъыгъакӏу",
-              "translation": "Pass|the ball| to me."
-            }
-          ],
-          "meaning": "ball (object, generally spherical, used for playing games)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːtən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэтын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым ыкӏалэ лъагэу |еӏэты|",
-              "translation": "The man |lifts| his child high."
-            },
-            {
-              "sentence": "Тэ адыгэхэмкӏэ |зыкъэтӏэтыжьын| фай",
-              "translation": "We Circassians need |to lift ourselves| up."
-            },
-            {
-              "sentence": "|Къэӏэт| ӏанэр",
-              "translation": "|Lift| the table."
-            },
-            {
-              "sentence": "Кӏэрахъор гъэтӏылъи уӏэхэр |къэӏэтых|",
-              "translation": "Lay down the gun and |raise| your hands."
-            }
-          ],
-          "meaning": "to lift, to raise"
-        },
-        {
-          "examples": [],
-          "meaning": "(Kfar Kama dialect slang vulgar) to have sexual intercourse; to fuck"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaχʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэхъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хьапсэчӏэсым ыӏэмэ |ӏэхъу| апылъ",
-              "translation": "The prisoner has |handcuffs| on his hands."
-            }
-          ],
-          "meaning": "handcuffs; hand shackles, manacles, irons (paired wrist restraints)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Бзылъфыгъэм ыӏапшъэ |ӏэхъу| илъ",
-              "translation": "There is a |bracelet| in the woman\u0027s wrist."
-            }
-          ],
-          "meaning": "bracelet"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaχʷ-ɬaχʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэхъу-лъэхъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏэхъу-лъэхъу| телъэу лӏыр хьапсым чӏэсыгъ",
-              "translation": "The man was imprisoned wearing |cuffs|."
-            }
-          ],
-          "meaning": "cuffs (handcuffs or legcuffs); shackles, manacles, gyves, fetters, irons (paired wrist or ankle restraints)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapaʁʷaːpa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпэгъуапэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "cuff (the end of a shirt sleeve that covers the wrist)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapat͡ʃʼaːd͡z",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпэкӏадз",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "кӏалэм |ӏэпэкӏадзэхэр| къеугъоих",
-              "translation": "The boy collects |signatures|."
-            }
-          ],
-          "meaning": "signature"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏэнтэгъу"
-      ],
-      "ipa": "ʔataʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэтэгъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэнтэгъу\""
-        }
-      ]
-    },
-    {
-      "kabardian": "нэӏаплъэщӏ",
-      "synonyms": [
-        "нэӏаплъэкӏ"
-      ],
-      "ipa": "ʔapɬat͡ʃ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэплъэкӏ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏэплъэкӏ| уиӏа?",
-              "translation": "Do you have a |towel|?"
-            }
-          ],
-          "meaning": "towel"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapəʔaʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпыӏэгъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏэпыӏэгъоу| укъысфэхъун плъэкӏыщта?",
-              "translation": "Can you |help| me?"
-            },
-            {
-              "sentence": "Кӏалэм еджэнымкӏэ |ӏэпыӏэгъоу| фэхъу|",
-              "translation": "|Help| the boy with the studies."
-            },
-            {
-              "sentence": "|ӏэпыӏэгъоу| сыгорэ къэсфэхъущта?",
-              "translation": "|Can| someone |help me|?"
-            }
-          ],
-          "meaning": "help; aid; assistance"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapɬat͡ʃʐəja",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэплъэкӏыжъые",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "handkerchiefs"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔabʐanapəwpt͡ʃə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэбжъэнэпыупкӏы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏэбжъэнэпыупкӏыкӏэ| пшъашъэм ыӏэпжъанэхэр преупкӏых",
-              "translation": "The girl cuts her fingernails using the |nail clipper|."
-            }
-          ],
-          "meaning": "nail clipper"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔamapsəma",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэмэпсымэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэмэ-псым\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "лӏышъхьэ",
-        "пащ"
-      ],
-      "ipa": "ʔaʂħatajt",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэшъхьэтет",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ар |тиӏэшъхьэтет|",
-              "translation": "That is |our boss|."
-            },
-            {
-              "sentence": "ӏофшӏапӏэм |иӏэшъхьэтет|",
-              "translation": "|The manager of| work."
-            },
-            {
-              "sentence": "Хэгъэгум |иӏэшъхьэтет|",
-              "translation": "|The head of| the country."
-            }
-          ],
-          "meaning": "head; boss; manager"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏэпхъабэ",
-      "kabardian": "ӏэпхъуамбэ",
-      "ipa": "ʔaχʷaːmba",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэхъуамбэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Зы ӏэм |ӏэхъомбитф| пыт",
-              "translation": "A hand has |five fingers|."
-            },
-            {
-              "sentence": "Зыфэсакъ, |уӏэхъуамбэ| уатэкӏэ уеожьыщт",
-              "translation": "Watch out, you will hit |your finger| with a hammer."
-            },
-            {
-              "sentence": "|Сӏэхъуамбэ| ӏэлъын илъ",
-              "translation": "There is a ring on |my finger|."
-            },
-            {
-              "sentence": "|Сӏэхъуамбэхэр| пчъэм дэбгъэпӏытӏагъэх",
-              "translation": "You smashed |my fingers| in the door."
-            }
-          ],
-          "meaning": "finger"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaχʷamba t͡sʼaraːməʔʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэхъомбэ цӏэрамыӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "ring-finger"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapqəna",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпкъынэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "finger joints"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏэбычъу"
-      ],
-      "ipa": "ʔabət͡sʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэбыцу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ӏэбыцохэр| ыӏэхэмэ апылъ",
-              "translation": "The boy has |gloves| on his hands."
-            },
-            {
-              "sentence": "|ӏэбыцохэр| зыпылъхьах",
-              "translation": "Put on |gloves|."
-            },
-            {
-              "sentence": "|ӏэбыцом| уӏэ къигъэфэбэщт",
-              "translation": "|The gloves| will warm your hand."
-            }
-          ],
-          "meaning": "glove"
-        },
-        {
-          "examples": [],
-          "meaning": "mitten"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏэпапсӏэ; ӏэпэпсӏий",
-      "synonyms": [
-        "ӏэпэпцӏий"
-      ],
-      "ipa": "ʔapaːpsʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпапцӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "fingertip"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapəzən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэпызын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Къысӏых колэр псынкӏэу, |къэсӏэпэзы|",
-              "translation": "Take the Coke from me fast, |I am dropping it|."
-            },
-            {
-              "sentence": "Мыӏэрысхэр |къэсӏэпызыхи| чӏыгум тефагъэх",
-              "translation": "|I dropped| the apples and they hit the ground."
-            },
-            {
-              "sentence": "Апчыр |къысӏэпымыгъэз|, уубэтэщт",
-              "translation": "|Don\u0027t let yourself drop| the glass, you will break it."
-            },
-            {
-              "sentence": "Лӏым ыӏыгъ лагъэр |ӏэпызыгъ|",
-              "translation": "The man |dropped| the plane he\u0027s holding."
-            }
-          ],
-          "meaning": "to slowly drop something unintentionally (from one\u0027s hand)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapəzən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэкӏэзын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Къысӏых колэр псынкӏэу, |къэсӏэкӏэзы|",
-              "translation": "Take the Coke from me fast, |I am dropping it|."
-            },
-            {
-              "sentence": "Мыӏэрысхэр |къэсӏэкӏэзыхи| чӏыгум тефагъэх",
-              "translation": "|I dropped| the apples and they hit the ground."
-            },
-            {
-              "sentence": "Апчыр |къысӏэкӏэмыгъэз|, уубэтэщт",
-              "translation": "|Don\u0027t let yourself drop| the glass, you will break it."
-            },
-            {
-              "sentence": "Лӏым ыӏыгъ лагъэр |ӏэкӏэзыгъ|",
-              "translation": "The man |dropped| the plane he\u0027s holding."
-            },
-            {
-              "sentence": "Мыӏэрысхэр |къыпӏэкӏэзых|",
-              "translation": "|You are dropping| the apples."
-            }
-          ],
-          "meaning": "to slowly drop something unintentionally (from one\u0027s hand)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapətʼarən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэпытӏэрын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Къысӏых колэр псынкӏэу, |къэсӏэпытӏэры|",
-              "translation": "Take the Coke from me fast, |I am dropping it|."
-            },
-            {
-              "sentence": "Мыӏэрысхэр |къэсӏэпытӏэрыхи| чӏыгум тефагъэх",
-              "translation": "|I dropped| the apples and they hit the ground."
-            },
-            {
-              "sentence": "Апчыр |къысӏэпымыгъэтӏэр|, уубэтэщт",
-              "translation": "|Don\u0027t let yourself drop| the glass, you will break it."
-            }
-          ],
-          "meaning": "(Shapsug) to drop something unintentionally (from one\u0027s hand)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapəʁazən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэпыгъэзын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Апчыр |къысӏэпымыгъэз|, уубэтэщт",
-              "translation": "|Don\u0027t let yourself drop| the glass, you will break it."
-            }
-          ],
-          "meaning": "to make someone drop something (from one\u0027s hand)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapəʁatʼarən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэпыгъэтӏэрын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Апчыр |къысӏэпымыгъэтӏэр|, уубэтэщт",
-              "translation": "|Don\u0027t let yourself drop| the glass, you will break it."
-            }
-          ],
-          "meaning": "to make someone drop something (from one\u0027s hand)"
-        }
-      ]
-    },
-    {
-      "kabardian": "тынш",
-      "synonyms": [
-        "къолай"
-      ],
-      "ipa": "ʔaʃʼax",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэшӏэх",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Тест |ӏэшӏэх|",
-              "translation": "|Easy| test."
-            },
-            {
-              "sentence": "Кӏалэм |ӏэшӏэхэу| кур ышӏыжьыгъ",
-              "translation": "The young man fixed the car |easily|."
-            },
-            {
-              "sentence": "Мы ливилэр |ӏэшӏэх|",
-              "translation": "This level |is easy|."
-            },
-            {
-              "sentence": "Кӏалэм тестыр къиныщт ышӏошӏыгъ, ау |ӏэшӏэхэу| къычӏэкӏыжьыгъ",
-              "translation": "The boy thought the test gonna be hard, but it was |easy|."
-            },
-            {
-              "sentence": "Кӏэлэцӏыкӏур псынкӏэти |ӏэшӏэхэу| къэсыштэшъу",
-              "translation": "Because the boy is light I can lift him |easily|."
-            }
-          ],
-          "meaning": "easy"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔanat͡ʃʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэнэкӏ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |ӏэнэкӏэу| унэм ихьан",
-              "translation": "The boy went inside the house |empty-handedly|."
-            },
-            {
-              "sentence": "Лӏыр |ӏэнэкӏэу| заом хэхьагъ",
-              "translation": "The man went to war |empty-handedly|."
-            }
-          ],
-          "meaning": "empty-handed"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏэпыӏэн",
-        "дэӏэпыӏэн"
-      ],
-      "ipa": "ʔapəʔaʁʷaw faχʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэпыӏэгъоу фэхъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр пшъашъэм |ӏэпыӏэгъоу фэхъугъ|",
-              "translation": "The boy |assisted| the girl."
-            },
-            {
-              "sentence": "|ӏэпыӏэгъоу укъысфэхъун| плъэкӏыщта?",
-              "translation": "|Can you help me|?"
-            },
-            {
-              "sentence": "Кӏалэм еджэнымкӏэ |ӏэпыӏэгъоу фэхъу|",
-              "translation": "|Help| the boy with the studies."
-            },
-            {
-              "sentence": "|ӏэпыӏэгъоу| зыгорэ |къэсфэхъушъущта|?",
-              "translation": "|Can| someone |help me|?"
-            }
-          ],
-          "meaning": "to help; to aid; to assist"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "гъуапэ"
-      ],
-      "ipa": "ʔaʁʷaːpa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэгъуапэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Джанэм |ӏэгъуапэхэр| педэжьых",
-              "translation": "(S)he sews |the sleeves| to the shirt."
-            },
-            {
-              "sentence": "Джэнэ |ӏэгъопэ| кӏыхь",
-              "translation": "Long |sleeved| shirt."
-            },
-            {
-              "sentence": "|Уиӏэгъуапэхэр| дэщаех",
-              "translation": "Raise your |sleeves|."
-            }
-          ],
-          "meaning": "sleeve (of a shirt)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏэджэ-быдж"
-      ],
-      "ipa": "ʔapʃaχʷ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэпшэхъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "clumsy; sloppy"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏэпшэхъу"
-      ],
-      "ipa": "ʔad͡ʒa-bəd͡ʒ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэджэ-быдж",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "clumsy"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapaʔaːs",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэпэӏас",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "иӏофкӏэ |ӏэпэӏас|",
-              "translation": "(s)he is |a master| in his work."
-            }
-          ],
-          "meaning": "masterful; very skillful"
-        }
-      ]
-    },
-    {
-      "ipa": "taʃʼət͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэкӏэ тешӏыкӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр филым шӏоимэ |атешӏыкӏы|",
-              "translation": "The boy |is masturbating off| dirty films."
-            },
-            {
-              "sentence": "Таущтэу мощ |тешъошӏыкӏы|",
-              "translation": "How |are you masturbating off| that."
-            }
-          ],
-          "meaning": "(vulgar, slang) to masturbate off something"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaban",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэбэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Къэӏаби| сӏэ къаубыт уемыфэхыгъэу",
-              "translation": "|Reach out and | hold my hand before you fall."
-            },
-            {
-              "sentence": "Кӏалэр иӏэ шӏоихэмкӏэ |мэӏабэ|",
-              "translation": "The boy |is reaching out| with his filthy hands."
-            }
-          ],
-          "meaning": "to reach out, to extend one\u0027s hand(s) forward."
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Сшъхьэц |укъытемыӏаб|",
-              "translation": "|Don\u0027t touch| my hair."
-            },
-            {
-              "sentence": "Компыютэрым уӏэ шӏоикӏэ |утеӏабэ|",
-              "translation": "|You\u0027re touching| the computer with your filthy hands."
-            },
-            {
-              "sentence": "Чэтыум |утемыӏаб|, бжьыдзэхэр хэсых",
-              "translation": "|Don\u0027t touch| the cat, it has fleas."
-            }
-          ],
-          "meaning": "to reach out and touch"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏэгьы",
-      "ipa": "ʔad͡ʒə",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "ӏэджы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏэджы| мэхъу",
-              "translation": "|A lot of things| are happening."
-            },
-            {
-              "sentence": "|ӏэджы| ышӏагъ ащ",
-              "translation": "(S)he did |A lot of things|."
-            },
-            {
-              "sentence": "Кӏалэм |ӏэджи| еӏо",
-              "translation": "The boy |is saying a lot of things|."
-            },
-            {
-              "sentence": "|ӏэджы| шӏагъи",
-              "translation": "|Long time| ago."
-            }
-          ],
-          "meaning": "a lot; many"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "едэхэшӏэн",
-        "гъэшӏон"
-      ],
-      "ipa": "ʔa ɕəfan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэ щыфэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to be nice to someone, to show a friendly disposition"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэр чэтыум |ӏэ щефэ|",
-              "translation": "The girl |is stroking| the cat."
-            },
-            {
-              "sentence": "Чэтыу сымаджэм |ӏэ щымыф|",
-              "translation": "|Don\u0027t stroke| the sick cat."
-            }
-          ],
-          "meaning": "to pat, to stroke, to pet, to fondle"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "дэӏэпыӏэн"
-      ],
-      "ipa": "ʔapəʔan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэпыӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Уиныбджэгъумэ |уаӏэпыӏэн|",
-              "translation": "|To help| your friends."
-            },
-            {
-              "sentence": "Уахътэ уиӏа |укъыздэӏэпыӏэнэу|?",
-              "translation": "Do you have time |to help me|?"
-            }
-          ],
-          "meaning": "to help"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏэпыкӏьын",
-      "ipa": "ʔapət͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэпыкӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Уичӏыфэ утын фаем о |уӏэпыкӏышъутэп|",
-              "translation": "|You can\u0027t evade| the dept you need to pay."
-            },
-            {
-              "sentence": "А цӏыф бзаджэм |сыӏэпыкӏыгъ|",
-              "translation": "|I evaded| that bad person."
-            },
-            {
-              "sentence": "Автобусыр |къэсӏэпыкӏыгъ|",
-              "translation": "The bus |evaded| me."
-            }
-          ],
-          "meaning": "to evade, to successfully espace someone"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|Къэсӏэпыкӏы|, псыунэм сихьан фай",
-              "translation": "|I can\u0027t hold my pee|, I need to enter the restroom."
-            }
-          ],
-          "meaning": "to not be able to hold the pee"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔazəʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэзэгъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏы уӏагъэм |ӏэзэгъу| ищыкӏагъ",
-              "translation": "The wounded man needs |treatment|."
-            }
-          ],
-          "meaning": "treatment"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|ӏэзэгъу| уцыхэр",
-              "translation": "|Drug| plants."
-            }
-          ],
-          "meaning": "medicine"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Тхьэм кӏалэр |ӏэзэгъоу| ерэшӏ",
-              "translation": "May god make the boy |healthy|."
-            }
-          ],
-          "meaning": "healthy"
-        },
-        {
-          "examples": [],
-          "meaning": "healing partner; healing body; healing friend"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapətʼarən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэпэтӏэрын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэпытӏэрын\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔa qaʔatən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэ къэӏэтын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Сӏэ къэсэӏэты|",
-              "translation": "|I surrender|."
-            }
-          ],
-          "meaning": "to surrender"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр емыджэшъоу зэхъум |ыӏэ къиӏэтыжьыгъ|",
-              "translation": "When the boy couldn\u0027t study, |he gave up|."
-            },
-            {
-              "sentence": "Кӏалэр пшъашъэм джэгумкӏэ текӏошъугъэпи, |ыӏэ къиӏэтыгъ|",
-              "translation": "Because the boy couldn\u0027t defeat the girl in the game, |he gave up|."
-            }
-          ],
-          "meaning": "to give up"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔapɬʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэплӏ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏаплӏэ\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔamaːl",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэмал",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"амал\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔadab",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэдэб",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "polite"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔamaqa-ɬamaːq",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэмэкъэ-лъэмакъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏэмэкъэ-лъэмакъэ| къэӏугъ",
-              "translation": "|A noise| was heard."
-            },
-            {
-              "sentence": "Зи |ӏэмэкъэ-лъэмакъэ| къэӏурэп",
-              "translation": "No |noise| was heard."
-            }
-          ],
-          "meaning": "noise (from the movement of arms and legs)"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏэкӏэкӏьын",
-      "kabardian": "ӏэщӏэкӏын",
-      "ipa": "ʔat͡ʃʼat͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэкӏэкӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр хьэмэ |аӏэкӏэкӏыгъ|",
-              "translation": "The boy |got away| from the dogs."
-            },
-            {
-              "sentence": "Шъукъэсыубытымэ |шъукъысӏэкӏэкӏыщтып|",
-              "translation": "If I caught you |you won\u0027t get away from me|."
-            },
-            {
-              "sentence": "Пцӏы кӏалэм |ӏэкӏэкӏыгъ|.",
-              "translation": "The boy |let| a lie |slip away inadvertently|"
-            }
-          ],
-          "meaning": "to let someone get away or run away (inadvertently)"
-        },
-        {
-          "examples": [],
-          "meaning": "to break out of somebody\u0027s hands"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм фылымыр |ӏэкӏэкӏыгъ|",
-              "translation": "The boy |missed out| the film |incidentally|."
-            },
-            {
-              "sentence": "Кӏалэм уахътэр |ӏэкӏэкӏыгъ|",
-              "translation": "The boy |lost| time |incidentally|"
-            }
-          ],
-          "meaning": "to miss out inadvertently"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔat͡ʃʼəb",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэкӏыб",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏэкӏыб| хэгъэгу",
-              "translation": "|Foreign| country."
-            }
-          ],
-          "meaning": "foreign"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏэщӏэукӏэн",
-      "ipa": "ʔat͡ʃʼawt͡ʃʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэкӏэукӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Зыфэсакъ, усӏукӏэмэ |укъысӏэкӏэукӏэхьащт|",
-              "translation": "Be careful!, if we meet |I might kill you inadvertently|."
-            }
-          ],
-          "meaning": "to kill somebody inadvertently"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔat͡ʃʼawt͡ʃʼaʃʷʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэкӏэуӏэшӏон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэм ишхын сэ |сӏэкӏэуӏэшӏуагъ|",
-              "translation": "|I was pleased| the girl\u0027s dinner"
-            }
-          ],
-          "meaning": "to be pleased (with the food)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔʷaps ɬaps",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэпс-лъэпс",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Бгырыпх |ӏэпс-лъэпс| ыбгы илъ",
-              "translation": "A |simple| belt is on his waist."
-            }
-          ],
-          "meaning": "simple, basic"
-        },
-        {
-          "examples": [],
-          "meaning": "narrowish"
-        },
-        {
-          "examples": [],
-          "meaning": "with difficulty"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔat͡ʃʼaħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэкӏэхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм шхын бэ |ӏэкӏэхьан| фай",
-              "translation": "The boy needs |to receive| a lot food."
-            },
-            {
-              "sentence": "Видио-джэгумкӏэ |къэсӏэкӏэхьагъ| чатэ",
-              "translation": "In the video game, |I got a hold of| a sword."
-            },
-            {
-              "sentence": "Лӏым зи ахъщи |ӏэкӏахьэрэп|",
-              "translation": "The man |does not receive| any money."
-            },
-            {
-              "sentence": "Сыд |къыпӏэкӏахьагъэр|?",
-              "translation": "What did |you receive|?"
-            },
-            {
-              "sentence": "Тхьапш |къыпӏэкӏахьагъэр|?",
-              "translation": "How much did |you receive|?"
-            },
-            {
-              "sentence": "Шӏэныгъэ |къэсӏэкӏэхьагъ| о |къыпӏэмыкӏэхьагъэу|",
-              "translation": "|I received| knowledge |that you did not receive|."
-            },
-            {
-              "sentence": "Сишхын иуахътэ |къэсӏэкӏэхьагъэп|",
-              "translation": "|I did not receive| my food in time."
-            },
-            {
-              "sentence": "Кӏалэм губжьыгъэ ӏофыр |къыӏэкӏэхьагъэпи|",
-              "translation": "The young man got angry |becase he did not get| the job."
-            }
-          ],
-          "meaning": "to acquire, to obtain, to get, to receive, to gain, to take possession of, to get ahold of"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔət͡ʃʼaʁaħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэкӏэгъэхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм ар |къызыӏэкӏегъэхьан| фай",
-              "translation": "The boy needs |to make himself gain it|."
-            },
-            {
-              "sentence": "Шӏэныгъэ зыгорэм |ӏэбгъэкӏэхьаныр|",
-              "translation": "|To provide| knowledge |to| someone."
-            },
-            {
-              "sentence": "Пачъыхьым ишхын иуахътэ |къыӏэгъэхьагъ|",
-              "translation": "|Provide| the king his meal in time."
-            },
-            {
-              "sentence": "Сымаджэм уцыр иуахътэ |къыӏэмыгъэкӏахьэмэ|, лӏэщт",
-              "translation": "|If you don\u0027t provide| the medicine |to| the sick in time, they will die."
-            },
-            {
-              "sentence": "Сымаджэм уцыр иуахътэ |къыӏэбгъэкӏэхьан| фай мылӏэнэу",
-              "translation": "|You| need |to provide| the medicine |to| the sick in time so they won\u0027t die."
-            },
-            {
-              "sentence": "Цӏыфымэ шхын |аӏэгъэкӏахь",
-              "translation": "|Provide| food to the people."
-            },
-            {
-              "sentence": "Робин Хьуд ахъщэ тхьамыщкӏэмэ ахъщэ къаӏегъэкӏахьэ",
-              "translation": "Robin Hood |supply| money to the poor."
-            },
-            {
-              "sentence": "Шхончыхэр дзэм |ӏэкӏэгъэхьан|",
-              "translation": "|To suppy| the army with rifles."
-            }
-          ],
-          "meaning": "to supply to; to provide to (more specifically: to make someone obtain of something)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔat͡ʃʼaħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэчӏэхьан",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэкӏэхьан\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔa xaɬən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэ хэлъын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хъугъэм |сӏэ хэлъэп|",
-              "translation": "|I am not involved| with what happened."
-            },
-            {
-              "sentence": "Куджаным |ыӏэ хэлъ| цӏыфэу аукӏыгъэм",
-              "translation": "Kujan |has something to do| with the person that was murdered."
-            }
-          ],
-          "meaning": "to be involved with; to have contribution in"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔa xaɬħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэ хэлъхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ахъщэм |сӏэ хэсылъхьагъ|",
-              "translation": "|I got involved with| the money."
-            },
-            {
-              "sentence": "Хъугъэм кӏалэм |ыӏэ хилъхьагъэп|",
-              "translation": "The boy |did not contribute| to what happened."
-            }
-          ],
-          "meaning": "to contribute; to get involved with"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏэхъуэгъу",
-      "ipa": "ʔaχʷaʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэхъогъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чэм |ӏэхъогъу|",
-              "translation": "|Herd| of cows"
-            },
-            {
-              "sentence": "ӏахъом |ӏэхъогъур| чылэм дифыгъ",
-              "translation": "The herdsman lead the |herd| out side the village."
-            },
-            {
-              "sentence": "А чэмым нахь дэгъу |ӏэхъогъум| хэтэп",
-              "translation": "There is no better cow in |the herd|."
-            },
-            {
-              "sentence": "Мэлахъом мэлыр |ӏэхъогъум| хигъэхьагъ",
-              "translation": "The shepherd added the sheep to |the herd|."
-            }
-          ],
-          "meaning": "herd"
-        },
-        {
-          "examples": [],
-          "meaning": "herdsman\u0027s companion"
-        }
-      ]
-    },
-    {
-      "ipa": "-zada",
-      "lang": "Adyghe",
-      "type": "prefix",
-      "word": "ӏэкӏэ-",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сикомпыютэр с|ӏэкӏэ|кӏосагъ",
-              "translation": "My computer switched off |unexpectedly| to me."
-            },
-            {
-              "sentence": "Пысмэ бэ с|ӏэкӏэ|тхагъ",
-              "translation": "I wrote a lot of letters |unintentionally|."
-            },
-            {
-              "sentence": "Сихьакӏэхэмэ зэкӏэ мыӏэрысхэр с|ӏэкӏ|ашхыхьагъ",
-              "translation": "My guests ate all the apples |unexpectedly| to me."
-            },
-            {
-              "sentence": "Сэ мыӏэрысхэр с|ӏэкӏэ|шхыхьагъ",
-              "translation": "I ate the apples |unintentionally|."
-            },
-            {
-              "sentence": "А цӏыфыр сы|ӏэкӏэ|укӏыхьащт",
-              "translation": "I will kill that person |unintentionally|."
-            }
-          ],
-          "meaning": "(added to verbs) unintentional; a verbal prefix that denotes unintentional actions or actions that occurred unexpectedly"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "хэгъуашъхьэ",
-        "хэгъошъхьаӏу"
-      ],
-      "ipa": "ʔaʁʷabɮaːʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэгъоблагъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэгъо-благъу\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "хэгъуашъхьэ",
-        "хэгъошъхьаӏу"
-      ],
-      "ipa": "ʔaʁʷa-bɮaːʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэгъо-благъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "surrounding area (of a village or city)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "шъхьачъэ-лъэчъэн"
-      ],
-      "ipa": "ʔat͡ʂa ɬat͡ʂan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэчъэ-лъэчъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "hustle and bustle, commotion, hubbub, hurlyburly"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "шъхьачъэ-лъэчъэн"
-      ],
-      "ipa": "ʔat͡ʂa ɬat͡ʂan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэчъэ-лъэчъэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to run back and forth"
-        }
-      ]
-    },
-    {
-      "ipa": "ʕapq-ɬapq",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпкъ-лъэпкъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ыӏэпкъ-лъэпкъыхэр| мэузых",
-              "translation": "The boy\u0027s |limbs| are hurting."
-            }
-          ],
-          "meaning": "limb (major appendage of a human such as an arm, leg)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaraːm",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэрам",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Къэгъэгъэ зэмылӏэужыгъоу зэхэт |ӏэрам|",
-              "translation": "|Bouquet| of different flowers."
-            }
-          ],
-          "meaning": "bouquet, bunch of flowers, posy"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Цумпэ |ӏэрам| кӏалэм къыхьыгъ",
-              "translation": "The boy brought a |bunch| of strawberries."
-            }
-          ],
-          "meaning": "bunch"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔanaʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэнэгъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |сиӏэнэгъу| щыс",
-              "translation": "The boy is sitting |adjacent to me|."
-            }
-          ],
-          "meaning": "neighbor at the table; cloest person at the table"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔanaʁʷəna",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэнэгъунэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чылэм |иӏэнэгъунэ| мэлахъохэр щылажьэх",
-              "translation": "The cowherds work |in the surrounding area| of the village."
-            }
-          ],
-          "meaning": "surrounding area (of a village or city)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏашӏу ӏушӏу"
-      ],
-      "ipa": "ʔaːʃʷʼə ʔʷəʃʷʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэшӏу-ӏушӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|ӏашӏу-ӏушӏухэр|",
-              "translation": "|sweets|."
-            },
-            {
-              "sentence": "|ӏашӏу-ӏушӏухэр| зыщащэрэм сылъэхъу, торт сщэфыным пае.",
-              "translation": "I am looking for |sweetmeats| to buy a cake."
-            }
-          ],
-          "meaning": "sweets, sweetmeats, candies"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "къопс",
-        "ӏэубытыпӏэ"
-      ],
-      "ipa": "ʔapaps",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэпэпс",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"къопс\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏэпэпс",
-        "къопс"
-      ],
-      "ipa": "ʔawbətəpʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэубытыпӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "handle"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |ӏэубытыпӏэмкӏэ| пчъэр къыӏуихыгъ",
-              "translation": "The boy opened the door |with the knob|."
-            }
-          ],
-          "meaning": "knob"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaɕ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэщ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "cattle-shed, cow-house, sheepcote"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːħ-maq",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэхьмакъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "foolish; dimwit (stupid person)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaːħ-maq",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэхь-макъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏэхьмакъ\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaħaɮ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэхьэл",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏахьыл\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔaxən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "ӏэхын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"къыӏыхын\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔanaːtʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэнатӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ар бжьэхъо ӏаз, ау бжьэхъон |ӏэнатӏэм| фаеп",
-              "translation": "He is an beekeeper expert, but he does not want to be in a beekeeping |job|."
-            },
-            {
-              "sentence": "Лӏым |сиӏэнатӏэр| къысӏыхыгъ",
-              "translation": "The man |took| my position."
-            }
-          ],
-          "meaning": "post, position, job"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "емлыч"
-      ],
-      "ipa": "ʔaɮ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "ӏэл",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏалы\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʔabʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэбгъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "lateral side of the hand"
-        }
-      ]
-    },
-    {
-      "ipa": "ӏaχʷ-pʂaχʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "ӏэхъу-пшъэхъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "handcuffs, manacles"
-        }
-      ]
-    }
-  ],
   "то": [
     {
       "synonyms": [
@@ -23843,6 +17276,20 @@ const circassianDict = {
             }
           ],
           "meaning": "ew (an expression of disgusted)."
+        }
+      ]
+    }
+  ],
+  "-ӏ": [
+    {
+      "ipa": "-ʔʷa",
+      "lang": "Adyghe",
+      "type": "suffix",
+      "word": "-ӏо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "slightly too much; (more common in adjectives) a suffix that designates slight excessiveness, meaning, the condition of slightly going or slightly being beyond what is needed, desired, or appropriate."
         }
       ]
     }
@@ -27067,7 +20514,7 @@ const circassianDict = {
         {
           "examples": [
             {
-              "sentence": "Ишы |уанэ| трелхьэ",
+              "sentence": "Ишы |уанэ| трелъхьэ",
               "translation": "He puts |saddle| on his horse."
             },
             {
@@ -27470,132 +20917,6 @@ const circassianDict = {
         {
           "examples": [],
           "meaning": "alternative form of \"еубзэн\""
-        }
-      ]
-    }
-  ],
-  "уӏ": [
-    {
-      "ipa": "jawʔʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "уӏон",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "o peck; to hollow; to make a hole in something"
-        }
-      ]
-    },
-    {
-      "ipa": "ʁalanlan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "уӏэшын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Дзэр |уӏэшын|",
-              "translation": "|To arm| the army."
-            }
-          ],
-          "meaning": "to arm; to supply someone with weapons"
-        }
-      ]
-    },
-    {
-      "ipa": "wəʔan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "уӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |уӏагъэ|",
-              "translation": "The boy |is wounded|."
-            },
-            {
-              "sentence": "Кӏалэр чӏыгум тефи ылъакъо |уӏагъэ|",
-              "translation": "The boy fell on the ground and his leg |got wounded|."
-            },
-            {
-              "sentence": "Дзэкӏолӏыр |уӏагъэ|",
-              "translation": "The soldier |is injured|."
-            },
-            {
-              "sentence": "Докторыр цӏыф |уӏагъэхэмэ| адэӏэпыӏэ",
-              "translation": "The doctor helps |injured| people."
-            },
-            {
-              "sentence": "Кӏалэр |мауӏэ|",
-              "translation": "The boy |is being wounded|."
-            },
-            {
-              "sentence": "Сӏэ |уӏагъ|",
-              "translation": "My hand |was wounded|."
-            },
-            {
-              "sentence": "Кӏалэм лӏыр |ыуӏагъ|",
-              "translation": "The boy |wounded| the man."
-            },
-            {
-              "sentence": "Кӏалэм лӏыр |еуӏэ|",
-              "translation": "The boy |is wounding| the man."
-            },
-            {
-              "sentence": "Апч ыубытагъ чаным |укъиуӏэщт|",
-              "translation": "The broken sharp window |will wound you|."
-            },
-            {
-              "sentence": "|Ууӏагъа?|",
-              "translation": "|Are you injured?|"
-            },
-            {
-              "sentence": "Шъэжъыем |сыкъиуӏагъ|",
-              "translation": "The knife |injured me|."
-            },
-            {
-              "sentence": "Панэхэмэ сахахьэм, сыкуашъо |ауӏагъ|",
-              "translation": "When I entered the field of thorns, |they wounded| my thigh skin."
-            }
-          ],
-          "meaning": "to wound; to injure"
-        },
-        {
-          "examples": [],
-          "meaning": "to incise"
-        }
-      ]
-    },
-    {
-      "ipa": "wəʔaːʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "уӏагъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Уӏагъэм| тепхэ телъхьан",
-              "translation": "To put a bandage on the |wound|."
-            }
-          ],
-          "meaning": "wound"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |уӏагъэ|",
-              "translation": "The boy |is wounded|"
-            },
-            {
-              "sentence": "|Уӏагъэм| уеӏэзэн фай",
-              "translation": "You need to aid |the wounded|"
-            }
-          ],
-          "meaning": "wounded"
         }
       ]
     }
@@ -28757,7 +22078,7 @@ const circassianDict = {
           "examples": [
             {
               "sentence": "|Тиунэ| некӏо тыжъугъакӏу",
-              "translation": "Let\u0027s us go to |my house|."
+              "translation": "Let\u0027s go to |my house|."
             },
             {
               "sentence": "|Шъуиунэ| тыкъэкӏощт",
@@ -28785,6 +22106,10 @@ const circassianDict = {
             }
           ],
           "meaning": "house"
+        },
+        {
+          "examples": [],
+          "meaning": "room"
         }
       ]
     },
@@ -32016,7 +25341,7 @@ const circassianDict = {
       ]
     },
     {
-      "ipa": "pχaːʃʼa",
+      "ipa": "gʷəpsa",
       "lang": "Adyghe",
       "type": "noun",
       "word": "гупсэ",
@@ -32249,6 +25574,10 @@ const circassianDict = {
             {
               "sentence": "Ахэр дэгъоу |къызгурыӏох|",
               "translation": "|I can understand| them well."
+            },
+            {
+              "sentence": "Лӏым игущыӏакӏэ ӏэшӏэхэу |къыбгурыӏонэу| щыт",
+              "translation": "The way the man speaks is easy |to understand|."
             },
             {
               "sentence": "Къэсӏорэ о |къыбгурыӏуа|?",
@@ -34893,6 +28222,574 @@ const circassianDict = {
         {
           "examples": [],
           "meaning": "to cause to fall, to crumble"
+        }
+      ]
+    }
+  ],
+  "пӏ": [
+    {
+      "ipa": "pʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Пӏэм| сыхэлъ",
+              "translation": "I am lying on |the bed|."
+            }
+          ],
+          "meaning": "bed (a piece of furniture to sleep on)"
+        },
+        {
+          "examples": [],
+          "meaning": "sheath, scabbard"
+        }
+      ]
+    },
+    {
+      "ipa": "pˤʼaːstˤʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏастӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "kasha (dish of cooked grain or groats)"
+        },
+        {
+          "examples": [],
+          "meaning": "oatmeal"
+        },
+        {
+          "examples": [],
+          "meaning": "porridge"
+        }
+      ]
+    },
+    {
+      "shapsug": "пӏакӏэ",
+      "kabardian": "пӏащӏэ",
+      "ipa": "pʷʼaːt͡ʃa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "пӏуакӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пицэр |пӏуакӏэу| къэшӏ",
+              "translation": "Make the pizza |thin|."
+            },
+            {
+              "sentence": "Чхыӏан |пӏуакӏ| къэтелъыр",
+              "translation": "There is a |thin| blanked on me."
+            },
+            {
+              "sentence": "Пхъэ |пӏуакӏэм| утеуцомэ зэпыкӏыщт",
+              "translation": "If you step on the |thin| wood it will snap."
+            }
+          ],
+          "meaning": "thin"
+        }
+      ]
+    },
+    {
+      "shapsug": "пӏын",
+      "ipa": "pʷʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пӏун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сэ мы кӏалэ |сыпӏущт|",
+              "translation": "|I will adopt| this boy."
+            },
+            {
+              "sentence": "Аслъаным Куджаныр |ыпӏугъ|",
+              "translation": "Aslan |raised| Kujan."
+            },
+            {
+              "sentence": "Мы кӏалэр |апӏугъ|",
+              "translation": "|They adopted/raised| this boy."
+            },
+            {
+              "sentence": "Мауглир шъао тыгъужъхэмэ |апӏужьыгъэу| мэзым",
+              "translation": "Mowgli is a boy |that was raised| by the wolves in the forest."
+            }
+          ],
+          "meaning": "to raise, to adopt"
+        }
+      ]
+    },
+    {
+      "ipa": "pʷʼaːbɮa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏуаблэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "mat"
+        }
+      ]
+    },
+    {
+      "ipa": "pʷʼər",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏур",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "pupil"
+        }
+      ]
+    },
+    {
+      "kabardian": "пӏащӏэ",
+      "ipa": "pʷʼaːnt͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "пӏуанкӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"пӏуакӏэ\""
+        }
+      ]
+    },
+    {
+      "shapsug": "пӏэсхъэн",
+      "ipa": "pʼastχan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пӏэстхъэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чэтыур |мэпӏастхъэ|",
+              "translation": "The cat |is scratching|."
+            },
+            {
+              "sentence": "Чэтыур кӏалэм |епӏэстхъыгъ|",
+              "translation": "The cat |scratched| the boy."
+            }
+          ],
+          "meaning": "to scratch (with fingernails, foot-nails or claws)"
+        }
+      ]
+    },
+    {
+      "ipa": "pʼasχan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пӏэсхъэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"пӏэстхъэн\""
+        }
+      ]
+    },
+    {
+      "ipa": "pˈastˈat͡ʃaʃəp",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏэстӏэкӏэшып",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "cockroach"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "гъолъыпӏэ",
+        "ошэкур"
+      ],
+      "ipa": "pʼakʷʼar",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏэкӏор",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |пӏэкӏорым| хэлъ",
+              "translation": "The boy is in |the bed|."
+            },
+            {
+              "sentence": "Кӏалэр |пӏэкӏорым| хэгъолъхьагъ",
+              "translation": "The boy lied in |the bed|."
+            }
+          ],
+          "meaning": "bed"
+        }
+      ]
+    },
+    {
+      "kabardian": "пӏащӏэ",
+      "ipa": "pʼaːt͡ʃa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "пӏакӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"пӏуакӏэ\""
+        }
+      ]
+    },
+    {
+      "ipa": "pʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"пӏун\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏэгуау",
+        "топ"
+      ],
+      "ipa": "pʼəraːɡʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏырагу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |пӏырагум| ешъутырыгъ",
+              "translation": "The boy kicked |the ball|."
+            },
+            {
+              "sentence": "Кӏалэхэр |пӏырагум| реджэгух",
+              "translation": "The boy are playing with |the ball|."
+            },
+            {
+              "sentence": "|Пӏырагур| къыслъыгъакӏу",
+              "translation": "Pass|the ball| to me."
+            }
+          ],
+          "meaning": "ball (object, generally spherical, used for playing games)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "уахътэ"
+      ],
+      "ipa": "pʼaːɬa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏалъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "appointment"
+        },
+        {
+          "examples": [],
+          "meaning": "date (A pre-arranged meeting)"
+        }
+      ]
+    },
+    {
+      "ipa": "pʼastχən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пӏэстхъэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чэтыур |мэпӏастхъэ|",
+              "translation": "The cat |is scratching|."
+            }
+          ],
+          "meaning": "to scratch someone (With fingernails or foot-nails)"
+        }
+      ]
+    },
+    {
+      "ipa": "pʼaːsta",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏастэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "porridge (dish of cooked grain or groats)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "пӏэтехъо",
+        "чхыӏан"
+      ],
+      "ipa": "pʼated͡za",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏэтедзэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "coverlet; sheet; bed-sheet"
+        }
+      ]
+    },
+    {
+      "kabardian": "пӏэтепхъуэ",
+      "synonyms": [
+        "пӏэтедзэ",
+        "чхыӏан"
+      ],
+      "ipa": "pʼateχʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏэтехъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Бзылъфыгъэм пӏэм |пӏэтехъо| фыжь тырихъуагъ",
+              "translation": "The woman covered the bed with a white |bedspread|."
+            }
+          ],
+          "meaning": "bedspread, bedcover (topmost covering of a bed)"
+        }
+      ]
+    },
+    {
+      "ipa": "pʷʼanə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏоны",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пцэжъыем |пӏонхэр| иӏэх",
+              "translation": "The fish has |scales|."
+            }
+          ],
+          "meaning": "scales (of fish, reptiles, etc.)"
+        }
+      ]
+    },
+    {
+      "ipa": "pʷʼəpt͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏупкӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏэу гокӏыжьыгъэм сабыер |пӏупкӏэ| шъузым ритыгъ",
+              "translation": "The divorced man gave the child to the |alimony| woman."
+            }
+          ],
+          "meaning": "alimony"
+        }
+      ]
+    },
+    {
+      "ipa": "pʼəsən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пӏысын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм адрэр |ыпӏысыгъ|",
+              "translation": "The young man |fucked| the other one."
+            },
+            {
+              "sentence": "Кӏалэр къалэм |дэпӏысэхьэу| дэт",
+              "translation": "The young man is in the town |fucking around|."
+            },
+            {
+              "sentence": "|Усэпӏыс|",
+              "translation": "|Fuck you|."
+            },
+            {
+              "sentence": "|Шъосэпӏыс| зыр зырэу",
+              "translation": "|Fuck you all|, each one of you."
+            },
+            {
+              "sentence": "Джэгумкӏэ |шъукъапӏысыгъа|?",
+              "translation": "|Did they fucked you guys| in the game?"
+            },
+            {
+              "sentence": "|Усыпӏысыщт| джы сыкъэбгъэгубжымэ",
+              "translation": "|I gonna fuck you| if you now gonna make me angry."
+            },
+            {
+              "sentence": "Ар сыдэу ӏаеу |къыдапӏысыхьэгъ|",
+              "translation": "They |fucked him| so bad."
+            },
+            {
+              "sentence": "|Cэпӏыс| а кӏалэм ыӏорэр",
+              "translation": "|Screw| what that boy says."
+            },
+            {
+              "sentence": "ӏофымкӏэ шъутыкӏэ |тапӏысыгъ|",
+              "translation": "In work, |they fucked us| in the ass."
+            }
+          ],
+          "meaning": "(vulgar) to fuck"
+        }
+      ]
+    },
+    {
+      "ipa": "pʼəsəʁaʐ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "пӏысыгъэжъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ар |пӏысыгъэжъ|",
+              "translation": "He is |fucked|."
+            },
+            {
+              "sentence": "Кӏэлэ |пӏысыгъэжъ|",
+              "translation": "|Fucking| boy."
+            }
+          ],
+          "meaning": "(vulgar) screwed, fucked"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬəʔaban",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пӏыртӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to squeeze"
+        }
+      ]
+    },
+    {
+      "ipa": "pʼəsaːkʷʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏысакӏо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "fucker"
+        }
+      ]
+    },
+    {
+      "shapsug": "пӏэркӏьын",
+      "kabardian": "пӏэнкӏын",
+      "ipa": "pʷʼant͡ʃʼəm",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пӏонкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Псыр угъэплъымэ |пӏонкӏэу| ежьэ",
+              "translation": "When you heat up water it start |to burst|."
+            },
+            {
+              "sentence": "Псыр |мэпӏонкӏы|",
+              "translation": "The water |is bursting up|."
+            },
+            {
+              "sentence": "Псыр |гъэпӏонкӏ|",
+              "translation": "|Burst up| the water."
+            }
+          ],
+          "meaning": "to burst during boiling"
+        }
+      ]
+    },
+    {
+      "kabardian": "пӏэнкӏын",
+      "synonyms": [
+        "пӏонкӏын"
+      ],
+      "ipa": "pʼankʲʼəm",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пӏэркӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"пӏонкӏын\""
+        }
+      ]
+    },
+    {
+      "kabardian": "пӏэнкӏын",
+      "synonyms": [
+        "пӏонкӏын"
+      ],
+      "ipa": "pʼankʲʼəm",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пӏэнкӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"пӏонкӏын\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тепӏо",
+        "шъхьатепӏо",
+        "шъхьэтэпӏ"
+      ],
+      "ipa": "pʷʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "lid (The top or cover of a container); alternative form of \"шъхьатепӏо\""
+        }
+      ]
+    },
+    {
+      "ipa": "pʼaʂħaːʁ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "пӏэшъхьагъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "headboard"
+        },
+        {
+          "examples": [],
+          "meaning": "head of the bed"
         }
       ]
     }
@@ -40507,7 +34404,7 @@ const circassianDict = {
               "translation": "The kid\u0027s mother |cannot make him obey|."
             }
           ],
-          "meaning": "to make someone obey"
+          "meaning": "to make someone obey; to compel"
         }
       ]
     },
@@ -41000,10 +34897,10 @@ const circassianDict = {
           "examples": [
             {
               "sentence": "Псыр |гъэпӏоркӏ|",
-              "translation": "|To burst| the water."
+              "translation": "|Boil| the water."
             }
           ],
-          "meaning": "to cause to burst; to bubble up"
+          "meaning": "to boil liquid until it starts to burst"
         }
       ]
     },
@@ -41551,6 +35448,91 @@ const circassianDict = {
             }
           ],
           "meaning": "to calm, to quiet, to soothe"
+        }
+      ]
+    },
+    {
+      "ipa": "ʁa-",
+      "lang": "Adyghe",
+      "type": "prefix",
+      "word": "гъэ-",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Къегурыӏо - къе|гъэ|гурыӏон",
+              "translation": "(S)he understands - to |make| him/her understand."
+            },
+            {
+              "sentence": "Мэлажьэ - |гъэ|лэжьэн",
+              "translation": "(S)he works - to |make| him/her work."
+            },
+            {
+              "sentence": "Шхэн - |гъэ|шхэн",
+              "translation": "To eat - to |feed|."
+            },
+            {
+            "sentence": "Къэлъэгъон - къэ|гъэ|лъэгъон",
+            "translation": "To be visible - to |show|."
+            },
+            {
+            "sentence": "Хьазыр - |гъэ|ухьазырын",
+            "translation": "Ready - to |prepare|."
+            },
+            {
+              "sentence": "Кӏыхьэ - |гъэ|укӏыхьан",
+              "translation": "Long - to |longen|."
+            },
+            {
+              "sentence": "Кӏако - |гъэ|укӏэкон",
+              "translation": "Short - to |shorten|."
+            },
+            {
+              "sentence": "Сымэджэн - |гъэ|сымэджэн",
+              "translation": "To get sick - to |sicken|."
+            },
+            {
+              "sentence": "Дэӏон - |гъэ|дэӏон",
+              "translation": "To listen - to make someone |listen (and obey)|."
+            },
+            {
+              "sentence": "Пытэ - |гъэ|пытэн",
+              "translation": "Hard - to |harden|."
+            },
+            {
+              "sentence": "Лэнлагъ - |гъэ|лэнлэн",
+              "translation": "Loosed - to |loosen|."
+            },
+            {
+              "sentence": "Кӏалэр еджапӏэм сы|гъэ|кӏуагъ",
+              "translation": "I |made| the boy go to school."
+            },
+            {
+              "sentence": "Сянэ шхын сэщпае къез|гъэ|шӏыгъ",
+              "translation": "I |made| my mother do food for me."
+            },
+            {
+              "sentence": "Сянэ шхын сэщпае къез|гъэ|шӏыгъ",
+              "translation": "I |made| my mother do food for me."
+            },
+            {
+              "sentence": "Сшынахьыкӏ сыри|гъа|джэрэп",
+              "translation": "My little brother does not |let| me study."
+            },
+            {
+              "sentence": "Скъо тутын есэ|гъа|шъо",
+              "translation": "I |let| my son smoke."
+            },
+            {
+              "sentence": "Фылым тежъу|гъэ|плъ",
+              "translation": "|Let| us watch a movie."
+            },
+            {
+              "sentence": "Чъыӏэм си|гъэ|сымэджагъ",
+              "translation": "The cold |made| me sick."
+            }
+          ],
+          "meaning": "causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, caused something to, made, ordered, allowed, permitted, manipulated someone to, given the opportunity to, etc."
         }
       ]
     },
@@ -46197,7 +40179,7 @@ const circassianDict = {
               "translation": "|I can\u0027t forgive| the wicked boy because of what he has done."
             }
           ],
-          "meaning": "to forgive"
+          "meaning": "to forgive someone; to excuse someone"
         }
       ]
     },
@@ -46906,6 +40888,27 @@ const circassianDict = {
             }
           ],
           "meaning": "appropriately/accordingly as one deserves; deservingly"
+        }
+      ]
+    },
+    {
+      "ipa": "faʃʷaʃan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "фэшъошэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ахъщэу къыратыгъэр |фэшъуаш|",
+              "translation": "The money the boy got |is deserving|."
+            },
+            {
+              "sentence": "Кӏалэм щышӏыгъэр |фэшъуаш|",
+              "translation": "The thing that happened to the boy |is deserving|."
+            }
+          ],
+          "meaning": "to deserve"
         }
       ]
     },
@@ -50627,18 +44630,13 @@ const circassianDict = {
             {
               "sentence": "Пчъэм |сыдэбэгъанэ|",
               "translation": "|You are making me stuck| in the door."
+            },
+            {
+              "sentence": "Дэгъэчъым сӏэ |дэзгъэнэжьыгъ|",
+              "translation": "|I made my arm stuck| in the drawer."
             }
           ],
           "meaning": "to make someone stuck"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|Удэзгъэнэщт| джы сыкъэпгъэгубжымэ",
-              "translation": "|I gonna fuck you| if you now gonna make me angry."
-            }
-          ],
-          "meaning": "(vulgar, slang) to fuck"
         }
       ]
     },
@@ -51108,6 +45106,51 @@ const circassianDict = {
             }
           ],
           "meaning": "(added to verbs) with (comitative case), a verbal prefix that designates action performed jointly with somebody"
+        }
+      ]
+    },
+    {
+      "ipa": "da-jan",
+      "lang": "Adyghe",
+      "type": "suffix",
+      "word": "дэ-ен",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мао - |дэ|уа|е|",
+              "translation": "Shoots - shoots |upward|."
+            },
+            {
+              "sentence": "Едзы - |д|едзы|е|",
+              "translation": "Throws - throws |upward|."
+            },
+            {
+              "sentence": "Мапкӏэ - |дэ|пкӏа|е|",
+              "translation": "Jumps - jumps |upward|."
+            },
+            {
+              "sentence": "Маллъэ - |дэ|плъа|е|",
+              "translation": "Looks - looks |upward|."
+            },
+            {
+              "sentence": "Кӏалэр унашъхьэм |дэ|пкӏы|е|шъущтэп",
+              "translation": "The boy cannot jump |up| the roof."
+            },
+            {
+              "sentence": "Лӏыр къушъхьэм |дэ|чъэ|я|гъ",
+              "translation": "The man ran |up| the mountain"
+            },
+            {
+              "sentence": "Сшы тучаным |дэ|сэ|ща|е",
+              "translation": "I am talking my brother |up| to the shop."
+            },
+            {
+              "sentence": "Кӏашъор |дэ|хьы|й|",
+              "translation": "|Raise| the ceiling."
+            }
+          ],
+          "meaning": "a verbal affix that indicates that the action is directed upward"
         }
       ]
     },
@@ -52023,293 +46066,6 @@ const circassianDict = {
       ]
     }
   ],
-  "еӏ": [
-    {
-      "ipa": "jaʔʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "еӏун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Мы кӏалэм ыӏорэр |сэӏу|",
-              "translation": "|I hear| what this boy is saying."
-            },
-            {
-              "sentence": "Къэпӏорэр |тэӏурэп|",
-              "translation": "|We don\u0027t hear| what you are saying."
-            },
-            {
-              "sentence": "Къэсӏорэр |оӏурэба?|",
-              "translation": "|Don\u0027t you hear| what I am saying?"
-            },
-            {
-              "sentence": "Лӏыжъым имакъэ |шъоӏумэ| шъуӏухъушъут",
-              "translation": "|If you hear| the old-man\u0027s voice run away."
-            },
-            {
-              "sentence": "Къэсӏорэр кӏалэхэмэ |аӏу| дэгъоу",
-              "translation": "The boys |hear| good what I am saying."
-            },
-            {
-              "sentence": "Мэзымкӏэ цӏыфымэ уимакъэ |аӏущтэп|",
-              "translation": "In the forest people |will not hear| your voice."
-            },
-            {
-              "sentence": "Кӏалэм ышы |регъэӏу| музикэ",
-              "translation": "The boy |make| his brother |hear| music."
-            },
-            {
-              "sentence": "Уимакъэ |сэмыгъэӏу|",
-              "translation": "|Don\u0027t make me hear| your voice."
-            },
-            {
-              "sentence": "Уиныбджэгъумэ уиорэд |агъэӏу|",
-              "translation": "|Make| your friends |hear| your song."
-            },
-            {
-              "sentence": "Снэмэ ерагъэу алъэгъу, стхьакӏумэмэ ерагъэу |аӏу|",
-              "translation": "My eyes hardly see, my ears hadly |hear|."
-            }
-          ],
-          "meaning": "to hear"
-        }
-      ]
-    },
-    {
-      "ipa": "jaʔʷatan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "еӏотэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"риӏотэн\""
-        }
-      ]
-    },
-    {
-      "ipa": "jaʔʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "еӏон",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"риӏон\""
-        }
-      ]
-    },
-    {
-      "ipa": "jaʔazan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "еӏэзэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Мы ӏофым |сеӏэзэщт| сэ",
-              "translation": "|I will deal with| this work."
-            },
-            {
-              "sentence": "ӏофым |сеӏэзэшъущтэп|",
-              "translation": "|I cannot handle| the work."
-            }
-          ],
-          "meaning": "to handle something; to deal with; to manage something"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Докторыр цӏыфыхэмэ |яӏазэ|",
-              "translation": "The doctor helps people medically."
-            },
-            {
-              "sentence": "Докторыр сэ |къысэӏазэ|",
-              "translation": "The doctor helps me medically."
-            },
-            {
-              "sentence": "Зыгорэ къызэбгъэплъи |къызэбгъэӏэзагъа|?",
-              "translation": "Did you let anybody look at you and |treat you|?"
-            },
-            {
-              "sentence": "Медикыр ӏашэнчъэу заом хахьэ цӏыфымэ |аӏэзэнэу|",
-              "translation": "The medic enters the war armless |to treat| people."
-            }
-          ],
-          "meaning": "to treat someone medically; to help someone medically"
-        }
-      ]
-    },
-    {
-      "kabardian": "ӏущэщэн",
-      "ipa": "ʔʷəʂaʂan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "еӏушъэшъэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр пшъашъэм |еӏушъашъэ|",
-              "translation": "The boy |whispers to| the girl."
-            },
-            {
-              "sentence": "Пшъашъэр стхьакӏумэ |еӏушъашъэ|",
-              "translation": "The girl |whispers to| my ear."
-            },
-            {
-              "sentence": "Кӏалэр |къысэӏушъашъэ|",
-              "translation": "The boy |whispers to me|."
-            }
-          ],
-          "meaning": "to whisper to"
-        }
-      ]
-    },
-    {
-      "ipa": "jaʔʷaɬʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "еӏолӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым дэеу ышӏагъэхэм дэгъоп |есӏолӏэнэу| сиӏэр",
-              "translation": "I don\u0027t have something good |to say concerning| the bad things the man did."
-            },
-            {
-              "sentence": "Лӏыжъым гущыӏэ шӏух ныӏэп |раӏуалӏэхэрэр|",
-              "translation": "Only good words |are said about| the old man."
-            },
-            {
-              "sentence": "Сянэ шӏухэр |раӏуалӏэх|",
-              "translation": "|They say| good things |about| my mother."
-            },
-            {
-              "sentence": "Сыд филымым |епӏуалӏэрэр|?",
-              "translation": "What |you say about| the film?"
-            },
-            {
-              "sentence": "Сыд филымым |епӏолӏэнэу| уиӏэр?",
-              "translation": "What do you have |to say about| the film?"
-            },
-            {
-              "sentence": "Лӏыжъым ӏаехэр |къысиӏолӏагъэх|",
-              "translation": "The old-man |said about me| awful things."
-            }
-          ],
-          "meaning": "to say something about someone or something; to say something concerning; to say something according to; to say something correspondingly to"
-        }
-      ]
-    },
-    {
-      "shapsug": "егукӏэн",
-      "synonyms": [
-        "етӏыргун"
-      ],
-      "ipa": "ʔʷənt͡ʃʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "еӏункӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |мэӏункӏэ|",
-              "translation": "The boy |pushes|."
-            },
-            {
-              "sentence": "Кӏалэр |еӏункӏэ| ӏанэм",
-              "translation": "The boy |pushes| the table."
-            },
-            {
-              "sentence": "Пкъэум |къэсдеӏункӏ|",
-              "translation": "|Push| the log |together with me|."
-            },
-            {
-              "sentence": "Кӏалэр Налбыим |еӏункӏыгъ|",
-              "translation": "The boy |pushed| Nalby."
-            },
-            {
-              "sentence": "|Сегъэӏункӏ|",
-              "translation": "|Let me push|."
-            },
-            {
-              "sentence": "Кӏалэм |сыригъэӏункӏэрэп|",
-              "translation": "The boy |doesn\u0027t let me push|."
-            }
-          ],
-          "meaning": "to push one another"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "гукӏэн",
-        "ӏункӏэн",
-        "тӏыргун"
-      ],
-      "ipa": "jaʔʷənt͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "еӏункӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏункӏэн\""
-        }
-      ]
-    },
-    {
-      "ipa": "jaʔan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "еӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to touch"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыр кум |еӏэн| еӏо",
-              "translation": "The man is trying |to push| the cart."
-            }
-          ],
-          "meaning": "to push with might"
-        }
-      ]
-    },
-    {
-      "ipa": "jaʔʷat͡ʃʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "еӏокӏ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "hint"
-        }
-      ]
-    },
-    {
-      "ipa": "jaʔʷat͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "еӏокӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to insinuate; to hint"
-        }
-      ]
-    }
-  ],
   "ег": [
     {
       "ipa": "jaʁaːna",
@@ -52563,7 +46319,7 @@ const circassianDict = {
             },
             {
               "sentence": "Мэкъэшхом |сыригъэгупшысэрэп|",
-              "translation": "The huge noise |doesn\u0027t let me think|."
+              "translation": "The loud noise |doesn\u0027t let me think|."
             },
             {
               "sentence": "Матэматыкэмкӏэ дэгъоу |уегупшысэн| фай",
@@ -52583,7 +46339,7 @@ const circassianDict = {
             },
             {
               "sentence": "Кӏалэр |егупшысэ| сыд ышӏэщтыр",
-              "translation": "The boy |is thinking| what he going do."
+              "translation": "The boy |is thinking| what he will do."
             },
             {
               "sentence": "|Егупшыс|",
@@ -52594,7 +46350,7 @@ const circassianDict = {
               "translation": "|I thought about| that."
             },
             {
-              "sentence": "Томым тӏурэ |емыгупшысэу| епӏорэрр ешӏэ",
+              "sentence": "Томым тӏурэ |емыгупшысэу| епӏорэр ешӏэ",
               "translation": "Tom does what you tell him |without thinking| twice."
             }
           ],
@@ -54173,6 +47929,20 @@ const circassianDict = {
       ]
     }
   ],
+  "аӏ": [
+    {
+      "ipa": "aːʔʷəwət͡s",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "аӏууц",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "lily"
+        }
+      ]
+    }
+  ],
   "еж": [
     {
       "kabardian": "езы",
@@ -55240,7 +49010,7 @@ const circassianDict = {
           "examples": [
             {
               "sentence": "Кӏалэр |мэхъые|",
-              "translation": "The boy |is going|."
+              "translation": "The boy |is moving|."
             },
             {
               "sentence": "Кӏэлэцӏыкӏур |хъыешъуа?|",
@@ -60436,6 +54206,10 @@ const circassianDict = {
             {
               "sentence": "Кӏалэм |хилъхьагъ|",
               "translation": "The boy |is screwed|."
+            },
+            {
+              "sentence": "ӏофымкӏэ |хэсылъхьагъ|",
+              "translation": "|I got screwed| in work."
             }
           ],
           "meaning": "to be screwed; to beset with unfortunate circumstances that seem difficult or impossible to overcome"
@@ -63290,7 +57064,7 @@ const circassianDict = {
               "translation": "The little boy |desires| the toys."
             }
           ],
-          "meaning": "to look with a lot of desire"
+          "meaning": "(rare) to look with a lot of desire"
         },
         {
           "examples": [],
@@ -63299,15 +57073,19 @@ const circassianDict = {
         {
           "examples": [
             {
+              "sentence": "Лӏыр мы кум |енэцӏы|",
+              "translation": "The man |badly desires| this car."
+            },
+            {
               "sentence": "Кӏалэм иджанэхэм |санэцӏы|",
-              "translation": "|I am longing for| the boy\u0027s clothes."
+              "translation": "|I desire| the boy\u0027s clothes."
             },
             {
               "sentence": "Гунахьыхэм |уамынэцӏ|",
               "translation": "|Don\u0027t long for| (doing) the sins."
             }
           ],
-          "meaning": "to long for"
+          "meaning": "to desire something that one does not have; to long for"
         }
       ]
     },
@@ -64189,1089 +57967,6 @@ const circassianDict = {
         {
           "examples": [],
           "meaning": "expression of a hit/strike sound"
-        }
-      ]
-    }
-  ],
-  "цӏ": [
-    {
-      "ipa": "t͡sʼənaʁaːt͡ʃʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏынэгъакӏ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чӏыгум |цӏынэгъакӏ| макӏ хэлъыр",
-              "translation": "There is little |dampness| in the ground."
-            }
-          ],
-          "meaning": "humidity (dampness, especially that of the air)"
-        }
-      ]
-    },
-    {
-      "kabardian": "цӏыху",
-      "ipa": "t͡sʼəfə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏыфы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Цӏыфыхэр| щыӏэх лы амышхэу",
-              "translation": "There are |people| that do not eat meat."
-            },
-            {
-              "sentence": "Ар |цӏыф| дэгъу",
-              "translation": "(S)he is a good |person|."
-            },
-            {
-              "sentence": "Тхьапш |цӏыфэу| къэкӏощтыр чэщдэсым",
-              "translation": "How many |people| will come to the party?"
-            },
-            {
-              "sentence": "Тхьапш |цӏыфэу| дунаем тетыр?",
-              "translation": "How many |people| there are in the world?"
-            },
-            {
-              "sentence": "Тиунэ |цӏыф| бэ ис",
-              "translation": "There are a lot of |people| in our house."
-            }
-          ],
-          "meaning": "person, human"
-        }
-      ]
-    },
-    {
-      "shapsug": "сӏэ",
-      "ipa": "t͡sʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сыд |уцӏэ|?",
-              "translation": "What is |your name|?"
-            },
-            {
-              "sentence": "|Сцӏэ| сэ Адэм",
-              "translation": "|My name| is Adam."
-            },
-            {
-              "sentence": "Сыд |цӏэ| дах щыӏэхыр?",
-              "translation": "What beautiful |names| there are?"
-            },
-            {
-              "sentence": "|Цӏэ| сабыим фэусын",
-              "translation": "To |name| a child."
-            },
-            {
-              "sentence": "Кӏалэм  |ыцӏэкӏэ| къедж",
-              "translation": "Call the boy |with his name|"
-            },
-            {
-              "sentence": "Кӏалэм  |ыцӏэ| кӏыхьэ",
-              "translation": "The boy\u0027s |name| is long."
-            }
-          ],
-          "meaning": "name"
-        },
-        {
-          "examples": [],
-          "meaning": "louse"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəraːw",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏырау",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "wild grass (steppe); (tall) weeds"
-        }
-      ]
-    },
-    {
-      "shapsug": "сӏынэ",
-      "ipa": "tsʼəna",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "цӏынэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лъэоер |цӏынэ|, сыфэсакъ уемыцӏэшъутэхынэу",
-              "translation": "The staircase is |wet|, be careful not to slip down."
-            },
-            {
-              "sentence": "Джэхашъор |цӏынэ|, умышӏахэу утецӏэшъутыхьащт",
-              "translation": "The floor |is wet|, you will slip by mistake."
-            },
-            {
-              "sentence": "|Сыцӏынэу| схъугъ псы къэстехьэм",
-              "translation": "I became |wet| when water came on me."
-            },
-            {
-              "sentence": "Сиджанэ |цӏынэ|",
-              "translation": "My shirt is |wet|."
-            }
-          ],
-          "meaning": "wet"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лы |цӏынэр| ӏае",
-              "translation": "|Raw| meat is nasty."
-            },
-            {
-              "sentence": "Кӏалэм лы |цӏынэу| ешхы",
-              "translation": "The boy eats |raw| meat."
-            }
-          ],
-          "meaning": "raw (meat)"
-        }
-      ]
-    },
-    {
-      "ipa": "tsˈəʔrʁ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏыргъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "snail"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəfxa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏыфхэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "people"
-        }
-      ]
-    },
-    {
-      "kabardian": "цӏыхубз",
-      "ipa": "/t͡sʼəfəbz/",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏыфыбз",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "(dialectal) woman; see \"бзылъфыгъэ\""
-        }
-      ]
-    },
-    {
-      "kabardian": "цӏыхухъу",
-      "ipa": "/t͡sʼəfəχʷ/",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏыфыхъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "(dialectal) man; see \"хъулъфыгъэ\""
-        }
-      ]
-    },
-    {
-      "shapsug": "сӏакӏьэ",
-      "ipa": "t͡sʼaːt͡ʃa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏакӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "nit (louse egg)"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼaːʃʷta",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "цӏашъутэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Джэхашъор |цӏашъутэ|",
-              "translation": "The floor is |slip|."
-            },
-            {
-              "sentence": "Джэхашъор |цӏашъутэ|, арти къэшъумычъэхь",
-              "translation": "The floor is |slippery|, so don\u0027t run around."
-            }
-          ],
-          "meaning": "slippery, low-friction surface"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "ӏанэр |цӏашъутэ|",
-              "translation": "The floor is |flat|."
-            }
-          ],
-          "meaning": "smooth, flat"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Цӏыфыр ылъакъо |цӏашъутэ|",
-              "translation": "The man\u0027s leg |is hairless|."
-            }
-          ],
-          "meaning": "(slang) hairless",
-          "tags": [
-            "slang"
-          ]
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Цӏыфыр |цӏашъутэ|",
-              "translation": "The man |is beardless|."
-            }
-          ],
-          "meaning": "(slang) beardless and moustacheless",
-          "tags": [
-            "slang"
-          ]
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼaʃʷtan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэшъутэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Джэхашъом |утецӏэшъутэщт|",
-              "translation": "|You will slip| on the floor."
-            },
-            {
-              "sentence": "Кӏалэр |мэцӏашъутэ|",
-              "translation": "The boy |is slipping|."
-            },
-            {
-              "sentence": "Сӏэ къоӏусыр |чӏэцӏэшъутыкӏы|",
-              "translation": "The banana |is slipping| from my hand."
-            },
-            {
-              "sentence": "Кӏалэр къоӏусым тецуи, |цӏэшъутагъ|",
-              "translation": "The boy step on the banana and |slipped|."
-            }
-          ],
-          "meaning": "to slip (on flat slippery surface with low friction like wet floor, wet road, slide and etc.)"
-        },
-        {
-          "examples": [],
-          "meaning": "to slip-up"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "кӏалэр |цӏашъути| гонахьыхэр ылэжьыгъэх",
-              "translation": "The boy |went astray| and commited sins."
-            }
-          ],
-          "meaning": "to loss the right way; to go astray"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəkʷʼ-ʃʷakʷʼʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏыкӏу-шъокӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|цӏыкӏу-шъокӏумэ| атегущыӏэн",
-              "translation": "to talk about |trifles|."
-            }
-          ],
-          "meaning": "trifle (little things)"
-        }
-      ]
-    },
-    {
-      "kabardian": "бзаджэ",
-      "ipa": "t͡sʼaːpʼa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "цӏапӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Уиджанэ |цӏапӏэ|",
-              "translation": "Your shirt |is nice|."
-            }
-          ],
-          "meaning": "(slang) amazing (awesome, nice, cool)",
-          "tags": [
-            "slang"
-          ]
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыжъыр |цӏапӏэ|",
-              "translation": "The old man |is mean|."
-            }
-          ],
-          "meaning": "mean, cruel"
-        },
-        {
-          "examples": [],
-          "meaning": "evil"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Мо кӏэлэцӏыкӏухэр |цӏапӏэх|",
-              "translation": "Those kids |are awful|."
-            }
-          ],
-          "meaning": "awful in personality or behavior (usually said to kids)"
-        }
-      ]
-    },
-    {
-      "shapsug": "сӏэсӏэн",
-      "ipa": "t͡sʼat͡sʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэцӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыр |мэцӏацӏэ|",
-              "translation": "The man|is scolding|."
-            },
-            {
-              "sentence": "Лӏыжъыр кӏэлэцӏыкӏум |тэцӏацӏэ|",
-              "translation": "The old-man|is scolding| the little boy."
-            },
-            {
-              "sentence": "Тхьэматэр модэ ӏут |цӏацӏэу|",
-              "translation": "The leader |is| standing there |yelling|."
-            }
-          ],
-          "meaning": "to yell at; to scold"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼaɬan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэлъэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"цӏэнлъэн\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼapʼaʐ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "цӏэпӏэжъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Мы фылымкӏэ хэт |цӏэпӏэжъэр?|",
-              "translation": "In this film who is |the bad guy|?"
-            },
-            {
-              "sentence": "Лӏыжъыр |цӏэпӏэжъ|",
-              "translation": "The old man |is very mean|."
-            },
-            {
-              "sentence": "|Цӏэпӏэжъ|, укъэсдэмыгущыӏ",
-              "translation": "|You vile|, don\u0027t speak to me."
-            }
-          ],
-          "meaning": "very mean, very cruel, evil, villain, vile"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Мо кӏэлэцӏыкӏухэр |цӏэпӏэжъых|",
-              "translation": "Those kids |are really bad|."
-            }
-          ],
-          "meaning": "very naughty (usually said to kids)"
-        }
-      ]
-    },
-    {
-      "kabardian": "цӏуун",
-      "synonyms": [
-        "жъыун",
-        "лыдын",
-        "цӏыон"
-      ],
-      "ipa": "t͡sʼəwən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏыун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Дышъэр |мэцӏыо|",
-              "translation": "The gold |shines|."
-            },
-            {
-              "sentence": "Жъуагъохэр |мэцӏыох|",
-              "translation": "The stars |are shining|."
-            },
-            {
-              "sentence": "|Цӏыурэ| пстэури дышъэп",
-              "translation": "All the things that |shine| are not gold."
-            }
-          ],
-          "meaning": "to shine"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəwan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏыон",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"цӏыун\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼatχʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэтхъун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"цӏэнтхъун\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼantχʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэнтхъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кур |оцӏэнтхъу|",
-              "translation": "|You are scratching| the car."
-            },
-            {
-              "sentence": "Мышъэм чъыгыр |ецӏэнтхъу| ыӏэбжъанэхэмкӏэ",
-              "translation": "The bear |lives a scratch| on the tree with his claws."
-            },
-            {
-              "sentence": "Чъыг |цӏэнтхъугъэр| олъэгъуа?",
-              "translation": "Do you see the |scratched| tree?"
-            },
-            {
-              "sentence": "Кӏалэм кур |ыцӏэнтхъугъ| ӏункӏыбзэмкӏэ",
-              "translation": "The boy |left a scratch| on the car using the key."
-            },
-            {
-              "sentence": "Чэтыум |укъыцӏэнтхъущт|",
-              "translation": "The cat |will scratch you|."
-            },
-            {
-              "sentence": "Кур |мэцӏэнтхъу|",
-              "translation": "The car |is getting a scratch|."
-            }
-          ],
-          "meaning": "to leave a scratch on; to make a scratch"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "къэпсын"
-      ],
-      "ipa": "t͡sʼatxən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэтхын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |мэцӏэтхы|",
-              "translation": "The boy |is sneezing|."
-            }
-          ],
-          "meaning": "to sneeze"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼat͡sʼaːɮ",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэцӏал",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "peevish, shrewish, grumpy, cantankerous"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "жъгъэй (size of a fragement)"
-      ],
-      "ipa": "t͡sʼəkʷʼ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "цӏыкӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "кӏэлэ |цӏыкӏу|",
-              "translation": "|Little| boy."
-            },
-            {
-              "sentence": "ӏанэр |цӏыкӏу|",
-              "translation": "The table |\u0027is small|."
-            },
-            {
-              "sentence": "Унэ |цӏыкӏу| сихьагъ",
-              "translation": "I went inside the |\u0027small| house."
-            },
-            {
-              "sentence": "Чъыгы |цӏыкӏур| инэу хъущт псы чӏэбгъэхьэмэ",
-              "translation": "The |small| tree will become big if you pour water into it."
-            }
-          ],
-          "meaning": "little; small"
-        }
-      ]
-    },
-    {
-      "shapsug": "хэӏуагъ",
-      "ipa": "t͡sʼarəʔʷ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "цӏэрыӏо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сятэш пщынао |цӏэрыӏу|",
-              "translation": "My uncle is |a famous| accordionist."
-            },
-            {
-              "sentence": "Лӏыжъыр |цӏэрыӏу|",
-              "translation": "The old man |is famous|."
-            },
-            {
-              "sentence": "Мы рестырантэр |цӏэрыӏу|",
-              "translation": "This restaurant |is famous|."
-            },
-            {
-              "sentence": "А орэдаӏохэр |цӏэрыӏох|",
-              "translation": "Those singers |are famous|."
-            }
-          ],
-          "meaning": "famous; well-known"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼət͡sʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏыцӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм тхылъыпӏэр |ецӏыцӏы|",
-              "translation": "The boy is |crumpling| the paper."
-            },
-            {
-              "sentence": "Тхылъыпӏэр |мэцӏыцӏэ|",
-              "translation": "The paper |is crumpling|."
-            }
-          ],
-          "meaning": "to crumple fabric/paper; to press into wrinkles by crushing together"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм иӏэр пчъэм |дэцӏыцӏагъ|",
-              "translation": "The boy\u0027s arm |was squeezed| between the door."
-            },
-            {
-              "sentence": "Кӏалэм пластикэр |ыцӏыцӏыгъ|",
-              "translation": "The boy |squeezed| the plastic."
-            },
-            {
-              "sentence": "Апчыр |уцӏыцӏымэ|, чэни убэтэщт",
-              "translation": "|If you squeeze| glass, it will crack and will break."
-            },
-            {
-              "sentence": "Кӏалэм бадзэр |ыцӏыцӏыгъ|",
-              "translation": "The boy |squashed| the fly."
-            },
-            {
-              "sentence": "Мыщ пхъэхэр |зэхецӏыцӏэх|",
-              "translation": "This thing |compresses| woods."
-            },
-            {
-              "sentence": "Кур дэпкъым жэхахьи, зэхицӏыцӏагъ",
-              "translation": "The car crashed into the wall, and it got compressed."
-            }
-          ],
-          "meaning": "to squash; to squish; to compress; to crush; to squeeze so as to alter the natural shape or integrity of the object (the effect of the squeezing is irreversible unlike the verb фызын)"
-        }
-      ]
-    },
-    {
-      "shapsug": "сӏын",
-      "ipa": "t͡sʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |мэцӏы|",
-              "translation": "The boy |is taking a shit|."
-            },
-            {
-              "sentence": "|Укъэмыцӏ|",
-              "translation": "|Don\u0027t shit|."
-            },
-            {
-              "sentence": "Уихьэ |зыцӏыкӏэ| ихьай къэбыштэжьын фай гъогур угъэкъэбзэжьынэу",
-              "translation": "|When| your dog |takes a shit|, you need to lift its shit to clean up the road."
-            }
-          ],
-          "meaning": "(vulgar) to take a shit; to shit; to crap"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼatχən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэтхъын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"цӏэтхъун\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəfəʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏыфыгъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "morality"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼapaːpt͡ʃʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏэпапкӏ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "pronoun"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəʃχan",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏышхъэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Жъуагъохэр |мэцӏышхъых|",
-              "translation": "The stars |are sparkling|."
-            }
-          ],
-          "meaning": "to sparkle, to scintillate"
-        }
-      ]
-    },
-    {
-      "shapsug": "цӏэлъэн",
-      "synonyms": [
-        "пшын"
-      ],
-      "ipa": "t͡sʼaɬan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэнлъэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Дзэкӏолӏыр |мэцӏанлъэ|",
-              "translation": "The soldier |is crawling|."
-            },
-            {
-              "sentence": "Блэр ытхыкӏэ |мэцӏанлъэ|",
-              "translation": "The snake |is crawling| on its stomach."
-            },
-            {
-              "sentence": "Блэ |цӏанлъэу| сылъэгъугъ мыжъомэ адэжьыкӏэ",
-              "translation": "I saw a snake |crawling| near the stones."
-            },
-            {
-              "sentence": "Блэр гъогум |щэцӏанлъэ|",
-              "translation": "The snake |is crawling| on the road."
-            }
-          ],
-          "meaning": "to crawl; to creep"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыжъыр |цӏанлъэу| макӏо",
-              "translation": "The old-man is going |dragging himself|."
-            }
-          ],
-          "meaning": "to walk dragging oneself"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼanɬa-kʷʼaːnɬ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏэнлъэ-кӏуанлъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "in a slippery manner"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼanɬaːʁʷa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "цӏэнлъэгъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Гъогур |цӏэнлъагъо| хъугъэ",
-              "translation": "The road became |slippery|."
-            }
-          ],
-          "meaning": "slippery"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəran",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏырэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Къэгъагъэхэмэ псы |атегъэцӏыр|",
-              "translation": "(S)he |pours| water into the flowers."
-            },
-            {
-              "sentence": "Кӏалэм чӏыгум |тегъэцӏырэ|",
-              "translation": "The boy is |spraying| on the ground."
-            }
-          ],
-          "meaning": "to fountain; to flow or gush liquid as if from a fountain"
-        }
-      ]
-    },
-    {
-      "ipa": "wət͡sʼənən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏынэу хъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр уаем хэтзэ иджанэ |уцӏыныгъэ|",
-              "translation": "The boy was in the strong rain and his clothes |got wet|."
-            }
-          ],
-          "meaning": "to get wet/soaked, to be soaking, to be sopping wet"
-        }
-      ]
-    },
-    {
-      "shapsug": "сӏынэу хъун",
-      "synonyms": [
-        "уцӏынын"
-      ],
-      "ipa": "t͡sʼənaw χʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏынэу хъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр уаем хэтзэ иджанэ |цӏынэу хъугъэ|",
-              "translation": "The boy was in the strong rain and his clothes |got wet|."
-            },
-            {
-              "sentence": "Кӏалэм ипаӏо псым хафи |цӏынэу хъугъэ|",
-              "translation": "The boy\u0027s hat fell inside the water and |got wet|."
-            }
-          ],
-          "meaning": "to get wet/soaked, to be soaking, to be sopping wet"
-        }
-      ]
-    },
-    {
-      "shapsug": "сӏынэу шӏын",
-      "synonyms": [
-        "гъэуцӏынын"
-      ],
-      "ipa": "t͡sʼənaw ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏынэу шӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ощхым сиджанэ |цӏынэу ышӏыгъ|",
-              "translation": "The rain |made| my clothes |wet|."
-            },
-            {
-              "sentence": "Кӏалэм псы пшъашъэм тегъахьэм, иджанэ |цӏынэу ышӏыгъ|",
-              "translation": "When the boy spilled water on the girl, |it made| her shirt |wet|."
-            }
-          ],
-          "meaning": "to make something wet/soaked, to soak"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏы",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "(vulgar) crap, shit"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəwatan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏыотэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to shine rapidly"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼalan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэлэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to soil, to dirty, to stain"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "цӏыкӏунау"
-      ],
-      "ipa": "t͡sʼəkʷʼəjntʼa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "цӏыкӏуинтӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏэлэ |цӏыкӏуинтӏэ|",
-              "translation": "|Tiny| kid."
-            },
-            {
-              "sentence": "Пхъэнтӏэкӏу |цӏыкӏуинтӏэ|",
-              "translation": "|Tiny| chair."
-            }
-          ],
-          "meaning": "tiny; very little"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "цӏыкӏуинтӏэ"
-      ],
-      "ipa": "t͡sʼəkʷʼənaːw",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "цӏыкӏунау",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏэлэ |цӏыкӏунау|",
-              "translation": "|Tiny| kid."
-            },
-            {
-              "sentence": "Пхъэнтӏэкӏу |цӏыкӏунау|",
-              "translation": "|Tiny| chair."
-            }
-          ],
-          "meaning": "very little"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ыцӏэжьын"
-      ],
-      "ipa": "t͡sʼaʑən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏэжьын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэхэр бирэкӏэ |ыцӏэжьыгъэх|",
-              "translation": "The boys |got wasted| with beer."
-            }
-          ],
-          "meaning": "(vulgar) to get wasted from alcohol"
-        },
-        {
-          "examples": [],
-          "meaning": "(vulgar) to shit",
-          "tags": [
-            "vulgar"
-          ]
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəkʷʼəʐəj",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "цӏыкӏужъый",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Унэ |цӏыкӏужъый| сызисыр",
-              "translation": "I am living in a |tiny| house."
-            },
-            {
-              "sentence": "Кӏэнкӏэ |цӏыкӏужъый|",
-              "translation": "A |tiny| egg."
-            }
-          ],
-          "meaning": "tiny, wee"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəfəʃʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏыфышъо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "human skin"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼəfəʂħa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "цӏыфышъхьэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "individual"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡sʼərəwən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "цӏырыун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to chirr (of grasshopper)"
         }
       ]
     }
@@ -67855,12 +60550,13 @@ const circassianDict = {
             {
               "sentence": "Кӏэлэ |цумэнэжъ|",
               "translation": "|An idiotic| boy."
+            },
+            {
+              "sentence": "|Цуманэхэмэ| афэдэу тагъэлэжьагъ",
+              "translation": "They made us work like |idiots|."
             }
           ],
-          "meaning": "(vulgar) idiot, dumb fuck (literally means: dick of an ox)",
-          "tags": [
-            "vulgar"
-          ]
+          "meaning": "(vulgar) idiot, dumb fuck (literally means: dick of an ox)"
         }
       ]
     },
@@ -68782,1227 +61478,1046 @@ const circassianDict = {
       ]
     }
   ],
-  "чӏ": [
+  "тӏ": [
     {
-      "ipa": "t͡ʂʼəpʼa",
+      "ipa": "tʼaraxən",
       "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыпӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Чӏыпӏэ| щыӏа тыщеджэшъунэу?",
-              "translation": "Is there |a place| we can study at?"
-            },
-            {
-              "sentence": "|Чӏыпӏэ| щыӏ шъулэжьэнэу шъуфаемэ",
-              "translation": "Is there |a place| if you guys want to work?"
-            },
-            {
-              "sentence": "Мы |чӏыпӏэр| дэгъу унэ ипшӏыхьанэу",
-              "translation": "This |place| is good to build a house in."
-            },
-            {
-              "sentence": "Уздэкӏуагъэр |чӏыпӏэ| тэрэзэп",
-              "translation": "Where you went is not the correct |place|."
-            }
-          ],
-          "meaning": "place"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Дзэм мы |чӏыпӏэ| ыубытыгъ",
-              "translation": "The army took hold this |area|."
-            }
-          ],
-          "meaning": "area"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |чӏыпӏэ| дэгъу зитыр",
-              "translation": "The boy is in a good |position|."
-            },
-            {
-              "sentence": "Кӏалэр |сичӏыпӏэ| ӏут",
-              "translation": "The boy is in |my spot|."
-            },
-            {
-              "sentence": "|Шъуичӏыпӏэхэмэ| шъуариуцожь",
-              "translation": "Go back to |your positions|."
-            },
-            {
-              "sentence": "Кӏалэм |ичӏыпӏэ| ситынэу сыфэещтыгъэп",
-              "translation": "I wouldn\u0027t want to be in the boy\u0027s |position|."
-            },
-            {
-              "sentence": "Пшъашъэр |чӏыпӏэ| къин ит",
-              "translation": "The girl is in a tough |position|."
-            }
-          ],
-          "meaning": "spot; position"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃəbʑ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыбжь",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Чӏыбжьэхэр| къэгъагъэмэ атесых",
-              "translation": "|The bumble-bees| are on the flowers."
-            }
-          ],
-          "meaning": "bumble-bee"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃəqʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыкъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Чӏыкъохэр| мэзым хэсых",
-              "translation": "|The badger| are in the forest."
-            }
-          ],
-          "meaning": "badger"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃaːpt͡sˤʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏапцӏэ",
+      "type": "verb",
+      "word": "тӏэрэхын",
       "definitions": [
         {
           "examples": [],
-          "meaning": "dark blue"
+          "meaning": "alternative form of \"етӏэрэхын\""
         }
       ]
     },
     {
-      "ipa": "t͡ʂʼabən",
+      "ipa": "tʷʼə",
       "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэбын",
+      "type": "num",
+      "word": "тӏу",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Кӏалэр  |чӏэбы|",
-              "translation": "The boy |is drowning|."
+              "sentence": "|Тӏу| хьакӏэхэу тиӏэр",
+              "translation": "We have |two| guests."
             },
             {
-              "sentence": "Лӏыр хым |чӏэбыгъ|",
-              "translation": "The man |drowned| in the sea."
+              "sentence": "Налъ|итӏу| пицэм хэсхыгъ",
+              "translation": "I took |two| pieces from the pizza."
             },
             {
-              "sentence": "Хым куущэу ухэмыхь, умышӏахэу |учӏэбыщт|",
-              "translation": "Do not go too deeply inside the sea, |you will drown| by accident."
+              "sentence": "Хьалыгъу |тӏу| къэнэжьыгъэр ныӏэп",
+              "translation": "Only |two| bread left."
+            },
+            {
+              "sentence": "Нэбгыр|итӏу| щагум дэт",
+              "translation": "There are |two| people in the yard."
             }
           ],
-          "meaning": "to drown"
+          "meaning": "two"
         },
         {
           "examples": [
             {
-              "sentence": "Къухьэ |чӏэбы|",
-              "translation": "The ship |is sinking|."
+              "sentence": "Туркуям |тӏу| зэрэсыкӏуагъэр",
+              "translation": "I went to Turkey |two times|."
             },
             {
-              "sentence": "Къухьэр псы изэу хъугъэти |чӏэбыгъ|",
-              "translation": "Because the ship became full of water, it |sank|."
+              "sentence": "|Тӏум| нахь бэрэ фылымым сеплъыгъ",
+              "translation": "I watched the movie more than |twice|."
+            },
+            {
+              "sentence": "Пшъашъэр тхылъым |тӏурэ| еджагъ",
+              "translation": "The girl read the book |two times|."
             }
           ],
-          "meaning": "to sink"
+          "meaning": "twice; two times"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼat͡ʃə",
+      "lang": "Adyghe",
+      "type": "num",
+      "word": "тӏокӏы",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "twenty"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼat͡ʃitʷʼ",
+      "lang": "Adyghe",
+      "type": "num",
+      "word": "тӏокӏитӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "forty"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼat͡ʃiɕ",
+      "lang": "Adyghe",
+      "type": "num",
+      "word": "тӏокӏищ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "sixty"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼat͡ʃiɕra pʃʼəra",
+      "lang": "Adyghe",
+      "type": "num",
+      "word": "тӏокӏищырэ пшӏырэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "seventy"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼat͡ʃipɬʼ",
+      "lang": "Adyghe",
+      "type": "num",
+      "word": "тӏокӏиплӏ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "eighty"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼat͡ʃipɬʼəra pʃʼəra",
+      "lang": "Adyghe",
+      "type": "num",
+      "word": "тӏокӏиплӏырэ пшӏырэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "ninety"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaʂħaːɬa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏыбгы-сыбг",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "bumpy; hilly; uneven"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼəpɕən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏупщын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Топыр |тӏупщ|",
+              "translation": "|Release| the cannon."
+            },
+            {
+              "sentence": "Дзэкӏолӏыхэр |атӏупщыгъэх|",
+              "translation": "|They released| the soldiers."
+            },
+            {
+              "sentence": "Дзэкӏолӏыхэр заом |хатӏупщыхьагъэх|",
+              "translation": "|They released| the soldiers |in| the war."
+            },
+            {
+              "sentence": "Кӏалэм хьэр |ытӏупщызэ| къыригъэчъыхьагъ",
+              "translation": "The boy |released| the dog and allowed it run around."
+            }
+          ],
+          "meaning": "to release"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Торпеда |тӏупщын|",
+              "translation": "|to launch| a torpedo."
+            }
+          ],
+          "meaning": "to launch"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Пщылӏыхэр |тӏупщыных|",
+              "translation": "|To set free| slaves."
+            },
+            {
+              "sentence": "Слъакъохэр зэтепхагъэх, сӏэхэр |тӏупщыгъэх|",
+              "translation": "My legs are tied up, my hands |are loosed|."
+            }
+          ],
+          "meaning": "to set free; to let go; to let loose"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |тӏупщ|",
+              "translation": "|Leave| the boy |alone|."
+            },
+            {
+              "sentence": "Кӏалэм пшъашъэр ытӏупщырэп",
+              "translation": "The boy |is not leaving| the girl |alone|."
+            },
+            {
+              "sentence": "|Сытӏупщыба!|",
+              "translation": "|Leave me alone already!|"
+            }
+          ],
+          "meaning": "to leave someone from harm or annoyance"
         }
       ]
     },
     {
       "synonyms": [
-        "кудэ",
-        "шъотэгын"
+        "жъажъэ",
+        "тӏэи"
       ],
-      "ipa": "t͡ʃədaːʁ",
+      "ipa": "tʼatʼaj",
       "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыдагъ",
+      "type": "adj",
+      "word": "тӏэтӏэй",
       "definitions": [
         {
-          "examples": [],
-          "meaning": "oil, earth oil, ground oil, petroleum"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃəkʷˈəħnəqʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыкӏухь ныкъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "longitude"
+          "examples": [
+            {
+              "sentence": "Лӏыжъыр |тӏэтӏэеу| макӏо",
+              "translation": "The old man walks |slowly|."
+            },
+            {
+              "sentence": "Сыдэу |утӏэтӏэй|",
+              "translation": "You are so |slow|."
+            }
+          ],
+          "meaning": "(dialectal) slow"
         },
         {
           "examples": [],
-          "meaning": "meridian"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃəkʷˈəħnəqʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыкӏухь",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "latitude"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəɬatajpɬ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏылъэтеплъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "natural territory, landschaft"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃəmatx",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏымэтх",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "geology"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəwaps",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыопс",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "nature"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəwaps t͡ʃʼəb",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыопс кӏыб",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "supernatural"
+          "meaning": "resin, tar"
         }
       ]
     },
     {
       "synonyms": [
-        "гыныплъ"
+        "тӏэтӏэй",
+        "жъажъэ"
       ],
-      "ipa": "t͡ʃəpɬ",
+      "ipa": "tʼajə",
       "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыплъ",
+      "type": "adj",
+      "word": "тӏэи",
       "definitions": [
         {
-          "examples": [],
-          "meaning": "beet (the root plant Beta vulgaris)"
+          "examples": [
+            {
+              "sentence": "лӏыжъыр |тӏэи|",
+              "translation": "The old-man |is slow|."
+            },
+            {
+              "sentence": "лӏыжъыр |тӏэеу| макӏо",
+              "translation": "The old-man is walking |slowly|."
+            }
+          ],
+          "meaning": "(dialectal) slow"
         }
       ]
     },
     {
-      "ipa": "t͡ʂʼəpt͡ʂən ʃʼanəʁa",
+      "ipa": "tˈaːmə",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "чӏыпчъын шӏэныгъэ",
+      "word": "тӏамы",
       "definitions": [
         {
-          "examples": [],
-          "meaning": "geodesy"
+          "examples": [
+            {
+              "sentence": "|Тӏамы| сэшхы",
+              "translation": "I am eating |a orange|."
+            },
+            {
+              "sentence": "Кӏалэм |Тӏамы| ешхы",
+              "translation": "The boy is eating |a orange|."
+            },
+            {
+              "sentence": "|Тӏамы| сикӏас",
+              "translation": "I like |oranges|."
+            }
+          ],
+          "meaning": "(fruit) orange"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼətχət͡saxar",
+      "ipa": "tʼə",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "чӏытхъыцэхэр",
+      "word": "тӏы",
       "definitions": [
         {
           "examples": [],
-          "meaning": "coordinates"
+          "meaning": "ram"
         }
       ]
     },
     {
-      "ipa": "t͡ʂʼəʁaʃʷʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыгъэшӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "fertilization (the process of fertilizing)"
-        },
-        {
-          "examples": [],
-          "meaning": "fertilizer, manure"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃˈərəkʷˈ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏырыкӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "potato"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂəbzəw",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыбзыу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "cricket (insect)"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼəfa t͡ʂʼatən",
+      "ipa": "tʼəsən",
       "lang": "Adyghe",
       "type": "verb",
-      "word": "чӏыфэ чӏэтын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to be in debt"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼəʂʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏышъор",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "crust (Earth\u0027s outermost layer)"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼənaːɬa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыналъэ",
+      "word": "тӏысын",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Кӏалэр |чӏыналъэм| текӏи хым техьагъ",
-              "translation": "The boy went off |the land| and went into the sea."
-            }
-          ],
-          "meaning": "land"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏылъэ",
-      "synonyms": [
-        "чӏылъэ"
-      ],
-      "ipa": "t͡ʃʼəɡʷə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыгу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Огъум |чӏыгур| ыгъэгъугъэ",
-              "translation": "The drought dried |the land|."
+              "sentence": "|Тӏыс|",
+              "translation": "|sit down|."
             },
             {
-              "sentence": "Дзэм |тичӏыгу| ыштагъ",
-              "translation": "The army took |our land|."
+              "sentence": "Кӏалэр |мэтӏысы|",
+              "translation": "The boy is |sitting down|."
             },
             {
-              "sentence": "|Чӏыгум| уцыхэр къыхэкӏых",
-              "translation": "Plants are coming out from |the land|."
+              "sentence": "Сыпшъыгъ, тӏэкӏу |сытӏысын| фай",
+              "translation": "I got tired, I need |to sit down|."
+            },
+            {
+              "sentence": "Къухьэлъатэр |къетӏысэхыгъ|",
+              "translation": "The airplane |sat down|."
+            },
+            {
+              "sentence": "Къакӏо, садэжь |къэтӏыс|",
+              "translation": "Come, |sit down| next to me."
+            },
+            {
+              "sentence": "|Умытӏыс|",
+              "translation": "|Don\u0027t sit down|."
+            },
+            {
+              "sentence": "Кӏалэр шым |тетӏысхьагъ|",
+              "translation": "The boy |sat on| the horse."
+            },
+            {
+              "sentence": "Кӏалэр щагум |дэтӏысхьагъ|",
+              "translation": "The boy |sat in| the yard."
+            },
+            {
+              "sentence": "Кӏалэр чъыгым |пытӏысхьагъ|",
+              "translation": "The boy |sat on| the tree."
+            },
+            {
+              "sentence": "Пхъэнтӏэкӏум |сытетӏысхьагъ|",
+              "translation": "|I sat on| the chair."
+            },
+            {
+              "sentence": "Псым |ухэмытӏысхь|",
+              "translation": "|Do not sit in| the water."
+            },
+            {
+              "sentence": "Зыфэсакъ, цӏынэм |ухэтӏысхьэ|",
+              "translation": "Careful, |you are sitting on| something wet."
             }
           ],
-          "meaning": "land"
+          "meaning": "to sit down"
         },
         {
           "examples": [
             {
-              "sentence": "Кӏалэм шӏуанэмкӏэ |чӏыгур| етӏы",
-              "translation": "The boy is digging up |the ground| with the hoe."
+              "sentence": "Къухьэлъатэр къебыбэхы |къэтӏысынэу|",
+              "translation": "The plane flies down |to land|."
             },
             {
-              "sentence": "Кӏалэм |чӏыгум| машэ хитӏыкӏыгъ",
-              "translation": "The boy dug out a hole in |the ground|."
-            },
-            {
-              "sentence": "Шъугущыӏэнэу шъукъэкӏуагъэмэ шъуиӏашэр |чӏыгум| тежъудзэх",
-              "translation": "If you guys came to talk throw your arms onto |the ground|."
-            },
-            {
-              "sentence": "Къэгъагъэр |чӏыгум| къыхэмытхъ",
-              "translation": "Do not pull the flower out of |the ground|."
+              "sentence": "Бзыур |къэтӏысыгъ|",
+              "translation": "The bird |landed|."
             }
           ],
-          "meaning": "ground"
-        },
-        {
-          "examples": [],
-          "meaning": "earth"
+          "meaning": "to land"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼanan",
+      "ipa": "tʼan",
       "lang": "Adyghe",
       "type": "verb",
-      "word": "чӏэнэн",
+      "word": "тӏэн",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "ӏэнэ чӏэгъым |сычӏэнагъ|",
-              "translation": "|I am stuck under| the table."
-            },
-            {
-              "sentence": "Гъочӏэгъым |тычӏэнагъ|",
-              "translation": "|We are stuck under| the cave."
+              "sentence": "кӏалэм къэгъагъэхэр |етӏэх|",
+              "translation": "the boy |is implanting| the flowers."
             }
           ],
-          "meaning": "to become stuck under (trapped and unable to move or progress)"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼapʼətʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэпӏытӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "сӏэхъуамбэхэр ӏанэм |чӏэпӏытӏагъэх|",
-              "translation": "My fingers |are stuck| under the table."
-            }
-          ],
-          "meaning": "to get squeezed intensivly under"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼaħaːpʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏэхьапӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "entrance"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼərəʁəs",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏырыгъыс",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Чӏырыгъыс| ушӏэшъущта?",
-              "translation": "Can you |dive|?"
-            }
-          ],
-          "meaning": "dive"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼəfaɮ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыфэл",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "debtor"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃəfa t͡ʃʼatən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏыфэ чӏэтын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |чӏыфэ чӏэт|",
-              "translation": "The boy |is in debt|."
-            }
-          ],
-          "meaning": "to be in debt"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼəfa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыфэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |чӏыфэ| чӏэт",
-              "translation": "The boy is in |debt|."
-            },
-            {
-              "sentence": "Лӏыр |чӏыфэм| хэт",
-              "translation": "The man is in |debt|."
-            },
-            {
-              "sentence": "Кӏалэм |чӏыфэ| телъ",
-              "translation": "A |debt| is on the boy."
-            },
-            {
-              "sentence": "Лӏым |ичӏыфэ| ытыжьырэп",
-              "translation": "The man does not pay |his debt|."
-            }
-          ],
-          "meaning": "debt"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Мафиям |чӏыфэ| къыӏэмых, къыплъэханэщтэп",
-              "translation": "Do not take |loan| from the Mafia, they won\u0027t spare you."
-            },
-            {
-              "sentence": "Кӏалэм |чӏыфэ| лӏым къыӏырихыгъ",
-              "translation": "The man took |loan| from the man."
-            },
-            {
-              "sentence": "|Чӏыфэу| къаӏэпыхыгъэр аптыжьын фай",
-              "translation": "You must return |a loan| that you took."
-            }
-          ],
-          "meaning": "loan (that will become debt)"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʁʷaɬħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэгъолъхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чъыгы чӏэгъым |сычӏэгъолъхьэ|",
-              "translation": "|I am lying down [under]| the tree."
-            }
-          ],
-          "meaning": "to lie down under"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼeʁabəɬħan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэгъэбылъхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм ӏанэ чӏэгъым |зычӏегъэбылъхьэ|",
-              "translation": "The boy |is hiding| under the table."
-            },
-            {
-              "sentence": "Кӏэлэцӏыкӏум джэгуалъэр ӏанэм |чӏигъэбылъхьагъ|",
-              "translation": "The little boy |hid| the toy under the table."
-            }
-          ],
-          "meaning": "to hide under"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хыр куу, |чӏэ| иӏэп",
-              "translation": "The sea is deep, it has no |bottom|."
-            },
-            {
-              "sentence": "Кӏалэм псыр апчым |ычӏэ| нэсы ришъугъ",
-              "translation": "The boy drank the water out of the glass to |the bottom|."
-            }
-          ],
-          "meaning": "bottom ground"
-        }
-      ]
-    },
-    {
-      "ipa": "wnaːʂħa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыунэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыр |чӏыунэм| чӏэхьагъ",
-              "translation": "The man went down |the basement|."
-            }
-          ],
-          "meaning": "basement"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəɬ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏылъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"чӏылъэ\""
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏылъэ",
-      "synonyms": [
-        "чӏыгу"
-      ],
-      "ipa": "t͡ʃʼəɬa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏылъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "land; dry land"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏы",
-      "ipa": "t͡ʂʼə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Чӏы| кӏыӏум тетыр бэ",
-              "translation": "There are a lot of things on the |ground\u0027s| surface."
-            }
-          ],
-          "meaning": "ground"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼaʁət͡ʂʼaɬ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏэгъчӏэлъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Джэнэ |чӏэгъчӏэлъ|",
-              "translation": "|Undershirt|."
-            },
-            {
-              "sentence": "Гъончэдж |чӏэгъчӏэлъ|",
-              "translation": "|Underpants|."
-            }
-          ],
-          "meaning": "underwear (clothes worn next to the skin, underneath outer clothing)"
+          "meaning": "to implant"
         }
       ]
     },
     {
       "synonyms": [
-        "чӏэухъубэн",
-        "чӏэухъумэн"
+        "тӏэкӏушӏэмэ"
       ],
-      "ipa": "t͡ʂʼaʁasajan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэгъэсэен",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хъотым гъогур |чӏигъэсэягъ|",
-              "translation": "The snowstorm |covered| the road."
-            },
-            {
-              "sentence": "Хьадэр ятӏэм |чӏигъэсэягъ|",
-              "translation": "|They buried| the corpse under the dirt."
-            },
-            {
-              "sentence": "Унэр къызэхафи ис цӏыфыхэр |чӏигъэсэягъэх|",
-              "translation": "The house collapsed and |buried| the people in it."
-            }
-          ],
-          "meaning": "to cover and bury something"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼawχʷəban",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэухъубэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"чӏэухъумэн\""
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэуфэн",
-      "ipa": "t͡ʂʼawχʷəman",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэухъумэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сымаджэр чыхӏэным |чӏэухъумэн|",
-              "translation": "|To cover| the sick with a blanket."
-            },
-            {
-              "sentence": "Хъотым гъогур |чӏиухъубагъ|",
-              "translation": "The snowstorm |covered| the road."
-            }
-          ],
-          "meaning": "to cover something; to put something under a cover"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Хьадэр чӏыгуи |чӏэухъумагъ|",
-              "translation": "|They buried| the body under the ground."
-            },
-            {
-              "sentence": "Хьадэр ятӏэм |чӏиухъумагъ|",
-              "translation": "|They buried| the corpse under the dirt."
-            },
-            {
-              "sentence": "Унэр къызэхафи ис цӏыфыхэр |чӏиухъумагъэх|",
-              "translation": "The house collapsed and |buried| the people in it."
-            }
-          ],
-          "meaning": "to bury something; to put stuff on something and bury it"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼaʁat͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэгъэкӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"къычӏэгъэкӏын\""
-        }
-      ]
-    },
-    {
-      "shapsug": "чӏэсӏэн",
-      "ipa": "t͡ʂʼat͡sʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэцӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хьэр унэ чӏэгъым |чӏэцӏагъ|",
-              "translation": "The dog |took a shit under| the house."
-            }
-          ],
-          "meaning": "(vulgar) to take a shit under"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Фылым теплъытэу кӏалэр |къычӏэцӏагъ|",
-              "translation": "While we were going to watch a movie, the boy |withdraw|."
-            },
-            {
-              "sentence": "Кӏалэр чъыгым къепкӏэщтыгъ, ау |къычӏэцӏагъ|",
-              "translation": "The boy was going to jump off the tree, but he |chicken out|."
-            }
-          ],
-          "meaning": "(vulgar slang) to withdraw, to chicken out"
-        }
-      ]
-    },
-    {
-      "shapsug": "чӏэгъэсӏэн",
-      "ipa": "t͡ʂʼat͡sʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэгъэцӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Фылым угъэшынэным кӏалэр |къычӏигъэцӏагъ|",
-              "translation": "The harrow movie |scared the shit out of| the boy."
-            }
-          ],
-          "meaning": "(vulgar) to scare the shit out of, to make someone feel very frightened"
-        }
-      ]
-    },
-    {
-      "shapsug": "чӏэшъутын",
-      "ipa": "t͡ʂʼaʃʷtən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэхъушъутын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр унэ чӏэгъым |къычӏэхъушъуты|",
-              "translation": "The boy |is running away| from under the house."
-            }
-          ],
-          "meaning": "to run off from under something; to dash off from under something"
-        }
-      ]
-    },
-    {
-      "shapsug": "чӏэкӏьын",
-      "synonyms": [
-        "щытын"
-      ],
-      "ipa": "t͡ʂʼat͡ʃʼən",
+      "ipa": "tʼakʷʼʁaːʃʼama",
       "lang": "Adyghe",
       "type": "adv",
-      "word": "чӏэкӏын",
+      "word": "тӏэкӏугъашӏэмэ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Кӏалэр дучаным кӏуагъэу |чӏэкӏын|",
-              "translation": "The boy |probably| went to the shop."
+              "sentence": "|тӏэкӏугъашӏэмэ| сышхэщт",
+              "translation": "I will eat |soon|."
             },
             {
-              "sentence": "Кӏалэм ахъщэ шӏокӏуагъэу |чӏэкӏын|",
-              "translation": "The boy |probably| lost his money."
+              "sentence": "|тӏэкӏугъашӏэмэ| филымыр къиублэщт",
+              "translation": "|Soon| the film will start."
             },
             {
-              "sentence": "Псэу узешъуагъэр къабзэу |чӏэкӏын|",
-              "translation": "The water you drank is |probably| clean."
-            },
-            {
-              "sentence": "Ащ ыянэ хъурхъоу |чӏэкӏын|",
-              "translation": "His/her mother is |probably| kind"
-            },
-            {
-              "sentence": "Экзамыным бэу къыпхыгъэу |чӏэкӏын|",
-              "translation": "You |probably| got high [grades] in the exam."
-            },
-            {
-              "sentence": "Лӏыр а ӏофым ӏут илъэсипшӏэ, ӏофыр ыпэ къыикӏыжьыгъэу |чӏэкӏын|",
-              "translation": "The man worked in that work for ten years, he |probably| got fed up with the job."
+              "sentence": "|тӏэкӏугъашӏэм|",
+              "translation": "|soon|."
             }
           ],
-          "meaning": "probably (more specifically: it would [probably] turn out to be)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр ӏэнэ чӏэгъым |къычӏэкӏыгъ|",
-              "translation": "The boy |came out from under| the table."
-            },
-            {
-              "sentence": "Бжьыны убзымэ нэпсыхэр унэ |къычӏигъэкӏыщтых|",
-              "translation": "If yout cut opoion |it will make| tears |come out from| your eye."
-            }
-          ],
-          "meaning": "to come out under"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэхьэн",
-      "ipa": "t͡ʂʼəħan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэцӏыкӏур ӏанэ чӏэгъым |чӏахьэ|",
-              "translation": "The little boy |goes under| the table."
-            }
-          ],
-          "meaning": "to go under something"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Университетым  |сычӏэхьагъ|",
-              "translation": "|I entered| the university."
-            }
-          ],
-          "meaning": "to enter a facility"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼəʂħaːʃʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏышъхьашъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Чӏышъхьашъом| уцхэр къытекӏэх",
-              "translation": "Plants are growing on |the ground surface|."
-            }
-          ],
-          "meaning": "ground surface"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэуфэ",
-      "ipa": "t͡ʂʼawχʷəma",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏэухъумэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "camouflage"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэлъхьэн",
-      "ipa": "t͡ʂʼaɬħan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэлъхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм тхылъыр ӏанэм |чӏилъхьагъ|",
-              "translation": "The boy |placed| the book under the table."
-            },
-            {
-              "sentence": "Пхъэхэр унэ чӏэгъым |чӏэсылъхьагъэх|",
-              "translation": "|I placed| the woods under the house."
-            }
-          ],
-          "meaning": "to put/place something under something"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лагъымэ |чӏилъхьи| лъэмыджыр къыгъэуагъ",
-              "translation": "(S)he |planted| a mine under bridge and destroyed it."
-            },
-            {
-              "sentence": "лагъымэ |чIэлъхьан|",
-              "translation": "To |planted| a mine."
-            }
-          ],
-          "meaning": "to plant (a mine)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Хьадэр |чxэлъхьан|",
-              "translation": "|To bury| a corpse."
-            }
-          ],
-          "meaning": "to bury"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэтэкъун",
-      "ipa": "t͡ʂʼataqʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэтэкъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым картыхэр |чӏетэкъух|",
-              "translation": "The man |spreads| the cards |on the group|."
-            },
-            {
-              "sentence": "Лӏым чылапхъэхэр |чӏетэкъух|",
-              "translation": "The man |spreads| the seeds."
-            }
-          ],
-          "meaning": "to strew (on an ground), to distribute objects or pieces of something on the ground (especially in a random manner)"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼa",
-      "lang": "Adyghe",
-      "type": "prefix",
-      "word": "чӏэ-",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "(added to verbs) under something"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼəpʼaːɬa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыпӏалъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "site"
-        }
-      ]
-    },
-    {
-      "ipa": "ħaːsatx",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыбгъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "roof shed (pergola, arbour, arcade, bower)"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂatən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэтын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр чъыгым |чӏэт|",
-              "translation": "The boy |is standing under| the tree."
-            },
-            {
-              "sentence": "Уцым ылъапсэ чӏыгу чӏэгъым |чӏэт|",
-              "translation": "The plant\u0027s root |is under| the ground."
-            },
-            {
-              "sentence": "Къакъырым чэмхэр |чӏэтых|",
-              "translation": "The cows |are under| the shed."
-            },
-            {
-              "sentence": "Кӏалэр чӏыфэ |чӏэт|",
-              "translation": "The boy |is in| debt."
-            },
-            {
-              "sentence": "Тракторыр бгъагъэм |чӏэт|",
-              "translation": "The tractor |is under| the shed."
-            },
-            {
-              "sentence": "Кум щэрэхъхэр |чӏэтых|",
-              "translation": "The carriage has wheels |under it|."
-            },
-            {
-              "sentence": "Жьаум |тычӏэтэу| тэлажьэ",
-              "translation": "We are working |in| the shadow"
-            }
-          ],
-          "meaning": "to stand under; to be under something in a stand position"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂasən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэсын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр чъыгым |чӏэс| шхэу",
-              "translation": "The boy |is sitting under| the tree eating."
-            }
-          ],
-          "meaning": "to sit under; to be under something in a sitting position"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂaɬən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "чӏэлъын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хьэр ӏанэм |чӏэлъ|",
-              "translation": "The dog |is lying under| the table."
-            },
-            {
-              "sentence": "Пхъэхэр унэм |чӏэлъых|",
-              "translation": "The woods |are under| the house."
-            },
-            {
-              "sentence": "Трубэу чӏыгу чӏэгъым |чӏэлъыр| шъыбыгъэ",
-              "translation": "The pipe |under| the ground is sealed."
-            }
-          ],
-          "meaning": "to lie under; to be under something in a lying position"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʂʼəpʼarəs",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыпӏэрыс",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "settler; local resident"
+          "meaning": "soon"
         }
       ]
     },
     {
       "synonyms": [
-        "кӏэй",
-        "лъэгу",
-        "охы"
+        "тӏэкӏушӏэмэ"
       ],
-      "ipa": "t͡ʂʼəwax",
+      "ipa": "tʼakʷʼ ʁaːʃʼam",
       "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыох",
+      "type": "adv",
+      "word": "тӏэкӏу гъашӏэм",
       "definitions": [
         {
           "examples": [],
-          "meaning": "lowland"
+          "meaning": "alternative form of \"тӏэкӏугъашӏэмэ\""
         }
       ]
     },
     {
-      "ipa": "t͡ʂʼakʷʼaʂən",
+      "synonyms": [
+        "тетӏысхьапӏэ"
+      ],
+      "ipa": "tʼəsəpʼa",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "чӏэкӏошъэн",
+      "word": "тӏысыпӏэ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Тыгъуакӏор тучаным |чӏэкӏошъэн| ыӏозэ къаубытыгъ",
-              "translation": "The thief tried |to sneak| into the store but he got caught."
+              "sentence": "Енэгуягъо, мы |тӏысыпӏэр| сэсый",
+              "translation": "I think this is my |seat|."
+            },
+            {
+              "sentence": "Енэгуягъо, сэ |ситӏысыпӏэ| утес",
+              "translation": "I think you’re sitting in |my seat|."
+            },
+            {
+              "sentence": "Зы |тӏысыпӏэ| горэ щыӏа?",
+              "translation": "Is there |a seat| left?"
             }
           ],
-          "meaning": "to sneak (under)"
+          "meaning": "seat"
         }
       ]
     },
     {
-      "ipa": "t͡ʂʼət͡ʃʼa",
+      "ipa": "tʼakʷʼ",
       "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыкӏэ",
+      "type": "adv",
+      "word": "тӏэкӏу",
       "definitions": [
         {
-          "examples": [],
-          "meaning": "tselina; virgin lands, virgin soil"
+          "examples": [
+            {
+              "sentence": "Кӏалэм шхын |тӏэкӏу| ышхыгъэ",
+              "translation": "The boy ate |a bit of| food."
+            },
+            {
+              "sentence": "Телевидениер |тӏэкӏу| къэгъэхъый",
+              "translation": "Move the television |a bit| [closer]."
+            },
+            {
+              "sentence": "Шъхьангъупчъэр чагъэ |тӏэкӏу|",
+              "translation": "The window cracked |a bit|."
+            },
+            {
+              "sentence": "Кӏалэм |тӏэкӏу| тхылъэу иӏэр",
+              "translation": "The |amount of| books the boy has is |few|."
+            },
+            {
+              "sentence": "Шъоущыгъу |тӏэкӏу| къыхалъхь сищае",
+              "translation": "Put |a bit of| sugar in my tea."
+            },
+            {
+              "sentence": "|Тӏэкӏу| сынахь дэгъу",
+              "translation": "I am |a bit| better."
+            },
+            {
+              "sentence": "Кӏалэр |тӏэкӏу| гущыӏагъэ нахь, афэдиз бэу къиӏотагъэп",
+              "translation": "The boy spoke |a little bit|, he did not tell that much."
+            },
+            {
+              "sentence": "|Тӏэкӏу| нахь жъажъэу кӏо",
+              "translation": "Go |a bit| slower."
+            },
+            {
+              "sentence": "Ахъщэ |тӏэкӏу| сыӏыгъэр",
+              "translation": "I have |a little bit of| money."
+            }
+          ],
+          "meaning": "a bit; a little bit of; few; small amount of"
         }
       ]
     },
     {
-      "ipa": "t͡ʂʼəpʼa nat͡ʃʼ",
+      "synonyms": [
+        "тӏэкӏугъашӏэмэ"
+      ],
+      "ipa": "tʼakʷʼːʃʼama",
       "lang": "Adyghe",
-      "type": "noun",
-      "word": "чӏыпӏэ нэкӏ",
+      "type": "adv",
+      "word": "тӏэкӏушӏэмэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|тӏэкӏушӏэмэ| сышхэщт",
+              "translation": "I will eat |soon|."
+            },
+            {
+              "sentence": "|тӏэкӏушӏэмэ| филымыр къиублэщт",
+              "translation": "|Soon| the film will start."
+            },
+            {
+              "sentence": "|тӏэкӏушӏэмэ|",
+              "translation": "|soon|."
+            }
+          ],
+          "meaning": "soon"
+        }
+      ]
+    },
+    {
+      "ipa": "tʼakʷʼra",
+      "lang": "Adyghe",
+      "type": "adv",
+      "word": "тӏэкӏурэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |тӏэкӏурэ| сиунэ къэкӏо",
+              "translation": "The boy is coming to my house |rarely|."
+            },
+            {
+              "sentence": "|Тӏэкӏурэ| тхылъхэмэ саджэ",
+              "translation": "I read books |rarely|."
+            }
+          ],
+          "meaning": "few times (rarely; uncommonly)"
+        }
+      ]
+    },
+    {
+      "ipa": "tʼakʷʼ ʁaːʃʼama",
+      "lang": "Adyghe",
+      "type": "adv",
+      "word": "тӏэкӏу гъашӏэмэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Тӏэкӏу гъашӏэмэ| кӏалэр сиунэ къэкӏот",
+              "translation": "|Soon| the boy will come to my house."
+            },
+            {
+              "sentence": "|Тӏэкӏу гъашӏэмэ| тышхэщт, укъытдэшхэнэу уфаемэ?",
+              "translation": "We are going to eat |soon|, if you want to eat with us?"
+            }
+          ],
+          "meaning": "soon"
+        }
+      ]
+    },
+    {
+      "ipa": "tʼat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏэкӏын",
       "definitions": [
         {
           "examples": [],
-          "meaning": "wasteland"
+          "meaning": "to undress (to remove somebody’s clothing)"
+        },
+        {
+          "examples": [],
+          "meaning": "to strip"
+        },
+        {
+          "examples": [],
+          "meaning": "to sack (to rob)"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼaːɮa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏуалэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "inch"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼat͡ʃʼaʐ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏокӏэжъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"тӏуакӏэ\""
+        }
+      ]
+    },
+    {
+      "ipa": "tʼatan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏэтэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to unbuckle; to unzip; to unbutton; to unfasten"
+        },
+        {
+          "examples": [],
+          "meaning": "to untie; to unbind; to undo; to unleash"
+        }
+      ]
+    },
+    {
+      "shapsug": "тӏыгъон",
+      "ipa": "tʼərʁʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏыргъон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Нашэр |тӏыргъуагъэ|",
+              "translation": "The melon |was ripen|."
+            },
+            {
+              "sentence": "Нашэр |мэтӏыгъо|",
+              "translation": "the melon is ripen."
+            }
+          ],
+          "meaning": "to ripen"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тӏолъфэныкъох"
+      ],
+      "ipa": "tʷʼaːzax",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏуазэх",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"тӏуазэ\""
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼaːt͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏуакӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Тӏуакӏэр| чӏыпӏэу къушъхьитӏум азыфагур ары",
+              "translation": "|A gorge| is the place between two mountains."
+            }
+          ],
+          "meaning": "gorge, ravine, canyon"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼərəs",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "тӏурыс",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏы |тӏурыс|",
+              "translation": "|Elderly| man."
+            }
+          ],
+          "meaning": "elderly"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Щыгъын |тӏурыс|",
+              "translation": "|Well-worn| clothes."
+            }
+          ],
+          "meaning": "well-worn (showing signs of wear because of extensive use)"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼərətʷʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏурытӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |мэткӏут| мыжъор лавэм хабдзэмэ",
+              "translation": "If you thrrock will melt."
+            }
+          ],
+          "meaning": "by two"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼərətʷʼ qaːʃʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏурытӏу къашъо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "pair dance"
+        }
+      ]
+    },
+    {
+      "ipa": "tʷʼaːna",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏуанэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "one\u0027s husband\u0027s other wife (in case of a husband that has more than ӏ wife)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тхъун"
+      ],
+      "ipa": "tʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Къазгъырымкӏэ |матӏэх|",
+              "translation": "They are |digging| with the shovel."
+            },
+            {
+              "sentence": "Кӏалэм машэ |ытӏыгъ|",
+              "translation": "The boy |dug| a hole."
+            },
+            {
+              "sentence": "Кӏалэм курб |етӏы| къэгъагъэ рилъхьанэу",
+              "translation": "The boy |digs| a hole to put flower in it."
+            },
+            {
+              "sentence": "Кӏалэм шӏуанэмкӏэ чӏыгур |етӏы|",
+              "translation": "The boy |is digging up| the ground with the hoe."
+            },
+            {
+              "sentence": "Лэжьакӏохэмэ бгыгъуанэр бгым |хатӏыкӏы|",
+              "translation": "The workers |are digging| the tunnel |out| of the hill."
+            },
+            {
+              "sentence": "Бэнытӏым бэны |ытӏыгъ|",
+              "translation": "The gravedigger |digged| a grave."
+            }
+          ],
+          "meaning": "to dig"
+        }
+      ]
+    },
+    {
+      "ipa": "tʼaːrqʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏаркъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "bifurcation (A division into two branches.)"
+        },
+        {
+          "examples": [],
+          "meaning": "furcation (A division into several branches.)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кохъо |тӏаркъу|",
+              "translation": "|Forked| pitchfork."
+            }
+          ],
+          "meaning": "forked; that splits into two or more directions, or parts"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тӏыргъон"
+      ],
+      "ipa": "tʼəʁʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏыгъон",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"тӏыргъон\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "еӏункӏын"
+      ],
+      "ipa": "tʼərɡʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏыргун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to push, to shove, to thrust"
+        }
+      ]
+    },
+    {
+      "ipa": "tʼərɡʷ",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏыргу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "bam (an expression of an impact noise)"
+        }
+      ]
+    },
+    {
+      "ipa": "tʼatʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏэтӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Шъор |мэтӏатӏэ|",
+              "translation": "Honey |is drizzling|"
+            },
+            {
+              "sentence": "Шъор джэхашъом |етӏэтӏэхы|",
+              "translation": "Honey |is drizzling down| on the floor"
+            }
+          ],
+          "meaning": "to drizzle (said about viscous substances like honey)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тӏуазэх"
+      ],
+      "ipa": "tʷʼaːzax",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏолъфэныкъох",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"тӏолъфэныкъо\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тӏолъфэныкъо"
+      ],
+      "ipa": "tʷʼaːza",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏуазэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сэрэ сышырэ |тытӏуаз|",
+              "translation": "Me and my brother are |twins|."
+            },
+            {
+              "sentence": "Куджанымрэ Аслъанымрэ |зэтӏуазэх|",
+              "translation": "Kujan and Aslan are |twins|."
+            }
+          ],
+          "meaning": "twin"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тӏуазэ"
+      ],
+      "ipa": "tʷʼaɬfanəqʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "тӏолъфэныкъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сэрэ сышырэ |тытӏолъфэныкъу|",
+              "translation": "Me and my brother are |twins|."
+            },
+            {
+              "sentence": "Куджанымрэ Аслъанымрэ |тӏолъфэныкъох|",
+              "translation": "Kujan and Aslan are |twins|."
+            }
+          ],
+          "meaning": "twin"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тӏэкӏунау"
+      ],
+      "ipa": "tʼakʷʼəjntʼa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "тӏэкӏунитӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ахъщэ |тӏэкӏунитӏэ| сыӏыгъэр",
+              "translation": "I have |very few| of money."
+            },
+            {
+              "sentence": "Лӏым кӏэлэ |тӏэкӏунитӏэ| иӏэр",
+              "translation": "The man has a |very few| sons."
+            }
+          ],
+          "meaning": "very small amount; very few"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тӏэкӏунитӏэ"
+      ],
+      "ipa": "tʼakʷʼənaːw",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "тӏэкӏунау",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ахъщэ |тӏэкӏунау| сыӏыгъэр",
+              "translation": "I have |very few| of money."
+            },
+            {
+              "sentence": "Лӏым кӏэлэ |тӏэкӏунау| иӏэр",
+              "translation": "The man has a |very few| sons."
+            }
+          ],
+          "meaning": "very small amount"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "мэкӏэжъый",
+        "мэкӏэ дэд"
+      ],
+      "ipa": "mat͡ʃʼaʐəj",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏэкӏужъый",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ахъщэ |тӏэкӏужъый| ыӏыгъэр",
+              "translation": "The boy has |very few| money."
+            },
+            {
+              "sentence": "Шъоущыгъу |тӏэкӏужъый| сищае къыхэлъхь",
+              "translation": "Put |a very small amount of| sugar to my tea."
+            }
+          ],
+          "meaning": "very few"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "зэготӏэпӏыкӏын"
+      ],
+      "ipa": "tʼsapʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "тӏэпӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to rip (a garment) at the seams, to unstitch"
         }
       ]
     }
@@ -76004,7 +68519,7 @@ const circassianDict = {
         {
           "examples": [
             {
-              "sentence": "Кӏалэр |чэфэу щытын|",
+              "sentence": "Кӏалэр |чэфэу щыт|",
               "translation": "The boy |is happy|."
             }
           ],
@@ -76320,2067 +68835,128 @@ const circassianDict = {
       ]
     }
   ],
-  "шӏ": [
+  "уӏ": [
     {
-      "ipa": "ʃʷʼəət͡ʼsaʐ",
+      "ipa": "jawʔʷən",
       "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏуцӏэжъ",
+      "type": "verb",
+      "word": "уӏон",
       "definitions": [
         {
           "examples": [],
-          "meaning": "cockroach"
+          "meaning": "o peck; to hollow; to make a hole in something"
+        }
+      ]
+    },
+    {
+      "ipa": "ʁalanlan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "уӏэшын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Дзэр |уӏэшын|",
+              "translation": "|To arm| the army."
+            }
+          ],
+          "meaning": "to arm; to supply someone with weapons"
+        }
+      ]
+    },
+    {
+      "ipa": "wəʔan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "уӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |уӏагъэ|",
+              "translation": "The boy |is wounded|."
+            },
+            {
+              "sentence": "Кӏалэр чӏыгум тефи ылъакъо |уӏагъэ|",
+              "translation": "The boy fell on the ground and his leg |got wounded|."
+            },
+            {
+              "sentence": "Дзэкӏолӏыр |уӏагъэ|",
+              "translation": "The soldier |is injured|."
+            },
+            {
+              "sentence": "Докторыр цӏыф |уӏагъэхэмэ| адэӏэпыӏэ",
+              "translation": "The doctor helps |injured| people."
+            },
+            {
+              "sentence": "Кӏалэр |мауӏэ|",
+              "translation": "The boy |is being wounded|."
+            },
+            {
+              "sentence": "Сӏэ |уӏагъ|",
+              "translation": "My hand |was wounded|."
+            },
+            {
+              "sentence": "Кӏалэм лӏыр |ыуӏагъ|",
+              "translation": "The boy |wounded| the man."
+            },
+            {
+              "sentence": "Кӏалэм лӏыр |еуӏэ|",
+              "translation": "The boy |is wounding| the man."
+            },
+            {
+              "sentence": "Апч ыубытагъ чаным |укъиуӏэщт|",
+              "translation": "The broken sharp window |will wound you|."
+            },
+            {
+              "sentence": "|Ууӏагъа?|",
+              "translation": "|Are you injured?|"
+            },
+            {
+              "sentence": "Шъэжъыем |сыкъиуӏагъ|",
+              "translation": "The knife |injured me|."
+            },
+            {
+              "sentence": "Панэхэмэ сахахьэм, сыкуашъо |ауӏагъ|",
+              "translation": "When I entered the field of thorns, |they wounded| my thigh skin."
+            }
+          ],
+          "meaning": "to wound; to injure"
         },
         {
           "examples": [],
-          "meaning": "black-beetle"
+          "meaning": "to incise"
         }
       ]
     },
     {
-      "ipa": "ʃʷʼaːna",
+      "ipa": "wəʔaːʁa",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "шӏуанэ",
+      "word": "уӏагъэ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Кӏалэм |шӏуанэмкӏэ| ятӏэр етӏы",
-              "translation": "The boy is digging up the dirt |with the hoe|."
-            },
-            {
-              "sentence": "Къашт |шӏуанэр|",
-              "translation": "Pick up |the hoe|."
-            },
-            {
-              "sentence": "Къэхь |шӏуанэ|",
-              "translation": "Bring |a hoe|."
+              "sentence": "|Уӏагъэм| тепхэ телъхьан",
+              "translation": "To put a bandage on the |wound|."
             }
           ],
-          "meaning": "hoe"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "хафэ",
-        "зэхэшӏоӏухьан",
-        "гъэпцӏагъэ"
-      ],
-      "ipa": "ʃʷʼaʔʷ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "шӏоӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Нэшэбэгу |шӏоӏу|",
-              "translation": "|Pickled| cucumber."
-            }
-          ],
-          "meaning": "fermented, sour, pickled"
-        }
-      ]
-    },
-    {
-      "shapsug": "шӏусӏэ",
-      "kabardian": "фӏыцӏэ",
-      "ipa": "ʃʷʼət͡sʼa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "шӏуцӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хы |шӏуцӏэр|",
-              "translation": "|The black| sea."
-            },
-            {
-              "sentence": "Сиджанэ |шӏуцӏэ|",
-              "translation": "my shirt is |black|."
-            },
-            {
-              "sentence": "|Шӏуцӏэкӏэ| дэпкъыр лэ",
-              "translation": "Color the wall |with black color|."
-            },
-            {
-              "sentence": "Хьалыгъур мэсти |шӏуцӏэу| хъугъэ",
-              "translation": "The bread burned and got |black|."
-            }
-          ],
-          "meaning": "black"
-        }
-      ]
-    },
-    {
-      "kabardian": "фӏы",
-      "ipa": "ʃʷʼə",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "шӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Уатхъэ |шӏоп| джы",
-              "translation": "It is |not a good| time now."
-            },
-            {
-              "sentence": "Цӏыфы|шӏу|",
-              "translation": "|Good| person."
-            },
-            {
-              "sentence": "Насыпы|шӏу|",
-              "translation": "|Good| luck."
-            }
-          ],
-          "meaning": "good"
+          "meaning": "wound"
         },
         {
           "examples": [
             {
-              "sentence": "Щаер |шӏоу| сышӏыгъа?",
-              "translation": "Did I made the tea |well|?"
+              "sentence": "Кӏалэр |уӏагъэ|",
+              "translation": "The boy |is wounded|"
             },
             {
-              "sentence": "Цӏыфымэ |шӏоу| уадэзекӏон фай",
-              "translation": "You must treat people |well|."
-            },
-            {
-              "sentence": "Кӏаэр |шӏоу| зекӏуагъэп",
-              "translation": "The boy did not behave |well|."
-            },
-            {
-              "sentence": "|Шӏоу| орэхъу",
-              "translation": "May you become |well|."
-            },
-            {
-              "sentence": "Пшъашъэр |щӏоу| къэсдэгущыӏагъ",
-              "translation": "The girl spoke to me |well|."
+              "sentence": "|Уӏагъэм| уеӏэзэн фай",
+              "translation": "You need to aid |the wounded|"
             }
           ],
-          "meaning": "well"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|Cышӏу| мэузы",
-              "translation": "|My liver| hurts."
-            }
-          ],
-          "meaning": "liver"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʼatən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏэтын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Тыгъэр |къэшӏэты|\u0027",
-              "translation": "The sun is |shining|."
-            }
-          ],
-          "meaning": "to shine, to beam, to be radiant"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʼatə",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "шӏэты",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "clear weather"
-        }
-      ]
-    },
-    {
-      "etymology": "From шӏои (dirty) + ӏун (to hear) + -лэ (often suffix)",
-      "ipa": "ʃʷʼajəɮ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏоил",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "something or someone that is often dirty"
-        }
-      ]
-    },
-    {
-      "etymology": "From шӏои (dirty) + ӏун (to hear) + -лъ (tool suffix)",
-      "ipa": "ʃʷʼajəɬ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏоилъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "garbage can"
-        }
-      ]
-    },
-    {
-      "ipa": "ʂʷəpɕə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏупщы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Шӏупщыр| хъулъфыгъэм ишъу ыят",
-              "translation": "|Father-in-law| is a man\u0027s wife\u0027s father."
-            }
-          ],
-          "meaning": "a man\u0027s father-in-law: his wife\u0027s father"
-        }
-      ]
-    },
-    {
-      "ipa": "ʂʷəɡʷaːɕa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏугуащэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Шӏугуащэр| хъулъфыгъэм ишъу ыят",
-              "translation": "|Mother-in-law| is a man\u0027s wife\u0027s mother."
-            }
-          ],
-          "meaning": "a man\u0027s mother-in-law: his wife\u0027s mother"
-        }
-      ]
-    },
-    {
-      "shapsug": "шӏукӏьай",
-      "synonyms": [
-        "дэгъукӏай"
-      ],
-      "etymology": "From шӏу (well) + -кӏай (pretty/quite suffix)",
-      "ipa": "ʃʷʼət͡ʃʼaːj",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "шӏукӏай",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "pretty well; quite well"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "дэгъупӏэ"
-      ],
-      "ipa": "ʃʷʼpʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏупӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лым |ишӏупӏэ|",
-              "translation": "|The best part of| the meat."
-            },
-            {
-              "sentence": "Фылымым |ишӏупӏэ|",
-              "translation": "|The best part of| the film."
-            }
-          ],
-          "meaning": "the best part"
-        }
-      ]
-    },
-    {
-      "kabardian": "фӏы лъэгъун",
-      "ipa": "ʃʷʼə ɬaʁʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏу лъэгъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "пшъашъэр |шӏу сэлъэгъу|",
-              "translation": "|I love| the girl."
-            },
-            {
-              "sentence": "|шӏу осэлъэгъу|",
-              "translation": "|I love you|."
-            }
-          ],
-          "meaning": "to love"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "мощ ышӏэрэр |шӏу сэлъэгъу|",
-              "translation": "|I see in a positive way| the thing that person is doing."
-            }
-          ],
-          "meaning": "to see someone or something in a positive way, to like"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэн",
-      "ipa": "ʃˈan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Сэшӏэ| ар",
-              "translation": "|I know| that."
-            },
-            {
-              "sentence": "А кӏалэм сыд ыцӏэ |ошӏа|?",
-              "translation": "|Do you know| what is his name?"
-            },
-            {
-              "sentence": "Урысыбзэ |сшӏэрэп|",
-              "translation": "|I don\u0027t know| the Russian language."
-            },
-            {
-              "sentence": "|Сэшӏэ| къысэпӏуагъэ",
-              "translation": "|I know| what you told me."
-            },
-            {
-              "sentence": "|Сымышӏэрэ| а кӏалэм къыуиӏуагъэхэр",
-              "translation": "|I don\u0027t know| the things that boy told you."
-            },
-            {
-              "sentence": "Сэ дзэмкӏэ сышӏыхэрэр |ашӏэу| хъущтыхэп",
-              "translation": "|They| are not allowed |to know| what I am doing in the army."
-            },
-            {
-              "sentence": "Тхьапш |ошӏа| плӏым щы хэбгъахъомэ?",
-              "translation": "|Do you know| how much if you add three to four?"
-            }
-          ],
-          "meaning": "to know"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Сэлам, сыд джы |пшӏэрэр|?",
-              "translation": "Hello, what |you\u0027re doing| now?"
-            },
-            {
-              "sentence": "Лӏым зи |ышӏэрэп|",
-              "translation": "The man |does nothing|."
-            },
-            {
-              "sentence": "Джы сыд мыщ |епшӏэщтыр|?",
-              "translation": "Now what |you gonna do with| this?"
-            },
-            {
-              "sentence": "Сыд |шъушӏэрэр|?",
-              "translation": "What |you (pl.) are doing|?"
-            },
-            {
-              "sentence": "Мыщтэу |умышӏ|",
-              "translation": "|Don\u0027t do it| like this."
-            },
-            {
-              "sentence": "Лӏымэ ӏофы |ашӏэрэр|",
-              "translation": "The men |are doing| work."
-            },
-            {
-              "sentence": "ӏофы мы щэджагъом |сышӏагъ|.",
-              "translation": "|I did| work this noon."
-            },
-            {
-              "sentence": "Кӏалэм ӏофы дэгъу |ышӏэрэр|.",
-              "translation": "The boy |does| good work."
-            },
-            {
-              "sentence": "Джырэкӏэ зыгорэ |сэшӏэ|.",
-              "translation": "|I am doing| something for now."
-            },
-            {
-              "sentence": "Сняэ къэсфэраз экзаменхэр дэгъоу |сэшӏыхэти|",
-              "translation": "My mother is pleased with me |because I do| the exam well."
-            },
-            {
-              "sentence": "ӏофымкӏэ сэрэ сигъусэхэмрэ проджест |тэшӏы|",
-              "translation": "In work, me and my associates |are doing| a project."
-            },
-            {
-              "sentence": "Бэрэ уеджэмэ экзаменыр |къыпфэшӏыщт|",
-              "translation": "If you study a lot |you could do| the exam."
-            },
-            {
-              "sentence": "Бэрэ уеджэми экзаменыр |къыпфэшӏыщтэп|",
-              "translation": "Even if you study a lot |you could not do| the exam."
-            },
-            {
-              "sentence": "Бэрэ уемыджэми экзаменыр |къыпфэшӏыщт|",
-              "translation": "Even if you will not study a lot |you could do| the exam."
-            }
-          ],
-          "meaning": "to do (an action)"
-        }
-      ]
-    },
-    {
-      "kabardian": "фӏамыщӏ",
-      "ipa": "ʃʷʼamət͡ʃʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏомыкӏы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пхъэ |шӏомыкӏ|",
-              "translation": "Wood |charcoal|."
-            },
-            {
-              "sentence": "Мыжъо |шӏомыкӏ|",
-              "translation": "|Coal|."
-            },
-            {
-              "sentence": "Машӏо |шӏомыкӏыкӏэ| шӏын",
-              "translation": "To make fire |using coal|."
-            }
-          ],
-          "meaning": "coal"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaməʔʷafən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏомыӏофын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to ignore something"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʼəħaːʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏыхьагъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "fence"
-        }
-      ]
-    },
-    {
-      "kabardian": "фӏей",
-      "ipa": "ʃʷʼajə",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "шӏои",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Джэнэ |шӏои|",
-              "translation": "|Dirty| shirt."
-            },
-            {
-              "sentence": "Псыр |шӏои|",
-              "translation": "The water is |dirty|."
-            },
-            {
-              "sentence": "Кӏалэм иджэнэ |шӏои|",
-              "translation": "The boy\u0027s shirt is |dirty|."
-            }
-          ],
-          "meaning": "dirty, unclean; covered with or containing unpleasant substances such as dirt or grime or mud."
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыр фылым |шӏоихэмэ| аплъы",
-              "translation": "The man is watching the |dirty| films."
-            }
-          ],
-          "meaning": "dirty, morally unclean; obscene or indecent, especially sexually."
-        },
-        {
-          "examples": [],
-          "meaning": "crud"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Гъогур къабзэп, |шӏой| телъ",
-              "translation": "The road is not clean, there is |rubbish| on it."
-            }
-          ],
-          "meaning": "rubbish; trash; garbage"
-        }
-      ]
-    },
-    {
-      "kabardian": "фӏалъэ",
-      "ipa": "ʃʷʼaːɬa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏуалъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "foreleg; front legs (of animals)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼənt͡ʃə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏункӏы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чэщ |шӏункӏ|",
-              "translation": "|Dark| night."
-            },
-            {
-              "sentence": "Унэр |шӏункӏы|",
-              "translation": "The house |is dark|."
-            },
-            {
-              "sentence": "|Шӏункӏы| къэхъугъ",
-              "translation": "It became |dark|."
-            }
-          ],
-          "meaning": "dark"
-        },
-        {
-          "examples": [],
-          "meaning": "darkness"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏыкӏафӏэ",
-      "ipa": "ʃʼət͡ʃʼaːʃʷʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏыкӏашӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ар цӏыф |шӏыкӏашӏу|",
-              "translation": "That person |is well-mannered|."
-            }
-          ],
-          "meaning": "well-mannered"
-        }
-      ]
-    },
-    {
-      "shapsug": "шӏыкӏьэ",
-      "kabardian": "щӏыкӏэ",
-      "ipa": "ʃʼət͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏыкӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Шӏыкӏэ| нахь дэгъу уиӏа?",
-              "translation": "Do you have a better |method?|"
-            },
-            {
-              "sentence": "ӏанэр |зэрэпшӏыкӏэ| дэгъоп",
-              "translation": "|The way you\u0027re doing| the table is not good."
-            }
-          ],
-          "meaning": "manner, method, a way to do something"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Унэм |ишӏыкӏэ| пытэу щыт",
-              "translation": "|The way| the house |is structured| is hard."
-            },
-            {
-              "sentence": "ӏанэм |ишӏыкӏэ| ӏайэ",
-              "translation": "|The way| the table |is structured| is ugly."
-            }
-          ],
-          "meaning": "the way/manner/method something is structured"
-        }
-      ]
-    },
-    {
-      "kabardian": "фӏыщӏэ",
-      "ipa": "ʃʷʼəʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏушӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "benefactor"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэныгъэ",
-      "ipa": "ʃʼanəʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏэныгъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "А цӏыфым |шӏэныгъэ| бэ иӏ",
-              "translation": "That person has a lot of |knowledge|."
-            },
-            {
-              "sentence": "|Шӏэныгъэ| зиӏэм ыдэжь сыкӏуагъ",
-              "translation": "I went to the one that has |knowledge|."
-            }
-          ],
-          "meaning": "knowledge"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼawχʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏоухъон",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏоукъон\""
-        }
-      ]
-    },
-    {
-      "shapsug": "шӏоухъон",
-      "ipa": "ʃʷʼawqʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏоукъон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм сиплан |къэсшӏуиухъуагъ|",
-              "translation": "The boy |ruined| my plan."
-            },
-            {
-              "sentence": "Кӏалэм фылымыр |къэсшӏуиухъуагъ|",
-              "translation": "The boy |spoiled| the movie |for me|."
-            },
-            {
-              "sentence": "Кӏалэм лӏым ишхын |шӏуиухъуагъ|",
-              "translation": "The boy |spoiled| the man\u0027s food."
-            }
-          ],
-          "meaning": "to spoil something for someone; to ruin something for someone"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaʁawχʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏогъэухъон",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏогъэукъон\""
-        }
-      ]
-    },
-    {
-      "shapsug": "шӏогъэухъон",
-      "ipa": "ʃʷʼaʁawqʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏогъэукъон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм сиплан |къэсшӏуигъэухъуагъ|",
-              "translation": "The boy |ruined| my plan."
-            },
-            {
-              "sentence": "Кӏалэм фылымыр |къэсшӏуигъэухъуагъ|",
-              "translation": "The boy |spoiled| the movie |for me|."
-            },
-            {
-              "sentence": "Кӏалэм лӏым ишхын |шӏуигъэухъуагъ|",
-              "translation": "The boy |spoiled| the man\u0027s food."
-            }
-          ],
-          "meaning": "to spoil something for someone; to ruin something for someone"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaʁawan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏогъэон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм сиплан |къэсшӏуигъэуагъ|",
-              "translation": "The boy |ruined| my plan."
-            },
-            {
-              "sentence": "Кӏалэм фылымыр |къэсшӏуигъэуагъ|",
-              "translation": "The boy |ruined| the movie |for me|."
-            },
-            {
-              "sentence": "Кӏалэм лӏым иунэ |шӏуигъэуагъ|",
-              "translation": "The boy |destroyed| the man\u0027s house."
-            }
-          ],
-          "meaning": "to ruin/destroy/wreck someone\u0027s plan or properly"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼawbatan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏоубэтэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм сиӏанэ |къэсшӏуиубэтагъ|",
-              "translation": "The boy |broke| my table."
-            },
-            {
-              "sentence": "Кӏалэм лӏым иунэ ишъхьангъупчъэ |шӏуиубэтагъ|",
-              "translation": "The boy |broke| the window of the man\u0027s house."
-            }
-          ],
-          "meaning": "to break/destroy/wreck someone\u0027s properly"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷajəʁʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏоигъон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|тшӏоигъу|",
-              "translation": "|We want|."
-            },
-            {
-              "sentence": "|тшӏоигъоп|",
-              "translation": "|We don\u0027t want|."
-            },
-            {
-              "sentence": "Сэ сычъые |сшӏоигъу|",
-              "translation": "|I would like| to sleep."
-            },
-            {
-              "sentence": "Тэ теджэ |тшIоигъу|",
-              "translation": "|We would like| to read."
-            },
-            {
-              "sentence": "Тутын уешъо |пшӏоигъуа?|",
-              "translation": "|Would you like| to smoke?"
-            },
-            {
-              "sentence": "Сэ тутын сешъо сшӏоигъуагъ",
-              "translation": "|I would like| to smoke."
-            },
-            {
-              "sentence": "Зыгорэ сшхы |сшӏоигъу|",
-              "translation": "|I want| to eat something."
-            },
-            {
-              "sentence": "Сэ зыгорэм сыкъыкӏэупчӏэ |сшӏоигъу|",
-              "translation": "|I want| to ask you something."
-            },
-            {
-              "sentence": "Тэ унэм тыкӏожьы |тшӏоигъуагъ|",
-              "translation": "|We want| to drive home."
-            },
-            {
-              "sentence": "Мыщ ущышхэ |пшӏоигъуа?|",
-              "translation": "|Do you want| to eat here?"
-            },
-            {
-              "sentence": "Ахэр телефонкӏэ теохэ |ашӏоигъуагъ|",
-              "translation": "|They want| to make a call."
-            },
-            {
-              "sentence": "Шъуиныбджэгъухэр зэжъугъэлъэгъухэ |шъушӏоигъуа?|",
-              "translation": "|Do you want| to visit friends? (said to plural)"
-            },
-            {
-              "sentence": "Мыкӏэ сыублэмэ |сшӏоигъу|",
-              "translation": "|I want| to start with this."
-            },
-            {
-              "sentence": "Сыда пчэдыжьым шъушхымэ |шъушӏоигъор?|",
-              "translation": "What |would you like| for breakfast?"
-            }
-          ],
-          "meaning": "to want"
-        }
-      ]
-    },
-    {
-      "shapsug": "шӏокӏьын",
-      "ipa": "ʃʷʼat͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏокӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр мыжъом |шӏокӏыгъ|",
-              "translation": "The boy |evaded| the rock."
-            },
-            {
-              "sentence": "Кӏалэр хьэмэ |ашӏокӏышъугъ|",
-              "translation": "The boy |successfully evaded| the dogs."
-            },
-            {
-              "sentence": "|Укъысшӏокӏыщтэп|",
-              "translation": "|You cannot evade me|."
-            },
-            {
-              "sentence": "Кӏалэр псынкӏэшъ иныжъым |шӏокӏышъу|",
-              "translation": "Because the boy is fast |he can get away from| the giant."
-            }
-          ],
-          "meaning": "to evade; to get away from"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр пшъэдэкӏыжъым |шӏокӏыгъ|",
-              "translation": "The boy |evaded| the punishment."
-            },
-            {
-              "sentence": "Ахъщэ утыным |ушӏокӏышъущтэп|",
-              "translation": "|You cannot avoid| paying money."
-            },
-            {
-              "sentence": "ӏоф къиным |сышӏокӏышъугъ|",
-              "translation": "|I managed to avoid| the hard work."
-            }
-          ],
-          "meaning": "to successfully avoid doing something"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр ӏофшӏэнхэмэ |ашӏокӏыгъ|",
-              "translation": "The boy |dealt| with the tasks."
-            },
-            {
-              "sentence": "Илъэсилӏы седжагъ, джы еджэным |сышӏокӏыгъ|",
-              "translation": "I studied for four years, now |I am free| from studying."
-            },
-            {
-              "sentence": "Пэрыохъу пстэуми |ашӏокӏын|",
-              "translation": "|To overcome| all obstacles."
-            }
-          ],
-          "meaning": "to finish dealing with something"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "малъхъо",
-        "махъулъэ",
-        "махълъэ",
-        "пщыкъу",
-        "лӏымыш",
-        "малхъо",
-        "малъхъэ"
-      ],
-      "ipa": "ʃʷʼəpɕəqʷə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏупщыкъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "brother-in-law (a man\u0027s wife\u0027s brother)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "нысэ",
-        "пщыпхъу"
-      ],
-      "ipa": "ʃʷʼəpɕəpχʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏупщыпхъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "sister-in-law (a man\u0027s wife\u0027s sister)"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaw",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "шӏоу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "excellently"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaraħaːtən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏорэхьатын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Къыпшӏорэхьата| зэрэ ущысэ",
-              "translation": "|Are you comfortable| with the way you are sitting?"
-            },
-            {
-              "sentence": "|Къэсшӏорэхьат| унэр",
-              "translation": "The house is |comfortable for me|."
-            },
-            {
-              "sentence": "Кӏалэм джанэр |шӏорэхьат|",
-              "translation": "The shirt |is comfortable| for the boy."
-            }
-          ],
-          "meaning": "to be comfortable for"
-        }
-      ]
-    },
-    {
-      "kabardian": "фӏэщ",
-      "ipa": "ʃʷʼaʃʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏошӏ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "hypothesis"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "шӏошъын"
-      ],
-      "ipa": "ʃʷaʃʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏошӏун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏошъын\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "шӏошъ хъун"
-      ],
-      "ipa": "ʃʷʼaʃʷʼ χʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏошӏу хъун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏошъ хъун\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaʃʼχʷənʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏошӏхъуныгъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏошъхъуныгъ\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тыны"
-      ],
-      "ipa": "ʃʷʼəħaːftən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏухьафтын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |шӏухьафтын| пшъашъэм фехьы.",
-              "translation": "The boy is bringing |a gift| to the girl."
-            },
-            {
-              "sentence": "Кӏалэм ыянэ |шӏухьафтын| фещэфы.",
-              "translation": "The boy is buying |a gift| for his mother."
-            },
-            {
-              "sentence": "|шӏухьафтын| гъэшӏэгъон горэ сэ къыпфэсхьыщт.",
-              "translation": "I will bring you an out of the ordinary |gift|."
-            },
-            {
-              "sentence": "Сэ |шӏухьафтыныр| Куджаным есэты",
-              "translation": "I am giving |the gift| to Kujan."
-            },
-            {
-              "sentence": "Кӏалэм ыгукъэкӏыгъ игъусэ пшъашъэ |шӏухьафтын| фырищэфынэу",
-              "translation": "The boy got the idea of buying |a present| for his girlfriend."
-            },
-            {
-              "sentence": "Кӏалэр |шӏухьафтынэу| титхьэматэ фэтщэфытым къыхэхьагъ",
-              "translation": "The boy joined us in |the gift| we are going to buy for the boss."
-            }
-          ],
-          "meaning": "present, gift"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃˈən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым унэ |ешӏы|",
-              "translation": "The man |builds| a house.."
-            },
-            {
-              "sentence": "Пчъэ пхъашӏэм |ышӏыгъ|",
-              "translation": "The carpenter |built| a door."
-            },
-            {
-              "sentence": "Унэ |сэшӏы| пщахъокӏэ",
-              "translation": "|I am building| a house using sand."
-            }
-          ],
-          "meaning": "to build"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|сэшӏы| ар",
-              "translation": "|I am making| that."
-            },
-            {
-              "sentence": "Шхын |сэшӏы|",
-              "translation": "|I am making| food."
-            },
-            {
-              "sentence": "|шӏы| мыщтэу",
-              "translation": "|Make it| like this."
-            },
-            {
-              "sentence": "Кӏэлэегъаджэм экзаменым |ешӏы|",
-              "translation": "The teacher |is making| an exam."
-            },
-            {
-              "sentence": "Джырэкӏэ зыгорэ |сэшӏы|.",
-              "translation": "|I am making| something for now."
-            }
-          ],
-          "meaning": "to make"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "ӏофымкӏэ гъучӏыхэр |ашӏых|",
-              "translation": "|They produce| irons in the work."
-            },
-            {
-              "sentence": "Джэгъогъум нахь бэ джэгъогъу |къешӏы|",
-              "translation": "Hate |produces| more hate."
-            },
-            {
-              "sentence": "Кӏалэм фылым |ышӏыгъ|",
-              "translation": "The young man |created| a film."
-            },
-            {
-              "sentence": "Джэгу |сышӏыгъ|",
-              "translation": "|I created| a game."
-            },
-            {
-              "sentence": "Тхьэм цӏыфыр |ышӏыгъ|",
-              "translation": "God |created| the human."
-            }
-          ],
-          "meaning": "to produce; to create"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼanan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏонэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Экзамынымкӏэ зы упчӏэ къины горэм |сышӏонагъ|",
-              "translation": "|I stumbled upon| a hard question in the exam."
-            },
-            {
-              "sentence": "Сыкӏоу ӏанэ цӏыкӏум |сышӏонагъ|",
-              "translation": "While going |I stumbled into| the small table."
-            },
-            {
-              "sentence": "ӏанэр къэзгъэзэшъурэп, дэпкъым |шӏуанэ|",
-              "translation": "I can\u0027t turn the table, |it stumbles into| the wall."
-            }
-          ],
-          "meaning": "to stumble upon"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaʔʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏоӏун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to turn sour (e.g. a milk product)"
-        },
-        {
-          "examples": [],
-          "meaning": "to pickle; to corn"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Cанэр |шӏоӏугъ|",
-              "translation": "The food |was fermented|."
-            }
-          ],
-          "meaning": "to ferment"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "гъэтэрэзын"
-      ],
-      "ipa": "ʃˈəʑən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏыжьын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Унэ угъэуагъэр |шӏыжь|",
-              "translation": "|Build again| the house you destroyed."
-            },
-            {
-              "sentence": "Кӏалэм мафэ къэсы а зыр |ешӏыжьы|",
-              "translation": "The boy |is making| the same thing everyday"
-            }
-          ],
-          "meaning": "to make/build again"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм машинэр |ешӏыжьы|",
-              "translation": "The boy |is fixing| the machine."
-            },
-            {
-              "sentence": "Лӏым къухьэр |ышӏыжьыгъ|",
-              "translation": "The man |fixed| the ship."
-            },
-            {
-              "sentence": "Тамбый компыютэрхэр |ешӏыжьых|",
-              "translation": "Tamby |fixes| computers."
-            },
-            {
-              "sentence": "Уику |къагъэшӏыжь|",
-              "translation": "|Make them fix| your car."
-            },
-            {
-              "sentence": "Кухэр |шӏыжьыкӏэ| сышӏэрэп",
-              "translation": "I don\u0027t know |how to fix| cars."
-            },
-            {
-              "sentence": "Яунэ |къэсфэшӏыжьышъугъэп|",
-              "translation": "|I couldn\u0027t fix| their house."
-            },
-            {
-              "sentence": "Зы нэӏуасэ горэ шъуиӏа кухэр |ышӏыжьыхэу|?",
-              "translation": "Do you have one familiar |that fixes| cars?"
-            }
-          ],
-          "meaning": "to fix"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaʃʷʼχʷənʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏошӏухъунгъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏошӏухъуныгъэ\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "шӏошӏун"
-      ],
-      "ipa": "ʃʷaʂən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏошъын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏошӏын\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaʃʷʼχʷənʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏошӏхъуныгъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏошъхъуныгъэ\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaʃʷʼχʷənʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏошъхъуныгъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Шӏошъхъуныгъэ| уиӏэн фае",
-              "translation": "You need to have a |faith|."
-            }
-          ],
-          "meaning": "faith; belief"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "шӏошӏу хъун",
-        "шӏошъыхъун"
-      ],
-      "ipa": "ʃʷaʂ χʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏошъ хъун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏошӏ хъун\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "шӏошӏу хъун",
-        "шӏошъыхъун"
-      ],
-      "ipa": "ʃʷaʂ χʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏошъ хъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм ыӏорэр пшъашъэм |ышӏошъ мэхъу|",
-              "translation": "The girl |is believing| in what the boy says."
-            },
-            {
-              "sentence": "Къэпӏорэр |сышӏошъ мэхъу|",
-              "translation": "|I am believing| in what you say."
-            },
-            {
-              "sentence": "Къэпӏорэр кӏалэм |ышӏошъ хъурэп|",
-              "translation": "The boy |doesn\u0027t believe| in what I say."
-            },
-            {
-              "sentence": "Сэ Тхьэ |сышӏошъ мэхъу|",
-              "translation": "|I believe| in God."
-            },
-            {
-              "sentence": "А кӏалэм епӏо зэкӏэр |ышӏошъ хъугъэ|",
-              "translation": "That boy |believed| everything you told him."
-            }
-          ],
-          "meaning": "to believe"
-        }
-      ]
-    },
-    {
-      "shapsug": "шӏыкӏьай",
-      "synonyms": [
-        "бзэджай",
-        "шэнычъэ"
-      ],
-      "ipa": "ʃʼət͡ʃʼaːj",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "шӏыкӏай",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏэлэцӏыкӏур |шӏыкӏай|",
-              "translation": "The little boy |is mischievous|."
-            },
-            {
-              "sentence": "Кӏэлэцӏыкӏу |шӏыкӏай|",
-              "translation": "|Mischievous| little boy."
-            },
-            {
-              "sentence": "Кӏэлэ |шӏыкӏаер| дэпкъым теуцӏалэ",
-              "translation": "The |naughty| boy is scribbling on the wall."
-            }
-          ],
-          "meaning": "naughty; mischievous; prankish; troublesome"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "хъопсэн"
-      ],
-      "ipa": "ʃʷʼəχʷəʁʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏухъогъон",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шхъогъон\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼajbaħ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "шӏоибахь",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Унэр |шӏоибахь|",
-              "translation": "The house |is really dirty|."
-            },
-            {
-              "sentence": "|Шӏоибахьэу| ухъугъ",
-              "translation": "You became |really dirty|."
-            }
-          ],
-          "meaning": "very dirty, very filthy"
-        }
-      ]
-    },
-    {
-      "kabardian": "фӏэхъус",
-      "ipa": "ʃʷʼəfas",
-      "lang": "Adyghe",
-      "type": "intj",
-      "word": "шӏуфэс",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хьакӏэм |шӏуфэс| рихыгъ",
-              "translation": "(S)he |greeted| the guest."
-            }
-          ],
-          "meaning": "greeting, salute; salutation"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼəʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏугъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "А кӏалэм |шӏугъэ| къыпыкӏырэп",
-              "translation": "No |goodness| comes from that boy."
-            },
-            {
-              "sentence": "Лӏым |шӏугъэ| хэлъ",
-              "translation": "The man has |goodness|."
-            }
-          ],
-          "meaning": "goodness"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼapχʷatan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏопхъотэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"къышӏопхъотэн\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼawbətən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏоубытын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм пхъэнтӏэкӏур пшъашъэм |шъуиубытыгъ|",
-              "translation": "The boy |take hold of| the chair against the girl\u0027s interest."
-            },
-            {
-              "sentence": "Кӏалэм топыр пшъашъэм |шъуиубытыгъ|",
-              "translation": "The boy |seized| the ball from the girl."
-            },
-            {
-              "sentence": "Кӏалэм сичӏыпӏэ |къэсшъуиубытыгъ|",
-              "translation": "The boy |seized| my seat |from me|."
-            },
-            {
-              "sentence": "Урыс дзэм кӏэир Адыгэ дзэм |шъуиубытыгъ|",
-              "translation": "The Russian army |seized| the valley from the Circassian army."
-            }
-          ],
-          "meaning": "to take hold of something against the owner\u0027s interest or will; to capture something from someone; to seize something from someone; to overtake from"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "бзэджэн"
-      ],
-      "ipa": "ʃʼət͡ʃʼajan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏыкӏэен",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Умышӏыкӏай|.",
-              "translation": "|Don\u0027t misbehave|."
-            },
-            {
-              "sentence": "Кӏалэр |мэшӏыкӏае|.",
-              "translation": "The boy |misbehaves|."
-            },
-            {
-              "sentence": "Кӏэлэцӏыкӏухэр |шӏыкӏаехэу| щагум дэтых.",
-              "translation": "The kids |are doing trouble| in the yard."
-            },
-            {
-              "sentence": "Шъэожъыем |шӏыкӏэеныр| ишэн",
-              "translation": "It is the boy\u0027s behavior to |get naughty|."
-            }
-          ],
-          "meaning": "to misbehave; to get naughty; to do trouble"
-        },
-        {
-          "examples": [],
-          "meaning": "to frolic, to play about, to fool around"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ышӏэпэн"
-      ],
-      "ipa": "ʃʼapan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏэпэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|I am sure| that he’ll come",
-              "translation": "Сэ сышӏап ар къызэрэкӏощтыр."
-            },
-            {
-              "sentence": "|Are you sure| the boy will come?",
-              "translation": "|Ушӏэпа| кӏалэр зэрэкъэкӏощтыр?"
-            },
-            {
-              "sentence": "|I am not sure| who that was.",
-              "translation": "|Сшӏэпэп| хэтыгъ ар."
-            },
-            {
-              "sentence": "|I was certain of it|.",
-              "translation": "|Сшӏапэу| щытыгъ."
-            }
-          ],
-          "meaning": "to be sure, to be certain"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼakʷʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏокӏон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм ахъщэ бэ |шӏокӏуагъ|",
-              "translation": "The boy |lost| a lot of money."
-            },
-            {
-              "sentence": "Сиунэ |къэсшӏокӏуагъ|",
-              "translation": "|I lost| my house."
-            },
-            {
-              "sentence": "Куджаным кӏалэ |шӏокӏуагъ|",
-              "translation": "Kujan |lost| a son"
-            },
-            {
-              "sentence": "Уиахъщэ зэкӏэр |къыпшӏокӏоныр| дэхэт",
-              "translation": "It is possible that |you will lose| all your money."
-            }
-          ],
-          "meaning": "to lose something; to lose the possession of"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Сикӏалэ чэщдэсым |къэсшӏокӏуагъ|",
-              "translation": "My boy |went| to the party |against my will|."
-            },
-            {
-              "sentence": "Куджаныр кином |къэсшӏокӏуагъ| къытимыӏоу",
-              "translation": "Kujan |went to| the cinema without telling us."
-            }
-          ],
-          "meaning": "to go to somewhere against someone\u0027s will or interest"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼajʑaʑən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏуежьэжьын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Бланэр тыгъужъым |шӏуежьэжьы|",
-              "translation": "The deer |runs away from| the wolf."
-            },
-            {
-              "sentence": "Бланэр тыгъужъымэ |ашӏуежьэжьышъугъ|",
-              "translation": "The deer |successfully ran away from| the wolves."
-            },
-            {
-              "sentence": "Кӏалэр |къэсшӏуежьэжьын| еӏуагъ",
-              "translation": "The boy tried |to run away from me|."
-            },
-            {
-              "sentence": "Кӏалэр укӏакӏом |шӏуежьэжьы|",
-              "translation": "The boy is |running away from| the murderer."
-            },
-            {
-              "sentence": "|Укъысшӏуежьэжьышъущтэп|",
-              "translation": "|You cannot run away from me|."
-            },
-            {
-              "sentence": "Мышъэм |ушӏуежьэжьын| пӏомэ къыпкӏэхьэщт",
-              "translation": "If you try |to flee from| a bear, it will catch up to you."
-            }
-          ],
-          "meaning": "to run away from; to flee from"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэхыу",
-      "synonyms": [
-        "псынкӏэу"
-      ],
-      "ipa": "ʃʼaxaw",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "шӏэхэу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Шӏэхэу| ӏофыр зэшӏокӏыгъэ",
-              "translation": "The work was done |quickly|."
-            },
-            {
-              "sentence": "|Шӏэхэу| кӏуагъэ",
-              "translation": "(S)he went |quickly|."
-            }
-          ],
-          "meaning": "quickly"
-        }
-      ]
-    },
-    {
-      "shapsug": "шӏошӏун",
-      "kabardian": "фӏэщӏын",
-      "ipa": "ʃʷaʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏошӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм чъыӏагъ |ешӏошӏы|",
-              "translation": "The boy |thinks| it\u0027s cold."
-            },
-            {
-              "sentence": "|Сышӏошӏырэмкӏэ| мэзым тхэхьан фае",
-              "translation": "|I think| we need to enter the forest."
-            },
-            {
-              "sentence": "Ар |сышӏошӏырэп|",
-              "translation": "|I don\u0027t think| that."
-            },
-            {
-              "sentence": "А кӏалэм сынахь кӏуачӏ |сышӏошӏыгъ|",
-              "translation": "|I thought| I was stronger than him."
-            },
-            {
-              "sentence": "Кӏалэм тестыр къиныщт |ышӏошӏыгъ|, ау ӏэшӏэхэу къычӏэкӏыжьыгъ",
-              "translation": "The boy |thought| the test is going to be hard, but it turned out to be easy."
-            }
-          ],
-          "meaning": "to think that; to suppose; to reckon; to have the opinion of"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Сабыеу |къыпшӏошӏы|",
-              "translation": "It is |seems like| a child |for you|."
-            }
-          ],
-          "meaning": "to see as, to be perceived as"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тхъытхъын",
-        "гузэжъон",
-        "хъыжъэн"
-      ],
-      "ipa": "ʃʼaxən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏэхын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to hurry up, to hasten"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʼanʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏэнгъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏэныгъэ\""
-        }
-      ]
-    },
-    {
-      "ipa": "jaχʷəɬʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏугъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Шхъогъуалым къин ехъу ылъэгъумэ зыгорэм |шӏугъо| къехъулӏэу",
-              "translation": "An envious person suffers when (s)he sees something |fortunate| happens to someone."
-            },
-            {
-              "sentence": "Тхьэм ыӏомэ |шӏугъохэр| къыохъорэлӏэх",
-              "translation": "May |fortunate| things happen to you."
-            }
-          ],
-          "meaning": "good time; fortunate time"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʼəħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏыхьан",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"къэшӏыхьан\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷajəʁʷad͡ʒan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏоигъоджэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Саусырыкъо зэрэкӏэмыхьагъэр лъэшэу |шӏоигъоджагъ|",
-              "translation": "Sosruko really |disliked| the fact that he didn\u0027t catch up with him."
-            }
-          ],
-          "meaning": "to dislike greatly, to detest, to not want"
-        }
-      ]
-    },
-    {
-      "ipa": "ɕəɕənan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏокӏодын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏэлэцӏыкӏур |къэсшӏокӏодыгъ|",
-              "translation": "|I lost| the kid."
-            },
-            {
-              "sentence": "Лӏым ӏункӏыбзэхэр |шӏокӏодыгъэх|",
-              "translation": "The man |lost| the keys."
-            },
-            {
-              "sentence": "Сисыхьат унэм |къэсшӏуикӏодагъ|",
-              "translation": "|I lost| my watch |inside| the house."
-            },
-            {
-              "sentence": "|Укъэсшӏокӏодыным| сыщэщынэ",
-              "translation": "I am afraid of |losing you|."
-            },
-            {
-              "sentence": "Кӏалэр кӏохъуи гъогур |шӏокӏодыгъ|",
-              "translation": "The boy went astray and |lost| the road."
-            }
-          ],
-          "meaning": "to lose something"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼabzən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏобзын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым мэлым ытыкъын |шӏуибзыгъ|",
-              "translation": "The man |sliced| the sheep\u0027s throat."
-            },
-            {
-              "sentence": "Цӏыфым ычый |шӏобыбзымэ|, лӏэщт",
-              "translation": "|If you slit| a person\u0027s throat, he will die."
-            }
-          ],
-          "meaning": "to slice (to kill); to slit"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaʁat͡ʂən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏогъэшъутын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым мэлым ытыкъын |шӏуигъэшъутыгъ|",
-              "translation": "The man |sliced| the sheep\u0027s throat."
-            },
-            {
-              "sentence": "Цӏыфым ычый |шӏобгъэшъутымэ|, лӏэщт",
-              "translation": "|If you slit| a person\u0027s throat, he will die."
-            },
-            {
-              "sentence": "Зэманым, тыгъуакӏомэ аӏэхэр |шӏуагъэшъутыщтыгъэх|",
-              "translation": "In the past, |they used to cut off| the thieves\u0027 arms."
-            }
-          ],
-          "meaning": "to cut off; to slice off"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼaʁat͡ʂən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏогъэчъын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to cut off"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼt͡sʼaːʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏуцӏагъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "blackness"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷajəʁʷaːd͡ʒ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "шӏоигъуадж",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Арэу зэрэхъугъэр |шӏоигъуадж|",
-              "translation": "How it turned |is unwanted|."
-            },
-            {
-              "sentence": "Кӏалэм |шӏоигъуадж| къафыныр",
-              "translation": "|It is undesirable| for the boy to lose."
-            }
-          ],
-          "meaning": "undesirable, unwanted"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʔaːba",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏуабэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "hurry, hasten"
-        }
-      ]
-    },
-    {
-      "kabardian": "фӏэгъэщӏэгъуэнын",
-      "ipa": "ʃʷʼaʁaʃʼaʁʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏогъэшӏэгъонын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to show interest in; to be interested in; to take an interest in"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Фылымым |сышӏогъэшӏэгъонэу| сеплъыгъ",
-              "translation": "I watched the film |amazed|."
-            }
-          ],
-          "meaning": "to wonder (at), to be amazed, to be astonished at, to be amazed at"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|Къэсышӏогъэшӏэгъон| кӏалэр ышӏэнэу фаер",
-              "translation": "|Is is weird for me|what the boy wants to do."
-            },
-            {
-              "sentence": "Ара |Къыпшӏогъэшӏэгъоныр|? мыщ къедэӏу",
-              "translation": "Is that |what is weird to you|? listen to this."
-            }
-          ],
-          "meaning": "to be weirded by; to find something weird"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼəɬaʁʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏулъэгъун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"гу шӏу лъэгъун\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʼaːʁʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏагъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Шӏагъо| горэ сылъэгъугъ",
-              "translation": "I saw some |wonder|\u0027."
-            }
-          ],
-          "meaning": "wonder"
-        },
-        {
-          "examples": [],
-          "meaning": "wonderful, marvelous"
-        }
-      ]
-    },
-    {
-      "ipa": "ʃʷʼabzə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏобзы",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "slice"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "шӏошӏу хъун"
-      ],
-      "ipa": "ʃʷaʂ χʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "шӏошъыхъун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"шӏошъ хъун\""
-        }
-      ]
-    },
-    {
-      "ipa": "ʂħapəɬaːpʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "шӏохын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым дзыохэр щыдым |шӏуихыгъэх|",
-              "translation": "The man |took| the sacks |off| the donkey."
-            },
-            {
-              "sentence": "Лӏым ощышъхьэр ощым |шӏуихыгъ|",
-              "translation": "The man |took| the head of the axe |off|."
-            },
-            {
-              "sentence": "Чатэкӏэ цӏыфым ышъхьэ |шӏосхыгъ|",
-              "translation": "|I took off| the person\u0027s head with a sword."
-            },
-            {
-              "sentence": "Шъхьэпылъапӏэкӏэ цӏыфыхэмэ ашъхьэхэр |шӏуахых|",
-              "translation": "On the gallows, |they take| people\u0027s heads |off|."
-            }
-          ],
-          "meaning": "to take off something from"
+          "meaning": "wounded"
         }
       ]
     }
@@ -85941,91 +76517,6 @@ const circassianDict = {
       ]
     }
   ],
-  "иӏ": [
-    {
-      "etymology": "From и- (inside preposition prefix) + ӏэбэн (to reach out)",
-      "ipa": "jəʔaban",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "иӏэбэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Уиӏэбэныр| гъуанэ горэм уӏэхъуамбэ е зыгорэ ибгъэхьаныр",
-              "translation": "|Poking inside| is puting your finger or something inside some hole."
-            },
-            {
-              "sentence": "Упэгъуанэ |уиӏэбэжьыныр| дахэп",
-              "translation": "It is not appropriate |to poke inside| your nostril."
-            },
-            {
-              "sentence": "Гъуанэм |уиӏэбэн|",
-              "translation": "|To poke inside| a hole."
-            },
-            {
-              "sentence": "Докторыр счый |къиӏэбагъ|",
-              "translation": "The doctor |poked inside| my throat."
-            },
-            {
-              "sentence": "Гъуанэм |сеӏэбэм| цыгъо исыр къысэцэкъагъ",
-              "translation": "|When I poked inside| the hole, the mouse inside bited me."
-            }
-          ],
-          "meaning": "to poke inside; to put hands inside something"
-        }
-      ]
-    },
-    {
-      "ipa": "jəʔan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "иӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм ахъщэ макӏ |иӏэр|",
-              "translation": "The boy |has| few money."
-            },
-            {
-              "sentence": "Кӏалэм ахъщэу |иӏэр| ахъщэ макӏ",
-              "translation": "The money the boy |has| is few money."
-            },
-            {
-              "sentence": "ӏинтернет |уиӏа|?",
-              "translation": "Do you |have| internet?"
-            },
-            {
-              "sentence": "Уатэ |шъуиӏа|?",
-              "translation": "Do you |have| a hammer?"
-            },
-            {
-              "sentence": "Сабыйхэр |уиӏэха?|",
-              "translation": "Do you |have| children?"
-            },
-            {
-              "sentence": "|Сиӏ| унэ дахэ",
-              "translation": "|I have| a beautiful house."
-            },
-            {
-              "sentence": "|Сиӏэп| колэ",
-              "translation": "|I don\u0027t have| Coke."
-            },
-            {
-              "sentence": "Кӏалэм ныбджэгъу |иӏэпышъ|, езэщы",
-              "translation": "Because the boy |has no| friends, he is bored."
-            },
-            {
-              "sentence": "Бзыур тамэ |ымыӏэу| быбышъущтэп",
-              "translation": "A bird cannot fly |without having| a wing."
-            }
-          ],
-          "meaning": "to have"
-        }
-      ]
-    }
-  ],
   "иб": [
     {
       "etymology": "From и- (inside preposition prefix) + быбын (to fly) + -хь (toward movement suffix)",
@@ -86678,7 +77169,7 @@ const circassianDict = {
           "examples": [
             {
               "sentence": "|Щхыншӏэщым| шхын щысышӏыгъ",
-              "translation": "I made foood in |the kitchen|"
+              "translation": "I made food in |the kitchen|"
             },
             {
               "sentence": "|Щхыншӏэщым| сыщэпщэрыхьы",
@@ -96575,6 +87066,15 @@ const circassianDict = {
             }
           ],
           "meaning": "to put away something to another place/spot (usually to move a small distance away to make space)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым ӏофэу телъыхэр |щегъэзыех|",
+              "translation": "The man |neglects| the tasks that are on him."
+            }
+          ],
+          "meaning": "to neglect"
         }
       ]
     },
@@ -97494,6 +87994,27 @@ const circassianDict = {
       "type": "verb",
       "word": "щытын",
       "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым игущыӏакӏэ ӏэшӏэхэу къыбгурыӏонэу |щыт|",
+              "translation": "The way the man speaks |is| easy to understand."
+            },
+            {
+              "sentence": "Лэжьэныр къинэу |щыт|",
+              "translation": "Working |is| hard."
+            },
+            {
+              "sentence": "Дахэу |ущытын| фай",
+              "translation": "You must |be| organized."
+            },
+            {
+              "sentence": "Улажьэу |ущытын| фай",
+              "translation": "You must |be| working."
+            }
+          ],
+          "meaning": "to be"
+        },
         {
           "examples": [],
           "meaning": "to stand"
@@ -98981,3709 +89502,1197 @@ const circassianDict = {
       ]
     }
   ],
-  "кӏ": [
+  "еӏ": [
     {
-      "ipa": "t͡ʃʼaːlat͡sʼəkʷʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэлэцӏыкӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏэлэцӏыкӏур| джэгуалъэм реджэгу",
-              "translation": "|The little boy| is playing with the toy."
-            },
-            {
-              "sentence": "|Кӏэлэцӏыкӏумэ| зачъэхьажьы",
-              "translation": "|The little boys| are running around."
-            },
-            {
-              "sentence": "|Кӏэлэцӏыкӏухэр| ощэха паркым?",
-              "translation": "Are you taking |the little kids| to the park?"
-            },
-            {
-              "sentence": "|Кӏэлэцӏыкӏум| осылӏ осым хешӏыхьэ",
-              "translation": "|The boy| makes a snowman in the snow."
-            },
-            {
-              "sentence": "|Кӏэлэцӏыкӏум| сымаджэу зешӏы еджапӏэм амыгъэкӏон пае",
-              "translation": "|The little boy| pretends to be sick, so he won't be sent to school."
-            }
-          ],
-          "meaning": "little kid; young boy; little boy"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼapt͡s",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэпц",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "thigh"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэ (tail); кӏэ (new)",
-      "kabardian": "щӏэ (new); кӏэ (tail)",
-      "etymology": "From Proto-Circassian кӏьэ [kʲʼa] \"tail\" and from the Proto-Circassian кӏэ [t͡ʃʼa] \"new\".",
-      "ipa": "t͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Хьэм |ыкӏэ| утемыпкӏ",
-              "translation": "Don\u0027t jump on the dog\u0027s |tail|."
-            },
-            {
-              "sentence": "Хьэм |ыкӏэ| егъэсысы",
-              "translation": "The dog shakes its |tail|."
-            },
-            {
-              "sentence": "Цӏыфым |кӏэ| иӏэп",
-              "translation": "A human has no |tail|."
-            },
-            {
-              "sentence": "Чэтыум |ыкӏэ| утеуцомэ къыопӏэстхъыщт",
-              "translation": "If you step on the cat\u0027s |tail| it will scratch you."
-            }
-          ],
-          "meaning": "tail"
-        },
-        {
-          "examples": [],
-          "meaning": "tip"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Ятӏэм |кӏэхэр| халъхьэх",
-              "translation": "Put |the seeds| inside the dirt."
-            }
-          ],
-          "meaning": "seed"
-        },
-        {
-          "examples": [],
-          "meaning": "(Kfar Kama dialect) (vulgar slang) dick (penis)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏэла|кӏэ|",
-              "translation": "A |new| boy."
-            },
-            {
-              "sentence": "ӏана|кӏэр| къэхь",
-              "translation": "Bring the |new| table."
-            },
-            {
-              "sentence": "Уна|кӏэ| сыщэфыгъ",
-              "translation": "I bought a |new| house."
-            },
-            {
-              "sentence": "Ку |кӏэ| сиӏ",
-              "translation": "I have a |new| car."
-            },
-            {
-              "sentence": "Сику жъы асти |кӏэ| къаӏысхыгъ",
-              "translation": "I gave them my old car and took a |new| one."
-            }
-          ],
-          "meaning": "new"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьакӏьэ",
-      "kabardian": "джэдыкӏэ",
-      "ipa": "t͡ʃʼant͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэнкӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чэтым |кӏэнкӏэ| къекӏэцӏы",
-              "translation": "The chicken lays |egg|."
-            },
-            {
-              "sentence": "Куджаным |кӏэнкӏэ| егъажъэ",
-              "translation": "Kujan is boiling |an egg|."
-            },
-            {
-              "sentence": "Лыр |кӏэнкӏэм| хэсэгъао",
-              "translation": "I am dipping the meat in |the egg|."
-            },
-            {
-              "sentence": "|Кӏэнкӏэ| цӏыкӏужъый",
-              "translation": "A tiny |egg|."
-            },
-            {
-              "sentence": "Чэтыр |кӏэнкӏэхэмэ| атес",
-              "translation": "The chicken is sitting on |the eggs|."
-            },
-            {
-              "sentence": "Кӏалэм жъапхъэкӏэ |кӏэнкӏэ| ыгъэжъагъ",
-              "translation": "The boy cooked |egg| with a pan."
-            }
-          ],
-          "meaning": "egg"
-        },
-        {
-          "examples": [],
-          "meaning": "(informal) testicle"
-        }
-      ]
-    },
-    {
-      "etymology": "From кӏэрэхъо (gun) + щэ (bullet)",
-      "ipa": "t͡ʃʼaraχʷaːɕa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэрэхъуащэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "bullet of a gun"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼapχ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэпхъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "squirrel"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaxat͡ʃʼən",
+      "ipa": "jaʔʷən",
       "lang": "Adyghe",
       "type": "verb",
-      "word": "кӏэхэкӏын",
+      "word": "еӏун",
       "definitions": [
         {
-          "examples": [],
-          "meaning": "to experience; to experience or be subjected to (something, typically something unpleasant, painful, or arduous)"
+          "examples": [
+            {
+              "sentence": "Мы кӏалэм ыӏорэр |сэӏу|",
+              "translation": "|I hear| what this boy is saying."
+            },
+            {
+              "sentence": "Къэпӏорэр |тэӏурэп|",
+              "translation": "|We don\u0027t hear| what you are saying."
+            },
+            {
+              "sentence": "Къэсӏорэр |оӏурэба?|",
+              "translation": "|Don\u0027t you hear| what I am saying?"
+            },
+            {
+              "sentence": "Лӏыжъым имакъэ |шъоӏумэ| шъуӏухъушъут",
+              "translation": "|If you hear| the old-man\u0027s voice run away."
+            },
+            {
+              "sentence": "Къэсӏорэр кӏалэхэмэ |аӏу| дэгъоу",
+              "translation": "The boys |hear| good what I am saying."
+            },
+            {
+              "sentence": "Мэзымкӏэ цӏыфымэ уимакъэ |аӏущтэп|",
+              "translation": "In the forest people |will not hear| your voice."
+            },
+            {
+              "sentence": "Кӏалэм ышы |регъэӏу| музикэ",
+              "translation": "The boy |make| his brother |hear| music."
+            },
+            {
+              "sentence": "Уимакъэ |сэмыгъэӏу|",
+              "translation": "|Don\u0027t make me hear| your voice."
+            },
+            {
+              "sentence": "Уиныбджэгъумэ уиорэд |агъэӏу|",
+              "translation": "|Make| your friends |hear| your song."
+            },
+            {
+              "sentence": "Снэмэ ерагъэу алъэгъу, стхьакӏумэмэ ерагъэу |аӏу|",
+              "translation": "My eyes hardly see, my ears hadly |hear|."
+            }
+          ],
+          "meaning": "to hear"
         }
       ]
     },
     {
-      "ipa": "kʷʼan",
+      "ipa": "jaʔʷatan",
       "lang": "Adyghe",
       "type": "verb",
-      "word": "кӏон",
+      "word": "еӏотэн",
       "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр Америкэм |макӏо|",
-              "translation": "The boy |is going| to America."
-            },
-            {
-              "sentence": "Лӏыр тучаным |кӏуагъэ|",
-              "translation": "The man |went| to the shop."
-            },
-            {
-              "sentence": "Тыдэ |укӏуагъ|?",
-              "translation": "Where did |you go|?"
-            },
-            {
-              "sentence": "Университетым |сыкӏощт| седжэнэу",
-              "translation": "|I will go to| the university to study."
-            },
-            {
-              "sentence": "Непэ ӏофым |укӏуагъа|?",
-              "translation": "|Did you go to| work today?"
-            },
-            {
-              "sentence": "Еджапӏэм непэ |сыкӏуагъэпи|, зырагъэджагъэхэр сышӏэрэп",
-              "translation": "|Because I did not go to| school today, I don\u0027t know what they taught."
-            },
-            {
-              "sentence": "Къалэм |сыкӏогъагъ| сыкъэщэфэнэу",
-              "translation": "|I had gone to| the city for shopping."
-            },
-            {
-              "sentence": "Аужым чэщдэсым |сыкӏожьыгъагъэп|, сыпшъыгъэщагъ",
-              "translation": "In the end |I have not went to| the party, I was too tired."
-            },
-            {
-              "sentence": "Мафэ къэсы ӏофым |сэкӏо| пчэдыжьым",
-              "translation": "|I go to| work every day in the morning."
-            },
-            {
-              "sentence": "Европа |сыкӏонэу| сыфай",
-              "translation": "|I want to go| to Europa."
-            },
-            {
-              "sentence": "Чэщдэсым некӏо |тызэдэкӏощт|",
-              "translation": "Let\u0027s |go together| to the party."
-            },
-            {
-              "sentence": "Сшынахьыжъ еджапӏэм |кӏуагъэпышъ|, сэри |сыкӏонэу| сыфаеп",
-              "translation": "|Because| my older brother |did not went| to schoo, I also don\u0027t want |to go|."
-            },
-            {
-              "sentence": "Пасэу сычъыежьын фай неущы ӏофым пасэу |сыкӏощтышъ|",
-              "translation": "I need to sleep early |because I go| early |to| work tomorrow."
-            },
-            {
-              "sentence": "Сянэ пасэу сыкъигъэтэджыгъ еджапӏэм |сыкӏон| фаети",
-              "translation": "My mom made me get out of bed early because |I| need |to go| to school."
-            }
-          ],
-          "meaning": "to go"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |макӏо|",
-              "translation": "The boy |walks|."
-            },
-            {
-              "sentence": "Кӏалэр уиунэ |макӏо|",
-              "translation": "The boy |is walking| to your house."
-            },
-            {
-              "sentence": "Лӏыжъыр |кӏошъурэпи|, пӏэм къыхэкӏырэп",
-              "translation": "|Because| the old man |can\u0027t walk|, he does not get off the bed."
-            },
-            {
-              "sentence": "Сэ бэрэ |сэкӏо|",
-              "translation": "|I walk| a lot."
-            },
-            {
-              "sentence": "Лъакӏокӏэ мазэм |ушӏошъущтэп|",
-              "translation": "|You cannot walk to| the moon."
-            }
-          ],
-          "meaning": "to walk"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏалэ",
-      "ipa": "t͡ʃʼaːla",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏалэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏалэр| макӏо",
-              "translation": "|The boy| is going."
-            },
-            {
-              "sentence": "|Кӏалэм| зегъасэ",
-              "translation": "The |boy| is doing exercise."
-            }
-          ],
-          "meaning": "boy"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏалэхэр| мэлажьэх",
-              "translation": "|The young men| are working."
-            },
-            {
-              "sentence": "|Кӏалэм| мэлыхэр егъэхъух",
-              "translation": "|The young man| is herding the sheeps."
-            },
-            {
-              "sentence": "|Кӏэлэ| ныбжьыкӏэхэр къалэхэмэ адэтӏысхьажьых",
-              "translation": "The young |men| are settling in the cities."
-            }
-          ],
-          "meaning": "young man"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|Уикӏалэ| къищэщт",
-              "translation": "|Your son| is going to marry her."
-            },
-            {
-              "sentence": "Ахэмэ |акӏалэ| сыдеджэ",
-              "translation": "I am studying with |their son|."
-            }
-          ],
-          "meaning": "son"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэрахъо",
-      "kabardian": "кӏэрахъуэ",
-      "ipa": "t͡ʃʼaraːχʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэрахъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым |икӏэрахъохэр| кӏэрэхъуалъэм |илъых|",
-              "translation": "The man\u0027s |guns| are in the holster."
-            },
-            {
-              "sentence": "|Кӏэрэхъо| фэшъхьаф къахь",
-              "translation": "Bring a different |gun|."
-            },
-            {
-              "sentence": "Шакӏом |кӏэрахъор| тхьакӏумкӏыхьэм фигъэзагъ",
-              "translation": "The hunter pointed |the gun| toward the rabbit."
-            },
-            {
-              "sentence": "Дзэкӏолӏым |икӏэрахъо| ыузэндыгъ",
-              "translation": "The soldier loaded |his gun|."
-            },
-            {
-              "sentence": "Лӏым |кӏэрахъокӏэ| къеохи пылӏыкӏыгъ",
-              "translation": "They shot the man |with a gun| and he died from bleeding."
-            },
-            {
-              "sentence": "|Кӏэрахъом| щэ дэлъа?",
-              "translation": "Is there a bullet in |the gun|?"
-            }
-          ],
-          "meaning": "gun"
-        },
         {
           "examples": [],
-          "meaning": "rifle; alternative form of \"шхонч\""
-        },
-        {
-          "examples": [],
-          "meaning": "fire arm"
+          "meaning": "alternative form of \"риӏотэн\""
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼaɕən",
+      "ipa": "jaʔʷan",
       "lang": "Adyghe",
       "type": "verb",
-      "word": "кӏэщын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Псынэм| кӏуи псы къыкӏэщ",
-              "translation": "Go to |the well| and extract water from it."
-            },
-            {
-              "sentence": "Чэмым щэ |къыкӏэщын|",
-              "translation": "|To extract| milk from a cow."
-            },
-            {
-              "sentence": "Кӏалэм щэ пчэным |къыкӏещы|",
-              "translation": "The boy |is extracting| milk from the goat."
-            },
-            {
-              "sentence": "Кӏалэм псы хъэдэн цӏынэм |къыкӏещы|",
-              "translation": "The boy |is squeezing| water out of the wet rag."
-            }
-          ],
-          "meaning": "to squeeze from, to extract from, to emulsify from"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏэдэӏукӏьын",
-      "etymology": "From кӏэ- (under preposition prefix) + ӏун (to hear) + -кӏы (away movement suffix)",
-      "ipa": "t͡ʃʼadaʔʷət͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэдэӏукӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сянэрэ сятэрэ къаӏотагъэм шъэфэу |сыкӏэдэӏукӏыгъ|",
-              "translation": "|I listened| to what my mother and father said quietly"
-            },
-            {
-              "sentence": "Кӏалэр тикъэбар |кӏэдэӏукӏыгъ|",
-              "translation": "The boy |listened| to our conversation."
-            }
-          ],
-          "meaning": "to listen to someone very carefully (note: can also be used for listening to someone unnoticeably or secretly)"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьапсэ",
-      "ipa": "t͡ʃʼaːpsa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏапсэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏапсэр| кӏыхьэ",
-              "translation": "|The rope| is long."
-            },
-            {
-              "sentence": "|Кӏапсэр| къедзых",
-              "translation": "Throw |the rope| down."
-            },
-            {
-              "sentence": "|Кӏапсэр| гъэлэнлэн",
-              "translation": "To loosen |the rope|."
-            },
-            {
-              "sentence": "|Кӏапсэ| пхыкӏэ зэсэгъашӏэ",
-              "translation": "I am learning how to tie |a rope|."
-            },
-            {
-              "sentence": "|Кӏапсэкӏэ| хьэр пкъэум есыпхыгъ",
-              "translation": "I tied the dog to the column |with a rope|."
-            },
-            {
-              "sentence": "|Кӏапсэкӏэ| къушъхьэм лӏыр дэкӏоягъ",
-              "translation": "The man climbed up the mountain |with a rope|."
-            },
-            {
-              "sentence": "Дзэкӏолӏым пыир |кӏапсэкӏэ| зэкӏоцӏипхагъ",
-              "translation": "The soldier tied up the enemy |with a rope|."
-            }
-          ],
-          "meaning": "rope"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼapxən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэпхын",
+      "word": "еӏон",
       "definitions": [
         {
           "examples": [],
-          "meaning": "skirt"
+          "meaning": "alternative form of \"риӏон\""
+        }
+      ]
+    },
+    {
+      "ipa": "jaʔazan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "еӏэзэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мы ӏофым |сеӏэзэщт| сэ",
+              "translation": "|I will deal with| this work."
+            },
+            {
+              "sentence": "ӏофым |сеӏэзэшъущтэп|",
+              "translation": "|I cannot handle| the work."
+            }
+          ],
+          "meaning": "to handle something; to deal with; to manage something"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Докторыр цӏыфыхэмэ |яӏазэ|",
+              "translation": "The doctor helps people medically."
+            },
+            {
+              "sentence": "Докторыр сэ |къысэӏазэ|",
+              "translation": "The doctor helps me medically."
+            },
+            {
+              "sentence": "Зыгорэ къызэбгъэплъи |къызэбгъэӏэзагъа|?",
+              "translation": "Did you let anybody look at you and |treat you|?"
+            },
+            {
+              "sentence": "Медикыр ӏашэнчъэу заом хахьэ цӏыфымэ |аӏэзэнэу|",
+              "translation": "The medic enters the war armless |to treat| people."
+            }
+          ],
+          "meaning": "to treat someone medically; to help someone medically"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏущэщэн",
+      "ipa": "ʔʷəʂaʂan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "еӏушъэшъэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр пшъашъэм |еӏушъашъэ|",
+              "translation": "The boy |whispers to| the girl."
+            },
+            {
+              "sentence": "Пшъашъэр стхьакӏумэ |еӏушъашъэ|",
+              "translation": "The girl |whispers to| my ear."
+            },
+            {
+              "sentence": "Кӏалэр |къысэӏушъашъэ|",
+              "translation": "The boy |whispers to me|."
+            }
+          ],
+          "meaning": "to whisper to"
+        }
+      ]
+    },
+    {
+      "ipa": "jaʔʷaɬʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "еӏолӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым дэеу ышӏагъэхэм дэгъоп |есӏолӏэнэу| сиӏэр",
+              "translation": "I don\u0027t have something good |to say concerning| the bad things the man did."
+            },
+            {
+              "sentence": "Лӏыжъым гущыӏэ шӏух ныӏэп |раӏуалӏэхэрэр|",
+              "translation": "Only good words |are said about| the old man."
+            },
+            {
+              "sentence": "Сянэ шӏухэр |раӏуалӏэх|",
+              "translation": "|They say| good things |about| my mother."
+            },
+            {
+              "sentence": "Сыд филымым |епӏуалӏэрэр|?",
+              "translation": "What |you say about| the film?"
+            },
+            {
+              "sentence": "Сыд филымым |епӏолӏэнэу| уиӏэр?",
+              "translation": "What do you have |to say about| the film?"
+            },
+            {
+              "sentence": "Лӏыжъым ӏаехэр |къысиӏолӏагъэх|",
+              "translation": "The old-man |said about me| awful things."
+            }
+          ],
+          "meaning": "to say something about someone or something; to say something concerning; to say something according to; to say something correspondingly to"
+        }
+      ]
+    },
+    {
+      "shapsug": "егукӏэн",
+      "synonyms": [
+        "етӏыргун"
+      ],
+      "ipa": "ʔʷənt͡ʃʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "еӏункӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |мэӏункӏэ|",
+              "translation": "The boy |pushes|."
+            },
+            {
+              "sentence": "Кӏалэр |еӏункӏэ| ӏанэм",
+              "translation": "The boy |pushes| the table."
+            },
+            {
+              "sentence": "Пкъэум |къэсдеӏункӏ|",
+              "translation": "|Push| the log |together with me|."
+            },
+            {
+              "sentence": "Кӏалэр Налбыим |еӏункӏыгъ|",
+              "translation": "The boy |pushed| Nalby."
+            },
+            {
+              "sentence": "|Сегъэӏункӏ|",
+              "translation": "|Let me push|."
+            },
+            {
+              "sentence": "Кӏалэм |сыригъэӏункӏэрэп|",
+              "translation": "The boy |doesn\u0027t let me push|."
+            }
+          ],
+          "meaning": "to push one another"
         }
       ]
     },
     {
       "synonyms": [
-        "кӏьэй",
-        "лъэгу"
+        "гукӏэн",
+        "ӏункӏэн",
+        "тӏыргун"
       ],
-      "ipa": "t͡ʃʼaj",
+      "ipa": "jaʔʷənt͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "еӏункӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏункӏэн\""
+        }
+      ]
+    },
+    {
+      "ipa": "jaʔan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "еӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to touch"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыр кум |еӏэн| еӏо",
+              "translation": "The man is trying |to push| the cart."
+            }
+          ],
+          "meaning": "to push with might"
+        }
+      ]
+    },
+    {
+      "ipa": "jaʔʷat͡ʃʼ",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "кӏэй",
+      "word": "еӏокӏ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "hint"
+        }
+      ]
+    },
+    {
+      "ipa": "jaʔʷat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "еӏокӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to insinuate; to hint"
+        }
+      ]
+    }
+  ],
+  "ӏа": [
+    {
+      "etymology": "From ӏэ (hand) + пэ (nose)",
+      "ipa": "ʔaːpa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏапэ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "|Кӏэим| сехыщт",
-              "translation": "I will go down |to the vale|."
-            },
-            {
-              "sentence": "|Кӏэим| дэсхэр",
-              "translation": "the people that are settling |in the vale|."
-            },
-            {
-              "sentence": "|Кӏэим| тыдэт",
-              "translation": "We are in |the vale|."
+              "sentence": "Бжьахъом |ыӏапэ| шъоур пэтӏэтӏы",
+              "translation": "The honey is drizziling from |the hand| of the bee-keeper."
             }
           ],
-          "meaning": "vale, dale"
-        },
-        {
-          "examples": [],
-          "meaning": "valley"
-        },
-        {
-          "examples": [],
-          "meaning": "lowland"
+          "meaning": "hand (more specifically: upper surface of the hand)"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼaːx",
+      "ipa": "ʔaːʃa",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "кӏах",
+      "word": "ӏашэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пыйхэр къакӏох |ӏашэхэр| аӏыгъэхэу",
+              "translation": "The foes are coming holding |weapons|."
+            },
+            {
+              "sentence": "Дзэкӏолӏ сэлъэгъу |ӏашэ| ыӏыгъэу",
+              "translation": "I see a soldier holding |a weapon|."
+            },
+            {
+              "sentence": "Шъугущыӏэнэу шъукъэкӏуагъэмэ |шъуиӏашэр| чӏыгум тежъудзэх",
+              "translation": "If you guys came to talk throw |your arms| onto the ground."
+            },
+            {
+              "sentence": "Пацифистыр заом хэхьагъ |ӏашэнчъэу|",
+              "translation": "The pacifist entered the war |armlessly|"
+            }
+          ],
+          "meaning": "weapon, arms"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːɬən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏалъын",
       "definitions": [
         {
           "examples": [],
-          "meaning": "lower, down (from a higher to a lower position, downwards)"
+          "meaning": "alternative form of \"ӏэлъын\""
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼaħə",
+      "ipa": "ʔapʂaχʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏапшъэхъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэпшъэхъу\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapʂaχʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏащэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сянэ |ӏащэ|, ыӏыгъэ зэкӏэр къыӏэпэзы",
+              "translation": "My mother is |clumsy|, she drops everything she holds."
+            }
+          ],
+          "meaning": "clumsy"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːda",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏадэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ӏадэмкӏэ| лыр къештэ",
+              "translation": "The boy is lifting the meat |with the tongs|."
+            },
+            {
+              "sentence": "Кӏалэм ӏадэр ышти, машӏом хэӏэбагъ",
+              "translation": "The boy lifted the |tongs| and reached into the fire [with it]."
+            }
+          ],
+          "meaning": "tongs (An instrument or tool used for manipulating things in a fire without touching them with the hands)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ӏадэмкӏэ| гъучӏыӏунэр къыхитхъыгъ",
+              "translation": "The boy took out the nail |with the pliers|."
+            }
+          ],
+          "meaning": "pliers"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "фэӏаз"
+      ],
+      "ipa": "ʔaːza",
       "lang": "Adyghe",
       "type": "adj",
-      "word": "кӏэхьы",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏыхьэ\""
-        }
-      ]
-    },
-    {
-      "kabardian": "кӏапсэрыкӏо",
-      "ipa": "t͡ʃʼaːpsarəkʷʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏапсэрыкӏо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏэпсэрыкӏо\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "кӏэпсэрышъу"
-      ],
-      "ipa": "t͡ʃʼapsarəkʷʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэпсэрыкӏо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "ropewalker; rope-walker; tightrope walker, funambulist"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "кӏэпсэрыкӏо"
-      ],
-      "ipa": "t͡ʃʼapsarəʃʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэпсэрышъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "rope-walker"
-        }
-      ]
-    },
-    {
-      "ipa": "bʒaːma",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэпсэжъый",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "packthread"
-        },
-        {
-          "examples": [],
-          "meaning": "small rope"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʁʷətħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэгъутхьан",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to wet (to accidentally/uncontrollably urinate)"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏымахуэ",
-      "ipa": "t͡ʃʼəmaːfa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏымафэ",
+      "word": "ӏазэ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "|Кӏымафэм| къэучъыӏы",
-              "translation": "|In winter| it becomes cold."
+              "sentence": "Кӏалэр джэгухэмкӏэ |ӏазэ|",
+              "translation": "The boy |is skilled| with games."
             },
             {
-              "sentence": "|Кӏымафэм| чъыгыхэр пцӏанэх",
-              "translation": "|In winter| the trees are naked."
+              "sentence": "Кӏалэр джэгухэмкӏэ |ӏазэу| джэгугъ",
+              "translation": "The boy played the game |skillfully| with games."
             },
             {
-              "sentence": "|Кӏымафэм| Туркуям тыкӏощт",
-              "translation": "|In winter| we will go to Turkey."
-            },
-            {
-              "sentence": "Унэр |кӏымафэм| фэдгъэхьазырын фай",
-              "translation": "We need to prepare the house for |winter|."
-            },
-            {
-              "sentence": "Гъопэкӏыхьэр гъэмафэм фэшӏ, гъопэкӏако |кӏымафэм| фэшӏ",
-              "translation": "long-sleeved shirt is for the summer and short-sleeved shirt is for |winter|."
-            },
-            {
-              "sentence": "Зыфэдгъэхьазырын фай |кӏымафэм|",
-              "translation": "We need to prepare ourselves for |winter|."
+              "sentence": "Лӏым унэхэр |ӏазэу| ешӏых",
+              "translation": "The man is building houses |skillfully|."
             }
           ],
-          "meaning": "winter"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼala",
-      "lang": "Adyghe",
-      "type": "intj",
-      "word": "кӏэлэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏэлэ!|, сэры къыпдэӏэпыӏагъэ",
-              "translation": "|Oi!| I was the one that was helping you."
-            },
-            {
-              "sentence": "|Кӏэлэ!|, экзамыным бэ къисхыгъ",
-              "translation": "|Oi!| I got high [grade] on the exam."
-            },
-            {
-              "sentence": "|Кӏэлэ!|, джы сыд ушӏэжьыщтыр",
-              "translation": "|Oh man!|, now what are you gonna do?"
-            },
-            {
-              "sentence": "|Кӏэлэ!|, кӏалэр укӏыкӏаеу уукӏыщт",
-              "translation": "|Oh man!|, the boy is going to kill you [brutally]."
-            }
-          ],
-          "meaning": "oi; oh man; said to get someone\u0027s attention to point something angrily, sarcastically or excitingly"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼarəpt͡ʃʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэрыпкӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to stick all over (with), to paste all over (with); to cover (with), to plaster (with)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "къарыу"
-      ],
-      "ipa": "kʷʼaːt͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏуачӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |кӏуачӏэ|, онтэгъухэр къештэшъу",
-              "translation": "The boy |is strong|, he can lift heavy stuff."
-            },
-            {
-              "sentence": "Онтэгъухэр къэбыштэхэу нахь |кӏуачӏэу| ухъущт",
-              "translation": "By lifting heavy stuff you will become |stronger|."
-            },
-            {
-              "sentence": "Шъуащыщэу хэт анахь |кӏуачӏэр|?",
-              "translation": "Among you who is the |strongest|?"
-            },
-            {
-              "sentence": "Кӏалэр |кӏуачӏэти| ӏофыр псынкӏэу ешӏэ",
-              "translation": "|Because| the boy |is strong, he does the work fast."
-            }
-          ],
-          "meaning": "strong"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэгъуэжын",
-      "ipa": "t͡ʃaʁʷaʑən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэгъожьын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |кӏэгъожьы|",
-              "translation": "The boy |is regretting|."
-            },
-            {
-              "sentence": "|Сыкӏэгъожьы| ахъщэ зэрэисылъхьагъэр",
-              "translation": "|I am regretting| I betted with money."
-            },
-            {
-              "sentence": "|Сыкӏэгъожьы| икъунэу зэрэсемыджагъэр",
-              "translation": "|I am regretting| I did not study enough."
-            },
-            {
-              "sentence": "|Укӏэмыгъожь| гъогоу уздэкӏуагъэмкӏэ",
-              "translation": "|Don\u0027t regret| the path you went with."
-            }
-          ],
-          "meaning": "to regret"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏэтыгъукӏьын",
-      "ipa": "t͡ʃʼatəʁʷət͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэтыгъукӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр тучаным |кӏэтыгъукӏэу| къаубытыгъ",
-              "translation": "The boy was caught |stealing from| the shop."
-            }
-          ],
-          "meaning": "to steal something from a shop"
-        },
-        {
-          "examples": [],
-          "meaning": "to steal something from under something"
-        }
-      ]
-    },
-    {
-      "ipa": "bad͡zaʁaːɬʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэмгуябз",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "stereotypical Chemgui"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "кӏэдэн"
-      ],
-      "ipa": "t͡ʃʼabzan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэбзэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to sew a sole on, to sole (a shoe)"
-        },
-        {
-          "examples": [],
-          "meaning": "to sew from below"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "кӏэбзэн"
-      ],
-      "ipa": "t͡ʃʼadan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэдэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чэмышъор цуакъэм |кӏадэ|",
-              "translation": "Cowskin is |sole| under a shoe."
-            }
-          ],
-          "meaning": "to sew a sole on, to sole (a shoe)"
-        },
-        {
-          "examples": [],
-          "meaning": "to sew from below"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaːbz",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏабз",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "backing (material added behind or underneath)"
-        },
-        {
-          "examples": [],
-          "meaning": "lining, cushion"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʔʷəɬʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэӏулӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to resole (shoes)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "кӏэлъыон"
-      ],
-      "ipa": "t͡ʃʼaɬəwən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэлъыун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏэлъыон\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaɕaːkʷʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэщакӏо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "leading singer (e.g. in a choir)"
-        },
-        {
-          "examples": [],
-          "meaning": "organizer, mastermind"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəʂʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏышъо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "skin"
-        },
-        {
-          "examples": [],
-          "meaning": "crust (of Earth)"
-        },
-        {
-          "examples": [],
-          "meaning": "bark (of trees)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "(Shapsug) ныпсӏэ"
-      ],
-      "ipa": "t͡ʃatʼaj",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэтӏэй",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "intestine"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏэлэегъагь",
-      "synonyms": [
-        "егъэджакӏо"
-      ],
-      "ipa": "t͡ʃʼaɮaʁaːd͡ʒ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэлэегъадж",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Мыр Адыгабзэм |икӏэлэегъадж|",
-              "translation": "(S)he is |the teacher| of Circassian language."
-            },
-            {
-              "sentence": "|Кӏэлэегъаджэм| студентыхэр регъаджэх",
-              "translation": "The |teacher| teaches the students."
-            },
-            {
-              "sentence": "|Кӏэлэегъаджэм| псынкӏащэу етхи егъэушӏои, иуахътэкӏэ тесытхыкӏышъурэп",
-              "translation": "|The teacher| writes and erases too fast, I cannot copy him in time."
-            }
-          ],
-          "meaning": "teacher"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʁanaːɬa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэгъэналъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏэгъэналъэкӏэ| тутыным машӏо пыгъэнэн",
-              "translation": "To lit the cigarette |with a lighter|."
-            },
-            {
-              "sentence": "|Кӏэгъэналъэ| шъуӏыгъа?",
-              "translation": "Do you have |a lighter|?"
-            }
-          ],
-          "meaning": "lighter"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼanan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэнэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to get ignited; alternative form of \"машӏо кӏэнэн\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʁanan",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэгъэнэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кур |зэкӏэгъан|",
-              "translation": "|Turn on| the car."
-            }
-          ],
-          "meaning": "to turn on"
-        },
-        {
-          "examples": [],
-          "meaning": "to ignite; alternative form of \"машӏо кӏэгъэнэн\""
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэхьы",
-      "kabardian": "кӏыхь",
-      "ipa": "t͡ʃʼəħa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏыхьэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Гъогу |кӏыхьэ|",
-              "translation": "|Long| path."
-            },
-            {
-              "sentence": "кӏалэм ышъхьэцы |кӏыхьэ|",
-              "translation": "The boy\u0027s hair |is long|."
-            },
-            {
-              "sentence": "уижакӏэ |кӏыхьэу| хъугъэ",
-              "translation": "Your beard became |long|."
-            },
-            {
-              "sentence": "пхъэр |кӏыхьэ|",
-              "translation": "The wood |is long|."
-            },
-            {
-              "sentence": "Удэбзыкъухэр |кӏыхьэу| хъугъэх",
-              "translation": "Your sideburns became |long|."
-            },
-            {
-              "sentence": "Кӏалэм  ыцӏэ |кӏыхьэ|",
-              "translation": "The boy\u0027s name is |long|."
-            }
-          ],
-          "meaning": "long"
+          "meaning": "skilled; skillful"
         },
         {
           "examples": [
             {
-              "sentence": "лӏыр |кӏыхьэ|",
-              "translation": "The man |is tall|."
+              "sentence": "Ар бжьэхъо |ӏаз|, ау бжьэхъон ӏэнатӏэм фаеп",
+              "translation": "He is an beekeeper |expert|, but he does not want to be in a beekeeping job."
             }
           ],
-          "meaning": "tall"
+          "meaning": "expert"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼat͡ʃʼ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏэкӏ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Гъогу |кӏэкӏ|",
-              "translation": "|Short| path."
-            }
-          ],
-          "meaning": "short"
-        },
-        {
-          "examples": [],
-          "meaning": "a kind of women suit made of velvet or black dense silk"
-        },
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ӏабг\""
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьако (short); сако (jacket)",
-      "kabardian": "кӏагуэ (short); цакуэ (jacket)",
-      "ipa": "t͡ʃʼaːkʷa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏако",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏэлэ |кӏако|",
-              "translation": "|Short| boy."
-            },
-            {
-              "sentence": "Мы пхъэр |кӏэкуащэ|",
-              "translation": "This wood |is too short|."
-            },
-            {
-              "sentence": "Тӏэкӏу нахь |кӏакоу|, хъущтмэ",
-              "translation": "A bit |shorter|, please."
-            },
-            {
-              "sentence": "Сижакӏэ |кӏако|, уахътэ блэкӏымэ нахь кӏыхьэу хъущт",
-              "translation": "My beard |is short|, with time it will become long."
-            },
-            {
-              "sentence": "Кӏалэм ышъхьацы |кӏакоу| ышӏыгъ",
-              "translation": "The boy made his hair |short|."
-            }
-          ],
-          "meaning": "short"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Насыпкӏэ |кӏако| зыщыслъагъ, амырмэ чъыӏэ сылӏэщтыгъ",
-              "translation": "Luckily I wore |a coat|, otherwise I would be cold."
-            }
-          ],
-          "meaning": "jacket; coat"
-        }
-      ]
-    },
-    {
-      "ipa": "kʷʼat͡ʃʼaːʁa",
+      "ipa": "ʔaːɬmaq",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "кӏочӏагъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым |кӏочӏагъэ| бэ хэлъ",
-              "translation": "The man have a lot |strength|."
-            }
-          ],
-          "meaning": "strength"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaraχʷat͡sʼəkʷʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэрэхъоцӏыкӏу",
+      "word": "ӏалъмэкъ",
       "definitions": [
         {
           "examples": [],
-          "meaning": "handgun, pistol"
+          "meaning": "alternative form of \"ӏэлъмэкъ\""
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼaːnɬa",
+      "shapsug": "ӏэлгьанэ",
+      "ipa": "ʔald͡ʒaːana",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "кӏанлъэ",
+      "word": "ӏалджанэ",
       "definitions": [
         {
           "examples": [],
-          "meaning": "alternative form of \"кӏэнлъэ\""
+          "meaning": "alternative form of \"ӏэлджанэ\""
         }
       ]
     },
     {
-      "kabardian": "кӏуэдын",
-      "synonyms": [
-        "бзэхын"
-      ],
-      "ipa": "kʷʼadən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏодын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр уфае зыхъукӏэ |мэкӏоды|",
-              "translation": "The boy |disappears| when you need him."
-            },
-            {
-              "sentence": "Лӏыр |къэкӏодыгъэ|",
-              "translation": "The man |vanished|."
-            }
-          ],
-          "meaning": "to disappear; to vanish"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |кӏодыгъэ|, къагъотыжьырэп",
-              "translation": "The boy |is missing|, they can\u0027t find him"
-            },
-            {
-              "sentence": "Сисыхьат |кӏодыгъэ|",
-              "translation": "My watch |gone missing|."
-            }
-          ],
-          "meaning": "to go missing"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр мэзым |хэкӏодагъ|",
-              "translation": "The boy |got lost| in the forest."
-            },
-            {
-              "sentence": "Кӏэлэцӏыкӏум наӏэ тетымыгъэтымэ |къэтшӏокӏодыщт|",
-              "translation": "If we don\u0027t protest the little boy |he will get lost from us|."
-            },
-            {
-              "sentence": "Cи къэлэм дахэ |кӏодыгъэ|",
-              "translation": "My beautiful pencil |got lost|."
-            },
-            {
-              "sentence": "Кӏалэр |кӏодыгъэ|",
-              "translation": "The boy |is lost|."
-            }
-          ],
-          "meaning": "to get lost"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Щэр |кӏодыгъэ|",
-              "translation": "The milk |got spoiled|."
-            }
-          ],
-          "meaning": "to get spoiled (food)"
-        }
-      ]
-    },
-    {
-      "ipa": "dawan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэдэун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм тхылъыр къыратыжьынэу |кӏэдэуагъ|",
-              "translation": "The boy |demanded them| to return the book."
-            }
-          ],
-          "meaning": "to demand"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Акъо адэжь къэкӏожьыным янэ-ятэхэр кӏэдэущтыгъэх",
-              "translation": "The parents insisted that their son to come home."
-            }
-          ],
-          "meaning": "to insist; to persist; to press on"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэупщӏэн",
-      "ipa": "t͡ʃʼawpt͡ʃʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэупкӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏэупчӏэн\""
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэупщӏэн",
-      "ipa": "t͡ʃʼawpt͡ʂʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэупчӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|къыкӏэупчӏ| лӏыхэр псы фаехэмэ",
-              "translation": "|Ask| if the men want water."
-            },
-            {
-              "sentence": "кӏалэр |кӏаупчӏэ| тыдэ щыӏ мэшӏокур",
-              "translation": "The boy |asks around| where is the train."
-            },
-            {
-              "sentence": "|укъыкӏэмыупчӏ| тыдэ тэкӏо",
-              "translation": "|Don\u0027t ask| where we are going."
-            }
-          ],
-          "meaning": "to ask around"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼərəpɬən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏырыплъын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "кӏэлэцӏыкӏухэр янэ-ятэмэ |акӏырэплъых|",
-              "translation": "Children |take| their parents |as models| (to imitate)."
-            }
-          ],
-          "meaning": "to imitate, to take as a model, to take as an example"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏыб",
-      "ipa": "t͡ʃʼəb",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏыб",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Сыкӏыб| мэхъу",
-              "translation": "|My back| is aching."
-            },
-            {
-              "sentence": "Унэм |ыкӏыб| дэт кӏалэр",
-              "translation": "The boy |is behind| the house."
-            },
-            {
-              "sentence": "|Сыкӏыб| къыдэуцу",
-              "translation": "Stand |behind me|."
-            },
-            {
-              "sentence": "Сиджанэ пчъэм |ыкӏыб| пылъагъ, къэсфэхь",
-              "translation": "My shirt is hanged |behind| the door, bring it to me."
-            },
-            {
-              "sentence": "Куджаныр кӏалэхэмэ |акӏыб| ит",
-              "translation": "Kujan |is behind| the boys."
-            },
-            {
-              "sentence": "Матиматикэмкӏэ |ыкӏыб| сыкъинагъ",
-              "translation": "I was left |behind| in math."
-            }
-          ],
-          "meaning": "behind"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Унэм |ыкӏыбы| хьанцэр дэт",
-              "translation": "The shovel is |behind| the house."
-            },
-            {
-              "sentence": "Кум |ыкӏыбыкӏэ| псыхэр дэлъых",
-              "translation": "The water is in |the back| of the car."
-            },
-            {
-              "sentence": "|Сыкӏыб| мэузы",
-              "translation": "|My back| hurts."
-            },
-            {
-              "sentence": "|Укӏыбыкӏэ| еплъ",
-              "translation": "Look |behind your back|."
-            },
-            {
-              "sentence": "|Укӏыбыкӏэ| сыкъакӏо",
-              "translation": "I am coming |from your back|."
-            },
-            {
-              "sentence": "Гъогумкӏэ, сакӏыб дэт кур |скӏыбы| къехьэ",
-              "translation": "On the road, the car behind me is coming to my rear."
-            },
-            {
-              "sentence": "Кум |ыкӏыбы| уимыхь",
-              "translation": "Don\u0027t get close to the car\u0027s |rear|."
-            },
-            {
-              "sentence": "Кӏалэм |ыкӏыбы| уитэу лъыкӏу",
-              "translation": "Follow the boy while being close to |his back|."
-            },
-            {
-              "sentence": "Кур |укӏыбкӏэ| къыпжэхэхьагъ",
-              "translation": "The car collided against you |from the back|."
-            },
-            {
-              "sentence": "Кӏалэхэр |зэкӏыбы| итыхэу макӏох",
-              "translation": "The boys are going one after the other\u0027s |back|."
-            }
-          ],
-          "meaning": "back, rear"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "гу рихьан",
-        "шӏулъэгъун",
-        "гопэн"
-      ],
-      "ipa": "t͡ʃʼasan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэсэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Музикэр |уикӏаса?|",
-              "translation": "Do you |like| music?"
-            },
-            {
-              "sentence": "Сэ кӏалэр |сикӏас|",
-              "translation": "|I like| the boy."
-            },
-            {
-              "sentence": "Кӏалэм пшъашъэр |икӏас|",
-              "translation": "The boy |likes| the girl."
-            },
-            {
-              "sentence": "Сэ |усикӏас|",
-              "translation": "|I like you|."
-            },
-            {
-              "sentence": "Тутын сешъоныр |сикӏэсагъ|",
-              "translation": "|I liked| to smoke."
-            },
-            {
-              "sentence": "Щаем шъоу хэсылъхьаныр |сикӏас|",
-              "translation": "|I like| putting honey into the tea."
-            },
-            {
-              "sentence": "Пцэжъые сышхыныр |сикӏас|",
-              "translation": "|I like| eating fish."
-            }
-          ],
-          "meaning": "to like"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэкӏьэжъапхъэ",
-      "ipa": "t͡ʃʼant͡ʃʼaʐaːpχa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэнкӏэжъапхъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "omelette"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏакӏуэ",
-      "ipa": "t͡ʃaːkʷʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏакӏо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "felt cloak"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьасэ",
-      "ipa": "t͡ʃʼaːsa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏасэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏасэу| сыкъэкӏожьы сшӏоигъоп",
-              "translation": "I don’t want to arrive |late|."
-            },
-            {
-              "sentence": "|Кӏасэ| хъугъэ",
-              "translation": "It is already |late|."
-            },
-            {
-              "sentence": "Сызыкӏежьэжьыгъэр |кӏасэ| хъугъэшъ ары",
-              "translation": "I’m going| because it is |late| already."
-            }
-          ],
-          "meaning": "late"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼawpχʷəħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэупхъухьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сшъхьац |къысфыкӏэупхъухьан| плъэкӏыщта?",
-              "translation": "Can you |cut| my hair?"
-            },
-            {
-              "sentence": "Кӏалэм |кӏиупхъухьагъ|",
-              "translation": "The boy |took a haircut|."
-            },
-            {
-              "sentence": "|кӏэсыупхъухьэщт|",
-              "translation": "|I will take a haircut|."
-            },
-            {
-              "sentence": "Хабзэ щыӏ, зышъхьац |зыкӏиупхъухьагъэм| ыпшъэбы даохэу",
-              "translation": "There is a tradition in which they slap the neck of |a person that took a haircut|."
-            }
-          ],
-          "meaning": "to take a haircut"
-        }
-      ]
-    },
-    {
-      "ipa": "makʷʼasan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏосэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Машӏор |мэкӏуасэ|",
-              "translation": "The fire |is extinguishing|."
-            },
-            {
-              "sentence": "Тыгъэр |кӏосэщтэп|",
-              "translation": "The sun |will not extinguish|."
-            }
-          ],
-          "meaning": "to be extinguished"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кур |мэкӏуасэ|",
-              "translation": "The car |is turning off|."
-            },
-            {
-              "sentence": "Компыютэрыр |къэкӏосагъ|",
-              "translation": "The computer |turned off|."
-            },
-            {
-              "sentence": "Ламбэр |кӏосагъ|",
-              "translation": "The lamp |turned off|."
-            },
-            {
-              "sentence": "Нэфынэр |мэкӏуасэ|",
-              "translation": "The light |is turning off|."
-            }
-          ],
-          "meaning": "to be turned off"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaħə-ɮaħ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏэхьы-лэхь",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏыхьэ-лыхь\""
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэлъыкӏон",
-      "synonyms": [
-        "лъыкӏон"
-      ],
-      "ipa": "t͡ʃaɬəkʷʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэлъыкӏон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр лӏым |кӏэлъыкӏо|",
-              "translation": "The boy |is following| the man."
-            }
-          ],
-          "meaning": "to follow, to walk after"
-        }
-      ]
-    },
-    {
-      "ipa": "jakʷʼaɬʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏолӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"екӏолӏэн\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaːpa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏапэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "fat tail"
-        }
-      ]
-    },
-    {
-      "ipa": "kʷʼat͡sʼəɕəħan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏоцӏыщыхьэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "сабыир чыхӏэным бзылъфыгъэм кӏоцӏещыхьэ",
-              "translation": "The woman |wraps| the child in a blanket."
-            }
-          ],
-          "meaning": "to enwrap, to envelope, to wrap"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэлэгъу",
-      "ipa": "t͡ʃalaʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэлэгъу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Сикӏэлэгъукӏэ| чылэм бэрэ тыщыджэгущтыгъ",
-              "translation": "|In my childhood| we used to play a lot in the village."
-            }
-          ],
-          "meaning": "childhood"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Ащ |икӏэлэгъум| лӏыгъэ зэрихьагъ",
-              "translation": "|In his youth|, he displayed courage."
-            }
-          ],
-          "meaning": "youth"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəʔʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏыӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"ыкӏыӏу\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ехъопсэн"
-      ],
-      "ipa": "t͡ʃʼaχʷapsəːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэхъопсын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэр ыянэ |кӏэхъопсы|",
-              "translation": "The girl |misses| her mother."
-            },
-            {
-              "sentence": "Пшъашъэм кӏалэр |кӏэхъопсы|",
-              "translation": "The boy |is missing| the girl."
-            },
-            {
-              "sentence": "Сянэ |сыкӏэхъопсыжьы|",
-              "translation": "|I miss| my mother."
-            },
-            {
-              "sentence": "Уиныбджэгъухэмэ |уакӏэхъопса?|",
-              "translation": "|Do you miss| your friends."
-            },
-            {
-              "sentence": "Гонахьыхэмэ |уакӏэмыхъопс|",
-              "translation": "|Don\u0027t miss| doing sinful actions/stuff."
-            },
-            {
-              "sentence": "|Шъускӏэхъопсыжьыгъ|",
-              "translation": "|I missed you guys|."
-            },
-            {
-              "sentence": "Ащ ышхын |сыкӏэхъопсырэп|",
-              "translation": "|I don\u0027t miss| his food."
-            },
-            {
-              "sentence": "|Ускӏэхъопсыщт|",
-              "translation": "|I gonna miss you|."
-            },
-            {
-              "sentence": "Ащ ыкӏалэхэр ежь |кӏэхъопсыгъэх|",
-              "translation": "His boys |missed him|."
-            }
-          ],
-          "meaning": "to long for, to miss someone (to feel the absence of someone or something)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Джэкӏуакӏоу хъуным ар |кӏэхъопсы|",
-              "translation": "|He dreams| of becoming an actor."
-            }
-          ],
-          "meaning": "to fantasize; to dream for; to look forward to"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼabɣəqʷ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏэбгыкъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "beam, girder, bar, baulk"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəjtχʷən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏитхъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |кӏетхъу|",
-              "translation": "The boy |is scurrying|."
-            },
-            {
-              "sentence": "Кӏалэм кумкӏэ |кӏитхъугъ|",
-              "translation": "The boy |accelerated| with the car."
-            },
-            {
-              "sentence": "|Кӏэтхъу!|",
-              "translation": "|Accelerate!|"
-            },
-            {
-              "sentence": "Кум |зыкӏитхъушъурэп|",
-              "translation": "The car |can\u0027t accelerate|"
-            },
-            {
-              "sentence": "А кӏалэхэмэ зэралъэгъоу |зыкӏатхъугъ|",
-              "translation": "The boys |dashed away| once they saw me."
-            },
-            {
-              "sentence": "Тхьакӏумкӏыхьым шакӏор зелъэгъум, |кӏитхъугъ|",
-              "translation": "When the rabbit saw the hunter, |it dashed off|."
-            }
-          ],
-          "meaning": "to accelerate; to scurry; to scurry away; to dash away"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəjtχʷən",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏиӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |кӏетхъу|",
-              "translation": "The boy |is scurrying|."
-            },
-            {
-              "sentence": "Кӏалэм кумкӏэ |кӏитхъугъ|",
-              "translation": "The boy |accelerated| with the car."
-            },
-            {
-              "sentence": "|Кӏэтхъу!|",
-              "translation": "|Accelerate!|"
-            },
-            {
-              "sentence": "Кум |зыкӏитхъушъурэп|",
-              "translation": "The car |can\u0027t accelerate|"
-            },
-            {
-              "sentence": "А кӏалэхэмэ зэралъэгъоу |зыкӏатхъугъ|",
-              "translation": "The boys |dashed away| once they saw me."
-            },
-            {
-              "sentence": "Тхьакӏумкӏыхьым шакӏор зелъэгъум, |кӏиӏагъ|",
-              "translation": "When the rabbit saw the hunter, |it dashed off|."
-            }
-          ],
-          "meaning": "to accelerate; to scurry; to dash"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "кӏьэмгуе"
-      ],
-      "ipa": "t͡ʃʼamɡʷəja",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэмгуе",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "Temirgoy (Circassian tribe)"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏэфызыкӏьын",
-      "ipa": "t͡ʃʼafəzət͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэфызыкӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сэнашӏэм саным ипсыхэр |къыкӏифызыкӏыгъэх|.",
-              "translation": "The winemaker |squeezed out| the grape\u0027s liquid."
-            },
-            {
-              "sentence": "Кӏалэм псыр ӏаплъэкӏым |къыкӏефызыкӏы|.",
-              "translation": "The boy |squeezes| the water |out| of the towel."
-            }
-          ],
-          "meaning": "to squeeze out, to press out"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼat͡sʼən͡",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэцӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"къэкӏэцӏын\""
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьашъо",
-      "ipa": "t͡ʃʼaːʃʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏашъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыр кӏашъом дэкӏоягъ",
-              "translation": "The man went up |the ceiling|."
-            },
-            {
-              "sentence": "|Кӏашъом| еплъ",
-              "translation": "Look at |the ceiling|."
-            },
-            {
-              "sentence": "Тиунэ |икӏашъо| псы къыпэчъы",
-              "translation": "Water is dripping from my house\u0027s |ceiling|."
-            }
-          ],
-          "meaning": "ceiling"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэпщы",
-      "synonyms": [
-        "кӏэнлъэ",
-        "къамыщ",
-        "шыукъамыщ"
-      ],
-      "ipa": "t͡ʃʼapɕə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэпщы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыр шым |кӏэпщыкӏэ| ео",
-              "translation": "The man is striking the horse |with a horsewhip|."
-            }
-          ],
-          "meaning": "horsewhip"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэнлъэ",
-      "synonyms": [
-        "кӏэпщы",
-        "къамыщ",
-        "шыукъамыщ"
-      ],
-      "ipa": "t͡ʃʼanɬa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэнлъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Шыур |\u0027кӏэнлъэмкӏэ| шым еуагъ",
-              "translation": "The horseman stroke the horse |with a whip|."
-            },
-            {
-              "sentence": "Шыкуаор |кӏэнлъэкӏэ| шымэ яо",
-              "translation": "The wagoner is striking the horses |with a whip|."
-            },
-            {
-              "sentence": "Лӏыр пщылӏым |кӏэнлъэкӏэ| ео",
-              "translation": "The man is striking the slave |with a whip|."
-            }
-          ],
-          "meaning": "(Shapsug) whip"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼapɕ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэпщ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏэпщы\""
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэхьы-лэхь",
-      "ipa": "t͡ʃʼəħa-ɮəħa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏыхьэ-лыхь",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Мы филымыр сыдэу |кӏыхьэ-лыхь|",
-              "translation": "This film is so |long|."
-            },
-            {
-              "sentence": "Лӏым иӏофы |кӏыхьэ-лыхьэу| ешӏы",
-              "translation": "The man does his work |sluggishly|."
-            },
-            {
-              "sentence": "Лӏым ӏофыр |кӏыхьэ-лыхьэ| ымышӏэу псынкӏэу зэшӏуихыгъ",
-              "translation": "The man not doing his work |sluggishly|, did it fast."
-            }
-          ],
-          "meaning": "sluggish; slow and prolonged"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏэлэегьакӏо",
-      "ipa": "t͡ʃʼaɮajad͡ʒaːkʷʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэлэеджакӏо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏэлэеджакӏохэр| экзаменым феджэх",
-              "translation": "|The students| are studying for the exam."
-            }
-          ],
-          "meaning": "pupil; student"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəpʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏыпӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "fold, plait, crease"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaːj",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏай",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏаир| дэгъоу мэсты",
-              "translation": "|Ash-tree| burns good."
-            }
-          ],
-          "meaning": "ash-tree"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʃʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэшӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to hang up"
-        },
-        {
-          "examples": [],
-          "meaning": "to connect something under something"
-        }
-      ]
-    },
-    {
-      "ipa": "kʷʼaʑən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏожьын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Укъыздэкӏыгъэм |кӏожь|",
-              "translation": "|Return| from where you came."
-            },
-            {
-              "sentence": "Кӏалэр уиунэ |мэкӏожьы|",
-              "translation": "The boy |is returning| to your house."
-            },
-            {
-              "sentence": "Кӏалэр |мэкӏожьы|",
-              "translation": "The boy |is returning|."
-            },
-            {
-              "sentence": "Сэ тӏэкӏу шӏэмэ |сыкъэкӏожьыщт|",
-              "translation": "|I will come back| soon."
-            },
-            {
-              "sentence": "Кӏалэр яунэ |кӏожьи|, ахъщэ къишти, тадэжь |къэкӏожьыгъ|",
-              "translation": "The boy |returned home|, took money and |returned back| to us."
-            },
-            {
-              "sentence": "Кӏалэр гъэу яунэ |кӏожьыгъ|",
-              "translation": "The boy |returned| home crying."
-            }
-          ],
-          "meaning": "to return (there; from which one came)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "къарыунчъэ"
-      ],
-      "ipa": "kʷʼaːt͡ʂʼaːd͡ʒ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏочӏадж",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Гъогур |кӏуаджэу| хъугъэ",
-              "translation": "The road became |flooded|."
-            },
-            {
-              "sentence": "Уаем гъогур |кӏуаджэу| ышӏыгъ",
-              "translation": "The strong rain |flooded| the road."
-            },
-            {
-              "sentence": "Гъогур |кӏуаджэшъ| ухэкӏын плъэкӏыщтэп",
-              "translation": "Because the road |is flooded|, you cannot pass it."
-            }
-          ],
-          "meaning": "impassable road, flooded road"
-        }
-      ]
-    },
-    {
-      "ipa": "kʷʼaːd͡ʒ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏуадж",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Гъогур |кӏуаджэу| хъугъэ",
-              "translation": "The road became |flooded|."
-            },
-            {
-              "sentence": "Уаем гъогур |кӏуаджэу| ышӏыгъ",
-              "translation": "The strong rain |flooded| the road."
-            },
-            {
-              "sentence": "Гъогур |кӏуаджэшъ| ухэкӏын плъэкӏыщтэп",
-              "translation": "Because the road |is flooded|, you cannot pass it."
-            }
-          ],
-          "meaning": "impassable road, flooded road"
-        }
-      ]
-    },
-    {
-      "ipa": "kʷʼaːpʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏуапӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Мы чӏыпӏэр кӏэлэ-гъолэ |кӏуапӏэу| хъугъэ",
-              "translation": "This place became |a gathering place| for youngers."
-            },
-            {
-              "sentence": "Ащ еджапӏэр |кӏуапӏэу| ышӏыгъ",
-              "translation": "(S)he made school |the gathering place|."
-            }
-          ],
-          "meaning": "gathering place (a place where a group goes to or gathers)"
-        }
-      ]
-    },
-    {
-      "ipa": "kʷʼatan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏотэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Дзэр |кӏотэнэу| ежьагъэ",
-              "translation": "The army started |to advance|."
-            },
-            {
-              "sentence": "Уӏагъэм щэр бэрэ хэлъмэ |кӏотэнкӏэ| щынагъо",
-              "translation": "It is dangerous if the bullet stays for too long in the wound and |it moves deeper|."
-            }
-          ],
-          "meaning": "to advance, to move/push forward/on/further, to gain/make ground, to make headway"
-        }
-      ]
-    },
-    {
-      "ipa": "kʷʼat͡sʼə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏоцӏы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Унэм |ыкӏоцӏы| ихь",
-              "translation": "Go |inside| the house."
-            },
-            {
-              "sentence": "Унэр |ыкӏоцӏыкӏэ| алагъ",
-              "translation": "They painted the horse |from inside|."
-            },
-            {
-              "sentence": "Гъуанэм |ыкӏоцӏы| идз мыжъохэр",
-              "translation": "Throw the rocks |inside| the hole."
-            },
-            {
-              "sentence": "Бым |ыкӏоцӏы| къекӏы баджэр",
-              "translation": "The fox is coming out from |inside| the burrow."
-            },
-            {
-              "sentence": "Мыӏэрысым |ыкӏоцӏы| хэлъ хьамлыу",
-              "translation": "There is a worm |inside| the apple."
-            },
-            {
-              "sentence": "Пхъуантэм |ыкӏоцӏы| илъыхэр къихых",
-              "translation": "Take out the stuff |inside| the box."
-            },
-            {
-              "sentence": "Унэ |кӏоцӏыр| чъыӏэ",
-              "translation": "It is cold |inside| the house."
-            }
-          ],
-          "meaning": "inside"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼanat͡ʼaːɬ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэнэкӏалъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏэнэкӏалъэ| хъугъа джы ар?!",
-              "translation": "Did he became a |laughing stock| now?"
-            },
-            {
-              "sentence": "Ащ кӏалэр |кӏэнэкӏалъэ| ышӏыгъ",
-              "translation": "(S)he made the boy a |laughing stock|"
-            }
-          ],
-          "meaning": "laughing stock"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "кӏьыин"
-      ],
-      "ipa": "mat͡ʃʼəjən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏыин",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэр |мэкӏыи|",
-              "translation": "The girl |is screaming|."
-            },
-            {
-              "sentence": "Стхьакӏумэ |укъекӏые|",
-              "translation": "|You\u0027re screaming into| my eat."
-            },
-            {
-              "sentence": "Пшъэшъэ цӏыкӏухэмэ яфэдэ |кӏыегъ|",
-              "translation": "(S)he |screamed| like a little girl."
-            }
-          ],
-          "meaning": "to scream"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэлъыон",
-      "synonyms": [
-        "кӏэнэкӏэн"
-      ],
-      "ipa": "t͡ʃʼaɬəwən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэлъыон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр лӏым |кӏэлъыо|",
-              "translation": "The boy |is scoffing| at the man."
-            },
-            {
-              "sentence": "Кӏалэр къакӏуи |къэткӏэлъыо|",
-              "translation": "The boy came and |started scoffing us|."
-            }
-          ],
-          "meaning": "to scoff someone"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏэгьэн",
-      "ipa": "t͡ʃʼad͡ʒan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэджэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Тидин |шъукӏадж|",
-              "translation": "|Inform widely about| our religion."
-            },
-            {
-              "sentence": "Кӏалэм къищэтышъ иныбджэгъухэр |фэкӏаджэх|",
-              "translation": "Because the young man going to merry, his friends are |informing widely about it for him|."
-            }
-          ],
-          "meaning": "to inform widely about"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ин"
-      ],
-      "ipa": "t͡ʃʼajan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэен",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым кӏашъор кӏэи",
-              "translation": "The man |is coating| the ceiling."
-            }
-          ],
-          "meaning": "to coat under something; to daub under something; to stucco under something; to plaster under something"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "хэнэжьын"
-      ],
-      "ipa": "t͡ʃʼanaʑən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэнэжьын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сэ тутын сешъоу |кӏэснэжьыгъ|",
-              "translation": "|I quit| smoking cigarettes."
-            },
-            {
-              "sentence": "А шэн ӏаер |кӏэнэжь|",
-              "translation": "|Quit| that bad behaving."
-            },
-            {
-              "sentence": "Уӏэхъуамбэмэ уацэкъэу |кӏэбнэжьын| фай",
-              "translation": "|You must quit| biting your teeth."
-            },
-            {
-              "sentence": "|Кӏэмынэжь| ащтэу пшӏэу",
-              "translation": "|Don\u0027t quit| doing that."
-            },
-            {
-              "sentence": "Кӏалэм |кӏинэжьыгъ| чъэу",
-              "translation": "The boy |stopped| [the habit of] running."
-            }
-          ],
-          "meaning": "to quit doing something, to get out of the habit (of), to break oneself of the habit (of)"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʁaɕən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэгъэщын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"къыкӏэгъэщын\""
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьыщ",
-      "kabardian": "кӏыщ",
-      "ipa": "t͡ʃʼəɕ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏыщ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏыщым| гъукӏэр щэгъукӏэ",
-              "translation": "The blacksmith is forging in |the smithy|."
-            },
-            {
-              "sentence": "Гъукӏэр гъукӏэнэу |кӏыщым| кӏуагъэ",
-              "translation": "The blacksmith went to |the smithy| to forge."
-            },
-            {
-              "sentence": "Сыдж тео макъэр |кӏыщым| къыщэӏу",
-              "translation": "Anvil striking sound was heard from |the smithy|."
-            }
-          ],
-          "meaning": "smithy, farriery, forge"
-        }
-      ]
-    },
-    {
-      "ipa": "kʷʼat͡sʼəɬħan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏоцӏылъхьан",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to wrap"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʁaʁʷaʑən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэгъэгъожьын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |сыкӏигъэгъожьыгъ|",
-              "translation": "The boy |made me regret it|."
-            },
-            {
-              "sentence": "Кӏалэр |кӏэбгъэгъожьыгъ|",
-              "translation": "|You made| the boy |regret|."
-            },
-            {
-              "sentence": "|Сыкӏэмыгъэгъожь|",
-              "translation": "|Don\u0027t make me regret|."
-            }
-          ],
-          "meaning": "to make someone regret"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэрыт",
-      "ipa": "kʲʼarət",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэрыт",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ку |кӏьэрыт|",
-              "translation": "|Bad| car."
-            },
-            {
-              "sentence": "Пчъэр |кӏьэрытэу| хъугъэ",
-              "translation": "The door became |bad|."
-            },
-            {
-              "sentence": "Цӏыф |кӏьэрыт|",
-              "translation": "|Worthless| person."
-            },
-            {
-              "sentence": "Гонахьхэр |умыгъэкӏьэрытых|",
-              "translation": "|Don\u0027t make| sins |worthless| (Don\u0027t take sins lightly)"
-            }
-          ],
-          "meaning": "worthless"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼarawan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэрэон",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыр |кӏэраоу| макӏо",
-              "translation": "The man is going while |swaying|."
-            },
-            {
-              "sentence": "Щалъэр |кӏэрэонэу| ежьагъ",
-              "translation": "The bucket started to |sway|."
-            }
-          ],
-          "meaning": "to rock; to cause to shake or sway"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏубырылъ"
-      ],
-      "ipa": "ʔʷbərəɬ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэрэхъуалъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏэрэхъуалъэр| кӏэрахъор зэрылърэ шъор ары",
-              "translation": "|A holster| is the leather where the gun is stored."
-            },
-            {
-              "sentence": "Лӏым икӏэрахъохэр |кӏэрэхъуалъэм| илъых",
-              "translation": "The man\u0027s guns are in |the holster|."
-            }
-          ],
-          "meaning": "holster"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏэӏотыкӏьын",
-      "ipa": "t͡ʂʼaʔʷatət͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэӏотыкӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм пшъашъэм ышӏагъэхэр |къыкӏиӏутыкӏыгъэх| кӏэлэегъаджэм ыпашъхьэкӏэ",
-              "translation": "The boy |revealed| the girl\u0027s doings in front of the teacher."
-            },
-            {
-              "sentence": "|Сыкӏэмыӏотыкӏ|",
-              "translation": "|Don\u0027t tell on me."
-            }
-          ],
-          "meaning": "to tell on, to reveal, to rat out, to make something known (especially a secret)"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼapxan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэпхэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм пцыкъур |кӏипхи| осым хэхьагъ",
-              "translation": "The boy |tied| snowshoe |under| [his feet] and he entered the snow."
-            }
-          ],
-          "meaning": "to tie under"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəm-səm",
-      "lang": "Adyghe",
-      "type": "init",
-      "word": "кӏым-сым",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чэщ |кӏы-сым|",
-              "translation": "A silent |night|."
-            },
-            {
-              "sentence": "Кӏым-сым, зыгори къэӏурэп",
-              "translation": "|Silent|, nothing was heard."
-            }
-          ],
-          "meaning": "an expression of silence"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼarəstəħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэрыстыхьан",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to burn under"
-        }
-      ]
-    },
-    {
-      "ipa": "kʷʼaʂan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏошъэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Шакӏор |мэкӏуашъэ|",
-              "translation": "The hunter |is sneaking up|."
-            }
-          ],
-          "meaning": "alternative form of \"мэкӏошъэн\""
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏэщыкӏьын",
-      "ipa": "tʂaɕəkʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэщыкӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пшъашъэр |кӏэбэщыкӏьы|",
-              "translation": "|You are eloping| the girl."
-            },
-            {
-              "sentence": "Дэхэосыр |кӏащыкӏьыгъ|",
-              "translation": "Daxawas was |eloped|."
-            }
-          ],
-          "meaning": "to elope; to run away secretly for the purpose of getting married with one\u0027s intended spouse"
-        }
-      ]
-    },
-    {
-      "kabardian": "кӏуэдыгъуафӏэ",
-      "ipa": "kʷʼadəʑəʁʷaʃʷʼ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏодыжьыгъошӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏодыгъошӏу\""
-        }
-      ]
-    },
-    {
-      "kabardian": "кӏуэдыгъуафӏэ",
-      "ipa": "kʷʼadəʁʷaʃʷʼ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "кӏодыгъошӏу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Мастэр |кӏодыгъошӏу|",
-              "translation": "A needle is |easily losable|."
-            }
-          ],
-          "meaning": "easily losable; something or someone that is easy to lose"
-        },
-        {
-          "examples": [],
-          "meaning": "something or someone that is easy to extinc"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaɮaʁʷaːɮaxar",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэлэгъуалэхэр",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏэлэ-гъуалэхэр\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaɮaʁʷaːɮaxar",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏалэгъуалэхэр",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"кӏэлэ-гъуалэхэр\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaɮaʁʷaːɮaxar",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэлэгъуалэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "youth folk; usaully in the plural form \"кӏэлэ-гъуалэхэр\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaɮaʁʷaːɮaxar",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏалэгъуалэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "youth folk; usaully in the plural form \"кӏэлэ-гъуалэхэр\""
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэлэ-гъуалэхэр",
-      "ipa": "t͡ʃʼaɮa ʁʷaːɮaxar",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэлэ-гъуалэхэр",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏэлэ-гъуалэхэр| къалэм ехыгъэх",
-              "translation": "|The youth| went to the city."
-            },
-            {
-              "sentence": "|Кӏэлэ-гъуалэхэр| кӏэим щешъох",
-              "translation": "|The youth| are drinking in the valley."
-            },
-            {
-              "sentence": "Тыдэ щыӏэх |кӏэлэ-гъуалэхэр|?",
-              "translation": "Where are |the youth|?"
-            },
-            {
-              "sentence": "Тыдэ |кӏэлэ-гъуалэхэр| чэщыхэмкӏэ щэӏэх?",
-              "translation": "Where are |the youth| in the nights?"
-            },
-            {
-              "sentence": "Чылэ гупчэм |кӏэлэ-гъуалэхэр| щызэӏукӏэх",
-              "translation": "|The youth| are meeting up in the center of the village."
-            }
-          ],
-          "meaning": "youth; youth folk"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼajaʁʷəɬən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэегъулъын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to jump aside"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼawəx",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэух",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Мазэм |икӏэух|",
-              "translation": "|End of| the month."
-            },
-            {
-              "sentence": "Фылымым |икӏэух| зэщыгъо",
-              "translation": "|The end of| the film is boring."
-            }
-          ],
-          "meaning": "end"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|Кӏэух| псалъэ",
-              "translation": "|Closing| word."
-            }
-          ],
-          "meaning": "closing, conclusive"
-        },
-        {
-          "examples": [],
-          "meaning": "(literally) tail end (the last part of a period of time, event, or situation; the concluding or final part)"
-        }
-      ]
-    },
-    {
-      "shapsug": "ӏукӏэхьан",
-      "kabardian": "щӏэхьэн",
-      "synonyms": [
-        "ӏукӏэхьан"
-      ],
-      "ipa": "t͡ʃʼəħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр ыпэ итым |кӏэхьан|",
-              "translation": "The boy |to catch up with| the one in front of him."
-            },
-            {
-              "sentence": "ӏофышӏэ пэрытым |кӏэхьан|",
-              "translation": "|To catch up with| an advanced worker."
-            },
-            {
-              "sentence": "Шыр адрэ шым |кӏэхьанкӏэ| тӏэкӏу нахь иӏэжьэп",
-              "translation": "There is not that much for the horse |to catch up with| the other horse."
-            },
-            {
-              "sentence": "Псынкӏащэу очъэти |ускӏэхьашъурэп|",
-              "translation": "Because you are running too fast |I can\u0027t catch up with you|."
-            },
-            {
-              "sentence": "Кӏалэр лӏым |кӏэхьагъ|",
-              "translation": "The boy |caught up with| the man."
-            },
-            {
-              "sentence": "Нахь псынкӏэу сычъэмэ |ускӏэхьащт|",
-              "translation": "If I run faster |I will overtake| you."
-            },
-            {
-              "sentence": "Кӏэлэцӏкӏур |къыскӏэхьашъурэп|",
-              "translation": "The little boy |can\u0027t catch up| with me."
-            },
-            {
-              "sentence": "Ливилкӏэ Томэр |къыскӏэхьагъ|",
-              "translation": "Tom |caught up and surpassed me| in the level."
-            },
-            {
-              "sentence": "Кур жъажъэ нэмыӏэкӏэ автобус |къэткӏэхьагъ|",
-              "translation": "The car was so slow |we were overtaken by| a bus."
-            },
-            {
-              "sentence": "Мышъэм ушӏуежьэжьын пӏомэ |къыпкӏэхьэщт|",
-              "translation": "If you try to flee from a bear, |it will catch up to you|."
-            }
-          ],
-          "meaning": "to catch up with someone, to reach something that had been ahead"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaɮaχʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэлэхъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "boy"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaɮaχʷt͡sʼəkʷʼ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэлэхъуцӏыкӏу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "little boy"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʃʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэшъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Вампирым улъ |кӏишъущт|",
-              "translation": "The vampire |will suck| the blood out of you."
-            },
-            {
-              "sentence": "Лӏым псыр турбэм |кӏыпшъугъ|",
-              "translation": "The man |sucks| the water out of the pipe."
-            },
-            {
-              "sentence": "Къэгъагъэм псы |кӏэшъун|",
-              "translation": "|To suck| the water out of a flower."
-            }
-          ],
-          "meaning": "to suck (to draw something into the mouth by inhaling)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым уцым псы |кӏешъу|",
-              "translation": "The man |extracts| the water out of the plant."
-            }
-          ],
-          "meaning": "to drain by extracting water"
-        },
-        {
-          "examples": [],
-          "meaning": "(vulgar) to perform oral sex"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaɬanəqʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэлъэныкъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Нашэм |ыкӏэлъэныкъо| шъугъэ",
-              "translation": "|One half| of the melon is rotten."
-            }
-          ],
-          "meaning": "half of; one side of"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏэн",
-      "ipa": "t͡ʃʼan",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Мэл |кӏэн|",
-              "translation": "Sheep |knucklebone|."
-            },
-            {
-              "sentence": "|Кӏэным| кӏалэхэр рэджэгух",
-              "translation": "The boys are playing |with the knucklebone|."
-            }
-          ],
-          "meaning": "knucklebone"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым |икӏэн| агощыгъ",
-              "translation": "They split the man\u0027s |inheritance|."
-            }
-          ],
-          "meaning": "inheritance"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼarət͡ʃʼaw",
+      "ipa": "ʔaːsaw",
       "lang": "Adyghe",
       "type": "adv",
-      "word": "кӏэрыкӏэу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр джэгум |кӏэрыкӏэу| мэджэгу",
-              "translation": "The boy is playing the game |again|."
-            },
-            {
-              "sentence": "Джы ӏофыр |кӏэрыкӏэу| тышӏэжьын фай",
-              "translation": "Now we need to do the task |again from the beginning|."
-            },
-            {
-              "sentence": "Некӏо фылымым |кӏэрыкӏэу| теплъыщт",
-              "translation": "Let\u0027s watch the film |again|."
-            }
-          ],
-          "meaning": "again (from the beginning, from scratch)"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaxən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэхын",
+      "word": "ӏасэу",
       "definitions": [
         {
           "examples": [],
-          "meaning": "alternative form of \"чӏэхын\""
+          "meaning": "meekly"
         }
       ]
     },
     {
-      "kabardian": "кӏуэцӏышыхьын",
-      "synonyms": [
-        "щыхьан",
-        "къещэкӏын",
-        "къещыхьакӏын"
-      ],
-      "ipa": "kʷʼat͡sʼəɕəħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏоцӏыщыхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сэтэнае мыжъор хъэдэн фабэм |кӏоцӏыщыхьагъ|",
-              "translation": "Sataney |wrapped| the hot stone in a rag."
-            },
-            {
-              "sentence": "Бзылъфыгъэм сабиер чхыӏан |кӏоцӏыщыхьагъ|",
-              "translation": "The woman |wrapped| the infant in a blanket."
-            },
-            {
-              "sentence": "Тхылъыпӏэм тхылъхэр сэ |кӏоцӏысыщыхьэх|",
-              "translation": "|I enveloped| the books with paper."
-            }
-          ],
-          "meaning": "to wrap in; to envelope"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaɬaʔʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэлъэӏун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр ӏэпыӏэгъум |кӏэлъэӏугъ|",
-              "translation": "The boy |called| for help."
-            }
-          ],
-          "meaning": "to call for, to ask for, to beg for"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "губжыгъошӏу",
-        "губжыл"
-      ],
-      "ipa": "ɡʷəbʒəpx",
+      "ipa": "ʔaːsa",
       "lang": "Adyghe",
       "type": "adj",
-      "word": "кӏэжъукӏыжьын",
+      "word": "ӏасэ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Лӏыр губжыпх, ау а сыхьатым |кӏэжъукӏыжьы|",
-              "translation": "The man is hot-tempered, but on that hour |he calms down|."
+              "sentence": "Цӏыф |ӏас|",
+              "translation": "|Well-behaved| person."
             }
           ],
-          "meaning": "to calm down, to quiet down"
+          "meaning": "well-behaved"
+        },
+        {
+          "examples": [],
+          "meaning": "meek (humble, non-boastful, modest, meager, or self-effacing)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Хьэр |ӏасэ|",
+              "translation": "The dog |is tamed|."
+            },
+            {
+              "sentence": "Шы |ӏас|",
+              "translation": "A |tamed| horse."
+            }
+          ],
+          "meaning": "tamed"
         }
       ]
     },
     {
-      "ipa": "kʷʼat͡sʼə",
+      "ipa": "ʔaːpʂ",
       "lang": "Adyghe",
-      "type": "prefix",
-      "word": "кӏоцӏы-",
+      "type": "noun",
+      "word": "ӏапшъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм |ыӏапшъэ| ӏэпшъэхъу илъ",
+              "translation": "There is a bracelet in the girl\u0027s |wrist|."
+            }
+          ],
+          "meaning": "wrist"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔabɣ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏабг",
       "definitions": [
         {
           "examples": [],
-          "meaning": "(added to verbs) within inside"
+          "meaning": "platform for drying crops raised on four legs"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼəfə",
+      "ipa": "ʔaːʃʷʼə ʔʷəʃʷʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏашӏу-ӏушӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэшӏу-ӏушӏу\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏашӏу-ӏушӏу"
+      ],
+      "ipa": "ʔaːʃʷʼə ʔʷəʃʷʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏашӏуӏушӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏашӏу-ӏушӏу\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaʂħa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏашъхьэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "джэнэ |ӏашъхь|",
+              "translation": "|The sleeve| of a shirt."
+            }
+          ],
+          "meaning": "sleeve"
+        },
+        {
+          "examples": [],
+          "meaning": "forearm"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaʃʷʼə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏашӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэшӏу\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːna",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏанэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏанэхэр| шъхьаф-шъхьафэу къэхьых",
+              "translation": "Bring the |tables| separately."
+            },
+            {
+              "sentence": "Лагъэхэр |ӏанэм| ыкӏыӏу тешъулъхьэх",
+              "translation": "Put the plates on the surface of |the table|."
+            },
+            {
+              "sentence": "Кӏалэр |ӏанэм| кӏэлъыс",
+              "translation": "The boy is sitting on |the table|."
+            },
+            {
+              "sentence": "Унагъор |ӏанэм| ӏус",
+              "translation": "The family is sitting around |the table|."
+            },
+            {
+              "sentence": "Кӏалэм пхъэнтӏэкӏухэр |ӏанэм| кӏэлъырыгъэуцуагъэх",
+              "translation": "The boy placed the chairs next to |the table|."
+            },
+            {
+              "sentence": "|ӏанэр| тазэу щыт",
+              "translation": "|The table| is standing crookedly."
+            }
+          ],
+          "meaning": "table"
+        },
+        {
+          "examples": [],
+          "meaning": "table (three-legged)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːja",
       "lang": "Adyghe",
       "type": "adj",
-      "word": "кӏыфы",
+      "word": "ӏае",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Кӏалэм ынэгу |кӏыфэу| хъугъэ",
-              "translation": "The boy\u0027s cheeks became |pale|."
-            },
-            {
-              "sentence": "Лӏыр зэсымаджэм, ышъо |кӏыфэу| хъугъэ",
-              "translation": "When the man became sick, his skin became |pale|."
+              "sentence": "Цӏыфы |ӏае|",
+              "translation": "|Ugly| man."
             }
           ],
-          "meaning": "pale"
-        }
-      ]
-    },
-    {
-      "kabardian": "щӏыгъун",
-      "synonyms": [
-        "гъусэн"
-      ],
-      "ipa": "t͡ʃʼəʁʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏыгъун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм ихьэ закъо щэхъу |кӏымыгъоу| ежьагъ",
-              "translation": "The boy went off without anyone accompanying him expect his dog."
-            },
-            {
-              "sentence": "Лӏыжъым изакъоу кӏощтэп, зыгорэ |кӏыгъун| фае",
-              "translation": "The old man can\u0027t go alone, someone needs |to escort| him."
-            }
-          ],
-          "meaning": "to accompany, to escort"
+          "meaning": "ugly"
         },
         {
           "examples": [
             {
-              "sentence": "Шъузыр лӏым |кӏыгъун| ыдэрэп",
-              "translation": "The woman doesn\u0027t accept |to live with| the man."
-            }
-          ],
-          "meaning": "to live with"
-        }
-      ]
-    },
-    {
-      "kabardian": "кӏуэцӏыхьэн",
-      "ipa": "kʷʼat͡sʼəħaːn",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏоцӏыхьан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр дэпкъым |кӏоцӏыхьагъ|",
-              "translation": "The boy |collide into| the wall."
-            }
-          ],
-          "meaning": "to collide into; to crash into"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Шэр пхъэм |кӏоцӏыхьан|",
-              "translation": "The bullet |to penetrate into| the wood."
+              "sentence": "Шхын |ӏае|",
+              "translation": "|Bad tasting| food."
             },
             {
-              "sentence": "Шэр ашъокум |кӏоцӏыхьашъущтэп|",
-              "translation": "The bullet |cannot penetrate| a tank."
+              "sentence": "Сянэ шхын |ӏае| непэ къишӏыгъ",
+              "translation": "My mother made a |bad tasting| food today."
             }
           ],
-          "meaning": "to penetrate into"
+          "meaning": "bad-tasting; bad taste; distasteful"
         },
         {
           "examples": [
             {
-              "sentence": "Тхьапш шхынэу |къыпкӏоцӏыхьэрэр?|",
-              "translation": "How much food |goes into you?|"
+              "sentence": "Кӏалэр |ӏаеу| мэгущыӏэ.",
+              "translation": "The boy is speaking |rudely|."
+            },
+            {
+              "sentence": "Ужэ гущыӏэ |ӏаехэр| къыдэмыкъэкӏ.",
+              "translation": "Don\u0027t let |rude| words slip your mouth."
+            },
+            {
+              "sentence": "Кӏалэм |ӏаеу| зешӏы.",
+              "translation": "The boy is acting |indecently|."
+            },
+            {
+              "sentence": "|ӏаеу| къысэплъы лӏыр.",
+              "translation": "The man is looking at me |indecently|."
             }
           ],
-          "meaning": "to go within inside something"
-        }
-      ]
-    },
-    {
-      "ipa": "tʃʼəʑən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏыжьын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to heal (a wound); to grow again"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"къикӏын\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼərəwən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏырыун",
-      "definitions": [
+          "meaning": "indecent; rude; inappropriate"
+        },
         {
           "examples": [
             {
-              "sentence": "Тутарыщыр шхомлакӏэм |къыкӏырыуи|, шыр пхэкӏыкӏэ къызэхигъэтӏысхьэу къызэтыригъэуцуагъ.",
-              "translation": "Totrash |tugged| with the bridle, and he stopped the horse and made it sit down on its back."
+              "sentence": "Жьыр |ӏаеу| къэлъагъо",
+              "translation": "Vomit looks |nasty|."
             }
           ],
-          "meaning": "to tug (to pull hard)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ежьэжьын",
-        "кӏэӏэн",
-        "кӏэтхъун"
-      ],
-      "ipa": "t͡ʃʼaʔaʑən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэӏэжьын",
-      "definitions": [
+          "meaning": "disgusting; nasty"
+        },
         {
           "examples": [
             {
-              "sentence": "Шым |кӏеӏэжьы|.",
-              "translation": "The horse |runs away|."
+              "sentence": "|ӏае| хъугъэр",
+              "translation": "What happened is |horrible|."
+            },
+            {
+              "sentence": "цӏыфы  |ӏаежъ|",
+              "translation": "|Awful| person."
             }
           ],
-          "meaning": "to run away, to make off, to flee"
+          "meaning": "awful; horrible"
         }
       ]
     },
     {
-      "kabardian": "щӏэп",
-      "ipa": "t͡ʃʼap",
+      "ipa": "ʔaːpɬʼa",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "кӏэп",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "(plant) cannabis, hemp",
-          "tags": [
-            "plant"
-          ]
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼatχʷən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэтхъун",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to scoop out; to dig out; to shovel out, to rake out, to remove by shoveling or raking"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэлъырыгъэуцон",
-      "ipa": "t͡ʃʼaɬərəʁawt͡ʃʷan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэлъырыгъэуцон",
+      "word": "ӏаплӏэ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Кӏалэм пхъэнтӏэкӏухэр ӏанэм |кӏэлъырыгъэуцуагъэх|",
-              "translation": "The boy |placed| the chairs |next to| the table."
-            }
-          ],
-          "meaning": "to put/place something next to"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "кӏэлъыон",
-        "дэхьащхын"
-      ],
-      "ipa": "t͡ʃʼanat͡ʃʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэнэкӏэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to ridicule, to mock, to make fun of, to scoff, to make a little joke, to poke fun"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʁaɮat͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэгъэлыкӏын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Африкэмкӏэ, шакӏомэ анэхэр шӏуцӏэкӏэ |кӏагъэлыкӏых|",
-              "translation": "In Afrika, the huntets |color beneath| their eyes in black."
+              "sentence": "Пхъэ |ӏаплӏэ|",
+              "translation": "|Handful| of woods."
             },
             {
-              "sentence": "Унэм ыкӏашъо лӏым |кӏигъэлыкӏыгъ| фыжьыкӏэ",
-              "translation": "The man |colored| the ceiling in white."
+              "sentence": "|ӏаплӏэр| уӏитӏукӏэ зэкӏэбыубытэшъущтыр ары",
+              "translation": "|Armful| is how much you can grab in both of your hands."
+            },
+            {
+              "sentence": "Кӏалэм пхъэхэр зы |ӏаплӏэкӏэ| къыхьыгъ",
+              "translation": "The boy brought the woods in one |armful|."
             }
           ],
-          "meaning": "to color beneath; to paint beneath"
+          "meaning": "armful; handful"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм ыянэ |ӏаплӏ| рищэкӏыгъ",
+              "translation": "The girl |hugged| her mother."
+            },
+            {
+              "sentence": "Пшъашъэр |ӏаплӏэ| ещэкӏыкӏэ къэспэгъокӏыгъ",
+              "translation": "The girl greeted me |with a hug|."
+            }
+          ],
+          "meaning": "hug"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼaɮat͡ʃʼən",
+      "ipa": "ʔaːpɬʼjaɕat͡ʃʼ",
       "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэлыкӏын",
+      "type": "noun",
+      "word": "ӏаплӏещэкӏ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Африкэмкӏэ, шакӏомэ анэхэр шӏуцӏэкӏэ |кӏалыкӏых|",
-              "translation": "In Afrika, the huntets |color beneath| their eyes in black."
+              "sentence": "|ӏаплӏещэкӏэр| ӏитӏумкӏэ зыгорэ зэкӏэбыубытэныр ары",
+              "translation": "|Hug| is grabbing someone with both hands."
             },
             {
-              "sentence": "Унэм ыкӏашъо лӏым |кӏилыкӏыгъ| фыжьыкӏэ",
-              "translation": "The man |colored| the ceiling in white."
+              "sentence": "Пшъашъэр |ӏаплӏещэнӏыкӏэ| къэспэгъокӏыгъ",
+              "translation": "The girl greeted me |with a hug|."
             }
           ],
-          "meaning": "to color beneath; to paint beneath"
+          "meaning": "hug"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼaraːt͡ʃʼ",
+      "shapsug": "ӏэгьэ",
+      "ipa": "ʔaːd͡ʒa",
       "lang": "Adyghe",
       "type": "adj",
-      "word": "кӏэракӏ",
+      "word": "ӏаджэ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Кӏэлэм |кӏэракӏ|",
-              "translation": "|well-dressed| young man."
+              "sentence": "|ӏаджи| шӏагъи, еджапӏэхэр щыӏагъэхэп",
+              "translation": "|Long| time ago, there weren\u0027t schools."
+            },
+            {
+              "sentence": "Цӏыф |Iаджи| къысӏукӏагъ",
+              "translation": "I met with |many| people."
+            },
+            {
+              "sentence": "Ащ |ӏаджи| ылъэгъугъ",
+              "translation": "He saw |many| things."
+            },
+            {
+              "sentence": "Ащ |ӏаджи| ышӏагъ",
+              "translation": "He did |many| things."
             }
           ],
-          "meaning": "well-dressed (of a person)"
+          "meaning": "many"
         }
       ]
     },
     {
       "synonyms": [
-        "течъын",
-        "ыпэ ишъын"
+        "пылэлын",
+        "къыпылэлын",
+        "къелэлэхын"
       ],
-      "ipa": "kʷʼat͡ʃʼa tajt͡ʃʼən",
+      "ipa": "ʔaːjaw",
       "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏокӏэ текӏын",
+      "type": "adv",
+      "word": "ӏаеу",
       "definitions": [
         {
-          "examples": [],
-          "meaning": "to outrun, to outdistance"
+          "examples": [
+            {
+              "sentence": "Быракъыр кӏыхьащэшъ, |ӏаеу| унэм къыпэщы",
+              "translation": "Because the flag is too long, it sticks out |badly| from the house."
+            },
+            {
+              "sentence": "Унэр |ӏаеу| щыт",
+              "translation": "The house is standing |badly|."
+            },
+            {
+              "sentence": "Пкъэур |ӏаеу| щыт, тӏэкӏу ӏонтагъ",
+              "translation": "The pillar is standing |badly|, it is bended a bit."
+            },
+            {
+              "sentence": "Шхыныр ӏаеу къикӏыгъ",
+              "translation": "The food turned out |awfully|."
+            }
+          ],
+          "meaning": "badly, horribly, awfully"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ӏаеу| мэзекӏо.",
+              "translation": "The boy is behaving |inappropriately|."
+            },
+            {
+              "sentence": "|ӏаеу| къысэплъы лӏыр.",
+              "translation": "The man is looking at me |indecently|."
+            }
+          ],
+          "meaning": "inappropriately; indecently"
         }
       ]
     },
     {
-      "ipa": "ɬanəqʷaːɕ",
+      "ipa": "ʔaːpʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏапӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Унэгъо |ӏапӏ|",
+              "translation": "The |belongings| of the family."
+            }
+          ],
+          "meaning": "things, belongings"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыр шъофым хахьи пхъэ |ӏапӏэ| чылэм къихьыжьыгъ",
+              "translation": "The man went to the fields and brought |a bundle| of wood to the village."
+            },
+            {
+              "sentence": "Цумпэ |ӏапӏэ| кӏалэм къыхьыгъ",
+              "translation": "The boy brought a |bunch| of strawberries."
+            }
+          ],
+          "meaning": "bundle, bunch; fascicle"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Мые |ӏапӏэ| матэм къих",
+              "translation": "Take |a handful of| apples from the basket."
+            },
+            {
+              "sentence": "Кӏалэм былым |ӏапӏэ| иӏ",
+              "translation": "The boy has |a handful of| fortune."
+            }
+          ],
+          "meaning": "a handful of; an armful of"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏаплӏэ фэшӏын"
+      ],
+      "ipa": "ʔaːpɬʼa jaɕat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏаплӏэ ещэкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм ыянэ |ӏаплӏэ рищэкӏыгъ|",
+              "translation": "The girl |hugged| her mother."
+            }
+          ],
+          "meaning": "to hug"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏаплӏэ ещэкӏын"
+      ],
+      "ipa": "ʔaːpɬʼa faʃʼən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏаплӏэ фэшӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм ыянэ |ӏаплӏэ ришӏыгъ|",
+              "translation": "The girl |hugged| her mother."
+            }
+          ],
+          "meaning": "to hug"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːħ xaɬħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏахь хэлъхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хэтрэ цӏыфыми |иӏахь| ӏофым |хилъхьэмэ|, ӏофыр псынкӏэу тыухыщт",
+              "translation": "|If| each person |contributes| to the work, we will finish work quickly."
+            }
+          ],
+          "meaning": "to contribute; to put one\u0027s share in"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːħ xaɬħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏахь хэлъын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ахъщэм |сиӏахь хэлъ|",
+              "translation": "|I have a share| in the money."
+            }
+          ],
+          "meaning": "to have a share in"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏахъуэ",
+      "synonyms": [
+        "хъуакӏо"
+      ],
+      "ipa": "ʔaχʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏахъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏахъор| цӏыфэу былымхэр зыгъэхъухэрэр ары",
+              "translation": "|Herdsman| is the person that herds cattle."
+            },
+            {
+              "sentence": "|ӏахъом| былымыхэр ефых",
+              "translation": "|The herdsman| drives the cattle."
+            },
+            {
+              "sentence": "Лӏым |ӏахъоу| ӏоф ешӏэ",
+              "translation": "The man is doing a job |as a herdsman|."
+            },
+            {
+              "sentence": "|ӏахъор| кӏуагъэ",
+              "translation": "|The herdsman| went."
+            }
+          ],
+          "meaning": "herdsman, herder"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːʃatnt͡ʂa",
       "lang": "Adyghe",
       "type": "adj",
-      "word": "кӏэлъэныкъуащ",
+      "word": "ӏашэнчъэ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "ӏанэр |кӏэлъэныкъуащэу| щыт",
-              "translation": "The table is standing |crookedly|."
+              "sentence": "Дзэкӏолӏыхэр |ӏашэнчъэу| зэуапӏэм къыщаукӏыгъэх",
+              "translation": "The soldiers |armlessly| were killed in the battle field."
+            },
+            {
+              "sentence": "Медикыр |ӏашэнчъэу| заом хахьэ цӏыфымэ аӏэзэнэу",
+              "translation": "The medic enters the war |armless| to treat people."
             }
           ],
-          "meaning": "crooked, curved"
+          "meaning": "armless, one that has no arms / weapons."
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːʃatnt͡ʂ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏашэнчъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏашэнчъэ\""
         }
       ]
     },
     {
       "synonyms": [
-        "ежьэжьын",
-        "кӏэӏэжьын"
+        "ӏашӏу ӏушӏу"
       ],
-      "ipa": "t͡ʃʼaʔan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм кумкӏэ |кӏиӏагъ|.",
-              "translation": "The boy |accelerated| with the car."
-            }
-          ],
-          "meaning": "to speed up instantly; to accelerate instantly; to run off quickly"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Шым |кӏиӏагъ|.",
-              "translation": "The horse |fled|."
-            },
-            {
-              "sentence": "Кӏалэм хьэр зелъэгъум |кӏиӏагъ|.",
-              "translation": "When the boy saw the dog, |he fled|."
-            }
-          ],
-          "meaning": "to run away, to flee"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏэкӏьэн",
-      "ipa": "t͡ʃʼat͡ʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэкӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм къэгъагъэмэ псы |акӏекӏэ|",
-              "translation": "The boy |pours| water |into| the flowers."
-            },
-            {
-              "sentence": "Къэгъагъэм псы бащэ |кӏэмыкӏ|",
-              "translation": "|Don\u0027t pour| too much water |into| the flower."
-            },
-            {
-              "sentence": "Псы ӏанэм сымышӏахэу |кӏэскӏагъ|",
-              "translation": "|I spilled|\u0027 water |under| the table by mistake."
-            }
-          ],
-          "meaning": "to pour liquid under, to spill liquid under"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaʁat͡ʃʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэгъэкӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"чӏэгъэкӏын\""
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaɮa ʁʷəsa",
+      "ipa": "ʔaːʃʷʼə ʔʷəʃʷʼ",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "кӏэлэ гъусэ",
+      "word": "ӏашӏу-ӏушӏу",
       "definitions": [
         {
           "examples": [],
-          "meaning": "alternative form of \"гъусэ кӏалэ\""
+          "meaning": "alternative form of \"ӏэшӏу-ӏушӏу\""
         }
       ]
     },
     {
-      "ipa": "kʷʼaχʷən",
+      "ipa": "ʔaːɮə",
       "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏохъун",
+      "type": "adj",
+      "word": "ӏалы",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "wild (animal); untamed"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːħ-maq",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏахьмакъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэхьмакъ\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːħ-maq",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏахь-макъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэхьмакъ\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːħ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏахь",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Кӏалэр |кӏохъуи| гъогур шӏокӏодыгъ",
-              "translation": "The boy |went the wrong way and| lost the road."
+              "sentence": "Лӏым |иӏахьэ| ратыжьыгъ",
+              "translation": "They gave the man |his part of the portion|."
+            },
+            {
+              "sentence": "Лӏым |ӏахьэу| хилъхьагъэр бэ",
+              "translation": "The man\u0027s |contribution| is a lot."
+            },
+            {
+              "sentence": "Сшы |сиӏахь| къызтрихыгъ",
+              "translation": "My brother took |my share|."
+            },
+            {
+              "sentence": "Унагъом мэл заукӏым, ягъунэгъу лӏыжъым |ӏахьэ| фарагъэхьыгъ",
+              "translation": "When the family killed a sheep, they gave their neighbor old-man |his share|."
             }
           ],
-          "meaning": "to go the go way"
+          "meaning": "share; part; portion"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼaʃʼəħaːn",
+      "ipa": "ʔaːħəɮ",
       "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэшӏыхьан",
+      "type": "noun",
+      "word": "ӏахьыл",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "Лӏым пхъэ унэ чъыгы чӏэгъым |кӏишӏыхьагъ|",
-              "translation": "The man |constructed| a wooden house under the tree."
+              "sentence": "Кӏалэм |ӏахьыл| бэ иӏ",
+              "translation": "The boy has a lot of |relatives|."
+            },
+            {
+              "sentence": "|Сиӏахьылхэр| тыунэ щышхэщтых",
+              "translation": "|My relatives| will eat in our house."
+            },
+            {
+              "sentence": "Куджаныр |сиӏахьыл| чыжь",
+              "translation": "Kujan |is my| far |relative|."
             }
           ],
-          "meaning": "to construct under"
-        },
-        {
-          "examples": [],
-          "meaning": "to make under"
+          "meaning": "relative (someone in the same family; someone connected by blood, marriage, or adoption)"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼaːd",
+      "ipa": "ʔaːʃt͡ʃʼ",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "кӏад",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "cask; barrel"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼaːd͡za",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏадзэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "sweat-cloth"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəʔʷtajɬ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏыӏутелъ",
+      "word": "ӏашкӏ",
       "definitions": [
         {
           "examples": [
             {
-              "sentence": "щыгъын кӏыӏутелъ",
-              "translation": "outerwear."
+              "sentence": "осы ӏашкӏ",
+              "translation": "snowball."
             }
           ],
-          "meaning": "outer"
+          "meaning": "clod"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼatəkʷ",
+      "synonyms": [
+        "хьэкъуашъо"
+      ],
+      "ipa": "ʔaːnɬa",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "кӏэтыку",
+      "word": "ӏанлъэ",
       "definitions": [
         {
           "examples": [],
-          "meaning": "a small valley between a hill/river and a river"
-        }
-      ]
-    },
-    {
-      "ipa": "kʷʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр пшъыгъэ, гъогууанэ |ыкӏугъ|",
-              "translation": "The boy got tired, he |went| a long distance."
-            },
-            {
-              "sentence": "Кӏалэм километыритф |ыкӏугъ|",
-              "translation": "The boy |walked| five kilometers."
-            }
-          ],
-          "meaning": "to walk a certain distance, to go a certain distance, to pass a certain distance"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼəʃʷaʔʷat",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏышъоӏот",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "bath loofah"
-        }
-      ]
-    },
-    {
-      "shapsug": "кӏьэзэзын",
-      "ipa": "t͡ʃʼazazən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэзэзын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |мэкӏэзэзэ|",
-              "translation": "The boy |shivers|."
-            },
-            {
-              "sentence": "Пшъашъэр мэзахэм |кӏэзэзэу| хэт",
-              "translation": "The girl |is trembling| in the dark."
-            },
-            {
-              "sentence": "Сэ чъыӏэ сылӏэшъ |сэкӏэзэзы|",
-              "translation": "Because the I am feeling cold, |I shiver|."
-            },
-            {
-              "sentence": "Кӏалэр щынэм къыхэкӏэу |кӏэзэзыгъ|",
-              "translation": "The boy |trembled| out of fear."
-            },
-            {
-              "sentence": "Кӏалэр чъыӏэм |егъэкӏэзэзы|",
-              "translation": "The cold |trembles| the boy."
-            }
-          ],
-          "meaning": "to shiver, to tremble"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼazaz",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "кӏэзэз",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "tremble"
-        }
-      ]
-    },
-    {
-      "ipa": "t͡ʃʼapə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "кӏэпы",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "hemp"
+          "meaning": "trough"
         },
         {
           "examples": [],
-          "meaning": "cannabis"
+          "meaning": "washing tub"
         }
       ]
     },
     {
-      "ipa": "t͡ʃʼapət͡ʃʼ",
+      "ipa": "ʔaːt͡ʃʼa",
       "lang": "Adyghe",
       "type": "noun",
-      "word": "кӏэпыкӏ",
+      "word": "ӏакӏэ",
       "definitions": [
         {
-          "examples": [],
-          "meaning": "hemp seed"
+          "examples": [
+            {
+              "sentence": "|Сӏакӏ| мэузы",
+              "translation": "|My wrist| hurts"
+            }
+          ],
+          "meaning": "wrist"
         }
       ]
     }
@@ -103072,6 +91081,20 @@ const circassianDict = {
       ]
     }
   ],
+  "ӏе": [
+    {
+      "ipa": "ʔajɬən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏелъын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэлъын\""
+        }
+      ]
+    }
+  ],
   "ыг": [
     {
       "ipa": "əɡʷə jawan",
@@ -103375,6 +91398,1089 @@ const circassianDict = {
         {
           "examples": [],
           "meaning": "alternative form of \"гу тепсэфэн\""
+        }
+      ]
+    }
+  ],
+  "цӏ": [
+    {
+      "ipa": "t͡sʼənaʁaːt͡ʃʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏынэгъакӏ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чӏыгум |цӏынэгъакӏ| макӏ хэлъыр",
+              "translation": "There is little |dampness| in the ground."
+            }
+          ],
+          "meaning": "humidity (dampness, especially that of the air)"
+        }
+      ]
+    },
+    {
+      "kabardian": "цӏыху",
+      "ipa": "t͡sʼəfə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏыфы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Цӏыфыхэр| щыӏэх лы амышхэу",
+              "translation": "There are |people| that do not eat meat."
+            },
+            {
+              "sentence": "Ар |цӏыф| дэгъу",
+              "translation": "(S)he is a good |person|."
+            },
+            {
+              "sentence": "Тхьапш |цӏыфэу| къэкӏощтыр чэщдэсым",
+              "translation": "How many |people| will come to the party?"
+            },
+            {
+              "sentence": "Тхьапш |цӏыфэу| дунаем тетыр?",
+              "translation": "How many |people| there are in the world?"
+            },
+            {
+              "sentence": "Тиунэ |цӏыф| бэ ис",
+              "translation": "There are a lot of |people| in our house."
+            }
+          ],
+          "meaning": "person, human"
+        }
+      ]
+    },
+    {
+      "shapsug": "сӏэ",
+      "ipa": "t͡sʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сыд |уцӏэ|?",
+              "translation": "What is |your name|?"
+            },
+            {
+              "sentence": "|Сцӏэ| сэ Адэм",
+              "translation": "|My name| is Adam."
+            },
+            {
+              "sentence": "Сыд |цӏэ| дах щыӏэхыр?",
+              "translation": "What beautiful |names| there are?"
+            },
+            {
+              "sentence": "|Цӏэ| сабыим фэусын",
+              "translation": "To |name| a child."
+            },
+            {
+              "sentence": "Кӏалэм  |ыцӏэкӏэ| къедж",
+              "translation": "Call the boy |by his name|"
+            },
+            {
+              "sentence": "Кӏалэм |цӏэ| кӏыхь иӏ",
+              "translation": "The boy has a long |name|."
+            }
+          ],
+          "meaning": "name"
+        },
+        {
+          "examples": [],
+          "meaning": "louse"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəraːw",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏырау",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "wild grass (steppe); (tall) weeds"
+        }
+      ]
+    },
+    {
+      "shapsug": "сӏынэ",
+      "ipa": "tsʼəna",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "цӏынэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лъэоер |цӏынэ|, сыфэсакъ уемыцӏэшъутэхынэу",
+              "translation": "The staircase is |wet|, be careful not to slip down."
+            },
+            {
+              "sentence": "Джэхашъор |цӏынэ|, умышӏахэу утецӏэшъутыхьащт",
+              "translation": "The floor |is wet|, you will slip by mistake."
+            },
+            {
+              "sentence": "|Сыцӏынэу| схъугъ псы къэстехьэм",
+              "translation": "I became |wet| when water came on me."
+            },
+            {
+              "sentence": "Сиджанэ |цӏынэ|",
+              "translation": "My shirt is |wet|."
+            }
+          ],
+          "meaning": "wet"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лы |цӏынэр| ӏае",
+              "translation": "|Raw| meat is nasty."
+            },
+            {
+              "sentence": "Кӏалэм лы |цӏынэу| ешхы",
+              "translation": "The boy eats |raw| meat."
+            }
+          ],
+          "meaning": "raw (meat)"
+        }
+      ]
+    },
+    {
+      "ipa": "tsˈəʔrʁ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏыргъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "snail"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəfxa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏыфхэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "people"
+        }
+      ]
+    },
+    {
+      "kabardian": "цӏыхубз",
+      "ipa": "/t͡sʼəfəbz/",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏыфыбз",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "(dialectal) woman; see \"бзылъфыгъэ\""
+        }
+      ]
+    },
+    {
+      "kabardian": "цӏыхухъу",
+      "ipa": "/t͡sʼəfəχʷ/",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏыфыхъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "(dialectal) man; see \"хъулъфыгъэ\""
+        }
+      ]
+    },
+    {
+      "shapsug": "сӏакӏьэ",
+      "ipa": "t͡sʼaːt͡ʃa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏакӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "nit (louse egg)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼaːʃʷta",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "цӏашъутэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Джэхашъор |цӏашъутэ|",
+              "translation": "The floor is |slip|."
+            },
+            {
+              "sentence": "Джэхашъор |цӏашъутэ|, арти къэшъумычъэхь",
+              "translation": "The floor is |slippery|, so don\u0027t run around."
+            }
+          ],
+          "meaning": "slippery, low-friction surface"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "ӏанэр |цӏашъутэ|",
+              "translation": "The floor is |flat|."
+            }
+          ],
+          "meaning": "smooth, flat"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Цӏыфыр ылъакъо |цӏашъутэ|",
+              "translation": "The man\u0027s leg |is hairless|."
+            }
+          ],
+          "meaning": "(slang) hairless",
+          "tags": [
+            "slang"
+          ]
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Цӏыфыр |цӏашъутэ|",
+              "translation": "The man |is beardless|."
+            }
+          ],
+          "meaning": "(slang) beardless and moustacheless",
+          "tags": [
+            "slang"
+          ]
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼaʃʷtan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэшъутэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Джэхашъом |утецӏэшъутэщт|",
+              "translation": "|You will slip| on the floor."
+            },
+            {
+              "sentence": "Кӏалэр |мэцӏашъутэ|",
+              "translation": "The boy |is slipping|."
+            },
+            {
+              "sentence": "Сӏэ къоӏусыр |чӏэцӏэшъутыкӏы|",
+              "translation": "The banana |is slipping| from my hand."
+            },
+            {
+              "sentence": "Кӏалэр къоӏусым тецуи, |цӏэшъутагъ|",
+              "translation": "The boy step on the banana and |slipped|."
+            }
+          ],
+          "meaning": "to slip (on flat slippery surface with low friction like wet floor, wet road, slide and etc.)"
+        },
+        {
+          "examples": [],
+          "meaning": "to slip-up"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "кӏалэр |цӏашъути| гонахьыхэр ылэжьыгъэх",
+              "translation": "The boy |went astray| and commited sins."
+            }
+          ],
+          "meaning": "to loss the right way; to go astray"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəkʷʼ-ʃʷakʷʼʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏыкӏу-шъокӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|цӏыкӏу-шъокӏумэ| атегущыӏэн",
+              "translation": "to talk about |trifles|."
+            }
+          ],
+          "meaning": "trifle (little things)"
+        }
+      ]
+    },
+    {
+      "kabardian": "бзаджэ",
+      "ipa": "t͡sʼaːpʼa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "цӏапӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Уиджанэ |цӏапӏэ|",
+              "translation": "Your shirt |is nice|."
+            }
+          ],
+          "meaning": "(slang) amazing (awesome, nice, cool)",
+          "tags": [
+            "slang"
+          ]
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыжъыр |цӏапӏэ|",
+              "translation": "The old man |is mean|."
+            }
+          ],
+          "meaning": "mean, cruel"
+        },
+        {
+          "examples": [],
+          "meaning": "evil"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Мо кӏэлэцӏыкӏухэр |цӏапӏэх|",
+              "translation": "Those kids |are awful|."
+            }
+          ],
+          "meaning": "awful in personality or behavior (usually said to kids)"
+        }
+      ]
+    },
+    {
+      "shapsug": "сӏэсӏэн",
+      "ipa": "t͡sʼat͡sʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэцӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыр |мэцӏацӏэ|",
+              "translation": "The man|is scolding|."
+            },
+            {
+              "sentence": "Лӏыжъыр кӏэлэцӏыкӏум |тэцӏацӏэ|",
+              "translation": "The old-man|is scolding| the little boy."
+            },
+            {
+              "sentence": "Тхьэматэр модэ ӏут |цӏацӏэу|",
+              "translation": "The leader |is| standing there |yelling|."
+            }
+          ],
+          "meaning": "to yell at; to scold"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼaɬan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэлъэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"цӏэнлъэн\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼapʼaʐ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "цӏэпӏэжъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мы фылымкӏэ хэт |цӏэпӏэжъэр?|",
+              "translation": "In this film who is |the bad guy|?"
+            },
+            {
+              "sentence": "Лӏыжъыр |цӏэпӏэжъ|",
+              "translation": "The old man |is very mean|."
+            },
+            {
+              "sentence": "|Цӏэпӏэжъ|, укъэсдэмыгущыӏ",
+              "translation": "|You vile|, don\u0027t speak to me."
+            }
+          ],
+          "meaning": "very mean, very cruel, evil, villain, vile"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Мо кӏэлэцӏыкӏухэр |цӏэпӏэжъых|",
+              "translation": "Those kids |are really bad|."
+            }
+          ],
+          "meaning": "very naughty (usually said to kids)"
+        }
+      ]
+    },
+    {
+      "kabardian": "цӏуун",
+      "synonyms": [
+        "жъыун",
+        "лыдын",
+        "цӏыон"
+      ],
+      "ipa": "t͡sʼəwən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏыун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Дышъэр |мэцӏыо|",
+              "translation": "The gold |shines|."
+            },
+            {
+              "sentence": "Жъуагъохэр |мэцӏыох|",
+              "translation": "The stars |are shining|."
+            },
+            {
+              "sentence": "|Цӏыурэ| пстэури дышъэп",
+              "translation": "All the things that |shine| are not gold."
+            }
+          ],
+          "meaning": "to shine"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəwan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏыон",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"цӏыун\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼatχʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэтхъун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"цӏэнтхъун\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼantχʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэнтхъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кур |оцӏэнтхъу|",
+              "translation": "|You are scratching| the car."
+            },
+            {
+              "sentence": "Мышъэм чъыгыр |ецӏэнтхъу| ыӏэбжъанэхэмкӏэ",
+              "translation": "The bear |lives a scratch| on the tree with his claws."
+            },
+            {
+              "sentence": "Чъыг |цӏэнтхъугъэр| олъэгъуа?",
+              "translation": "Do you see the |scratched| tree?"
+            },
+            {
+              "sentence": "Кӏалэм кур |ыцӏэнтхъугъ| ӏункӏыбзэмкӏэ",
+              "translation": "The boy |left a scratch| on the car using the key."
+            },
+            {
+              "sentence": "Чэтыум |укъыцӏэнтхъущт|",
+              "translation": "The cat |will scratch you|."
+            },
+            {
+              "sentence": "Кур |мэцӏэнтхъу|",
+              "translation": "The car |is getting a scratch|."
+            }
+          ],
+          "meaning": "to leave a scratch on; to make a scratch"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "къэпсын"
+      ],
+      "ipa": "t͡sʼatxən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэтхын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |мэцӏэтхы|",
+              "translation": "The boy |is sneezing|."
+            }
+          ],
+          "meaning": "to sneeze"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼat͡sʼaːɮ",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэцӏал",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "peevish, shrewish, grumpy, cantankerous"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "жъгъэй (size of a fragement)"
+      ],
+      "ipa": "t͡sʼəkʷʼ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "цӏыкӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "кӏэлэ |цӏыкӏу|",
+              "translation": "|Little| boy."
+            },
+            {
+              "sentence": "ӏанэр |цӏыкӏу|",
+              "translation": "The table |\u0027is small|."
+            },
+            {
+              "sentence": "Унэ |цӏыкӏу| сихьагъ",
+              "translation": "I went inside the |\u0027small| house."
+            },
+            {
+              "sentence": "Чъыгы |цӏыкӏур| инэу хъущт псы чӏэбгъэхьэмэ",
+              "translation": "The |small| tree will become big if you pour water into it."
+            }
+          ],
+          "meaning": "little; small"
+        }
+      ]
+    },
+    {
+      "shapsug": "хэӏуагъ",
+      "ipa": "t͡sʼarəʔʷ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "цӏэрыӏо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сятэш пщынао |цӏэрыӏу|",
+              "translation": "My uncle is |a famous| accordionist."
+            },
+            {
+              "sentence": "Лӏыжъыр |цӏэрыӏу|",
+              "translation": "The old man |is famous|."
+            },
+            {
+              "sentence": "Мы рестырантэр |цӏэрыӏу|",
+              "translation": "This restaurant |is famous|."
+            },
+            {
+              "sentence": "А орэдаӏохэр |цӏэрыӏох|",
+              "translation": "Those singers |are famous|."
+            }
+          ],
+          "meaning": "famous; well-known"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼət͡sʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏыцӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм тхылъыпӏэр |ецӏыцӏы|",
+              "translation": "The boy is |crumpling| the paper."
+            },
+            {
+              "sentence": "Тхылъыпӏэр |мэцӏыцӏэ|",
+              "translation": "The paper |is crumpling|."
+            }
+          ],
+          "meaning": "to crumple fabric/paper; to press into wrinkles by crushing together"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм иӏэр пчъэм |дэцӏыцӏагъ|",
+              "translation": "The boy\u0027s arm |was squeezed| between the door."
+            },
+            {
+              "sentence": "Кӏалэм пластикэр |ыцӏыцӏыгъ|",
+              "translation": "The boy |squeezed| the plastic."
+            },
+            {
+              "sentence": "Апчыр |уцӏыцӏымэ|, чэни убэтэщт",
+              "translation": "|If you squeeze| glass, it will crack and will break."
+            },
+            {
+              "sentence": "Кӏалэм бадзэр |ыцӏыцӏыгъ|",
+              "translation": "The boy |squashed| the fly."
+            },
+            {
+              "sentence": "Мыщ пхъэхэр |зэхецӏыцӏэх|",
+              "translation": "This thing |compresses| woods."
+            },
+            {
+              "sentence": "Кур дэпкъым жэхахьи, зэхицӏыцӏагъ",
+              "translation": "The car crashed into the wall, and it got compressed."
+            }
+          ],
+          "meaning": "to squash; to squish; to compress; to crush; to squeeze so as to alter the natural shape or integrity of the object (the effect of the squeezing is irreversible unlike the verb фызын)"
+        }
+      ]
+    },
+    {
+      "shapsug": "сӏын",
+      "ipa": "t͡sʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |мэцӏы|",
+              "translation": "The boy |is taking a shit|."
+            },
+            {
+              "sentence": "|Укъэмыцӏ|",
+              "translation": "|Don\u0027t shit|."
+            },
+            {
+              "sentence": "Уихьэ |зыцӏыкӏэ| ихьай къэбыштэжьын фай гъогур угъэкъэбзэжьынэу",
+              "translation": "|When| your dog |takes a shit|, you need to lift its shit to clean up the road."
+            }
+          ],
+          "meaning": "(vulgar) to take a shit; to shit; to crap"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼatχən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэтхъын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"цӏэтхъун\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəfəʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏыфыгъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "morality"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼapaːpt͡ʃʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏэпапкӏ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "pronoun"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəʃχan",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏышхъэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Жъуагъохэр |мэцӏышхъых|",
+              "translation": "The stars |are sparkling|."
+            }
+          ],
+          "meaning": "to sparkle, to scintillate"
+        }
+      ]
+    },
+    {
+      "shapsug": "цӏэлъэн",
+      "synonyms": [
+        "пшын"
+      ],
+      "ipa": "t͡sʼaɬan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэнлъэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Дзэкӏолӏыр |мэцӏанлъэ|",
+              "translation": "The soldier |is crawling|."
+            },
+            {
+              "sentence": "Блэр ытхыкӏэ |мэцӏанлъэ|",
+              "translation": "The snake |is crawling| on its stomach."
+            },
+            {
+              "sentence": "Блэ |цӏанлъэу| сылъэгъугъ мыжъомэ адэжьыкӏэ",
+              "translation": "I saw a snake |crawling| near the stones."
+            },
+            {
+              "sentence": "Блэр гъогум |щэцӏанлъэ|",
+              "translation": "The snake |is crawling| on the road."
+            }
+          ],
+          "meaning": "to crawl; to creep"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыжъыр |цӏанлъэу| макӏо",
+              "translation": "The old-man is going |dragging himself|."
+            }
+          ],
+          "meaning": "to walk dragging oneself"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼanɬa-kʷʼaːnɬ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏэнлъэ-кӏуанлъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "in a slippery manner"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼanɬaːʁʷa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "цӏэнлъэгъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Гъогур |цӏэнлъагъо| хъугъэ",
+              "translation": "The road became |slippery|."
+            }
+          ],
+          "meaning": "slippery"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəran",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏырэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Къэгъагъэхэмэ псы |атегъэцӏыр|",
+              "translation": "(S)he |pours| water into the flowers."
+            },
+            {
+              "sentence": "Кӏалэм чӏыгум |тегъэцӏырэ|",
+              "translation": "The boy is |spraying| on the ground."
+            }
+          ],
+          "meaning": "to fountain; to flow or gush liquid as if from a fountain"
+        }
+      ]
+    },
+    {
+      "ipa": "wət͡sʼənən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏынэу хъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр уаем хэтзэ иджанэ |уцӏыныгъэ|",
+              "translation": "The boy was in the strong rain and his clothes |got wet|."
+            }
+          ],
+          "meaning": "to get wet/soaked, to be soaking, to be sopping wet"
+        }
+      ]
+    },
+    {
+      "shapsug": "сӏынэу хъун",
+      "synonyms": [
+        "уцӏынын"
+      ],
+      "ipa": "t͡sʼənaw χʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏынэу хъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр уаем хэтзэ иджанэ |цӏынэу хъугъэ|",
+              "translation": "The boy was in the strong rain and his clothes |got wet|."
+            },
+            {
+              "sentence": "Кӏалэм ипаӏо псым хафи |цӏынэу хъугъэ|",
+              "translation": "The boy\u0027s hat fell inside the water and |got wet|."
+            }
+          ],
+          "meaning": "to get wet/soaked, to be soaking, to be sopping wet"
+        }
+      ]
+    },
+    {
+      "shapsug": "сӏынэу шӏын",
+      "synonyms": [
+        "гъэуцӏынын"
+      ],
+      "ipa": "t͡sʼənaw ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏынэу шӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ощхым сиджанэ |цӏынэу ышӏыгъ|",
+              "translation": "The rain |made| my clothes |wet|."
+            },
+            {
+              "sentence": "Кӏалэм псы пшъашъэм тегъахьэм, иджанэ |цӏынэу ышӏыгъ|",
+              "translation": "When the boy spilled water on the girl, |it made| her shirt |wet|."
+            }
+          ],
+          "meaning": "to make something wet/soaked, to soak"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏы",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "(vulgar) crap, shit"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəwatan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏыотэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to shine rapidly"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼalan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэлэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to soil, to dirty, to stain"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "цӏыкӏунау"
+      ],
+      "ipa": "t͡sʼəkʷʼəjntʼa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "цӏыкӏуинтӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏэлэ |цӏыкӏуинтӏэ|",
+              "translation": "|Tiny| kid."
+            },
+            {
+              "sentence": "Пхъэнтӏэкӏу |цӏыкӏуинтӏэ|",
+              "translation": "|Tiny| chair."
+            }
+          ],
+          "meaning": "tiny; very little"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "цӏыкӏуинтӏэ"
+      ],
+      "ipa": "t͡sʼəkʷʼənaːw",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "цӏыкӏунау",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏэлэ |цӏыкӏунау|",
+              "translation": "|Tiny| kid."
+            },
+            {
+              "sentence": "Пхъэнтӏэкӏу |цӏыкӏунау|",
+              "translation": "|Tiny| chair."
+            }
+          ],
+          "meaning": "very little"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ыцӏэжьын"
+      ],
+      "ipa": "t͡sʼaʑən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏэжьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэхэр бирэкӏэ |ыцӏэжьыгъэх|",
+              "translation": "The boys |got wasted| with beer."
+            }
+          ],
+          "meaning": "(vulgar) to get wasted from alcohol"
+        },
+        {
+          "examples": [],
+          "meaning": "(vulgar) to shit",
+          "tags": [
+            "vulgar"
+          ]
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəkʷʼəʐəj",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "цӏыкӏужъый",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Унэ |цӏыкӏужъый| сызисыр",
+              "translation": "I am living in a |tiny| house."
+            },
+            {
+              "sentence": "Кӏэнкӏэ |цӏыкӏужъый|",
+              "translation": "A |tiny| egg."
+            }
+          ],
+          "meaning": "tiny, wee"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəfəʃʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏыфышъо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "human skin"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼəfəʂħa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "цӏыфышъхьэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "individual"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡sʼərəwən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "цӏырыун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to chirr (of grasshopper)"
         }
       ]
     }
@@ -104222,6 +93328,914 @@ const circassianDict = {
             }
           ],
           "meaning": "bushes, shrubs, shrubbery"
+        }
+      ]
+    }
+  ],
+  "ӏо": [
+    {
+      "ipa": "ʔʷanəʁʷamaːz",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏоныгъомаз",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "September"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏуэху",
+      "ipa": "ʔʷaf",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏоф",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏофы\""
+        }
+      ]
+    },
+    {
+      "ipa": "baːkʷal",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофтабг",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "commissionaire"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "бгылъэ"
+      ],
+      "ipa": "ʔʷaʂħaːɬa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏошъхьалъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "hilly"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏуэху",
+      "ipa": "ʔʷafə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Джы |ӏофы| бэ сышӏэн фай",
+              "translation": "Now I need to do a lot of |work|."
+            },
+            {
+              "sentence": "|ӏофы| бэ сиӏ",
+              "translation": "I have a lot of |work|."
+            },
+            {
+              "sentence": "|ӏофым| макӏо кӏалэр",
+              "translation": "The young man is going to |work|."
+            },
+            {
+              "sentence": "|ӏофы| бэм тыхэбдзагъ о",
+              "translation": "You gave us a lot of |work|"
+            },
+            {
+              "sentence": "|ӏофым| сыкӏощт",
+              "translation": "I will go to |work|"
+            },
+            {
+              "sentence": "Сэ |ӏофы| сылъэхъу",
+              "translation": "I am looking for a |job|."
+            },
+            {
+              "sentence": "Илъэс хъугъэ |ӏофы| зэсымыгъотыр",
+              "translation": "It have already been a year since I couldn\u0027t find a |job|."
+            },
+            {
+              "sentence": "Жъэжъащэу шъолажьэ, мыщтэу иуахътэкӏэ |ӏофыр| тыухыщтэп",
+              "translation": "You guys work too slowly, we won\u0027t finish |the job| in time this way."
+            },
+            {
+              "sentence": "|ӏофэу| сышӏагъэмкӏэ укъэсфэразэба?",
+              "translation": "Aren\u0027t you pleased with me |with the work| I done?"
+            },
+            {
+              "sentence": "|ӏоф| къиным сышӏокӏышъугъ",
+              "translation": "I managed to avoid the hard |work|."
+            },
+            {
+              "sentence": "Кӏалэм сгу фэузы |иӏофкӏэ| къин ехъути",
+              "translation": "I feel bad for the boy because he suffers |in work|."
+            },
+            {
+              "sentence": "Лӏыр а |ӏофым| ӏут илъэсипшӏэ",
+              "translation": "The man has been in that |work| for ten years."
+            }
+          ],
+          "meaning": "work; job"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|ӏофы| сиӏ",
+              "translation": "I have |a job|."
+            },
+            {
+              "sentence": "Сыд |уиӏоф|",
+              "translation": "What is |your job|?"
+            }
+          ],
+          "meaning": "job"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Ар |ӏофа|?",
+              "translation": "Is that |a problem|?"
+            },
+            {
+              "sentence": "Ар |ӏофэп|",
+              "translation": "That is not |a problem|."
+            },
+            {
+              "sentence": "|ӏофым| сыхэт",
+              "translation": "I am in a |problem|."
+            }
+          ],
+          "meaning": "problem"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "лэжьапӏэ"
+      ],
+      "ipa": "ʔʷafʃʼaːpʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофшӏапӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ӏофшӏапӏэм| кӏуагъэ лэжьэнэу",
+              "translation": "The boy went to |the working place| to work."
+            }
+          ],
+          "meaning": "workplace; worksite"
+        },
+        {
+          "examples": [],
+          "meaning": "factory"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaʑən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏожьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Коцыр |ӏожьын|",
+              "translation": "|To thresh| the wheat."
+            }
+          ],
+          "meaning": "to thresh"
+        }
+      ]
+    },
+    {
+      "kabardian": "жыӏэн",
+      "ipa": "ʔʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "кӏалэм гущыӏэр |еӏо|",
+              "translation": "The boy |is saying| the word."
+            },
+            {
+              "sentence": "лӏым хъуанэ |къыӏорэп|",
+              "translation": "The man |is not saying| a swear word."
+            },
+            {
+              "sentence": "хэт о ар |къыозыӏуагъэр|?",
+              "translation": "who |said| that to you?"
+            },
+            {
+              "sentence": "|сыӏуагъэр| тучаным укӏон фай",
+              "translation": "|what I said is|, you need to go to the shop"
+            },
+            {
+              "sentence": "сыд |уӏуагъэр|?",
+              "translation": "what |you said|?"
+            },
+            {
+              "sentence": "Сцӏэ |къапӏомэ| уцӏэ |къэсӏожьыщт|",
+              "translation": "|If you say| my name, |I will say| yours."
+            }
+          ],
+          "meaning": "to say something"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "лӏыжъыр кӏон |еӏо|",
+              "translation": "The old man |is trying| to go."
+            },
+            {
+              "sentence": "сыкъэгущыӏэн |сэӏо|",
+              "translation": "|I am trying| to speak."
+            },
+            {
+              "sentence": "пчъэр ӏухын |ӏо|, егъэтыгъэмэ тегъэплъ",
+              "translation": "|Try| to open the door, let\u0027s see if it is locked."
+            },
+            {
+              "sentence": "кӏалэм сыдэгущыӏэн |сыӏуагъ|, ау цӏыфыр къэдаӏорэп",
+              "translation": "|I tried| talking with the boy, but the dude doesn\u0027t listen."
+            },
+            {
+              "sentence": "кӏалэр километыр чъэн |ыӏуагъ|",
+              "translation": "the boy |tried| to run one kilometer."
+            },
+            {
+              "sentence": "Кӏалэм Адыгэбзэкӏэ гущыӏакӏэ зэригъэшӏэн |еӏо|",
+              "translation": "The boy |is trying| to learn how to speak the Adyghe language."
+            },
+            {
+              "sentence": "Тыгъуакӏор тучаным чӏэкӏошъэн |ыӏозэ| къаубытыгъ",
+              "translation": "The thief |tried| to sneak into the store but he got caught."
+            },
+            {
+              "sentence": "Хьакӏэр ежьэжьын |ыӏуагъ| шъхьакӏэм, бысымым ригъэжьэжьыгъэп",
+              "translation": "The guest |tried| to head back, however the host didn\u0027t let him to head back."
+            }
+          ],
+          "meaning": "to attempt, to try (to do something)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Атакъэр |маӏо|",
+              "translation": "The rooster |crows|."
+            }
+          ],
+          "meaning": "to crow; to make the shrill sound characteristic of a rooster"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaxən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏохын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "Misspelled of \"ӏухын\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷafʃʼaʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофшӏэгъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏофшӏэгъу| дэгъухэр сиӏэх",
+              "translation": "I have nice |colleagues|."
+            }
+          ],
+          "meaning": "colleague"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷafʃʼan",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофшӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |иӏофшӏэн| ыгъэцэкӏагъ",
+              "translation": "The boy committed |his tasks|."
+            }
+          ],
+          "meaning": "assignment, task, work (work to do; work to be done)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷafʃʼanənt͡ʂa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофшӏэнынчъэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏофшӏэнынчъэу| мы къэралыгъом исыр бэ дэд",
+              "translation": "There are too many |unemployed| people in this country."
+            }
+          ],
+          "meaning": "unemployed; workless; jobless"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "гущыӏал",
+        "гущыӏэрый",
+        "жэмыӏан",
+        "жэмачыу",
+        "шъхьарыгущыӏ"
+      ],
+      "ipa": "ʔʷarʐʷar",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏоржъор",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Цӏыф |ӏоржъор|",
+              "translation": "A |babbler| person."
+            }
+          ],
+          "meaning": "twaddler, babbler"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷarəʃʼa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏорышӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "кӏэлэцӏыкӏу |ӏорышӏэх|",
+              "translation": "|An obedient| child."
+            }
+          ],
+          "meaning": "obedient, dutiful, a person that obeys"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaʁʷaɬħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏогъолъхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Къалэмкӏэ, цӏыфы унэнчъэхэр гъогум |ӏогъуалъхьэх|",
+              "translation": "In the city, homeless people |lie down near| the streets."
+            }
+          ],
+          "meaning": "to lie down near"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏуртӏагъ"
+      ],
+      "ipa": "ʔʷantaːʁ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏонтагъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чъыгыр |ӏонтагъ|",
+              "translation": "The tree |is crooked|."
+            },
+            {
+              "sentence": "Сурэтыр дэпкъым |ӏонтагъэу| пылъэгъагъэти сыгъэузэнкӏыжьыгъ",
+              "translation": "Because the picture was hanging |crookedly| on the wall, I straighten it."
+            }
+          ],
+          "meaning": "curve, crooked (set at an angle, not vertical or square)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|ӏонтагъэу| отхэ",
+              "translation": "You write |crookedly|."
+            },
+            {
+              "sentence": "Уихъурай |ӏонтагъ|",
+              "translation": "Your circle |is crooked|."
+            },
+            {
+              "sentence": "Пкъэур ӏаеу щыт, тӏэкӏу |ӏонтагъ|",
+              "translation": "The pillar is standing badly, it is |crooked| a bit."
+            }
+          ],
+          "meaning": "curve, crooked (not straight; having one or more bends or angles)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|ӏонтагъ| къапӏорэр",
+              "translation": "What you\u0027re saying |is wrong|"
+            },
+            {
+              "sentence": "Джэуап |ӏонтагъ| епдзыгъэр",
+              "translation": "You signed the |wrong| answer."
+            },
+            {
+              "sentence": "Джэуап |ӏонтагъ| лӏым уптымэ, угъэгубжьыщт",
+              "translation": "If you give the |wrong| answer to the man, he will get angry."
+            }
+          ],
+          "meaning": "incorrect, wrong"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏофшӏакӏо",
+        "лэжьакӏо"
+      ],
+      "ipa": "ʔʷafəʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофышӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чылэм |иӏофышӏэхэр| къэкӏуагъэх унэр ашӏынэу",
+              "translation": "The village\u0027s |toilers| came to build a house."
+            }
+          ],
+          "meaning": "toiler; worker; a person who toils or labors"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏофышӏэ",
+        "лэжьакӏо"
+      ],
+      "ipa": "ʔʷafəʃʼaːkʷʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофшӏакӏо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чылэм |иӏофшӏакӏохэр| къэкӏуагъэх унэр ашӏынэу",
+              "translation": "The village\u0027s |toilers| came to build a house."
+            }
+          ],
+          "meaning": "toiler; worker; a person who toils or labors"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷafʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофшӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏофышӏэ\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷataʐ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏотэжъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "fairy tale"
+        },
+        {
+          "examples": [],
+          "meaning": "old story"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷatan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏотэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"къэӏотэн\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "лэжьапкӏ"
+      ],
+      "ipa": "ʔʷafʃʼaːpt͡ʃʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофшӏапкӏ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "salary; wage; alternative form of \"лэжьапкӏ\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaftħaːbz",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофтхьабз",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сыдрэ |ӏофтхьабзи| бзыпхъэ ищыкӏагъ",
+              "translation": "Each |subject| needs a pattern."
+            }
+          ],
+          "meaning": "subject; topic"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷarʃʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏорышӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |мэӏуарышӏэ|",
+              "translation": "The boy |obeys|."
+            },
+            {
+              "sentence": "Сэ |сэӏуарышӏэ|",
+              "translation": "|I obeyed|."
+            },
+            {
+              "sentence": "О |уӏорышӏагъэп|",
+              "translation": "|You did not obey|."
+            },
+            {
+              "sentence": "Кӏалэр |ӏорышӏагъ|",
+              "translation": "The boy |obayed|."
+            },
+            {
+              "sentence": "Ным ыкъо |ыгъэӏорышӏэшъущтэп|",
+              "translation": "The kid\u0027s mother |cannot make him obey|."
+            }
+          ],
+          "meaning": "to obey; to be obeying"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaf xad͡zan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏоф хэдзэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏофым тыхэбдзагъ|",
+              "translation": "|You put us in a troublesome situation|."
+            },
+            {
+              "sentence": "Экзамыным |ӏофым сыхидзагъ|",
+              "translation": "The exam |put me in a troublesome situation|."
+            }
+          ],
+          "meaning": "to put someone in a troublesome situation"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaɬʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏолӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"еӏолӏэн\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷarʃʼad͡ʒan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏорышӏэджэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |мэӏорышӏаджэ|",
+              "translation": "The boy |disobeys|."
+            },
+            {
+              "sentence": "Кӏалэр ыянэ |еӏорышӏэджагъ|",
+              "translation": "The boy |disobeyed| his mother."
+            },
+            {
+              "sentence": "Кӏэлэцӏыкӏур ыянэрэ ыятэрэ |аӏорышӏаджэ|",
+              "translation": "The little boy |disobeys| his father and mother."
+            },
+            {
+              "sentence": "Пщылӏэу |ӏорышӏэджагъэр| аукӏыщтыгъ",
+              "translation": "A slave that |disobeyed| used to be killed."
+            }
+          ],
+          "meaning": "to disobey"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷarəʃʼaːd͡ʒ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏорышӏадж",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "кӏэлэцӏыкӏу |ӏорышӏадж|",
+              "translation": "|disobedient| child."
+            }
+          ],
+          "meaning": "disobedient, a person that does not obey"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷafətan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏофытэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Гъазет къыхьынэу шъэожъыер лӏым |ыӏофытагъ|",
+              "translation": "The man |sent| the kid to bring a newspaper."
+            },
+            {
+              "sentence": "Сянэ тучаным |сыӏофытагъ| щэ къэсхьынэу",
+              "translation": "My mother |send me| to the shop to bring milk."
+            }
+          ],
+          "meaning": "to send someone to bring something"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷaʔʷəd͡ʒ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏотын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to knead"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ыкӏыб |ыӏотыгъ|",
+              "translation": "The boy |rubs| his back."
+            },
+            {
+              "sentence": "Кӏалэм ынэхэр |ыӏотыных|",
+              "translation": "The boy |rubs| his eyes."
+            }
+          ],
+          "meaning": "to rub"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷafəʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофыгъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Матиматикэм |иӏофыгъохэр|",
+              "translation": "|The problems of| mathematics."
+            }
+          ],
+          "meaning": "matter, issue, problem"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaftħabza",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофтхьэбзэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏофтхьэбзэ| гуадз",
+              "translation": "Additional |issue|."
+            }
+          ],
+          "meaning": "issue"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaχʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏохъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |ӏохъугъэ|",
+              "translation": "The boy |misspoke|."
+            }
+          ],
+          "meaning": "to make a slip in speaking; to say something mistakenly"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷafənt͡ʂa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофынчъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "unemployed, jobless"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тхьаусхэн"
+      ],
+      "ipa": "ʔʷajən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏоин",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мэлыр |мэӏуае|",
+              "translation": "The sheep |bleats|."
+            }
+          ],
+          "meaning": "to bleat"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |мэӏуае|",
+              "translation": "The boy |whines|."
+            },
+            {
+              "sentence": "Кӏалэр пшъашъэм |фэӏуае|",
+              "translation": "The boy |whines for| the girl."
+            },
+            {
+              "sentence": "Кӏалэр |ӏоезэпыт|",
+              "translation": "The boy |always whine|."
+            }
+          ],
+          "meaning": "(slang) to whine; to complain"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷarətx",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏорытх",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "dictation; the process of speaking for someone else to write down the words"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷafʃʼaːt͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏофшӏакӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым |ӏофшӏакӏэ| ешӏэ",
+              "translation": "The man knows |how to work|."
+            },
+            {
+              "sentence": "Кӏалэр |ӏофшӏакӏэм| фэкъулай",
+              "translation": "The boy is skillful in the |manner of working|."
+            }
+          ],
+          "meaning": "how to work; way of working; manner of working"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷarʔʷataʑ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏорӏотэжь",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ӏорӏотэжькӏэ| хъугъэр зэхихыгъ",
+              "translation": "The boy heard what happened |by a rumor|."
+            }
+          ],
+          "meaning": "rumor, talk, hearsay"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "гущыӏал",
+        "гущыӏэрый",
+        "жэмыӏан",
+        "жэмачыу",
+        "шъхьарыгущыӏ"
+      ],
+      "ipa": "ʔʷarʒʷar",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏоржъор",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "twaddler, babbler"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ӏо| иӏэп хъугъэмкӏэ",
+              "translation": "The boy has no |saying| in what happened."
+            }
+          ],
+          "meaning": "saying"
         }
       ]
     }
@@ -105292,7 +95306,7 @@ const circassianDict = {
       ]
     },
     {
-      "ipa": "qʷaʁʷana",
+      "ipa": "qʷərna",
       "lang": "Adyghe",
       "type": "noun",
       "word": "къогъонэ",
@@ -110833,7 +100847,7 @@ const circassianDict = {
               "translation": "|I explained to| the boy how to make food."
             }
           ],
-          "meaning": "to explain"
+          "meaning": "to describe; to explain"
         }
       ]
     },
@@ -115119,6 +105133,1347 @@ const circassianDict = {
       ]
     }
   ],
+  "ӏу": [
+    {
+      "synonyms": [
+        "ӏупэ"
+      ],
+      "ipa": "ʔʷəpʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏупшӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Унэ |ӏупшӏэм| урам щыӏэп",
+              "translation": "There is no street |in front| of the house."
+            },
+            {
+              "sentence": "Кӏалэм |ыӏупшӏэ| пшъашъэр щыт",
+              "translation": "The girl is standing |in front| of the boy."
+            },
+            {
+              "sentence": "|Сӏупшӏэ| къиуцу",
+              "translation": "Stand still |in front of me|."
+            }
+          ],
+          "meaning": "lip; lips"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏупшӏэ"
+      ],
+      "etymology": "From ӏу (mouth) + пэ (nose)",
+      "ipa": "ʔʷəpa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏупэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр пшъашъэм |ыӏупэкӏэ| ебыугъ",
+              "translation": "The boy kissed the girl |with the lips|."
+            },
+            {
+              "sentence": "Пшъашъэм |ыӏупэ| ылагъ ӏупэлэнкӏэ",
+              "translation": "The girl colored |her lips| with a lipstick."
+            },
+            {
+              "sentence": "|Сӏупэ| сецэкъэжьыгъ",
+              "translation": "I bite |my own lips|."
+            }
+          ],
+          "meaning": "lip; lips"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Унэ |ӏупэм| урам щыӏэп",
+              "translation": "There is no street |in front| of the house."
+            },
+            {
+              "sentence": "Кӏалэм |ыӏупэ| пшъашъэр щыт",
+              "translation": "The girl is standing |in front| of the boy."
+            },
+            {
+              "sentence": "|Сӏупэ| къиуцу",
+              "translation": "Stand still |in front of me|."
+            }
+          ],
+          "meaning": "front"
+        }
+      ]
+    },
+    {
+      "etymology": "From ӏу (mouth) + псы (water)",
+      "ipa": "ʔʷəp",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏупс",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏупсы\""
+        }
+      ]
+    },
+    {
+      "etymology": "From ӏу (mouth) + псы (water)",
+      "ipa": "ʔʷəp",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏупсы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏупсыр| цӏыфым ыжэ псэу къыдэкӏырэр ары",
+              "translation": "|Saliva| is the water that comes  out from the human\u0027s mouth."
+            },
+            {
+              "sentence": "|ӏупс| ужэ къыдэкӏы, лъэкӏыжь",
+              "translation": "|Saliva| is dripping from your mouth, wipe it off."
+            },
+            {
+              "sentence": "Хьэм ыбзэгу |ӏупс| бэ къыпытӏэтӏы",
+              "translation": "A lot of |saliva| is drizzling from the dog\u0027s tongue."
+            }
+          ],
+          "meaning": "saliva"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏукӏьыбзэ",
+      "ipa": "ʔʷənt͡ʃʼəbza",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏункӏыбзэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм |ӏункӏыбзэмкӏэ| пчъэр къыӏуихыгъ",
+              "translation": "The girl opened the door |with the key|."
+            },
+            {
+              "sentence": "Тыдэ хъугъэ |сиӏункӏыбзэ|?",
+              "translation": "Where did |my key| go?"
+            },
+            {
+              "sentence": "|ӏункӏыбзэр| пчъэм игъуанэ игъэхьан",
+              "translation": "To insert |the key| into the door\u0027s hole."
+            },
+            {
+              "sentence": "|ӏункӏыбзэр| гъуанэм ихьэрэп",
+              "translation": "|The key| does not go inside the hole."
+            }
+          ],
+          "meaning": "key"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷʂaːb",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏушъаб",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "one who speaks calmly, quietly and fluently"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷədaːn",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏудан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏудэнэ| кӏыхь",
+              "translation": "Long |thread|"
+            },
+            {
+              "sentence": "|ӏуданэкӏэ| ныор мадэ",
+              "translation": "The old-woman sews |with a thread|."
+            }
+          ],
+          "meaning": "thread"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏуащхьэ",
+      "ipa": "ʔʷaːʂħa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏуашъхьэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏуашъхьэм| дэкӏоен",
+              "translation": "To go up the |mount|."
+            },
+            {
+              "sentence": "|ӏуашъхьэм| къехыжьын",
+              "translation": "To come down from the |mount|."
+            }
+          ],
+          "meaning": "mount"
+        },
+        {
+          "examples": [],
+          "meaning": "hill"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaːʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏуагъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "oath"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəʒʷəa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏужъугъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "thickness"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏувы",
+      "ipa": "ʔʷaʐʷə",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏужъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "ӏэнэ |ӏужъу|",
+              "translation": "|Thick| table."
+            },
+            {
+              "sentence": "Тхылъ |ӏужъу|",
+              "translation": "|Thick| book."
+            },
+            {
+              "sentence": "Чэмым ыпшъашъо |ӏужъу|",
+              "translation": "The cow\u0027s neck skin |is thick|."
+            }
+          ],
+          "meaning": "thick"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "былымӏус",
+        "былым ӏус"
+      ],
+      "ipa": "ʔʷəs",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏус",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ӏус| шкӏэм реты",
+              "translation": "The boy is giving |food| to the calf."
+            },
+            {
+              "sentence": "Чэтмэ |ӏус| аритыгъ",
+              "translation": "He gave |food| to the chickens."
+            }
+          ],
+          "meaning": "food for animals; fodder"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏонтагъ"
+      ],
+      "ipa": "ʔʷəntʼaːʁ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏуртӏагъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏонтагъ\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəpt͡ʂanpt͡ʂan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏупчъэпчъэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to mutter"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəb",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏуб",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Псы |ӏуб|",
+              "translation": "A |sip| of water."
+            }
+          ],
+          "meaning": "sip; gulp"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷampam",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏумпэм",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "neglect, disregard"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷməɮ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏумыл",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "ice-covered ground, black ice"
+        }
+      ]
+    },
+    {
+      "shapsug": "къугъо",
+      "ipa": "ʔʷəʁʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏугъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Унэм ионджэкъ |ӏугъо| къекӏы",
+              "translation": "|Smoke| is coming out from the house\u0027s chimney."
+            },
+            {
+              "sentence": "|ӏугъоу| кумэ къарикӏырэм жьыр еушӏои",
+              "translation": "|The smoke| coming from the cars |contaminates| the air."
+            }
+          ],
+          "meaning": "smoke"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəpaf",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏупэф",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "white lips"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏуакӏьэ",
+      "synonyms": [
+        "къэӏуакӏэ"
+      ],
+      "ipa": "ʔʷaːt͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏуакӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "manner of speech; speech style; the way to say something"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷənan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏунэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to become stuck near (trapped and unable to move or progress)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Тучаным |сыкъыӏунагъ| къэбар къэсӏуатэу",
+              "translation": "|I remained| near the shop chatting."
+            },
+            {
+              "sentence": "Машӏор |къыӏунагъ|",
+              "translation": "The fire |lingered|."
+            }
+          ],
+          "meaning": "to stay behind; to remain; to linger; to loiter; to remain at a certain place instead of moving on"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəlalən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏулэлын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "хьэм ыбзэгу |ӏулэлы|",
+              "translation": "The dog\u0027s tongue |is hanging freely|."
+            },
+            {
+              "sentence": "уиӏупс |къыупӏулэлы|",
+              "translation": "|Your| saliva |is dripping from you|."
+            }
+          ],
+          "meaning": "to hang and bounce (freely)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəʂħ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏушъхь",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "palate"
+        },
+        {
+          "examples": [],
+          "meaning": "poppy (plant)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəbəbən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏубыбын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Бзыур |ӏубыбыжьыгъ|",
+              "translation": "The fly |flew away|."
+            },
+            {
+              "sentence": "Бзыур чъыгым |ӏубыбыжьыгъ|",
+              "translation": "The fly |flew away| from the tree."
+            }
+          ],
+          "meaning": "to fly away"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəxən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏухын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пчъэр |ӏух|",
+              "translation": "|Open| the door.."
+            },
+            {
+              "sentence": "Пчъэр |ӏухыгъ|",
+              "translation": "The door |is open|."
+            },
+            {
+              "sentence": "Кӏалэм пчъэр |ӏуехы|",
+              "translation": "The boy is |opening| the door."
+            },
+            {
+              "sentence": "Кӏалэм пчъэр |ӏуихыгъ|",
+              "translation": "The boy is |opened| the door."
+            },
+            {
+              "sentence": "Кӏалэм пчъэр |къыӏурегъэх|",
+              "translation": "|Make| the boy |open| the door."
+            },
+            {
+              "sentence": "Шъхьангъупчъэр |къыӏухи| бадзэр унэм идгъэбыбын тыӏощт",
+              "translation": "|Open| the window and we will try to make the housefly fly out of the house."
+            },
+            {
+              "sentence": "Пшъашъэм ӏункӏыбзэмкӏэ пчъэр |къыӏуихыгъ|",
+              "translation": "The girl |opened| the door with the key."
+            },
+            {
+              "sentence": "Тиунэ укъакӏомэ пчъэ |къыпфэӏусхыщт|",
+              "translation": "If you come to our house, |I will open| the door |for you|."
+            },
+            {
+              "sentence": "Пчъэр хьакӏэм |фэӏух|",
+              "translation": "|Open| the door |for| the guest."
+            },
+            {
+              "sentence": "Шъхьангъупчъэр |ӏусхыгъ|",
+              "translation": "|I opened| the window"
+            }
+          ],
+          "meaning": "to open"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "ӏанэр чъыгым |ӏух|",
+              "translation": "|Take| the table |away| from the tree."
+            },
+            {
+              "sentence": "Кӏалэм топыр чъыгым |ӏуехы|",
+              "translation": "The boy |is talking| the ball |away| from the tree."
+            },
+            {
+              "sentence": "Пхъэнтӏэкӏухэр |ӏумыхых|",
+              "translation": "|Don\u0027t take away| the chairs from there."
+            }
+          ],
+          "meaning": "to take something away from near something"
+        }
+      ]
+    },
+    {
+      "kabardian": "тхьэщӏын",
+      "ipa": "ʔʷəχʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏухъон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "пэӏухъор шъхьаныгъупчъэм |ӏухъон|",
+              "translation": "|To close| the curtain of the window."
+            }
+          ],
+          "meaning": "to close (e.g. a window) by hanging something over it"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷət͡ʃʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏукӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Неущ |тызэӏукӏэщта?|",
+              "translation": "|Will we meet| tomorrow?"
+            },
+            {
+              "sentence": "Кӏалэм пшъашъэр |ӏукӏагъ|",
+              "translation": "The boy |met| the girl."
+            },
+            {
+              "sentence": "Пшъашъэр |къэсӏукӏагъ|",
+              "translation": "The girl |met me|."
+            },
+            {
+              "sentence": "Пшъашъэм |сӏукӏагъ|",
+              "translation": "I |met| the girl."
+            },
+            {
+              "sentence": "Лӏым итхьэматэ ежь |ӏокӏэ|",
+              "translation": "The man |is meeting| with his boss."
+            },
+            {
+              "sentence": "Докторым |сыӏукӏэн| фай",
+              "translation": "|I need to meet| the doctor."
+            },
+            {
+              "sentence": "Сэшъхьахы докторым |сыӏукӏэнэ|",
+              "translation": "I am lazy |to meet| the doctor."
+            },
+            {
+              "sentence": "Докторым |сыӏукӏэшъурэп|",
+              "translation": "|I can\u0027t meet| the doctor."
+            },
+            {
+              "sentence": "Заомкӏэ, лӏым гукӏэгъу хэмылъэу, |ӏукӏэрэр| ыукӏыщтыгъ",
+              "translation": "In the war, the man having no mercy, was killing everyone |that| he |met|."
+            }
+          ],
+          "meaning": "to meet"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр пшъашъэм |ӏукӏэжьыгъ|",
+              "translation": "The boy |caught up| with the girl."
+            },
+            {
+              "sentence": "Нахь псынкӏэу сычъэмэ |усӏукӏэжьыщт|",
+              "translation": "If I run faster |I will catch up to| you."
+            }
+          ],
+          "meaning": "to catch up with someone (before it is too late)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷət͡ʃʼaʑən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏукӏэжьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Неущ |тызэӏукӏэжьыщт|",
+              "translation": "|We will meet again| tomorrow?"
+            },
+            {
+              "sentence": "Кӏалэм пшъашъэр |ӏукӏыжьыгъ|",
+              "translation": "The boy |met| the girl |again|."
+            }
+          ],
+          "meaning": "to meet again"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр пшъашъэм |ӏукӏэжьыгъ|",
+              "translation": "The boy |caught up| with the girl."
+            },
+            {
+              "sentence": "Нахь псынкӏэу сычъэмэ |усӏукӏэжьыщт|",
+              "translation": "If I run faster |I will catch up to| you."
+            }
+          ],
+          "meaning": "to catch up with someone (before it is too late)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏэхьан"
+      ],
+      "ipa": "ʔʷət͡ʃəħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏукӏыхьан",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏэхьан\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷətʼanə",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏутӏэны",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "plague"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to be heard; alternative form of \"къэӏун\""
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|Гъучӏыӏун|",
+              "translation": "Iron nail."
+            },
+            {
+              "sentence": "|Пхъэӏун|",
+              "translation": "Wooden nail."
+            },
+            {
+              "sentence": "|Шъхьэхэӏу|",
+              "translation": "Pair-pin."
+            }
+          ],
+          "meaning": "nail (iron, wood)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏупшӏэгъал",
+        "ӏупэгъал"
+      ],
+      "ipa": "ʔʷəpalan",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏупэлэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм ыӏупэ ылагъ |ӏупэлэнкӏэ|",
+              "translation": "The girl colored her lips |with a lipstick|."
+            }
+          ],
+          "meaning": "lipstick"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏупшӏэгъал",
+        "ӏупэгъал"
+      ],
+      "ipa": "ʔʷəpalan",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏупэгъал",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм ыӏупэ ылагъ |ӏупэгъалкӏэ|",
+              "translation": "The girl colored her lips |with a lipstick|."
+            }
+          ],
+          "meaning": "lipstick"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏупэлэн"
+      ],
+      "ipa": "ʔʷəpʃaʁaːɮ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏупшӏэгъал",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм ыӏупэ ылагъ |ӏупшӏэгъалкӏэ|",
+              "translation": "The girl colored her lips |with a lipstick|."
+            }
+          ],
+          "meaning": "lipstick"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "акъыл"
+      ],
+      "ipa": "ʔʷəʃ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏуш",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Бзылъфыгъэр  |ӏуш|",
+              "translation": "The woman |is wise|."
+            },
+            {
+              "sentence": "Лӏыжъ  |ӏушым| ыдэхь кӏуи дэгущыӏ",
+              "translation": "Go to the |wise| old-man and talk with him."
+            },
+            {
+              "sentence": "Сэтэнае гуащэр бзылъфыгъэ |ӏуш|",
+              "translation": "Lady Sataney is a |wise| woman."
+            }
+          ],
+          "meaning": "wise; clever, intelligent"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏукӏьын",
+      "ipa": "ʔʷat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏукӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏукӏы ӏукӏы| мыу",
+              "translation": "|Go away, go away| from here."
+            },
+            {
+              "sentence": "Пшъашъэр чъыгым |ӏукӏыжьыгъ|",
+              "translation": "The girl |gone away| from the tree."
+            },
+            {
+              "sentence": "Мыу |шъуӏукӏы|",
+              "translation": "|Go away!| from here (said to plural)."
+            },
+            {
+              "sentence": "Кӏалэр анэм |ӏукӏыщтэп|",
+              "translation": "The boy |will not go away| from the table."
+            },
+            {
+              "sentence": "Лӏыжъыхэр |ӏукӏых|",
+              "translation": "The old men |are going away|."
+            },
+            {
+              "sentence": "Пшъашъэм кӏалэр |ӏуегъэкӏы| чъыгым",
+              "translation": "The girl |makes| the boy |go away| from the tree."
+            },
+            {
+              "sentence": "Кӏалэр ӏанэм |ӏуагъэкӏынэу| фаех лӏыжъыхэмэ",
+              "translation": "The old-men want |to make| the boy |go away| from the table."
+            },
+            {
+              "sentence": "Лӏыгъэкӏэ |уӏузгъэкӏынэу| уфая?",
+              "translation": "Do you want |me to make you go away| by force?"
+            },
+            {
+              "sentence": "Бэрэ укуомэ лӏыжъыхэр |ӏубгъэкӏыжьыщтых|",
+              "translation": "If you yell a lot, |you will make| the old-men |leave|."
+            }
+          ],
+          "meaning": "to go away"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым иӏоф ежь |ӏукӏыжьыгъ|",
+              "translation": "The man |quit| his work."
+            },
+            {
+              "sentence": "Лӏыр ӏофым |ӏукӏыжьыгъ|",
+              "translation": "The man |quit| work."
+            }
+          ],
+          "meaning": "to quit work"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏугъэкӏьын",
+      "ipa": "ʔʷaʁat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏугъэкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм кӏалэр |ӏуегъэкӏы| чъыгым",
+              "translation": "The girl |makes| the boy |go away| from the tree."
+            },
+            {
+              "sentence": "|Сыӏушъугъэкӏышъущтэп|",
+              "translation": "|You can\u0027t make me go away| (said to plural)."
+            },
+            {
+              "sentence": "Кӏалэр ӏанэм |ӏуагъэкӏынэу| фаех лӏыжъыхэмэ",
+              "translation": "The old-men want |to make| the boy |go away| from the table."
+            },
+            {
+              "sentence": "Лӏыгъэкӏэ |уӏузгъэкӏынэу| уфая?",
+              "translation": "Do you want |me to make you go away| by force?"
+            },
+            {
+              "sentence": "Бэрэ укуомэ лӏыжъыхэр |ӏубгъэкӏыжьыщтых|",
+              "translation": "If you yell a lot, |you will make| the old men |leave|."
+            }
+          ],
+          "meaning": "to make someone go away"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Тхьэматэм лӏыр ӏофым |ӏуигъэкӏыгъ|.",
+              "translation": "The boss |dismissed| the man from the job."
+            },
+            {
+              "sentence": "Лӏыр ӏофым |ӏуагъэкӏыгъ|.",
+              "translation": "The man |was dismissed| from work."
+            }
+          ],
+          "meaning": "to dismiss; to discharge; to fire an employee"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏуащхьэмахуэ",
+      "ipa": "ʔʷaːʂħamaːfa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏуашъхьэмафэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "Mount Elbrus"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəpt͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏупкӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏупкӏэ| еджэн",
+              "translation": "|Expressive| reading."
+            }
+          ],
+          "meaning": "expressive"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "гущыӏэ |ӏупкӏ|",
+              "translation": "|witty| word."
+            }
+          ],
+          "meaning": "witty"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷət͡ʃʼaħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏукӏэхьан",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏэхьан\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏэрэхъуалъ"
+      ],
+      "ipa": "ʔʷbərəɬ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏубырылъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏубырылъыр| кӏэрахъор зэрылърэ шъор ары",
+              "translation": "|A holster| is the leather where the gun is stored."
+            },
+            {
+              "sentence": "Лӏым икӏэрахъохэр |ӏубырылъым| илъых",
+              "translation": "The man\u0027s guns are in |the holster|."
+            }
+          ],
+          "meaning": "holster"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏущэщэн",
+      "ipa": "ʔʷəʂaʂan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏушъэшъэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |мэӏушъашъэ|",
+              "translation": "The boy |whispers|."
+            },
+            {
+              "sentence": "Ащ |ӏушъэшъэныр| икӏас",
+              "translation": "He likes |to whisper|."
+            }
+          ],
+          "meaning": "to whisper"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷə",
+      "lang": "Adyghe",
+      "type": "prefix",
+      "word": "ӏу-",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "(added to verbs) around, near, by",
+          "tags": [
+            "added to verbs"
+          ]
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəʁʷaʃʷa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏугъуашъо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "smoky"
+        },
+        {
+          "examples": [],
+          "meaning": "tinted, smoke-colored"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəɬʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏулӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Саусырыкъо онэгум |риӏулӏыгъ|",
+              "translation": "|He swept him| from the horse back."
+            }
+          ],
+          "meaning": "to sweep off"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏухьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр чъыгым |ӏухьагъ|",
+              "translation": "The boy |went near| the tree."
+            },
+            {
+              "sentence": "Пкъэум ыдэжь |сыӏуахь|",
+              "translation": "|I went near| the pillar."
+            },
+            {
+              "sentence": "Хьэм ыдэжь |уӏумыхь|",
+              "translation": "|Do not go near| the dog."
+            },
+            {
+              "sentence": "Тучаным |тыӏухьагъ| зыгорэ къыӏэтыхынэу",
+              "translation": "|We went to| the shop to take something."
+            },
+            {
+              "sentence": "Мэфэкӏымкӏэ, сабыймэ чылэр къакӏухьэ, унэхэмэ |аӏухьэх| ӏэшӏухыр къаратыхэнэу",
+              "translation": "In the holiday, the children wander around the village, |going to| houses to get sweets."
+            }
+          ],
+          "meaning": "to go near"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷətən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏутын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр чъыгым |ӏут|",
+              "translation": "The boy |is standing near| the tree."
+            },
+            {
+              "sentence": "Кӏалэр чъыгым |ӏут|",
+              "translation": "The boy |is standing near| the tree."
+            },
+            {
+              "sentence": "Пшъашъэр тучаным |ӏутыгъ|",
+              "translation": "The girl |was near| the shop."
+            },
+            {
+              "sentence": "Кӏэлэцӏыкӏухэр лӏым ыдэжь |ӏутых|, тхыдэжъ къафеӏуатэу",
+              "translation": "The little kids |are around| the man, telling them a story."
+            }
+          ],
+          "meaning": "to stand near; to stand around"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Мы чӏыпӏэм аслъанхэр |ӏутых|",
+              "translation": "In this area, |there are| lions |around|."
+            }
+          ],
+          "meaning": "to be near; to be around"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Сэ еджапӏэм |сыӏут|",
+              "translation": "I am working |in| school."
+            },
+            {
+              "sentence": "Кӏалэр фабрикэм |ӏут|",
+              "translation": "The young man is working |in| the factory."
+            },
+            {
+              "sentence": "Фабрикэм |сыӏутыгъ|",
+              "translation": "I was working |in| a factory."
+            },
+            {
+              "sentence": "Лӏыр а ӏофым |ӏут| илъэсипшӏэ, ӏофыр ыпэ къыикӏыжьыгъэу чӏэкӏын",
+              "translation": "The man |has been in| that work for ten years, he probably got fed up with the job."
+            }
+          ],
+          "meaning": "to be employed in"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым къэбар къиӏуатэу |ӏут|",
+              "translation": "The man is |just standing| telling news."
+            },
+            {
+              "sentence": "ӏофымкӏэ кӏалэр |ӏут| зыгори ымышӏэу",
+              "translation": "In work, the boy is |just standing|, doing nothing."
+            },
+            {
+              "sentence": "Сыда ори умыхъыеу |уӏут| модэ? къакӏуи ори къэтдэӏэпыӏ",
+              "translation": "Why are you |just standing| there? come and help us."
+            },
+            {
+              "sentence": "Кӏалэри делэмэ афэдэу |ӏутыгъ|",
+              "translation": "The boy |just stood there| like an idiot."
+            },
+            {
+              "sentence": "Тэ тылажьэу кӏалэр |ӏутыгъ| къытэплъэу",
+              "translation": "While we were working, the boy |just stood there| watching us."
+            }
+          ],
+          "meaning": "to stand still doing nothing, to be around doing nothing, not helping and wasting time"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "хыӏушъо",
+        "псыӏушъо"
+      ],
+      "ipa": "ʔʷəʃʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏушъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хы |ӏушъо|",
+              "translation": "Sea |shore|."
+            },
+            {
+              "sentence": "Сэтэнае псыхъо |ӏушъом| ӏусыгъ гыкӏэу",
+              "translation": "Sataney was sitting near the river |shore|, doing laundry."
+            }
+          ],
+          "meaning": "shore, coast, seaboard, littoral"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "гукӏэн",
+        "ӏункӏэн",
+        "тӏыргун"
+      ],
+      "ipa": "jaʔʷənt͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏункӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"еӏункӏын\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəʁʷajət͡ʃʼəpʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏугъоикӏыпӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "flue (a pipe or duct that carries gaseous combustion products away from the point of combustion)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ыӏукӏэ| уешъон",
+              "translation": "To drink from the bottle."
+            }
+          ],
+          "meaning": "mouth"
+        },
+        {
+          "examples": [],
+          "meaning": "opening, aperture, hole"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəɕxəpt͡sʼət͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏущхыпцӏыкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |ӏущхыпцӏыкӏыгъ|",
+              "translation": "The boy |chuckled|."
+            }
+          ],
+          "meaning": "to chuckle"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "гушӏопсӏын",
+        "щхыпцӏын"
+      ],
+      "ipa": "ʔʷɡʷəʃʼʷət͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏугушӏукӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр чэфэу |ӏугушӏукӏы|",
+              "translation": "The boy |smiles| happily."
+            }
+          ],
+          "meaning": "to smile"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəɮa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏулэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏэлэ |ӏулэ|",
+              "translation": "|foolish| boy."
+            }
+          ],
+          "meaning": "silly, stupid, foolish"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷəɮ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏул",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "pump (in horses)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷətʼəsħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏутӏысхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр чъыгым |ӏутӏысхьагъ|",
+              "translation": "The boy |sat near| the tree."
+            }
+          ],
+          "meaning": "to sit near"
+        }
+      ]
+    }
+  ],
   "ып": [
     {
       "ipa": "əpatħamaːfa",
@@ -115576,697 +106931,6 @@ const circassianDict = {
       ]
     }
   ],
-  "лӏ": [
-    {
-      "ipa": "ɬˤʼaːʁa",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "лӏагъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "died; simple past tense of \"лӏэн\""
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Силӏ| ӏофым щыӏ",
-              "translation": "|My husband| at work."
-            },
-            {
-              "sentence": "Бзылъфыгъэр |илӏ| къыдэкӏуагъ",
-              "translation": "The woman came with |her husband|."
-            },
-            {
-              "sentence": "Бзылъфыгъэм |лӏы| иӏэп",
-              "translation": "The woman has no |husband|."
-            },
-            {
-              "sentence": "Бзылъфыгъэу |илӏ| зылӏагъэм шъузабэ раӏо",
-              "translation": "A woman that lost |her husband| is called widow."
-            }
-          ],
-          "meaning": "husband"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "|Лӏыр| фабрикэм щылажьэ",
-              "translation": "|The man| is working in the factory."
-            },
-            {
-              "sentence": "|Лӏыр| заом хэхьагъ",
-              "translation": "|The man| joined the war."
-            }
-          ],
-          "meaning": "man"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼawʒəʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэужыгъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"лӏэужыгъо\""
-        }
-      ]
-    },
-    {
-      "ipa": "ɬˤʼanəʁ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэныгъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "death"
-        }
-      ]
-    },
-    {
-      "kabardian": "лӏыжьы",
-      "etymology": "From лӏы (man) + жъы (old)",
-      "ipa": "ɬʼəʐə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏыжъы",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Лӏыжъыр| лӏэу ыныбжь зыхэкӏотагъэр",
-              "translation": "|An old man| is man which had his age proceeded."
-            },
-            {
-              "sentence": "Лӏым ыныбжь хэкӏуатэзэ |лӏыжъэу| хъугъэ",
-              "translation": "\u0027The man\u0027s age proceeded and he became |an old man|."
-            },
-            {
-              "sentence": "|Лӏыжъэу| ебэджыгъэр цӏыфыхэмэ къагъэтэджэжьыгъ",
-              "translation": "The people lifted |the old-man| that fell [on the ground]."
-            },
-            {
-              "sentence": "|Лӏыжъыр| бэщкӏэ макӏо",
-              "translation": "|The old man| is going with a cane."
-            },
-            {
-              "sentence": "|Лӏыжъым| ытхьакӏумэхэмэ ерагъэу яӏу",
-              "translation": "|The old man\u0027s| ears barely hear."
-            }
-          ],
-          "meaning": "old man; old-man"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "лӏэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏыжъыр |малӏэ |",
-              "translation": "The old-man |is dying|."
-            },
-            {
-              "sentence": "Лӏыжъыр |лӏэщт|",
-              "translation": "The old-man |will die|."
-            },
-            {
-              "sentence": "Е |улӏэн| е улӏын",
-              "translation": "|Die| or be a man."
-            },
-            {
-              "sentence": "|Улӏэнэу| уфая?",
-              "translation": "Do you want |to die|?"
-            },
-            {
-              "sentence": "Чэтыeр уфызмэ |лӏэщт|",
-              "translation": "If you squeeze the cat |it will die|."
-            },
-            {
-              "sentence": "Лӏы бэу заом |хэлӏыхьагъэх|",
-              "translation": "Many men |died in| the war."
-            },
-            {
-              "sentence": "Блэр къысаом |сэлӏэ| пэтыгъ",
-              "translation": "When the snake bited me, |I| almost |died|."
-            },
-            {
-              "sentence": "Цӏыфыр |зылӏэкӏэ| ыпсэ хэкӏы",
-              "translation": "|When| a person |dies| his soul comes out from him."
-            }
-          ],
-          "meaning": "to die"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼaʃʼaʁʷnəqʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэшӏэгъуныкъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "half a century (50 years)"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼaʃʼaʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэшӏэгъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "century (ӏ00 years)"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼəbɮaːn",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏыблан",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ар заом |лӏыбланэу| щызэуагъ",
-              "translation": "He fought |bravely| in the war."
-            }
-          ],
-          "meaning": "courageous; brave"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼabɮaːn",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэблан",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"лӏыблан\""
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼaːpʼa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "лӏапӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "death location"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "жъыгъэ",
-        "жъыгъо",
-        "лӏыжъыгъу",
-        "лӏыжъыпӏ",
-        "жъышъхьэ"
-      ],
-      "ipa": "ɬʼəʐəʂ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏыжъышъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "very old"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "жъыгъэ",
-        "жъыгъо",
-        "жъышъхьэ"
-      ],
-      "ipa": "ɬʼəʐəʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏыжъыгъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "old age; one\u0027s old age"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼəkʷʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏыкӏо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "messenger"
-        },
-        {
-          "examples": [],
-          "meaning": "mediator, intermediary, negotiator"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Хэгъэгум |лӏыкӏо| ыгъэкӏуагъ",
-              "translation": "The country sent a |ambassador|."
-            }
-          ],
-          "meaning": "legate; ambassador"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр лӏым |илӏыкӏо|",
-              "translation": "The boy is the man\u0027s |delegate|."
-            },
-            {
-              "sentence": "Мыр тхьэм |илӏыкӏо|",
-              "translation": "This is God\u0027s |delegate|."
-            }
-          ],
-          "meaning": "delegate; representative"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "лӏыхъужъ"
-      ],
-      "ipa": "ɬʼəχʷ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "лӏыхъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "valiant"
-        },
-        {
-          "examples": [],
-          "meaning": "hero"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "лӏыхъу"
-      ],
-      "ipa": "ɬʼəχʷəʐ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "лӏыхъужъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "valiant"
-        },
-        {
-          "examples": [],
-          "meaning": "hero"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼəʁa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏыгъэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сэ |лӏыгъэ| къэсхэлъ",
-              "translation": "I am |brave| (literally: I bear |bravery|)."
-            },
-            {
-              "sentence": "|Лӏыгъэ| къыпхэлъыба?",
-              "translation": "Aren\u0027t you |brave| (literally: Don\u0027t you bear |bravery|?)."
-            },
-            {
-              "sentence": "Саусырыкъо заом |лӏыгъэшхо| щызэрихьагъ",
-              "translation": "Susroku displayed |great bravery| in the battle."
-            }
-          ],
-          "meaning": "bravery; courage"
-        },
-        {
-          "examples": [],
-          "meaning": "manliness"
-        }
-      ]
-    },
-    {
-      "shapsug": "лӏыгъэгьэ",
-      "ipa": "ɬʼəʁat͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "adv",
-      "word": "лӏыгъэкӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏэлэцӏыкӏум |лӏыгъэкӏэ| къештэшъу ӏанэ иныр",
-              "translation": "The little boy can |barely| lift the large table."
-            }
-          ],
-          "meaning": "barely"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм |лӏыгъэкӏэ| мыжъор мэу къихьыгъ",
-              "translation": "The boy |with great difficulty| brought the stone."
-            }
-          ],
-          "meaning": "with great difficulty"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Лӏым |лӏыгъэкӏэ| хэсигъэхын еӏо",
-              "translation": "The man is |forcefully| trying to make me pick."
-            },
-            {
-              "sentence": "Кӏэлэцӏыкӏур |лӏыгъэкӏэ| агъэлажьэ",
-              "translation": "They are |forcefully| making the little boy work."
-            }
-          ],
-          "meaning": "forcefully"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼawəʑ",
-      "lang": "Adyghe",
-      "type": "pron",
-      "word": "лӏэужь",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Лӏэужь| уцӏэ?",
-              "translation": "|what| is your name |again|?"
-            },
-            {
-              "sentence": "|Лӏэужь| пшӏэрэр?",
-              "translation": "|what| are you doing |again|?"
-            },
-            {
-              "sentence": "|Лӏэужь| уӏорэр?",
-              "translation": "|what| are you saying |again|?"
-            }
-          ],
-          "meaning": "(Shapsug) what again"
-        }
-      ]
-    },
-    {
-      "kabardian": "лӏэкъуэцӏэ",
-      "synonyms": [
-        "унэгъуацӏэ"
-      ],
-      "ipa": "ɬʼaqʷaːt͡sʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэкъуацӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сыд |уилӏэкъуацӏэ|?",
-              "translation": "What\u0027s |your family name|"
-            },
-            {
-              "sentence": "Сэ |силӏэкъуацӏэ| Абрэдж",
-              "translation": "|My family name| is Abredj"
-            }
-          ],
-          "meaning": "family name; surname; last name"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "сыдэу"
-      ],
-      "ipa": "ɬawʑəməj",
-      "lang": "Adyghe",
-      "type": "pron",
-      "word": "лӏэужьэу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "(Shapsug) alternative form of \"сыдэу\""
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼaʁapaːɬ",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "лӏэгъэпалъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Лӏэгъэпалъэр| цӏыфэу лӏагъэм фэдэу къэлъагъорэр",
-              "translation": "(S)he is well yet |corpselike|."
-            },
-            {
-              "sentence": "Ар псэу шъхьакӏэм |лӏэгъэпалъ|",
-              "translation": "(S)he is well yet |corpselike|."
-            }
-          ],
-          "meaning": "corpselike; a person that looks like a corpse"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼaʁapaːpt͡ʃʼ",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "лӏэгъэпапкӏ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"лӏэгъэпалъ\""
-        }
-      ]
-    },
-    {
-      "kabardian": "лӏо",
-      "ipa": "ɬʼaw",
-      "lang": "Adyghe",
-      "type": "pron",
-      "word": "лӏэу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|лӏэу| хъугъэр?",
-              "translation": "|what| happened?"
-            },
-            {
-              "sentence": "|лӏэу| пшӏырэ?",
-              "translation": "|what| are you doing?"
-            },
-            {
-              "sentence": "|лӏэу| кӏалэм къыӏуагъэр?",
-              "translation": "|What| did the boy say?"
-            }
-          ],
-          "meaning": "(archaic or dialectal) what"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "укӏакӏо",
-        "мэхъаджэ"
-      ],
-      "ipa": "maχaːd͡ʒa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏыукӏ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "murderer"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "лӏэужьыгъо"
-      ],
-      "ipa": "ɬʼawʑəʁʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэужьыгъо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"лӏэужыгъо\""
-        }
-      ]
-    },
-    {
-      "kabardian": "лӏэужьыгъуэ",
-      "ipa": "ɬʼawʒəʁʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэужыгъо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "the thing one is made of"
-        },
-        {
-          "examples": [],
-          "meaning": "kin (from which one is originated); origin"
-        },
-        {
-          "examples": [],
-          "meaning": "race (a group of sentient beings, particularly people, distinguished by common ancestry, heritage or characteristics)"
-        },
-        {
-          "examples": [],
-          "meaning": "type, kind, species"
-        }
-      ]
-    },
-    {
-      "kabardian": "лӏэужь",
-      "ipa": "ɬʼawəʒ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэуж",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "posterity"
-        },
-        {
-          "examples": [],
-          "meaning": "descendants"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼəʔʷa-ɬʼəʃʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏыӏо-лӏышъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "masculine appearance"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏэшъхьэтет",
-        "пащ"
-      ],
-      "ipa": "ɬʼəʂħa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏышъхьэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Къэралым |илӏышъхь|",
-              "translation": "|Head of| the state."
-            }
-          ],
-          "meaning": "head of; chief"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬaqʷaɬaʃ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэкъолъэш",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "noble, nobleman (a man of noble rank)"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼaːqʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏакъо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "clan"
-        },
-        {
-          "examples": [],
-          "meaning": "kind"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "хьадэгъу"
-      ],
-      "ipa": "ɬʼaʁʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэгъу",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "death time, time of death; alternative form of \"хьадэгъу\""
-        }
-      ]
-    },
-    {
-      "ipa": "ɬʼaʁʷaːb",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "лӏэгъуаб",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "widower"
-        }
-      ]
-    }
-  ],
   "ыу": [
     {
       "ipa": "əwəʒ jətən",
@@ -116378,6 +107042,119 @@ const circassianDict = {
         {
           "examples": [],
           "meaning": "alternative form of \"цӏэжьын\""
+        }
+      ]
+    }
+  ],
+  "ӏы": [
+    {
+      "ipa": "ʔəʁan",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏыгъын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏыгъэн\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔəʁan",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏыгъэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ахъщэ макӏ |ыӏыгъ|",
+              "translation": "The boy |has| few money."
+            },
+            {
+              "sentence": "Кӏалэм ахъщэу |ыӏыгъыр| ахъщэ макӏ",
+              "translation": "The money the boy |has| is few money."
+            },
+            {
+              "sentence": "ӏункӏыбзэр |уӏыгъа|?",
+              "translation": "|Do you hold| the key?"
+            },
+            {
+              "sentence": "Кӏэлэцӏыкӏу |сыӏыгъ|",
+              "translation": "|I am holding| a little boy."
+            },
+            {
+              "sentence": "|Сыӏыгъагъ| мые",
+              "translation": "|I was holding| an apple."
+            },
+            {
+              "sentence": "Пшъашъэм тхылъ бэ |ыӏыгъ|",
+              "translation": "The girl |holds| a lot books."
+            },
+            {
+              "sentence": "Къэлэм |уӏыгъэмкӏэ| тхэ",
+              "translation": "Write |with (using)| the pencil |you holding|."
+            },
+            {
+              "sentence": "Зы тон |сыӏыгъэшъущтэп|",
+              "translation": "|I can\u0027t hold| ӏ ton."
+            },
+            {
+              "sentence": "Пыйхэр къакӏох ӏашэхэр |аӏыгъэхэу|",
+              "translation": "The foes are coming |holding| weapons."
+            }
+          ],
+          "meaning": "to hold; to keep"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ахъщэ мэкӏэжъый |ыӏыгъэр|",
+              "translation": "The boy |has| very few money."
+            },
+            {
+              "sentence": "Кӏалэм псылъэ |ыӏыгъ| псыкӏэ изэу",
+              "translation": "The boy |has| a water-bottle filled with water."
+            },
+            {
+              "sentence": "Кӏэгъэналъэ |шъуӏыгъа|?",
+              "translation": "|Do you have| a lighter?"
+            }
+          ],
+          "meaning": "to have"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым фабрикэр изакъоу |ыӏыгъ|",
+              "translation": "The man |maintains| the factory alone"
+            }
+          ],
+          "meaning": "to maintain"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔənd͡ʒər",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏынджыр",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "(Turkish) fig"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔəxən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏыхын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"къыӏыхын\""
         }
       ]
     }
@@ -116730,6 +107507,3465 @@ const circassianDict = {
         {
           "examples": [],
           "meaning": "to hurry, to be in a hurry, to hasten"
+        }
+      ]
+    }
+  ],
+  "ӏэ": [
+    {
+      "ipa": "ʔa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ыӏэхэр| пытэх",
+              "translation": "The boy\u0027s |arms| are firm."
+            },
+            {
+              "sentence": "|Уӏэ| кӏашъом къэса?",
+              "translation": "Does |your arm| reach the ceiling?"
+            },
+            {
+              "sentence": "Хьэр |сӏэ| къецакъагъ",
+              "translation": "The dog bited |my arm|."
+            },
+            {
+              "sentence": "Лъы |сӏэ| къекӏы",
+              "translation": "Blood is coming out of |my arm|."
+            },
+            {
+              "sentence": "|Сӏэ| уты ышхыгъэти плъыжьэу хъугъэ",
+              "translation": "Because |my arm| ate a blow it became red."
+            },
+            {
+              "sentence": "Пшъашъэм |ыӏэ| мастэ хагъахьи лъы хашъугъ",
+              "translation": "They inserted needle into the girl\u0027s |arm| and extracted blood."
+            }
+          ],
+          "meaning": "arm"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Слъакъохэр зэтепхагъэх, |сӏэхэр| тӏупщыгъэх",
+              "translation": "My legs are tied up, |my hands| are loosed."
+            },
+            {
+              "sentence": "|Уӏэкӏэ| гъэучъыӏалъэм ыкӏыӏу утеӏашъуа?",
+              "translation": "Can you touch the surface of the fridge |with your hand|?"
+            },
+            {
+              "sentence": "|ӏэмкӏэ| зыгорэ къэбыштэн",
+              "translation": "To lift something |with the hand|."
+            },
+            {
+              "sentence": "|ӏэмкӏэ| зыгорэм унэсын",
+              "translation": "To touch something |with the hand|."
+            },
+            {
+              "sentence": "|Уӏэ| сыд чӏэлъыр?",
+              "translation": "What is in |your hand|?"
+            }
+          ],
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "лъагэ (high)"
+      ],
+      "ipa": "ʔataʁ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэтыгъэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чъыгы |ӏэтыгъэм| ситоп пынагъ",
+              "translation": "My ball stuck on the |high| tree."
+            },
+            {
+              "sentence": "Мы унэр |ӏэтыгъ|",
+              "translation": "This house |is high|."
+            },
+            {
+              "sentence": "|Узэрэӏэтыгъэр|",
+              "translation": "|You are so high|."
+            }
+          ],
+          "meaning": "high"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм имакъэ |ӏэтыгъ|",
+              "translation": "The boy\u0027s voice |is loud|."
+            },
+            {
+              "sentence": "Музикэ макъэр |ӏэтыгъэу| къырегъаӏо",
+              "translation": "(s)he plays music |loudly|."
+            },
+            {
+              "sentence": "Кӏалэм пщынэм имакъэ |ӏэтыгъэу| къырегъаӏо",
+              "translation": "The boy plays the accordion |loudly|."
+            }
+          ],
+          "meaning": "loud voice (мэкъэ ӏэтыгъ)"
+        }
+      ]
+    },
+    {
+      "etymology": "From ӏэ (hand) + шъхьэ (head)",
+      "ipa": "ʔaʂħa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэшъхьэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏашъхьэ\""
+        }
+      ]
+    },
+    {
+      "etymology": "From ӏэ (hand) + гу (heart)",
+      "ipa": "ʔaɡʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэгу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |ӏэгу| тео",
+              "translation": "The boy |claps|"
+            }
+          ],
+          "meaning": "palm"
+        },
+        {
+          "examples": [],
+          "meaning": "yard, courtyard"
+        }
+      ]
+    },
+    {
+      "etymology": "From ӏэ (hand) + дакъэ (root)",
+      "ipa": "ʔadaːqa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэдакъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "the hand\u0027s heel; heel-palm"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏэпхъуамбэ",
+      "synonyms": [
+        "ӏэхъуамбэ"
+      ],
+      "ipa": "ʔapχaːba",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпхъабэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "(Shapsug) finger"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏэбжьанэ",
+      "etymology": "From ӏэ (hand) + бжъанэ (nail)",
+      "ipa": "ʔabʐaːna",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэбжъанэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Сӏэбжъанэр| папцӏэх",
+              "translation": "|My fingernails| are sharp."
+            },
+            {
+              "sentence": "ӏэбжъэнэпыупкӏыкӏэ пшъашъэм |ыӏэбжъанэр| преупкӏых",
+              "translation": "The girl cuts |her fingernails| using the nail clipper."
+            },
+            {
+              "sentence": "Кӏалэр |ыӏэбжъанэхэмэ| ацэкъэжьы",
+              "translation": "The boy bites |his fingernails|."
+            }
+          ],
+          "meaning": "fingernail"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏэпэпсӏый",
+      "kabardian": "ӏэпэпцӏий",
+      "synonyms": [
+        "ӏэпапцӏэ"
+      ],
+      "ipa": "ʔapapsʼəj",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпэпцӏый",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "fingertip"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔarʁʷəj",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэргъуй",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"аргъой\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "нэнэжъ"
+      ],
+      "etymology": "From анэ (mother) + жъы (old)",
+      "ipa": "ʔanaʐ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэнэжъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "grandma; grandmother"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тэтэжъ"
+      ],
+      "etymology": "From атэ (father) + жъы (old)",
+      "ipa": "ʔataʐ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэтэжъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "grandpa; grandfather"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaʃʷʼaj-ɬaʃʷʼaj",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэшӏой-лъэшӏой",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "having dirty hands and feet"
+        }
+      ]
+    },
+    {
+      "etymology": "From ӏэ (hand) + илъын (to be in it)",
+      "ipa": "ʔaɬən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэлъын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сӏэхъуамбэ |ӏэлъын| илъ",
+              "translation": "There is |a ring| on my finger."
+            },
+            {
+              "sentence": "Къэщагъэм ыӏэхъуамбэ |ӏэлъын| релъхьэ",
+              "translation": "A married person puts |a ring| onto his finger"
+            },
+            {
+              "sentence": "Кӏалэм |ӏэлъын| пшъашъэм ыӏэхъуамбэ рилъхьагъ",
+              "translation": "The boy put |a ring| onto the girl\u0027s finger."
+            },
+            {
+              "sentence": "Бзылъфыгъэм |иӏэлъын| мычӏ илъ",
+              "translation": "There is a jewel in the woman\u0027s |ring|."
+            }
+          ],
+          "meaning": "ring"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapʂaχʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэшъхьэхъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэпшъэхъу\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapʂħaχʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпшъхьэхъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэпшъэхъу\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏэхъу"
+      ],
+      "ipa": "ʔapʂaχʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпшъэхъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм ыӏапшъэ |ӏэпшъэхъу| илъ",
+              "translation": "There is a |bracelet| in the girl\u0027s wrist."
+            }
+          ],
+          "meaning": "bracelet"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaɬmaq",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэлъмэкъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Къащэфхэрэр тучанымкӏэ |ӏэлъмэкъымм| ралъхьэх",
+              "translation": "They put the things they buy in the shop into |bags|."
+            },
+            {
+              "sentence": "Тхылъхэр |ӏалъмэкъ| илъхьах",
+              "translation": "Put the books inside the |bag|."
+            },
+            {
+              "sentence": "Колэм пае |ӏалъмэкъ| уфая?",
+              "translation": "Do you want a |bag| for the Coke?"
+            }
+          ],
+          "meaning": "bag (used for shopping); paper bag"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔat͡ʃʼaːp",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэкӏап",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"пакӏэ\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔabʒəb",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэбжыб",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пынбдж |ӏэбжыб| хьын",
+              "translation": "To take a |handful of| rice."
+            },
+            {
+              "sentence": "Псы |ӏэбжыб| къыхэхын",
+              "translation": "To take up |a handful| of water."
+            }
+          ],
+          "meaning": "handful; fistful"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔabʒəmə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэбжым",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |ӏэбжымыкӏэ| ащ еуагъ",
+              "translation": "The boy hit him |with a fist| (The buy punched him)."
+            }
+          ],
+          "meaning": "fist"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔatajt͡ʃʼan",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэтекӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "arm wrestling"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏэлджанэ"
+      ],
+      "ipa": "ʔabɮa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэблэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "forearm"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏэлгьанэ",
+      "synonyms": [
+        "ӏэблэ"
+      ],
+      "ipa": "ʔald͡ʒaːana",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэлджанэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "forearm"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔandəq",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэндыкъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "hyaena"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔama-psəm",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэмэ-псым",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏэмэ-псымэхэр| тыдэ щыӏэха?",
+              "translation": "Where are |the tools|?"
+            }
+          ],
+          "meaning": "tool; instrument"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔazaʁʷət͡s",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэзэгъууц",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"уц ӏэзэгъу\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔazaʁʷə wət͡s",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэзэгъу уцы",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"уц ӏэзэгъу\""
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏэтэгъу",
+      "ipa": "ʔantaʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэнтэгъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Убзэгукӏэ |уӏэнтэгъу| унэсышъущта?",
+              "translation": "Can you touch |your elbow| with your tongue?"
+            },
+            {
+              "sentence": "Кӏалэр |ыӏэнтэгъукӏэ| къысэуагъ",
+              "translation": "The boy hit me |with his elbow|"
+            }
+          ],
+          "meaning": "elbow"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːpʂ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпшъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏапшъ\""
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏэфӏ",
+      "synonyms": [
+        "гоӏу",
+        "мыщыу"
+      ],
+      "ipa": "ʔaʃʷʼə",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэшӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Шоколадыр |ӏэшӏу|",
+              "translation": "Chocolate |is sweet|."
+            },
+            {
+              "sentence": "Кекс |ӏэшӏущэ|, шъоущыгъу бащэ хэлъ",
+              "translation": "The cake |is too sweet|, it has too much sugar."
+            }
+          ],
+          "meaning": "sweet"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Сянэ ишхын |ӏэшӏу|",
+              "translation": "My mother\u0027s food |is tasty|."
+            },
+            {
+              "sentence": "Къоӏусыр сэркӏэ |ӏэшӏу|",
+              "translation": "Banana |is tasty| for me."
+            },
+            {
+              "sentence": "Пшъашъэм шхыныр |ӏэшӏоу| къишӏыгъ",
+              "translation": "The girl made the food |tasty|."
+            }
+          ],
+          "meaning": "tasty"
+        },
+        {
+          "examples": [],
+          "meaning": "something sweet (e.g. candy, cage)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм мэ |ӏэшӏу| унэм ригъэутысагъ",
+              "translation": "The boy sprayed a |pleasant| smell in the house."
+            }
+          ],
+          "meaning": "pleasant (smell)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "пӏырагу",
+        "топ"
+      ],
+      "ipa": "ʔaɡʷaːw",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэгуау",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |ӏэгуаум| ешъутырыгъ",
+              "translation": "The boy kicked |the ball|."
+            },
+            {
+              "sentence": "Кӏалэхэр |ӏэгуаум| реджэгух",
+              "translation": "The boy are playing with |the ball|."
+            },
+            {
+              "sentence": "|ӏэгуаур| къыслъыгъакӏу",
+              "translation": "Pass|the ball| to me."
+            }
+          ],
+          "meaning": "ball (object, generally spherical, used for playing games)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːtən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэтын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым ыкӏалэ лъагэу |еӏэты|",
+              "translation": "The man |lifts| his child high."
+            },
+            {
+              "sentence": "Тэ адыгэхэмкӏэ |зыкъэтӏэтыжьын| фай",
+              "translation": "We Circassians need |to lift ourselves| up."
+            },
+            {
+              "sentence": "|Къэӏэт| ӏанэр",
+              "translation": "|Lift| the table."
+            },
+            {
+              "sentence": "Кӏэрахъор гъэтӏылъи уӏэхэр |къэӏэтых|",
+              "translation": "Lay down the gun and |raise| your hands."
+            }
+          ],
+          "meaning": "to lift, to raise"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaχʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэхъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хьапсэчӏэсым ыӏэмэ |ӏэхъу| апылъ",
+              "translation": "The prisoner has |handcuffs| on his hands."
+            }
+          ],
+          "meaning": "handcuffs; hand shackles, manacles, irons (paired wrist restraints)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Бзылъфыгъэм ыӏапшъэ |ӏэхъу| илъ",
+              "translation": "There is a |bracelet| in the woman\u0027s wrist."
+            }
+          ],
+          "meaning": "bracelet"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaχʷ-ɬaχʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэхъу-лъэхъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏэхъу-лъэхъу| телъэу лӏыр хьапсым чӏэсыгъ",
+              "translation": "The man was imprisoned wearing |cuffs|."
+            }
+          ],
+          "meaning": "cuffs (handcuffs or legcuffs); shackles, manacles, gyves, fetters, irons (paired wrist or ankle restraints)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapaʁʷaːpa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпэгъуапэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "cuff (the end of a shirt sleeve that covers the wrist)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapat͡ʃʼaːd͡z",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпэкӏадз",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "кӏалэм |ӏэпэкӏадзэхэр| къеугъоих",
+              "translation": "The boy collects |signatures|."
+            }
+          ],
+          "meaning": "signature"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏэнтэгъу"
+      ],
+      "ipa": "ʔataʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэтэгъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэнтэгъу\""
+        }
+      ]
+    },
+    {
+      "kabardian": "нэӏаплъэщӏ",
+      "synonyms": [
+        "нэӏаплъэкӏ"
+      ],
+      "ipa": "ʔapɬat͡ʃ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэплъэкӏ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏэплъэкӏ| уиӏа?",
+              "translation": "Do you have a |towel|?"
+            }
+          ],
+          "meaning": "towel"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapəʔaʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпыӏэгъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏэпыӏэгъоу| укъысфэхъун плъэкӏыщта?",
+              "translation": "Can you |help| me?"
+            },
+            {
+              "sentence": "Кӏалэм еджэнымкӏэ |ӏэпыӏэгъоу| фэхъу|",
+              "translation": "|Help| the boy with the studies."
+            },
+            {
+              "sentence": "|ӏэпыӏэгъоу| сыгорэ къэсфэхъущта?",
+              "translation": "|Can| someone |help me|?"
+            }
+          ],
+          "meaning": "help; aid; assistance"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapɬat͡ʃʐəja",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэплъэкӏыжъые",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "handkerchiefs"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔabʐanapəwpt͡ʃə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэбжъэнэпыупкӏы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏэбжъэнэпыупкӏыкӏэ| пшъашъэм ыӏэпжъанэхэр преупкӏых",
+              "translation": "The girl cuts her fingernails using the |nail clipper|."
+            }
+          ],
+          "meaning": "nail clipper"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔamapsəma",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэмэпсымэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэмэ-псым\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "лӏышъхьэ",
+        "пащ"
+      ],
+      "ipa": "ʔaʂħatajt",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэшъхьэтет",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ар |тиӏэшъхьэтет|",
+              "translation": "That is |our boss|."
+            },
+            {
+              "sentence": "ӏофшӏапӏэм |иӏэшъхьэтет|",
+              "translation": "|The manager of| work."
+            },
+            {
+              "sentence": "Хэгъэгум |иӏэшъхьэтет|",
+              "translation": "|The head of| the country."
+            }
+          ],
+          "meaning": "head; boss; manager"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏэпхъабэ",
+      "kabardian": "ӏэпхъуамбэ",
+      "ipa": "ʔaχʷaːmba",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэхъуамбэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Зы ӏэм |ӏэхъомбитф| пыт",
+              "translation": "A hand has |five fingers|."
+            },
+            {
+              "sentence": "Зыфэсакъ, |уӏэхъуамбэ| уатэкӏэ уеожьыщт",
+              "translation": "Watch out, you will hit |your finger| with a hammer."
+            },
+            {
+              "sentence": "|Сӏэхъуамбэ| ӏэлъын илъ",
+              "translation": "There is a ring on |my finger|."
+            },
+            {
+              "sentence": "|Сӏэхъуамбэхэр| пчъэм дэбгъэпӏытӏагъэх",
+              "translation": "You smashed |my fingers| in the door."
+            }
+          ],
+          "meaning": "finger"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaχʷamba t͡sʼaraːməʔʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэхъомбэ цӏэрамыӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "ring-finger"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapqəna",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпкъынэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "finger joints"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏэбычъу"
+      ],
+      "ipa": "ʔabət͡sʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэбыцу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ӏэбыцохэр| ыӏэхэмэ апылъ",
+              "translation": "The boy has |gloves| on his hands."
+            },
+            {
+              "sentence": "|ӏэбыцохэр| зыпылъхьах",
+              "translation": "Put on |gloves|."
+            },
+            {
+              "sentence": "|ӏэбыцом| уӏэ къигъэфэбэщт",
+              "translation": "|The gloves| will warm your hand."
+            }
+          ],
+          "meaning": "glove"
+        },
+        {
+          "examples": [],
+          "meaning": "mitten"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏэпапсӏэ; ӏэпэпсӏий",
+      "synonyms": [
+        "ӏэпэпцӏий"
+      ],
+      "ipa": "ʔapaːpsʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпапцӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "fingertip"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapəzən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэпызын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Къысӏых колэр псынкӏэу, |къэсӏэпэзы|",
+              "translation": "Take the Coke from me fast, |I am dropping it|."
+            },
+            {
+              "sentence": "Мыӏэрысхэр |къэсӏэпызыхи| чӏыгум тефагъэх",
+              "translation": "|I dropped| the apples and they hit the ground."
+            },
+            {
+              "sentence": "Апчыр |къысӏэпымыгъэз|, уубэтэщт",
+              "translation": "|Don\u0027t let yourself drop| the glass, you will break it."
+            },
+            {
+              "sentence": "Лӏым ыӏыгъ лагъэр |ӏэпызыгъ|",
+              "translation": "The man |dropped| the plane he\u0027s holding."
+            }
+          ],
+          "meaning": "to slowly drop something unintentionally (from one\u0027s hand)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapəzən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэкӏэзын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Къысӏых колэр псынкӏэу, |къэсӏэкӏэзы|",
+              "translation": "Take the Coke from me fast, |I am dropping it|."
+            },
+            {
+              "sentence": "Мыӏэрысхэр |къэсӏэкӏэзыхи| чӏыгум тефагъэх",
+              "translation": "|I dropped| the apples and they hit the ground."
+            },
+            {
+              "sentence": "Апчыр |къысӏэкӏэмыгъэз|, уубэтэщт",
+              "translation": "|Don\u0027t let yourself drop| the glass, you will break it."
+            },
+            {
+              "sentence": "Лӏым ыӏыгъ лагъэр |ӏэкӏэзыгъ|",
+              "translation": "The man |dropped| the plane he\u0027s holding."
+            },
+            {
+              "sentence": "Мыӏэрысхэр |къыпӏэкӏэзых|",
+              "translation": "|You are dropping| the apples."
+            }
+          ],
+          "meaning": "to slowly drop something unintentionally (from one\u0027s hand)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapətʼarən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэпытӏэрын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Къысӏых колэр псынкӏэу, |къэсӏэпытӏэры|",
+              "translation": "Take the Coke from me fast, |I am dropping it|."
+            },
+            {
+              "sentence": "Мыӏэрысхэр |къэсӏэпытӏэрыхи| чӏыгум тефагъэх",
+              "translation": "|I dropped| the apples and they hit the ground."
+            },
+            {
+              "sentence": "Апчыр |къысӏэпымыгъэтӏэр|, уубэтэщт",
+              "translation": "|Don\u0027t let yourself drop| the glass, you will break it."
+            }
+          ],
+          "meaning": "(Shapsug) to drop something unintentionally (from one\u0027s hand)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapəʁazən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэпыгъэзын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Апчыр |къысӏэпымыгъэз|, уубэтэщт",
+              "translation": "|Don\u0027t let yourself drop| the glass, you will break it."
+            }
+          ],
+          "meaning": "to make someone drop something (from one\u0027s hand)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapəʁatʼarən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэпыгъэтӏэрын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Апчыр |къысӏэпымыгъэтӏэр|, уубэтэщт",
+              "translation": "|Don\u0027t let yourself drop| the glass, you will break it."
+            }
+          ],
+          "meaning": "to make someone drop something (from one\u0027s hand)"
+        }
+      ]
+    },
+    {
+      "kabardian": "тынш",
+      "synonyms": [
+        "къолай"
+      ],
+      "ipa": "ʔaʃʼax",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэшӏэх",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Тест |ӏэшӏэх|",
+              "translation": "|Easy| test."
+            },
+            {
+              "sentence": "Лӏым игущыӏакӏэ |ӏэшӏэхэу| къыбгурыӏонэу щыт",
+              "translation": "The way the man speaks is |easy| to understand."
+            },
+            {
+              "sentence": "Кӏалэм |ӏэшӏэхэу| кур ышӏыжьыгъ",
+              "translation": "The young man fixed the car |easily|."
+            },
+            {
+              "sentence": "Мы ливилэр |ӏэшӏэх|",
+              "translation": "This level |is easy|."
+            },
+            {
+              "sentence": "Кӏалэм тестыр къиныщт ышӏошӏыгъ, ау |ӏэшӏэхэу| къычӏэкӏыжьыгъ",
+              "translation": "The boy thought the test gonna be hard, but it was |easy|."
+            },
+            {
+              "sentence": "Кӏэлэцӏыкӏур псынкӏэти |ӏэшӏэхэу| къэсыштэшъу",
+              "translation": "Because the boy is light I can lift him |easily|."
+            }
+          ],
+          "meaning": "easy"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔanat͡ʃʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэнэкӏ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |ӏэнэкӏэу| унэм ихьан",
+              "translation": "The boy went inside the house |empty-handedly|."
+            },
+            {
+              "sentence": "Лӏыр |ӏэнэкӏэу| заом хэхьагъ",
+              "translation": "The man went to war |empty-handedly|."
+            }
+          ],
+          "meaning": "empty-handed"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏэпыӏэн",
+        "дэӏэпыӏэн"
+      ],
+      "ipa": "ʔapəʔaʁʷaw faχʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэпыӏэгъоу фэхъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр пшъашъэм |ӏэпыӏэгъоу фэхъугъ|",
+              "translation": "The boy |assisted| the girl."
+            },
+            {
+              "sentence": "|ӏэпыӏэгъоу укъысфэхъун| плъэкӏыщта?",
+              "translation": "|Can you help me|?"
+            },
+            {
+              "sentence": "Кӏалэм еджэнымкӏэ |ӏэпыӏэгъоу фэхъу|",
+              "translation": "|Help| the boy with the studies."
+            },
+            {
+              "sentence": "|ӏэпыӏэгъоу| зыгорэ |къэсфэхъушъущта|?",
+              "translation": "|Can| someone |help me|?"
+            }
+          ],
+          "meaning": "to help; to aid; to assist"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "гъуапэ"
+      ],
+      "ipa": "ʔaʁʷaːpa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэгъуапэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Джанэм |ӏэгъуапэхэр| педэжьых",
+              "translation": "(S)he sews |the sleeves| to the shirt."
+            },
+            {
+              "sentence": "Джэнэ |ӏэгъопэ| кӏыхь",
+              "translation": "Long |sleeved| shirt."
+            },
+            {
+              "sentence": "|Уиӏэгъуапэхэр| дэщаех",
+              "translation": "Raise your |sleeves|."
+            }
+          ],
+          "meaning": "sleeve (of a shirt)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏэджэ-быдж"
+      ],
+      "ipa": "ʔapʃaχʷ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэпшэхъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "clumsy; sloppy"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏэпшэхъу"
+      ],
+      "ipa": "ʔad͡ʒa-bəd͡ʒ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэджэ-быдж",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "clumsy"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapaʔaːs",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэпэӏас",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "иӏофкӏэ |ӏэпэӏас|",
+              "translation": "(s)he is |a master| in his work."
+            }
+          ],
+          "meaning": "masterful; very skillful"
+        }
+      ]
+    },
+    {
+      "ipa": "taʃʼət͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэкӏэ тешӏыкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр филым шӏоимэ |атешӏыкӏы|",
+              "translation": "The boy |is masturbating off| dirty films."
+            },
+            {
+              "sentence": "Таущтэу мощ |тешъошӏыкӏы|",
+              "translation": "How |are you masturbating off| that."
+            }
+          ],
+          "meaning": "(vulgar, slang) to masturbate off something"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaban",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэбэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Къэӏаби| сӏэ къаубыт уемыфэхыгъэу",
+              "translation": "|Reach out and | hold my hand before you fall."
+            },
+            {
+              "sentence": "Кӏалэр иӏэ шӏоихэмкӏэ |мэӏабэ|",
+              "translation": "The boy |is reaching out| with his filthy hands."
+            }
+          ],
+          "meaning": "to reach out, to extend one\u0027s hand(s) forward."
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Сшъхьэц |укъытемыӏаб|",
+              "translation": "|Don\u0027t touch| my hair."
+            },
+            {
+              "sentence": "Компыютэрым уӏэ шӏоикӏэ |утеӏабэ|",
+              "translation": "|You\u0027re touching| the computer with your filthy hands."
+            },
+            {
+              "sentence": "Чэтыум |утемыӏаб|, бжьыдзэхэр хэсых",
+              "translation": "|Don\u0027t touch| the cat, it has fleas."
+            }
+          ],
+          "meaning": "to reach out and touch"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏэгьы",
+      "ipa": "ʔad͡ʒə",
+      "lang": "Adyghe",
+      "type": "adv",
+      "word": "ӏэджы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏэджы| мэхъу",
+              "translation": "|A lot of things| are happening."
+            },
+            {
+              "sentence": "|ӏэджы| ышӏагъ ащ",
+              "translation": "(S)he did |A lot of things|."
+            },
+            {
+              "sentence": "Кӏалэм |ӏэджи| еӏо",
+              "translation": "The boy |is saying a lot of things|."
+            },
+            {
+              "sentence": "|ӏэджы| шӏагъи",
+              "translation": "|Long time| ago."
+            }
+          ],
+          "meaning": "a lot; many"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "едэхэшӏэн",
+        "гъэшӏон"
+      ],
+      "ipa": "ʔa ɕəfan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэ щыфэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to be nice to someone, to show a friendly disposition"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэр чэтыум |ӏэ щефэ|",
+              "translation": "The girl |is stroking| the cat."
+            },
+            {
+              "sentence": "Чэтыу сымаджэм |ӏэ щымыф|",
+              "translation": "|Don\u0027t stroke| the sick cat."
+            }
+          ],
+          "meaning": "to pat, to stroke, to pet, to fondle"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "дэӏэпыӏэн"
+      ],
+      "ipa": "ʔapəʔan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэпыӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Уиныбджэгъумэ |уаӏэпыӏэн|",
+              "translation": "|To help| your friends."
+            },
+            {
+              "sentence": "Уахътэ уиӏа |укъыздэӏэпыӏэнэу|?",
+              "translation": "Do you have time |to help me|?"
+            }
+          ],
+          "meaning": "to help"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏэпыкӏьын",
+      "ipa": "ʔapət͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэпыкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Уичӏыфэ утын фаем о |уӏэпыкӏышъутэп|",
+              "translation": "|You can\u0027t evade| the dept you need to pay."
+            },
+            {
+              "sentence": "А цӏыф бзаджэм |сыӏэпыкӏыгъ|",
+              "translation": "|I evaded| that bad person."
+            },
+            {
+              "sentence": "Автобусыр |къэсӏэпыкӏыгъ|",
+              "translation": "The bus |evaded| me."
+            }
+          ],
+          "meaning": "to evade, to successfully espace someone"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|Къэсӏэпыкӏы|, псыунэм сихьан фай",
+              "translation": "|I can\u0027t hold my pee|, I need to enter the restroom."
+            }
+          ],
+          "meaning": "to not be able to hold the pee"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔazəʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэзэгъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏы уӏагъэм |ӏэзэгъу| ищыкӏагъ",
+              "translation": "The wounded man needs |treatment|."
+            }
+          ],
+          "meaning": "treatment"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|ӏэзэгъу| уцыхэр",
+              "translation": "|Drug| plants."
+            }
+          ],
+          "meaning": "medicine"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Тхьэм кӏалэр |ӏэзэгъоу| ерэшӏ",
+              "translation": "May god make the boy |healthy|."
+            }
+          ],
+          "meaning": "healthy"
+        },
+        {
+          "examples": [],
+          "meaning": "healing partner; healing body; healing friend"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapətʼarən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэпэтӏэрын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэпытӏэрын\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔa qaʔatən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэ къэӏэтын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Сӏэ къэсэӏэты|",
+              "translation": "|I surrender|."
+            }
+          ],
+          "meaning": "to surrender"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр емыджэшъоу зэхъум |ыӏэ къиӏэтыжьыгъ|",
+              "translation": "When the boy couldn\u0027t study, |he gave up|."
+            },
+            {
+              "sentence": "Кӏалэр пшъашъэм джэгумкӏэ текӏошъугъэпи, |ыӏэ къиӏэтыгъ|",
+              "translation": "Because the boy couldn\u0027t defeat the girl in the game, |he gave up|."
+            }
+          ],
+          "meaning": "to give up"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔapɬʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэплӏ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏаплӏэ\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔamaːl",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэмал",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"амал\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔadab",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэдэб",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "polite"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔamaqa-ɬamaːq",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэмэкъэ-лъэмакъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏэмэкъэ-лъэмакъэ| къэӏугъ",
+              "translation": "|A noise| was heard."
+            },
+            {
+              "sentence": "Зи |ӏэмэкъэ-лъэмакъэ| къэӏурэп",
+              "translation": "No |noise| was heard."
+            }
+          ],
+          "meaning": "noise (from the movement of arms and legs)"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏэкӏэкӏьын",
+      "kabardian": "ӏэщӏэкӏын",
+      "ipa": "ʔat͡ʃʼat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэкӏэкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр хьэмэ |аӏэкӏэкӏыгъ|",
+              "translation": "The boy |got away| from the dogs."
+            },
+            {
+              "sentence": "Шъукъэсыубытымэ |шъукъысӏэкӏэкӏыщтып|",
+              "translation": "If I caught you |you won\u0027t get away from me|."
+            },
+            {
+              "sentence": "Пцӏы кӏалэм |ӏэкӏэкӏыгъ|.",
+              "translation": "The boy |let| a lie |slip away inadvertently|"
+            }
+          ],
+          "meaning": "to let someone get away or run away (inadvertently)"
+        },
+        {
+          "examples": [],
+          "meaning": "to break out of somebody\u0027s hands"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм фылымыр |ӏэкӏэкӏыгъ|",
+              "translation": "The boy |missed out| the film |incidentally|."
+            },
+            {
+              "sentence": "Кӏалэм уахътэр |ӏэкӏэкӏыгъ|",
+              "translation": "The boy |lost| time |incidentally|"
+            }
+          ],
+          "meaning": "to miss out inadvertently"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔat͡ʃʼəb",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэкӏыб",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏэкӏыб| хэгъэгу",
+              "translation": "|Foreign| country."
+            }
+          ],
+          "meaning": "foreign"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏэщӏэукӏэн",
+      "ipa": "ʔat͡ʃʼawt͡ʃʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэкӏэукӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Зыфэсакъ, усӏукӏэмэ |укъысӏэкӏэукӏэхьащт|",
+              "translation": "Be careful!, if we meet |I might kill you inadvertently|."
+            }
+          ],
+          "meaning": "to kill somebody inadvertently"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔat͡ʃʼawt͡ʃʼaʃʷʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэкӏэуӏэшӏон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэм ишхын сэ |сӏэкӏэуӏэшӏуагъ|",
+              "translation": "|I was pleased| the girl\u0027s dinner"
+            }
+          ],
+          "meaning": "to be pleased (with the food)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔʷaps ɬaps",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэпс-лъэпс",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Бгырыпх |ӏэпс-лъэпс| ыбгы илъ",
+              "translation": "A |simple| belt is on his waist."
+            }
+          ],
+          "meaning": "simple, basic"
+        },
+        {
+          "examples": [],
+          "meaning": "narrowish"
+        },
+        {
+          "examples": [],
+          "meaning": "with difficulty"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔat͡ʃʼaħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэкӏэхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм шхын бэ |ӏэкӏэхьан| фай",
+              "translation": "The boy needs |to receive| a lot food."
+            },
+            {
+              "sentence": "Видио-джэгумкӏэ |къэсӏэкӏэхьагъ| чатэ",
+              "translation": "In the video game, |I got a hold of| a sword."
+            },
+            {
+              "sentence": "Лӏым зи ахъщи |ӏэкӏахьэрэп|",
+              "translation": "The man |does not receive| any money."
+            },
+            {
+              "sentence": "Сыд |къыпӏэкӏахьагъэр|?",
+              "translation": "What did |you receive|?"
+            },
+            {
+              "sentence": "Тхьапш |къыпӏэкӏахьагъэр|?",
+              "translation": "How much did |you receive|?"
+            },
+            {
+              "sentence": "Шӏэныгъэ |къэсӏэкӏэхьагъ| о |къыпӏэмыкӏэхьагъэу|",
+              "translation": "|I received| knowledge |that you did not receive|."
+            },
+            {
+              "sentence": "Сишхын иуахътэ |къэсӏэкӏэхьагъэп|",
+              "translation": "|I did not receive| my food in time."
+            },
+            {
+              "sentence": "Кӏалэм губжьыгъэ ӏофыр |къыӏэкӏэхьагъэпи|",
+              "translation": "The young man got angry |becase he did not get| the job."
+            }
+          ],
+          "meaning": "to acquire, to obtain, to get, to receive, to gain, to take possession of, to get ahold of"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔət͡ʃʼaʁaħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэкӏэгъэхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ар |къызыӏэкӏегъэхьан| фай",
+              "translation": "The boy needs |to make himself gain it|."
+            },
+            {
+              "sentence": "Шӏэныгъэ зыгорэм |ӏэбгъэкӏэхьаныр|",
+              "translation": "|To provide| knowledge |to| someone."
+            },
+            {
+              "sentence": "Пачъыхьым ишхын иуахътэ |къыӏэгъэхьагъ|",
+              "translation": "|Provide| the king his meal in time."
+            },
+            {
+              "sentence": "Сымаджэм уцыр иуахътэ |къыӏэмыгъэкӏахьэмэ|, лӏэщт",
+              "translation": "|If you don\u0027t provide| the medicine |to| the sick in time, they will die."
+            },
+            {
+              "sentence": "Сымаджэм уцыр иуахътэ |къыӏэбгъэкӏэхьан| фай мылӏэнэу",
+              "translation": "|You| need |to provide| the medicine |to| the sick in time so they won\u0027t die."
+            },
+            {
+              "sentence": "Цӏыфымэ шхын |аӏэгъэкӏахь",
+              "translation": "|Provide| food to the people."
+            },
+            {
+              "sentence": "Робин Хьуд ахъщэ тхьамыщкӏэмэ ахъщэ къаӏегъэкӏахьэ",
+              "translation": "Robin Hood |supply| money to the poor."
+            },
+            {
+              "sentence": "Шхончыхэр дзэм |ӏэкӏэгъэхьан|",
+              "translation": "|To suppy| the army with rifles."
+            }
+          ],
+          "meaning": "to supply to; to provide to (more specifically: to make someone obtain of something)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔat͡ʃʼaħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэчӏэхьан",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэкӏэхьан\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔa xaɬən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэ хэлъын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хъугъэм |сӏэ хэлъэп|",
+              "translation": "|I am not involved| with what happened."
+            },
+            {
+              "sentence": "Куджаным |ыӏэ хэлъ| цӏыфэу аукӏыгъэм",
+              "translation": "Kujan |has something to do| with the person that was murdered."
+            }
+          ],
+          "meaning": "to be involved with; to have contribution in"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔa xaɬħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэ хэлъхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ахъщэм |сӏэ хэсылъхьагъ|",
+              "translation": "|I got involved with| the money."
+            },
+            {
+              "sentence": "Хъугъэм кӏалэм |ыӏэ хилъхьагъэп|",
+              "translation": "The boy |did not contribute| to what happened."
+            }
+          ],
+          "meaning": "to contribute; to get involved with"
+        }
+      ]
+    },
+    {
+      "kabardian": "ӏэхъуэгъу",
+      "ipa": "ʔaχʷaʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэхъогъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чэм |ӏэхъогъу|",
+              "translation": "|Herd| of cows"
+            },
+            {
+              "sentence": "ӏахъом |ӏэхъогъур| чылэм дифыгъ",
+              "translation": "The herdsman lead the |herd| out side the village."
+            },
+            {
+              "sentence": "А чэмым нахь дэгъу |ӏэхъогъум| хэтэп",
+              "translation": "There is no better cow in |the herd|."
+            },
+            {
+              "sentence": "Мэлахъом мэлыр |ӏэхъогъум| хигъэхьагъ",
+              "translation": "The shepherd added the sheep to |the herd|."
+            }
+          ],
+          "meaning": "herd"
+        },
+        {
+          "examples": [],
+          "meaning": "herdsman\u0027s companion"
+        }
+      ]
+    },
+    {
+      "ipa": "-zada",
+      "lang": "Adyghe",
+      "type": "prefix",
+      "word": "ӏэкӏэ-",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сикомпыютэр с|ӏэкӏэ|кӏосагъ",
+              "translation": "My computer switched off |unexpectedly| to me."
+            },
+            {
+              "sentence": "Пысмэ бэ с|ӏэкӏэ|тхагъ",
+              "translation": "I wrote a lot of letters |unintentionally|."
+            },
+            {
+              "sentence": "Сихьакӏэхэмэ зэкӏэ мыӏэрысхэр с|ӏэкӏ|ашхыхьагъ",
+              "translation": "My guests ate all the apples |unexpectedly| to me."
+            },
+            {
+              "sentence": "Сэ мыӏэрысхэр с|ӏэкӏэ|шхыхьагъ",
+              "translation": "I ate the apples |unintentionally|."
+            },
+            {
+              "sentence": "А цӏыфыр сы|ӏэкӏэ|укӏыхьащт",
+              "translation": "I will kill that person |unintentionally|."
+            }
+          ],
+          "meaning": "(added to verbs) unintentional; a verbal prefix that denotes unintentional actions or actions that occurred unexpectedly"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "хэгъуашъхьэ",
+        "хэгъошъхьаӏу"
+      ],
+      "ipa": "ʔaʁʷabɮaːʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэгъоблагъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэгъо-благъу\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "хэгъуашъхьэ",
+        "хэгъошъхьаӏу"
+      ],
+      "ipa": "ʔaʁʷa-bɮaːʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэгъо-благъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "surrounding area (of a village or city)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "шъхьачъэ-лъэчъэн"
+      ],
+      "ipa": "ʔat͡ʂa ɬat͡ʂan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэчъэ-лъэчъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "hustle and bustle, commotion, hubbub, hurlyburly"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "шъхьачъэ-лъэчъэн"
+      ],
+      "ipa": "ʔat͡ʂa ɬat͡ʂan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэчъэ-лъэчъэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to run back and forth"
+        }
+      ]
+    },
+    {
+      "ipa": "ʕapq-ɬapq",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпкъ-лъэпкъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ыӏэпкъ-лъэпкъыхэр| мэузых",
+              "translation": "The boy\u0027s |limbs| are hurting."
+            }
+          ],
+          "meaning": "limb (major appendage of a human such as an arm, leg)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaraːm",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэрам",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Къэгъэгъэ зэмылӏэужыгъоу зэхэт |ӏэрам|",
+              "translation": "|Bouquet| of different flowers."
+            }
+          ],
+          "meaning": "bouquet, bunch of flowers, posy"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Цумпэ |ӏэрам| кӏалэм къыхьыгъ",
+              "translation": "The boy brought a |bunch| of strawberries."
+            }
+          ],
+          "meaning": "bunch"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔanaʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэнэгъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |сиӏэнэгъу| щыс",
+              "translation": "The boy is sitting |adjacent to me|."
+            }
+          ],
+          "meaning": "neighbor at the table; cloest person at the table"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔanaʁʷəna",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэнэгъунэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чылэм |иӏэнэгъунэ| мэлахъохэр щылажьэх",
+              "translation": "The cowherds work |in the surrounding area| of the village."
+            }
+          ],
+          "meaning": "surrounding area (of a village or city)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏашӏу ӏушӏу"
+      ],
+      "ipa": "ʔaːʃʷʼə ʔʷəʃʷʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэшӏу-ӏушӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|ӏашӏу-ӏушӏухэр|",
+              "translation": "|sweets|."
+            },
+            {
+              "sentence": "|ӏашӏу-ӏушӏухэр| зыщащэрэм сылъэхъу, торт сщэфыным пае.",
+              "translation": "I am looking for |sweetmeats| to buy a cake."
+            }
+          ],
+          "meaning": "sweets, sweetmeats, candies"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "къопс",
+        "ӏэубытыпӏэ"
+      ],
+      "ipa": "ʔapaps",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэпэпс",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"къопс\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏэпэпс",
+        "къопс"
+      ],
+      "ipa": "ʔawbətəpʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэубытыпӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "handle"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |ӏэубытыпӏэмкӏэ| пчъэр къыӏуихыгъ",
+              "translation": "The boy opened the door |with the knob|."
+            }
+          ],
+          "meaning": "knob"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaɕ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэщ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "cattle-shed, cow-house, sheepcote"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːħ-maq",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэхьмакъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "foolish; dimwit (stupid person)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaːħ-maq",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэхь-макъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏэхьмакъ\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaħaɮ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэхьэл",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏахьыл\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔaxən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "ӏэхын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"къыӏыхын\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔanaːtʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэнатӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ар бжьэхъо ӏаз, ау бжьэхъон |ӏэнатӏэм| фаеп",
+              "translation": "He is an beekeeper expert, but he does not want to be in a beekeeping |job|."
+            },
+            {
+              "sentence": "Лӏым |сиӏэнатӏэр| къысӏыхыгъ",
+              "translation": "The man |took| my position."
+            }
+          ],
+          "meaning": "post, position, job"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "емлыч"
+      ],
+      "ipa": "ʔaɮ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "ӏэл",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏалы\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʔabʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэбгъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "lateral side of the hand"
+        }
+      ]
+    },
+    {
+      "ipa": "ӏaχʷ-pʂaχʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "ӏэхъу-пшъэхъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "handcuffs, manacles"
+        }
+      ]
+    }
+  ],
+  "чӏ": [
+    {
+      "ipa": "t͡ʂʼəpʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыпӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Чӏыпӏэ| щыӏа тыщеджэшъунэу?",
+              "translation": "Is there |a place| we can study at?"
+            },
+            {
+              "sentence": "|Чӏыпӏэ| щыӏ шъулэжьэнэу шъуфаемэ",
+              "translation": "Is there |a place| if you guys want to work?"
+            },
+            {
+              "sentence": "Мы |чӏыпӏэр| дэгъу унэ ипшӏыхьанэу",
+              "translation": "This |place| is good to build a house in."
+            },
+            {
+              "sentence": "Уздэкӏуагъэр |чӏыпӏэ| тэрэзэп",
+              "translation": "Where you went is not the correct |place|."
+            }
+          ],
+          "meaning": "place"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Дзэм мы |чӏыпӏэ| ыубытыгъ",
+              "translation": "The army took hold this |area|."
+            }
+          ],
+          "meaning": "area"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |чӏыпӏэ| дэгъу зитыр",
+              "translation": "The boy is in a good |position|."
+            },
+            {
+              "sentence": "Кӏалэр |сичӏыпӏэ| ӏут",
+              "translation": "The boy is in |my spot|."
+            },
+            {
+              "sentence": "|Шъуичӏыпӏэхэмэ| шъуариуцожь",
+              "translation": "Go back to |your positions|."
+            },
+            {
+              "sentence": "Кӏалэм |ичӏыпӏэ| ситынэу сыфэещтыгъэп",
+              "translation": "I wouldn\u0027t want to be in the boy\u0027s |position|."
+            },
+            {
+              "sentence": "Пшъашъэр |чӏыпӏэ| къин ит",
+              "translation": "The girl is in a tough |position|."
+            }
+          ],
+          "meaning": "spot; position"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃəbʑ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыбжь",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Чӏыбжьэхэр| къэгъагъэмэ атесых",
+              "translation": "|The bumble-bees| are on the flowers."
+            }
+          ],
+          "meaning": "bumble-bee"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃəqʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыкъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Чӏыкъохэр| мэзым хэсых",
+              "translation": "|The badger| are in the forest."
+            }
+          ],
+          "meaning": "badger"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃaːpt͡sˤʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏапцӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "dark blue"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼabən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэбын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр  |чӏэбы|",
+              "translation": "The boy |is drowning|."
+            },
+            {
+              "sentence": "Лӏыр хым |чӏэбыгъ|",
+              "translation": "The man |drowned| in the sea."
+            },
+            {
+              "sentence": "Хым куущэу ухэмыхь, умышӏахэу |учӏэбыщт|",
+              "translation": "Do not go too deeply inside the sea, |you will drown| by accident."
+            }
+          ],
+          "meaning": "to drown"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Къухьэ |чӏэбы|",
+              "translation": "The ship |is sinking|."
+            },
+            {
+              "sentence": "Къухьэр псы изэу хъугъэти |чӏэбыгъ|",
+              "translation": "Because the ship became full of water, it |sank|."
+            }
+          ],
+          "meaning": "to sink"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кудэ",
+        "шъотэгын"
+      ],
+      "ipa": "t͡ʃədaːʁ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыдагъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "oil, earth oil, ground oil, petroleum"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃəkʷˈəħnəqʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыкӏухь ныкъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "longitude"
+        },
+        {
+          "examples": [],
+          "meaning": "meridian"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃəkʷˈəħnəqʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыкӏухь",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "latitude"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəɬatajpɬ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏылъэтеплъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "natural territory, landschaft"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃəmatx",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏымэтх",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "geology"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəwaps",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыопс",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "nature"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəwaps t͡ʃʼəb",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыопс кӏыб",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "supernatural"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "гыныплъ"
+      ],
+      "ipa": "t͡ʃəpɬ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыплъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "beet (the root plant Beta vulgaris)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼəpt͡ʂən ʃʼanəʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыпчъын шӏэныгъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "geodesy"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼətχət͡saxar",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏытхъыцэхэр",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "coordinates"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼəʁaʃʷʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыгъэшӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "fertilization (the process of fertilizing)"
+        },
+        {
+          "examples": [],
+          "meaning": "fertilizer, manure"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃˈərəkʷˈ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏырыкӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "potato"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂəbzəw",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыбзыу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "cricket (insect)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼəfa t͡ʂʼatən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏыфэ чӏэтын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to be in debt"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼəʂʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏышъор",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "crust (Earth\u0027s outermost layer)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼənaːɬa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыналъэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |чӏыналъэм| текӏи хым техьагъ",
+              "translation": "The boy went off |the land| and went into the sea."
+            }
+          ],
+          "meaning": "land"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏылъэ",
+      "synonyms": [
+        "чӏылъэ"
+      ],
+      "ipa": "t͡ʃʼəɡʷə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыгу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Огъум |чӏыгур| ыгъэгъугъэ",
+              "translation": "The drought dried |the land|."
+            },
+            {
+              "sentence": "Дзэм |тичӏыгу| ыштагъ",
+              "translation": "The army took |our land|."
+            },
+            {
+              "sentence": "|Чӏыгум| уцыхэр къыхэкӏых",
+              "translation": "Plants are coming out from |the land|."
+            }
+          ],
+          "meaning": "land"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм шӏуанэмкӏэ |чӏыгур| етӏы",
+              "translation": "The boy is digging up |the ground| with the hoe."
+            },
+            {
+              "sentence": "Кӏалэм |чӏыгум| машэ хитӏыкӏыгъ",
+              "translation": "The boy dug out a hole in |the ground|."
+            },
+            {
+              "sentence": "Шъугущыӏэнэу шъукъэкӏуагъэмэ шъуиӏашэр |чӏыгум| тежъудзэх",
+              "translation": "If you guys came to talk throw your arms onto |the ground|."
+            },
+            {
+              "sentence": "Къэгъагъэр |чӏыгум| къыхэмытхъ",
+              "translation": "Do not pull the flower out of |the ground|."
+            }
+          ],
+          "meaning": "ground"
+        },
+        {
+          "examples": [],
+          "meaning": "earth"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼanan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэнэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "ӏэнэ чӏэгъым |сычӏэнагъ|",
+              "translation": "|I am stuck under| the table."
+            },
+            {
+              "sentence": "Гъочӏэгъым |тычӏэнагъ|",
+              "translation": "|We are stuck under| the cave."
+            }
+          ],
+          "meaning": "to become stuck under (trapped and unable to move or progress)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼapʼətʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэпӏытӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "сӏэхъуамбэхэр ӏанэм |чӏэпӏытӏагъэх|",
+              "translation": "My fingers |are stuck| under the table."
+            }
+          ],
+          "meaning": "to get squeezed intensivly under"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼaħaːpʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏэхьапӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "entrance"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼərəʁəs",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏырыгъыс",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Чӏырыгъыс| ушӏэшъущта?",
+              "translation": "Can you |dive|?"
+            }
+          ],
+          "meaning": "dive"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼəfaɮ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыфэл",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "debtor"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃəfa t͡ʃʼatən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏыфэ чӏэтын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |чӏыфэ чӏэт|",
+              "translation": "The boy |is in debt|."
+            }
+          ],
+          "meaning": "to be in debt"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼəfa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыфэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |чӏыфэ| чӏэт",
+              "translation": "The boy is in |debt|."
+            },
+            {
+              "sentence": "Лӏыр |чӏыфэм| хэт",
+              "translation": "The man is in |debt|."
+            },
+            {
+              "sentence": "Кӏалэм |чӏыфэ| телъ",
+              "translation": "A |debt| is on the boy."
+            },
+            {
+              "sentence": "Лӏым |ичӏыфэ| ытыжьырэп",
+              "translation": "The man does not pay |his debt|."
+            }
+          ],
+          "meaning": "debt"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Мафиям |чӏыфэ| къыӏэмых, къыплъэханэщтэп",
+              "translation": "Do not take |loan| from the Mafia, they won\u0027t spare you."
+            },
+            {
+              "sentence": "Кӏалэм |чӏыфэ| лӏым къыӏырихыгъ",
+              "translation": "The man took |loan| from the man."
+            },
+            {
+              "sentence": "|Чӏыфэу| къаӏэпыхыгъэр аптыжьын фай",
+              "translation": "You must return |a loan| that you took."
+            }
+          ],
+          "meaning": "loan (that will become debt)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʁʷaɬħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэгъолъхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чъыгы чӏэгъым |сычӏэгъолъхьэ|",
+              "translation": "|I am lying down [under]| the tree."
+            }
+          ],
+          "meaning": "to lie down under"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼeʁabəɬħan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэгъэбылъхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ӏанэ чӏэгъым |зычӏегъэбылъхьэ|",
+              "translation": "The boy |is hiding| under the table."
+            },
+            {
+              "sentence": "Кӏэлэцӏыкӏум джэгуалъэр ӏанэм |чӏигъэбылъхьагъ|",
+              "translation": "The little boy |hid| the toy under the table."
+            }
+          ],
+          "meaning": "to hide under"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хыр куу, |чӏэ| иӏэп",
+              "translation": "The sea is deep, it has no |bottom|."
+            },
+            {
+              "sentence": "Кӏалэм псыр апчым |ычӏэ| нэсы ришъугъ",
+              "translation": "The boy drank the water out of the glass to |the bottom|."
+            }
+          ],
+          "meaning": "bottom ground"
+        }
+      ]
+    },
+    {
+      "ipa": "wnaːʂħa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыунэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыр |чӏыунэм| чӏэхьагъ",
+              "translation": "The man went down |the basement|."
+            }
+          ],
+          "meaning": "basement"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəɬ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏылъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"чӏылъэ\""
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏылъэ",
+      "synonyms": [
+        "чӏыгу"
+      ],
+      "ipa": "t͡ʃʼəɬa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏылъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "land; dry land"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏы",
+      "ipa": "t͡ʂʼə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Чӏы| кӏыӏум тетыр бэ",
+              "translation": "There are a lot of things on the |ground\u0027s| surface."
+            }
+          ],
+          "meaning": "ground"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼaʁət͡ʂʼaɬ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏэгъчӏэлъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Джэнэ |чӏэгъчӏэлъ|",
+              "translation": "|Undershirt|."
+            },
+            {
+              "sentence": "Гъончэдж |чӏэгъчӏэлъ|",
+              "translation": "|Underpants|."
+            }
+          ],
+          "meaning": "underwear (clothes worn next to the skin, underneath outer clothing)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "чӏэухъубэн",
+        "чӏэухъумэн"
+      ],
+      "ipa": "t͡ʂʼaʁasajan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэгъэсэен",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хъотым гъогур |чӏигъэсэягъ|",
+              "translation": "The snowstorm |covered| the road."
+            },
+            {
+              "sentence": "Хьадэр ятӏэм |чӏигъэсэягъ|",
+              "translation": "|They buried| the corpse under the dirt."
+            },
+            {
+              "sentence": "Унэр къызэхафи ис цӏыфыхэр |чӏигъэсэягъэх|",
+              "translation": "The house collapsed and |buried| the people in it."
+            }
+          ],
+          "meaning": "to cover and bury something"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼawχʷəban",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэухъубэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"чӏэухъумэн\""
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэуфэн",
+      "ipa": "t͡ʂʼawχʷəman",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэухъумэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сымаджэр чыхӏэным |чӏэухъумэн|",
+              "translation": "|To cover| the sick with a blanket."
+            },
+            {
+              "sentence": "Хъотым гъогур |чӏиухъубагъ|",
+              "translation": "The snowstorm |covered| the road."
+            }
+          ],
+          "meaning": "to cover something; to put something under a cover"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Хьадэр чӏыгуи |чӏэухъумагъ|",
+              "translation": "|They buried| the body under the ground."
+            },
+            {
+              "sentence": "Хьадэр ятӏэм |чӏиухъумагъ|",
+              "translation": "|They buried| the corpse under the dirt."
+            },
+            {
+              "sentence": "Унэр къызэхафи ис цӏыфыхэр |чӏиухъумагъэх|",
+              "translation": "The house collapsed and |buried| the people in it."
+            }
+          ],
+          "meaning": "to bury something; to put stuff on something and bury it"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼaʁat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэгъэкӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"къычӏэгъэкӏын\""
+        }
+      ]
+    },
+    {
+      "shapsug": "чӏэсӏэн",
+      "ipa": "t͡ʂʼat͡sʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэцӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хьэр унэ чӏэгъым |чӏэцӏагъ|",
+              "translation": "The dog |took a shit under| the house."
+            }
+          ],
+          "meaning": "(vulgar) to take a shit under"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Фылым теплъытэу кӏалэр |къычӏэцӏагъ|",
+              "translation": "While we were going to watch a movie, the boy |withdraw|."
+            },
+            {
+              "sentence": "Кӏалэр чъыгым къепкӏэщтыгъ, ау |къычӏэцӏагъ|",
+              "translation": "The boy was going to jump off the tree, but he |chicken out|."
+            }
+          ],
+          "meaning": "(vulgar slang) to withdraw, to chicken out"
+        }
+      ]
+    },
+    {
+      "shapsug": "чӏэгъэсӏэн",
+      "ipa": "t͡ʂʼat͡sʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэгъэцӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Фылым угъэшынэным кӏалэр |къычӏигъэцӏагъ|",
+              "translation": "The harrow movie |scared the shit out of| the boy."
+            }
+          ],
+          "meaning": "(vulgar) to scare the shit out of, to make someone feel very frightened"
+        }
+      ]
+    },
+    {
+      "shapsug": "чӏэшъутын",
+      "ipa": "t͡ʂʼaʃʷtən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэхъушъутын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр унэ чӏэгъым |къычӏэхъушъуты|",
+              "translation": "The boy |is running away| from under the house."
+            }
+          ],
+          "meaning": "to run off from under something; to dash off from under something"
+        }
+      ]
+    },
+    {
+      "shapsug": "чӏэкӏьын",
+      "synonyms": [
+        "щытын"
+      ],
+      "ipa": "t͡ʂʼat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "adv",
+      "word": "чӏэкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр дучаным кӏуагъэу |чӏэкӏын|",
+              "translation": "The boy |probably| went to the shop."
+            },
+            {
+              "sentence": "Кӏалэм ахъщэ шӏокӏуагъэу |чӏэкӏын|",
+              "translation": "The boy |probably| lost his money."
+            },
+            {
+              "sentence": "Псэу узешъуагъэр къабзэу |чӏэкӏын|",
+              "translation": "The water you drank is |probably| clean."
+            },
+            {
+              "sentence": "Ащ ыянэ хъурхъоу |чӏэкӏын|",
+              "translation": "His/her mother is |probably| kind"
+            },
+            {
+              "sentence": "Экзамыным бэу къыпхыгъэу |чӏэкӏын|",
+              "translation": "You |probably| got high [grades] in the exam."
+            },
+            {
+              "sentence": "Лӏыр а ӏофым ӏут илъэсипшӏэ, ӏофыр ыпэ къыикӏыжьыгъэу |чӏэкӏын|",
+              "translation": "The man worked in that work for ten years, he |probably| got fed up with the job."
+            }
+          ],
+          "meaning": "probably (more specifically: it would [probably] turn out to be)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр ӏэнэ чӏэгъым |къычӏэкӏыгъ|",
+              "translation": "The boy |came out from under| the table."
+            },
+            {
+              "sentence": "Бжьыны убзымэ нэпсыхэр унэ |къычӏигъэкӏыщтых|",
+              "translation": "If yout cut opoion |it will make| tears |come out from| your eye."
+            }
+          ],
+          "meaning": "to come out under"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэхьэн",
+      "ipa": "t͡ʂʼəħan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэцӏыкӏур ӏанэ чӏэгъым |чӏахьэ|",
+              "translation": "The little boy |goes under| the table."
+            }
+          ],
+          "meaning": "to go under something"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Университетым  |сычӏэхьагъ|",
+              "translation": "|I entered| the university."
+            }
+          ],
+          "meaning": "to enter a facility"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼəʂħaːʃʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏышъхьашъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Чӏышъхьашъом| уцхэр къытекӏэх",
+              "translation": "Plants are growing on |the ground surface|."
+            }
+          ],
+          "meaning": "ground surface"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэуфэ",
+      "ipa": "t͡ʂʼawχʷəma",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏэухъумэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "camouflage"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэлъхьэн",
+      "ipa": "t͡ʂʼaɬħan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэлъхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм тхылъыр ӏанэм |чӏилъхьагъ|",
+              "translation": "The boy |placed| the book under the table."
+            },
+            {
+              "sentence": "Пхъэхэр унэ чӏэгъым |чӏэсылъхьагъэх|",
+              "translation": "|I placed| the woods under the house."
+            }
+          ],
+          "meaning": "to put/place something under something"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лагъымэ |чӏилъхьи| лъэмыджыр къыгъэуагъ",
+              "translation": "(S)he |planted| a mine under bridge and destroyed it."
+            },
+            {
+              "sentence": "лагъымэ |чIэлъхьан|",
+              "translation": "To |planted| a mine."
+            }
+          ],
+          "meaning": "to plant (a mine)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Хьадэр |чxэлъхьан|",
+              "translation": "|To bury| a corpse."
+            }
+          ],
+          "meaning": "to bury"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэтэкъун",
+      "ipa": "t͡ʂʼataqʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэтэкъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым картыхэр |чӏетэкъух|",
+              "translation": "The man |spreads| the cards |on the group|."
+            },
+            {
+              "sentence": "Лӏым чылапхъэхэр |чӏетэкъух|",
+              "translation": "The man |spreads| the seeds."
+            }
+          ],
+          "meaning": "to strew (on an ground), to distribute objects or pieces of something on the ground (especially in a random manner)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼa",
+      "lang": "Adyghe",
+      "type": "prefix",
+      "word": "чӏэ-",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "(added to verbs) under something"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼəpʼaːɬa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыпӏалъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "site"
+        }
+      ]
+    },
+    {
+      "ipa": "ħaːsatx",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыбгъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "roof shed (pergola, arbour, arcade, bower)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂatən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэтын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр чъыгым |чӏэт|",
+              "translation": "The boy |is standing under| the tree."
+            },
+            {
+              "sentence": "Уцым ылъапсэ чӏыгу чӏэгъым |чӏэт|",
+              "translation": "The plant\u0027s root |is under| the ground."
+            },
+            {
+              "sentence": "Къакъырым чэмхэр |чӏэтых|",
+              "translation": "The cows |are under| the shed."
+            },
+            {
+              "sentence": "Кӏалэр чӏыфэ |чӏэт|",
+              "translation": "The boy |is in| debt."
+            },
+            {
+              "sentence": "Тракторыр бгъагъэм |чӏэт|",
+              "translation": "The tractor |is under| the shed."
+            },
+            {
+              "sentence": "Кум щэрэхъхэр |чӏэтых|",
+              "translation": "The carriage has wheels |under it|."
+            },
+            {
+              "sentence": "Жьаум |тычӏэтэу| тэлажьэ",
+              "translation": "We are working |in| the shadow"
+            }
+          ],
+          "meaning": "to stand under; to be under something in a stand position"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂasən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэсын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр чъыгым |чӏэс| шхэу",
+              "translation": "The boy |is sitting under| the tree eating."
+            }
+          ],
+          "meaning": "to sit under; to be under something in a sitting position"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂaɬən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "чӏэлъын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хьэр ӏанэм |чӏэлъ|",
+              "translation": "The dog |is lying under| the table."
+            },
+            {
+              "sentence": "Пхъэхэр унэм |чӏэлъых|",
+              "translation": "The woods |are under| the house."
+            },
+            {
+              "sentence": "Трубэу чӏыгу чӏэгъым |чӏэлъыр| шъыбыгъэ",
+              "translation": "The pipe |under| the ground is sealed."
+            }
+          ],
+          "meaning": "to lie under; to be under something in a lying position"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼəpʼarəs",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыпӏэрыс",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "settler; local resident"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏэй",
+        "лъэгу",
+        "охы"
+      ],
+      "ipa": "t͡ʂʼəwax",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыох",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "lowland"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼakʷʼaʂən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏэкӏошъэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Тыгъуакӏор тучаным |чӏэкӏошъэн| ыӏозэ къаубытыгъ",
+              "translation": "The thief tried |to sneak| into the store but he got caught."
+            }
+          ],
+          "meaning": "to sneak (under)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼət͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыкӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "tselina; virgin lands, virgin soil"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʂʼəpʼa nat͡ʃʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "чӏыпӏэ нэкӏ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "wasteland"
         }
       ]
     }
@@ -121897,6 +116133,2071 @@ const circassianDict = {
       ]
     }
   ],
+  "шӏ": [
+    {
+      "ipa": "ʃʷʼəət͡ʼsaʐ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏуцӏэжъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "cockroach"
+        },
+        {
+          "examples": [],
+          "meaning": "black-beetle"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaːna",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏуанэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |шӏуанэмкӏэ| ятӏэр етӏы",
+              "translation": "The boy is digging up the dirt |with the hoe|."
+            },
+            {
+              "sentence": "Къашт |шӏуанэр|",
+              "translation": "Pick up |the hoe|."
+            },
+            {
+              "sentence": "Къэхь |шӏуанэ|",
+              "translation": "Bring |a hoe|."
+            }
+          ],
+          "meaning": "hoe"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "хафэ",
+        "зэхэшӏоӏухьан",
+        "гъэпцӏагъэ"
+      ],
+      "ipa": "ʃʷʼaʔʷ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "шӏоӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Нэшэбэгу |шӏоӏу|",
+              "translation": "|Pickled| cucumber."
+            }
+          ],
+          "meaning": "fermented, sour, pickled"
+        }
+      ]
+    },
+    {
+      "shapsug": "шӏусӏэ",
+      "kabardian": "фӏыцӏэ",
+      "ipa": "ʃʷʼət͡sʼa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "шӏуцӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хы |шӏуцӏэр|",
+              "translation": "|The black| sea."
+            },
+            {
+              "sentence": "Сиджанэ |шӏуцӏэ|",
+              "translation": "my shirt is |black|."
+            },
+            {
+              "sentence": "|Шӏуцӏэкӏэ| дэпкъыр лэ",
+              "translation": "Color the wall |with black color|."
+            },
+            {
+              "sentence": "Хьалыгъур мэсти |шӏуцӏэу| хъугъэ",
+              "translation": "The bread burned and got |black|."
+            }
+          ],
+          "meaning": "black"
+        }
+      ]
+    },
+    {
+      "kabardian": "фӏы",
+      "ipa": "ʃʷʼə",
+      "lang": "Adyghe",
+      "type": "adv",
+      "word": "шӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Уатхъэ |шӏоп| джы",
+              "translation": "It is |not a good| time now."
+            },
+            {
+              "sentence": "Цӏыфы|шӏу|",
+              "translation": "|Good| person."
+            },
+            {
+              "sentence": "Насыпы|шӏу|",
+              "translation": "|Good| luck."
+            }
+          ],
+          "meaning": "good"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Щаер |шӏоу| сышӏыгъа?",
+              "translation": "Did I made the tea |well|?"
+            },
+            {
+              "sentence": "Цӏыфымэ |шӏоу| уадэзекӏон фай",
+              "translation": "You must treat people |well|."
+            },
+            {
+              "sentence": "Кӏаэр |шӏоу| зекӏуагъэп",
+              "translation": "The boy did not behave |well|."
+            },
+            {
+              "sentence": "|Шӏоу| орэхъу",
+              "translation": "May you become |well|."
+            },
+            {
+              "sentence": "Пшъашъэр |щӏоу| къэсдэгущыӏагъ",
+              "translation": "The girl spoke to me |well|."
+            }
+          ],
+          "meaning": "well"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|Cышӏу| мэузы",
+              "translation": "|My liver| hurts."
+            }
+          ],
+          "meaning": "liver"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʼatən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏэтын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Тыгъэр |къэшӏэты|\u0027",
+              "translation": "The sun is |shining|."
+            }
+          ],
+          "meaning": "to shine, to beam, to be radiant"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʼatə",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "шӏэты",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "clear weather"
+        }
+      ]
+    },
+    {
+      "etymology": "From шӏои (dirty) + ӏун (to hear) + -лэ (often suffix)",
+      "ipa": "ʃʷʼajəɮ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏоил",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "something or someone that is often dirty"
+        }
+      ]
+    },
+    {
+      "etymology": "From шӏои (dirty) + ӏун (to hear) + -лъ (tool suffix)",
+      "ipa": "ʃʷʼajəɬ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏоилъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "garbage can"
+        }
+      ]
+    },
+    {
+      "ipa": "ʂʷəpɕə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏупщы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Шӏупщыр| хъулъфыгъэм ишъу ыят",
+              "translation": "|Father-in-law| is a man\u0027s wife\u0027s father."
+            }
+          ],
+          "meaning": "a man\u0027s father-in-law: his wife\u0027s father"
+        }
+      ]
+    },
+    {
+      "ipa": "ʂʷəɡʷaːɕa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏугуащэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Шӏугуащэр| хъулъфыгъэм ишъу ыят",
+              "translation": "|Mother-in-law| is a man\u0027s wife\u0027s mother."
+            }
+          ],
+          "meaning": "a man\u0027s mother-in-law: his wife\u0027s mother"
+        }
+      ]
+    },
+    {
+      "shapsug": "шӏукӏьай",
+      "synonyms": [
+        "дэгъукӏай"
+      ],
+      "etymology": "From шӏу (well) + -кӏай (pretty/quite suffix)",
+      "ipa": "ʃʷʼət͡ʃʼaːj",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "шӏукӏай",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "pretty well; quite well"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "дэгъупӏэ"
+      ],
+      "ipa": "ʃʷʼpʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏупӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лым |ишӏупӏэ|",
+              "translation": "|The best part of| the meat."
+            },
+            {
+              "sentence": "Фылымым |ишӏупӏэ|",
+              "translation": "|The best part of| the film."
+            }
+          ],
+          "meaning": "the best part"
+        }
+      ]
+    },
+    {
+      "kabardian": "фӏы лъэгъун",
+      "ipa": "ʃʷʼə ɬaʁʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏу лъэгъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "пшъашъэр |шӏу сэлъэгъу|",
+              "translation": "|I love| the girl."
+            },
+            {
+              "sentence": "|шӏу осэлъэгъу|",
+              "translation": "|I love you|."
+            }
+          ],
+          "meaning": "to love"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "мощ ышӏэрэр |шӏу сэлъэгъу|",
+              "translation": "|I see in a positive way| the thing that person is doing."
+            }
+          ],
+          "meaning": "to see someone or something in a positive way, to like"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэн",
+      "ipa": "ʃˈan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Сэшӏэ| ар",
+              "translation": "|I know| that."
+            },
+            {
+              "sentence": "А кӏалэм сыд ыцӏэ |ошӏа|?",
+              "translation": "|Do you know| what is his name?"
+            },
+            {
+              "sentence": "Урысыбзэ |сшӏэрэп|",
+              "translation": "|I don\u0027t know| the Russian language."
+            },
+            {
+              "sentence": "|Сэшӏэ| къысэпӏуагъэ",
+              "translation": "|I know| what you told me."
+            },
+            {
+              "sentence": "|Сымышӏэрэ| а кӏалэм къыуиӏуагъэхэр",
+              "translation": "|I don\u0027t know| the things that boy told you."
+            },
+            {
+              "sentence": "Сэ дзэмкӏэ сышӏыхэрэр |ашӏэу| хъущтыхэп",
+              "translation": "|They| are not allowed |to know| what I am doing in the army."
+            },
+            {
+              "sentence": "Тхьапш |ошӏа| плӏым щы хэбгъахъомэ?",
+              "translation": "|Do you know| how much if you add three to four?"
+            }
+          ],
+          "meaning": "to know"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Сэлам, сыд джы |пшӏэрэр|?",
+              "translation": "Hello, what |you\u0027re doing| now?"
+            },
+            {
+              "sentence": "Лӏым зи |ышӏэрэп|",
+              "translation": "The man |does nothing|."
+            },
+            {
+              "sentence": "Джы сыд мыщ |епшӏэщтыр|?",
+              "translation": "Now what |you gonna do with| this?"
+            },
+            {
+              "sentence": "Сыд |шъушӏэрэр|?",
+              "translation": "What |you (pl.) are doing|?"
+            },
+            {
+              "sentence": "Мыщтэу |умышӏ|",
+              "translation": "|Don\u0027t do it| like this."
+            },
+            {
+              "sentence": "Лӏымэ ӏофы |ашӏэрэр|",
+              "translation": "The men |are doing| work."
+            },
+            {
+              "sentence": "ӏофы мы щэджагъом |сышӏагъ|.",
+              "translation": "|I did| work this noon."
+            },
+            {
+              "sentence": "Кӏалэм ӏофы дэгъу |ышӏэрэр|.",
+              "translation": "The boy |does| good work."
+            },
+            {
+              "sentence": "Джырэкӏэ зыгорэ |сэшӏэ|.",
+              "translation": "|I am doing| something for now."
+            },
+            {
+              "sentence": "Сняэ къэсфэраз экзаменхэр дэгъоу |сэшӏыхэти|",
+              "translation": "My mother is pleased with me |because I do| the exam well."
+            },
+            {
+              "sentence": "ӏофымкӏэ сэрэ сигъусэхэмрэ проджест |тэшӏы|",
+              "translation": "In work, me and my associates |are doing| a project."
+            },
+            {
+              "sentence": "Бэрэ уеджэмэ экзаменыр |къыпфэшӏыщт|",
+              "translation": "If you study a lot |you could do| the exam."
+            },
+            {
+              "sentence": "Бэрэ уеджэми экзаменыр |къыпфэшӏыщтэп|",
+              "translation": "Even if you study a lot |you could not do| the exam."
+            },
+            {
+              "sentence": "Бэрэ уемыджэми экзаменыр |къыпфэшӏыщт|",
+              "translation": "Even if you will not study a lot |you could do| the exam."
+            }
+          ],
+          "meaning": "to do (an action)"
+        }
+      ]
+    },
+    {
+      "kabardian": "фӏамыщӏ",
+      "ipa": "ʃʷʼamət͡ʃʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏомыкӏы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пхъэ |шӏомыкӏ|",
+              "translation": "Wood |charcoal|."
+            },
+            {
+              "sentence": "Мыжъо |шӏомыкӏ|",
+              "translation": "|Coal|."
+            },
+            {
+              "sentence": "Машӏо |шӏомыкӏыкӏэ| шӏын",
+              "translation": "To make fire |using coal|."
+            }
+          ],
+          "meaning": "coal"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaməʔʷafən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏомыӏофын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to ignore something"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʼəħaːʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏыхьагъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "fence"
+        }
+      ]
+    },
+    {
+      "kabardian": "фӏей",
+      "ipa": "ʃʷʼajə",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "шӏои",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Джэнэ |шӏои|",
+              "translation": "|Dirty| shirt."
+            },
+            {
+              "sentence": "Псыр |шӏои|",
+              "translation": "The water is |dirty|."
+            },
+            {
+              "sentence": "Кӏалэм иджэнэ |шӏои|",
+              "translation": "The boy\u0027s shirt is |dirty|."
+            }
+          ],
+          "meaning": "dirty, unclean; covered with or containing unpleasant substances such as dirt or grime or mud."
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыр фылым |шӏоихэмэ| аплъы",
+              "translation": "The man is watching the |dirty| films."
+            }
+          ],
+          "meaning": "dirty, morally unclean; obscene or indecent, especially sexually."
+        },
+        {
+          "examples": [],
+          "meaning": "crud"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Гъогур къабзэп, |шӏой| телъ",
+              "translation": "The road is not clean, there is |rubbish| on it."
+            }
+          ],
+          "meaning": "rubbish; trash; garbage"
+        }
+      ]
+    },
+    {
+      "kabardian": "фӏалъэ",
+      "ipa": "ʃʷʼaːɬa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏуалъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "foreleg; front legs (of animals)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼənt͡ʃə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏункӏы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чэщ |шӏункӏ|",
+              "translation": "|Dark| night."
+            },
+            {
+              "sentence": "Унэр |шӏункӏы|",
+              "translation": "The house |is dark|."
+            },
+            {
+              "sentence": "|Шӏункӏы| къэхъугъ",
+              "translation": "It became |dark|."
+            }
+          ],
+          "meaning": "dark"
+        },
+        {
+          "examples": [],
+          "meaning": "darkness"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏыкӏафӏэ",
+      "ipa": "ʃʼət͡ʃʼaːʃʷʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏыкӏашӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ар цӏыф |шӏыкӏашӏу|",
+              "translation": "That person |is well-mannered|."
+            }
+          ],
+          "meaning": "well-mannered"
+        }
+      ]
+    },
+    {
+      "shapsug": "шӏыкӏьэ",
+      "kabardian": "щӏыкӏэ",
+      "ipa": "ʃʼət͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏыкӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Шӏыкӏэ| нахь дэгъу уиӏа?",
+              "translation": "Do you have a better |method?|"
+            },
+            {
+              "sentence": "ӏанэр |зэрэпшӏыкӏэ| дэгъоп",
+              "translation": "|The way you\u0027re doing| the table is not good."
+            }
+          ],
+          "meaning": "manner, method, a way to do something"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Унэм |ишӏыкӏэ| пытэу щыт",
+              "translation": "|The way| the house |is structured| is hard."
+            },
+            {
+              "sentence": "ӏанэм |ишӏыкӏэ| ӏайэ",
+              "translation": "|The way| the table |is structured| is ugly."
+            }
+          ],
+          "meaning": "the way/manner/method something is structured"
+        }
+      ]
+    },
+    {
+      "kabardian": "фӏыщӏэ",
+      "ipa": "ʃʷʼəʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏушӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "benefactor"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэныгъэ",
+      "ipa": "ʃʼanəʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏэныгъэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "А цӏыфым |шӏэныгъэ| бэ иӏ",
+              "translation": "That person has a lot of |knowledge|."
+            },
+            {
+              "sentence": "|Шӏэныгъэ| зиӏэм ыдэжь сыкӏуагъ",
+              "translation": "I went to the one that has |knowledge|."
+            }
+          ],
+          "meaning": "knowledge"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼawχʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏоухъон",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏоукъон\""
+        }
+      ]
+    },
+    {
+      "shapsug": "шӏоухъон",
+      "ipa": "ʃʷʼawqʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏоукъон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм сиплан |къэсшӏуиухъуагъ|",
+              "translation": "The boy |ruined| my plan."
+            },
+            {
+              "sentence": "Кӏалэм фылымыр |къэсшӏуиухъуагъ|",
+              "translation": "The boy |spoiled| the movie |for me|."
+            },
+            {
+              "sentence": "Кӏалэм лӏым ишхын |шӏуиухъуагъ|",
+              "translation": "The boy |spoiled| the man\u0027s food."
+            }
+          ],
+          "meaning": "to spoil something for someone; to ruin something for someone"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaʁawχʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏогъэухъон",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏогъэукъон\""
+        }
+      ]
+    },
+    {
+      "shapsug": "шӏогъэухъон",
+      "ipa": "ʃʷʼaʁawqʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏогъэукъон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм сиплан |къэсшӏуигъэухъуагъ|",
+              "translation": "The boy |ruined| my plan."
+            },
+            {
+              "sentence": "Кӏалэм фылымыр |къэсшӏуигъэухъуагъ|",
+              "translation": "The boy |spoiled| the movie |for me|."
+            },
+            {
+              "sentence": "Кӏалэм лӏым ишхын |шӏуигъэухъуагъ|",
+              "translation": "The boy |spoiled| the man\u0027s food."
+            }
+          ],
+          "meaning": "to spoil something for someone; to ruin something for someone"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaʁawan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏогъэон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм сиплан |къэсшӏуигъэуагъ|",
+              "translation": "The boy |ruined| my plan."
+            },
+            {
+              "sentence": "Кӏалэм фылымыр |къэсшӏуигъэуагъ|",
+              "translation": "The boy |ruined| the movie |for me|."
+            },
+            {
+              "sentence": "Кӏалэм лӏым иунэ |шӏуигъэуагъ|",
+              "translation": "The boy |destroyed| the man\u0027s house."
+            }
+          ],
+          "meaning": "to ruin/destroy/wreck someone\u0027s plan or properly"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼawbatan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏоубэтэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм сиӏанэ |къэсшӏуиубэтагъ|",
+              "translation": "The boy |broke| my table."
+            },
+            {
+              "sentence": "Кӏалэм лӏым иунэ ишъхьангъупчъэ |шӏуиубэтагъ|",
+              "translation": "The boy |broke| the window of the man\u0027s house."
+            }
+          ],
+          "meaning": "to break/destroy/wreck someone\u0027s properly"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷajəʁʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏоигъон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|тшӏоигъу|",
+              "translation": "|We want|."
+            },
+            {
+              "sentence": "|тшӏоигъоп|",
+              "translation": "|We don\u0027t want|."
+            },
+            {
+              "sentence": "Сэ сычъые |сшӏоигъу|",
+              "translation": "|I would like| to sleep."
+            },
+            {
+              "sentence": "Тэ теджэ |тшIоигъу|",
+              "translation": "|We would like| to read."
+            },
+            {
+              "sentence": "Тутын уешъо |пшӏоигъуа?|",
+              "translation": "|Would you like| to smoke?"
+            },
+            {
+              "sentence": "Сэ тутын сешъо сшӏоигъуагъ",
+              "translation": "|I would like| to smoke."
+            },
+            {
+              "sentence": "Зыгорэ сшхы |сшӏоигъу|",
+              "translation": "|I want| to eat something."
+            },
+            {
+              "sentence": "Сэ зыгорэм сыкъыкӏэупчӏэ |сшӏоигъу|",
+              "translation": "|I want| to ask you something."
+            },
+            {
+              "sentence": "Тэ унэм тыкӏожьы |тшӏоигъуагъ|",
+              "translation": "|We want| to drive home."
+            },
+            {
+              "sentence": "Мыщ ущышхэ |пшӏоигъуа?|",
+              "translation": "|Do you want| to eat here?"
+            },
+            {
+              "sentence": "Ахэр телефонкӏэ теохэ |ашӏоигъуагъ|",
+              "translation": "|They want| to make a call."
+            },
+            {
+              "sentence": "Шъуиныбджэгъухэр зэжъугъэлъэгъухэ |шъушӏоигъуа?|",
+              "translation": "|Do you want| to visit friends? (said to plural)"
+            },
+            {
+              "sentence": "Мыкӏэ сыублэмэ |сшӏоигъу|",
+              "translation": "|I want| to start with this."
+            },
+            {
+              "sentence": "Сыда пчэдыжьым шъушхымэ |шъушӏоигъор?|",
+              "translation": "What |would you like| for breakfast?"
+            }
+          ],
+          "meaning": "to want"
+        }
+      ]
+    },
+    {
+      "shapsug": "шӏокӏьын",
+      "ipa": "ʃʷʼat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏокӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр мыжъом |шӏокӏыгъ|",
+              "translation": "The boy |evaded| the rock."
+            },
+            {
+              "sentence": "Кӏалэр хьэмэ |ашӏокӏышъугъ|",
+              "translation": "The boy |successfully evaded| the dogs."
+            },
+            {
+              "sentence": "|Укъысшӏокӏыщтэп|",
+              "translation": "|You cannot evade me|."
+            },
+            {
+              "sentence": "Кӏалэр псынкӏэшъ иныжъым |шӏокӏышъу|",
+              "translation": "Because the boy is fast |he can get away from| the giant."
+            }
+          ],
+          "meaning": "to evade; to get away from"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр пшъэдэкӏыжъым |шӏокӏыгъ|",
+              "translation": "The boy |evaded| the punishment."
+            },
+            {
+              "sentence": "Ахъщэ утыным |ушӏокӏышъущтэп|",
+              "translation": "|You cannot avoid| paying money."
+            },
+            {
+              "sentence": "ӏоф къиным |сышӏокӏышъугъ|",
+              "translation": "|I managed to avoid| the hard work."
+            }
+          ],
+          "meaning": "to successfully avoid doing something"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр ӏофшӏэнхэмэ |ашӏокӏыгъ|",
+              "translation": "The boy |dealt| with the tasks."
+            },
+            {
+              "sentence": "Илъэсилӏы седжагъ, джы еджэным |сышӏокӏыгъ|",
+              "translation": "I studied for four years, now |I am free| from studying."
+            },
+            {
+              "sentence": "Пэрыохъу пстэуми |ашӏокӏын|",
+              "translation": "|To overcome| all obstacles."
+            }
+          ],
+          "meaning": "to finish dealing with something"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "малъхъо",
+        "махъулъэ",
+        "махълъэ",
+        "пщыкъу",
+        "лӏымыш",
+        "малхъо",
+        "малъхъэ"
+      ],
+      "ipa": "ʃʷʼəpɕəqʷə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏупщыкъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "brother-in-law (a man\u0027s wife\u0027s brother)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "нысэ",
+        "пщыпхъу"
+      ],
+      "ipa": "ʃʷʼəpɕəpχʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏупщыпхъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "sister-in-law (a man\u0027s wife\u0027s sister)"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaw",
+      "lang": "Adyghe",
+      "type": "adv",
+      "word": "шӏоу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "excellently"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaraħaːtən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏорэхьатын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Къыпшӏорэхьата| зэрэ ущысэ",
+              "translation": "|Are you comfortable| with the way you are sitting?"
+            },
+            {
+              "sentence": "|Къэсшӏорэхьат| унэр",
+              "translation": "The house is |comfortable for me|."
+            },
+            {
+              "sentence": "Кӏалэм джанэр |шӏорэхьат|",
+              "translation": "The shirt |is comfortable| for the boy."
+            }
+          ],
+          "meaning": "to be comfortable for"
+        }
+      ]
+    },
+    {
+      "kabardian": "фӏэщ",
+      "ipa": "ʃʷʼaʃʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏошӏ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "hypothesis"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "шӏошъын"
+      ],
+      "ipa": "ʃʷaʃʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏошӏун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏошъын\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "шӏошъ хъун"
+      ],
+      "ipa": "ʃʷʼaʃʷʼ χʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏошӏу хъун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏошъ хъун\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaʃʼχʷənʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏошӏхъуныгъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏошъхъуныгъ\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тыны"
+      ],
+      "ipa": "ʃʷʼəħaːftən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏухьафтын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |шӏухьафтын| пшъашъэм фехьы.",
+              "translation": "The boy is bringing |a gift| to the girl."
+            },
+            {
+              "sentence": "Кӏалэм ыянэ |шӏухьафтын| фещэфы.",
+              "translation": "The boy is buying |a gift| for his mother."
+            },
+            {
+              "sentence": "|шӏухьафтын| гъэшӏэгъон горэ сэ къыпфэсхьыщт.",
+              "translation": "I will bring you an out of the ordinary |gift|."
+            },
+            {
+              "sentence": "Сэ |шӏухьафтыныр| Куджаным есэты",
+              "translation": "I am giving |the gift| to Kujan."
+            },
+            {
+              "sentence": "Кӏалэм ыгукъэкӏыгъ игъусэ пшъашъэ |шӏухьафтын| фырищэфынэу",
+              "translation": "The boy got the idea of buying |a present| for his girlfriend."
+            },
+            {
+              "sentence": "Кӏалэр |шӏухьафтынэу| титхьэматэ фэтщэфытым къыхэхьагъ",
+              "translation": "The boy joined us in |the gift| we are going to buy for the boss."
+            }
+          ],
+          "meaning": "present, gift"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃˈən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым унэ |ешӏы|",
+              "translation": "The man |builds| a house.."
+            },
+            {
+              "sentence": "Пчъэ пхъашӏэм |ышӏыгъ|",
+              "translation": "The carpenter |built| a door."
+            },
+            {
+              "sentence": "Унэ |сэшӏы| пщахъокӏэ",
+              "translation": "|I am building| a house using sand."
+            }
+          ],
+          "meaning": "to build"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|сэшӏы| ар",
+              "translation": "|I am making| that."
+            },
+            {
+              "sentence": "Шхын |сэшӏы|",
+              "translation": "|I am making| food."
+            },
+            {
+              "sentence": "|шӏы| мыщтэу",
+              "translation": "|Make it| like this."
+            },
+            {
+              "sentence": "Кӏэлэегъаджэм экзаменым |ешӏы|",
+              "translation": "The teacher |is making| an exam."
+            },
+            {
+              "sentence": "Джырэкӏэ зыгорэ |сэшӏы|.",
+              "translation": "|I am making| something for now."
+            }
+          ],
+          "meaning": "to make"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "ӏофымкӏэ гъучӏыхэр |ашӏых|",
+              "translation": "|They produce| irons in the work."
+            },
+            {
+              "sentence": "Джэгъогъум нахь бэ джэгъогъу |къешӏы|",
+              "translation": "Hate |produces| more hate."
+            },
+            {
+              "sentence": "Кӏалэм фылым |ышӏыгъ|",
+              "translation": "The young man |created| a film."
+            },
+            {
+              "sentence": "Джэгу |сышӏыгъ|",
+              "translation": "|I created| a game."
+            },
+            {
+              "sentence": "Тхьэм цӏыфыр |ышӏыгъ|",
+              "translation": "God |created| the human."
+            }
+          ],
+          "meaning": "to produce; to create"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼanan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏонэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Экзамынымкӏэ зы упчӏэ къины горэм |сышӏонагъ|",
+              "translation": "|I stumbled upon| a hard question in the exam."
+            },
+            {
+              "sentence": "Сыкӏоу ӏанэ цӏыкӏум |сышӏонагъ|",
+              "translation": "While going |I stumbled into| the small table."
+            },
+            {
+              "sentence": "ӏанэр къэзгъэзэшъурэп, дэпкъым |шӏуанэ|",
+              "translation": "I can\u0027t turn the table, |it stumbles into| the wall."
+            }
+          ],
+          "meaning": "to stumble upon"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaʔʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏоӏун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to turn sour (e.g. a milk product)"
+        },
+        {
+          "examples": [],
+          "meaning": "to pickle; to corn"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Cанэр |шӏоӏугъ|",
+              "translation": "The food |was fermented|."
+            }
+          ],
+          "meaning": "to ferment"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "гъэтэрэзын"
+      ],
+      "ipa": "ʃˈəʑən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏыжьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Унэ угъэуагъэр |шӏыжь|",
+              "translation": "|Build again| the house you destroyed."
+            },
+            {
+              "sentence": "Кӏалэм мафэ къэсы а зыр |ешӏыжьы|",
+              "translation": "The boy |is making| the same thing everyday"
+            }
+          ],
+          "meaning": "to make/build again"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм машинэр |ешӏыжьы|",
+              "translation": "The boy |is fixing| the machine."
+            },
+            {
+              "sentence": "Лӏым къухьэр |ышӏыжьыгъ|",
+              "translation": "The man |fixed| the ship."
+            },
+            {
+              "sentence": "Тамбый компыютэрхэр |ешӏыжьых|",
+              "translation": "Tamby |fixes| computers."
+            },
+            {
+              "sentence": "Уику |къагъэшӏыжь|",
+              "translation": "|Make them fix| your car."
+            },
+            {
+              "sentence": "Кухэр |шӏыжьыкӏэ| сышӏэрэп",
+              "translation": "I don\u0027t know |how to fix| cars."
+            },
+            {
+              "sentence": "Яунэ |къэсфэшӏыжьышъугъэп|",
+              "translation": "|I couldn\u0027t fix| their house."
+            },
+            {
+              "sentence": "Зы нэӏуасэ горэ шъуиӏа кухэр |ышӏыжьыхэу|?",
+              "translation": "Do you have one familiar |that fixes| cars?"
+            }
+          ],
+          "meaning": "to fix"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaʃʷʼχʷənʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏошӏухъунгъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏошӏухъуныгъэ\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "шӏошӏун"
+      ],
+      "ipa": "ʃʷaʂən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏошъын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏошӏын\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaʃʷʼχʷənʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏошӏхъуныгъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏошъхъуныгъэ\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaʃʷʼχʷənʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏошъхъуныгъэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Шӏошъхъуныгъэ| уиӏэн фае",
+              "translation": "You need to have a |faith|."
+            }
+          ],
+          "meaning": "faith; belief"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "шӏошӏу хъун",
+        "шӏошъыхъун"
+      ],
+      "ipa": "ʃʷaʂ χʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏошъ хъун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏошӏ хъун\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "шӏошӏу хъун",
+        "шӏошъыхъун"
+      ],
+      "ipa": "ʃʷaʂ χʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏошъ хъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ыӏорэр пшъашъэм |ышӏошъ мэхъу|",
+              "translation": "The girl |is believing| in what the boy says."
+            },
+            {
+              "sentence": "Къэпӏорэр |сышӏошъ мэхъу|",
+              "translation": "|I am believing| in what you say."
+            },
+            {
+              "sentence": "Къэпӏорэр кӏалэм |ышӏошъ хъурэп|",
+              "translation": "The boy |doesn\u0027t believe| in what I say."
+            },
+            {
+              "sentence": "Сэ Тхьэ |сышӏошъ мэхъу|",
+              "translation": "|I believe| in God."
+            },
+            {
+              "sentence": "А кӏалэм епӏо зэкӏэр |ышӏошъ хъугъэ|",
+              "translation": "That boy |believed| everything you told him."
+            }
+          ],
+          "meaning": "to believe"
+        }
+      ]
+    },
+    {
+      "shapsug": "шӏыкӏьай",
+      "synonyms": [
+        "бзэджай",
+        "шэнычъэ"
+      ],
+      "ipa": "ʃʼət͡ʃʼaːj",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "шӏыкӏай",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏэлэцӏыкӏур |шӏыкӏай|",
+              "translation": "The little boy |is mischievous|."
+            },
+            {
+              "sentence": "Кӏэлэцӏыкӏу |шӏыкӏай|",
+              "translation": "|Mischievous| little boy."
+            },
+            {
+              "sentence": "Кӏэлэ |шӏыкӏаер| дэпкъым теуцӏалэ",
+              "translation": "The |naughty| boy is scribbling on the wall."
+            }
+          ],
+          "meaning": "naughty; mischievous; prankish; troublesome"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "хъопсэн"
+      ],
+      "ipa": "ʃʷʼəχʷəʁʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏухъогъон",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шхъогъон\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼajbaħ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "шӏоибахь",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Унэр |шӏоибахь|",
+              "translation": "The house |is really dirty|."
+            },
+            {
+              "sentence": "|Шӏоибахьэу| ухъугъ",
+              "translation": "You became |really dirty|."
+            }
+          ],
+          "meaning": "very dirty, very filthy"
+        }
+      ]
+    },
+    {
+      "kabardian": "фӏэхъус",
+      "ipa": "ʃʷʼəfas",
+      "lang": "Adyghe",
+      "type": "intj",
+      "word": "шӏуфэс",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хьакӏэм |шӏуфэс| рихыгъ",
+              "translation": "(S)he |greeted| the guest."
+            }
+          ],
+          "meaning": "greeting, salute; salutation"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼəʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏугъэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "А кӏалэм |шӏугъэ| къыпыкӏырэп",
+              "translation": "No |goodness| comes from that boy."
+            },
+            {
+              "sentence": "Лӏым |шӏугъэ| хэлъ",
+              "translation": "The man has |goodness|."
+            }
+          ],
+          "meaning": "goodness"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼapχʷatan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏопхъотэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"къышӏопхъотэн\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼawbətən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏоубытын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм пхъэнтӏэкӏур пшъашъэм |шъуиубытыгъ|",
+              "translation": "The boy |take hold of| the chair against the girl\u0027s interest."
+            },
+            {
+              "sentence": "Кӏалэм топыр пшъашъэм |шъуиубытыгъ|",
+              "translation": "The boy |seized| the ball from the girl."
+            },
+            {
+              "sentence": "Кӏалэм сичӏыпӏэ |къэсшъуиубытыгъ|",
+              "translation": "The boy |seized| my seat |from me|."
+            },
+            {
+              "sentence": "Урыс дзэм кӏэир Адыгэ дзэм |шъуиубытыгъ|",
+              "translation": "The Russian army |seized| the valley from the Circassian army."
+            }
+          ],
+          "meaning": "to take hold of something against the owner\u0027s interest or will; to capture something from someone; to seize something from someone; to overtake from"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "бзэджэн"
+      ],
+      "ipa": "ʃʼət͡ʃʼajan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏыкӏэен",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Умышӏыкӏай|.",
+              "translation": "|Don\u0027t misbehave|."
+            },
+            {
+              "sentence": "Кӏалэр |мэшӏыкӏае|.",
+              "translation": "The boy |misbehaves|."
+            },
+            {
+              "sentence": "Кӏэлэцӏыкӏухэр |шӏыкӏаехэу| щагум дэтых.",
+              "translation": "The kids |are doing trouble| in the yard."
+            },
+            {
+              "sentence": "Шъэожъыем |шӏыкӏэеныр| ишэн",
+              "translation": "It is the boy\u0027s behavior to |get naughty|."
+            }
+          ],
+          "meaning": "to misbehave; to get naughty; to do trouble"
+        },
+        {
+          "examples": [],
+          "meaning": "to frolic, to play about, to fool around"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ышӏэпэн"
+      ],
+      "ipa": "ʃʼapan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏэпэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|I am sure| that he’ll come",
+              "translation": "Сэ сышӏап ар къызэрэкӏощтыр."
+            },
+            {
+              "sentence": "|Are you sure| the boy will come?",
+              "translation": "|Ушӏэпа| кӏалэр зэрэкъэкӏощтыр?"
+            },
+            {
+              "sentence": "|I am not sure| who that was.",
+              "translation": "|Сшӏэпэп| хэтыгъ ар."
+            },
+            {
+              "sentence": "|I was certain of it|.",
+              "translation": "|Сшӏапэу| щытыгъ."
+            }
+          ],
+          "meaning": "to be sure, to be certain"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼakʷʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏокӏон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ахъщэ бэ |шӏокӏуагъ|",
+              "translation": "The boy |lost| a lot of money."
+            },
+            {
+              "sentence": "Сиунэ |къэсшӏокӏуагъ|",
+              "translation": "|I lost| my house."
+            },
+            {
+              "sentence": "Куджаным кӏалэ |шӏокӏуагъ|",
+              "translation": "Kujan |lost| a son"
+            },
+            {
+              "sentence": "Уиахъщэ зэкӏэр |къыпшӏокӏоныр| дэхэт",
+              "translation": "It is possible that |you will lose| all your money."
+            }
+          ],
+          "meaning": "to lose something; to lose the possession of"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Сикӏалэ чэщдэсым |къэсшӏокӏуагъ|",
+              "translation": "My boy |went| to the party |against my will|."
+            },
+            {
+              "sentence": "Куджаныр кином |къэсшӏокӏуагъ| къытимыӏоу",
+              "translation": "Kujan |went to| the cinema without telling us."
+            }
+          ],
+          "meaning": "to go to somewhere against someone\u0027s will or interest"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼajʑaʑən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏуежьэжьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Бланэр тыгъужъым |шӏуежьэжьы|",
+              "translation": "The deer |runs away from| the wolf."
+            },
+            {
+              "sentence": "Бланэр тыгъужъымэ |ашӏуежьэжьышъугъ|",
+              "translation": "The deer |successfully ran away from| the wolves."
+            },
+            {
+              "sentence": "Кӏалэр |къэсшӏуежьэжьын| еӏуагъ",
+              "translation": "The boy tried |to run away from me|."
+            },
+            {
+              "sentence": "Кӏалэр укӏакӏом |шӏуежьэжьы|",
+              "translation": "The boy is |running away from| the murderer."
+            },
+            {
+              "sentence": "|Укъысшӏуежьэжьышъущтэп|",
+              "translation": "|You cannot run away from me|."
+            },
+            {
+              "sentence": "Мышъэм |ушӏуежьэжьын| пӏомэ къыпкӏэхьэщт",
+              "translation": "If you try |to flee from| a bear, it will catch up to you."
+            }
+          ],
+          "meaning": "to run away from; to flee from"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэхыу",
+      "synonyms": [
+        "псынкӏэу"
+      ],
+      "ipa": "ʃʼaxaw",
+      "lang": "Adyghe",
+      "type": "adv",
+      "word": "шӏэхэу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Шӏэхэу| ӏофыр зэшӏокӏыгъэ",
+              "translation": "The work was done |quickly|."
+            },
+            {
+              "sentence": "|Шӏэхэу| кӏуагъэ",
+              "translation": "(S)he went |quickly|."
+            }
+          ],
+          "meaning": "quickly"
+        }
+      ]
+    },
+    {
+      "shapsug": "шӏошӏун",
+      "kabardian": "фӏэщӏын",
+      "ipa": "ʃʷaʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏошӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм чъыӏагъ |ешӏошӏы|",
+              "translation": "The boy |thinks| it\u0027s cold."
+            },
+            {
+              "sentence": "|Сышӏошӏырэмкӏэ| мэзым тхэхьан фае",
+              "translation": "|I think| we need to enter the forest."
+            },
+            {
+              "sentence": "Ар |сышӏошӏырэп|",
+              "translation": "|I don\u0027t think| that."
+            },
+            {
+              "sentence": "А кӏалэм сынахь кӏуачӏ |сышӏошӏыгъ|",
+              "translation": "|I thought| I was stronger than him."
+            },
+            {
+              "sentence": "Кӏалэм тестыр къиныщт |ышӏошӏыгъ|, ау ӏэшӏэхэу къычӏэкӏыжьыгъ",
+              "translation": "The boy |thought| the test is going to be hard, but it turned out to be easy."
+            }
+          ],
+          "meaning": "to think that; to suppose; to reckon; to have the opinion of"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Сабыеу |къыпшӏошӏы|",
+              "translation": "It is |seems like| a child |for you|."
+            }
+          ],
+          "meaning": "to see as, to be perceived as"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "тхъытхъын",
+        "гузэжъон",
+        "хъыжъэн"
+      ],
+      "ipa": "ʃʼaxən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏэхын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to hurry up, to hasten"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʼanʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏэнгъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏэныгъэ\""
+        }
+      ]
+    },
+    {
+      "ipa": "jaχʷəɬʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏугъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Шхъогъуалым къин ехъу ылъэгъумэ зыгорэм |шӏугъо| къехъулӏэу",
+              "translation": "An envious person suffers when (s)he sees something |fortunate| happens to someone."
+            },
+            {
+              "sentence": "Тхьэм ыӏомэ |шӏугъохэр| къыохъорэлӏэх",
+              "translation": "May |fortunate| things happen to you."
+            }
+          ],
+          "meaning": "good time; fortunate time"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʼəħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏыхьан",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"къэшӏыхьан\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷajəʁʷad͡ʒan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏоигъоджэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Саусырыкъо зэрэкӏэмыхьагъэр лъэшэу |шӏоигъоджагъ|",
+              "translation": "Sosruko really |disliked| the fact that he didn\u0027t catch up with him."
+            }
+          ],
+          "meaning": "to dislike greatly, to detest, to not want"
+        }
+      ]
+    },
+    {
+      "ipa": "ɕəɕənan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏокӏодын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏэлэцӏыкӏур |къэсшӏокӏодыгъ|",
+              "translation": "|I lost| the kid."
+            },
+            {
+              "sentence": "Лӏым ӏункӏыбзэхэр |шӏокӏодыгъэх|",
+              "translation": "The man |lost| the keys."
+            },
+            {
+              "sentence": "Сисыхьат унэм |къэсшӏуикӏодагъ|",
+              "translation": "|I lost| my watch |inside| the house."
+            },
+            {
+              "sentence": "|Укъэсшӏокӏодыным| сыщэщынэ",
+              "translation": "I am afraid of |losing you|."
+            },
+            {
+              "sentence": "Кӏалэр кӏохъуи гъогур |шӏокӏодыгъ|",
+              "translation": "The boy went astray and |lost| the road."
+            }
+          ],
+          "meaning": "to lose something"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼabzən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏобзын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым мэлым ытыкъын |шӏуибзыгъ|",
+              "translation": "The man |sliced| the sheep\u0027s throat."
+            },
+            {
+              "sentence": "Цӏыфым ычый |шӏобыбзымэ|, лӏэщт",
+              "translation": "|If you slit| a person\u0027s throat, he will die."
+            }
+          ],
+          "meaning": "to slice (to kill); to slit"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaʁat͡ʂən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏогъэшъутын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым мэлым ытыкъын |шӏуигъэшъутыгъ|",
+              "translation": "The man |sliced| the sheep\u0027s throat."
+            },
+            {
+              "sentence": "Цӏыфым ычый |шӏобгъэшъутымэ|, лӏэщт",
+              "translation": "|If you slit| a person\u0027s throat, he will die."
+            },
+            {
+              "sentence": "Зэманым, тыгъуакӏомэ аӏэхэр |шӏуагъэшъутыщтыгъэх|",
+              "translation": "In the past, |they used to cut off| the thieves\u0027 arms."
+            }
+          ],
+          "meaning": "to cut off; to slice off"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼaʁat͡ʂən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏогъэчъын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to cut off"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼt͡sʼaːʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏуцӏагъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "blackness"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷajəʁʷaːd͡ʒ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "шӏоигъуадж",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Арэу зэрэхъугъэр |шӏоигъуадж|",
+              "translation": "How it turned |is unwanted|."
+            },
+            {
+              "sentence": "Кӏалэм |шӏоигъуадж| къафыныр",
+              "translation": "|It is undesirable| for the boy to lose."
+            }
+          ],
+          "meaning": "undesirable, unwanted"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʔaːba",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏуабэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "hurry, hasten"
+        }
+      ]
+    },
+    {
+      "kabardian": "фӏэгъэщӏэгъуэнын",
+      "ipa": "ʃʷʼaʁaʃʼaʁʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏогъэшӏэгъонын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to show interest in; to be interested in; to take an interest in"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Фылымым |сышӏогъэшӏэгъонэу| сеплъыгъ",
+              "translation": "I watched the film |amazed|."
+            }
+          ],
+          "meaning": "to wonder (at), to be amazed, to be astonished at, to be amazed at"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|Къэсышӏогъэшӏэгъон| кӏалэр ышӏэнэу фаер",
+              "translation": "|Is is weird for me|what the boy wants to do."
+            },
+            {
+              "sentence": "Ара |Къыпшӏогъэшӏэгъоныр|? мыщ къедэӏу",
+              "translation": "Is that |what is weird to you|? listen to this."
+            }
+          ],
+          "meaning": "to be weirded by; to find something weird"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼəɬaʁʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏулъэгъун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"гу шӏу лъэгъун\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʼaːʁʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏагъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Шӏагъо| горэ сылъэгъугъ",
+              "translation": "I saw some |wonder|\u0027."
+            }
+          ],
+          "meaning": "wonder"
+        },
+        {
+          "examples": [],
+          "meaning": "wonderful, marvelous"
+        }
+      ]
+    },
+    {
+      "ipa": "ʃʷʼabzə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏобзы",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "slice"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "шӏошӏу хъун"
+      ],
+      "ipa": "ʃʷaʂ χʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "шӏошъыхъун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"шӏошъ хъун\""
+        }
+      ]
+    },
+    {
+      "ipa": "ʂħapəɬaːpʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "шӏохын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым дзыохэр щыдым |шӏуихыгъэх|",
+              "translation": "The man |took| the sacks |off| the donkey."
+            },
+            {
+              "sentence": "Лӏым ощышъхьэр ощым |шӏуихыгъ|",
+              "translation": "The man |took| the head of the axe |off|."
+            },
+            {
+              "sentence": "Чатэкӏэ цӏыфым ышъхьэ |шӏосхыгъ|",
+              "translation": "|I took off| the person\u0027s head with a sword."
+            },
+            {
+              "sentence": "Шъхьэпылъапӏэкӏэ цӏыфыхэмэ ашъхьэхэр |шӏуахых|",
+              "translation": "On the gallows, |they take| people\u0027s heads |off|."
+            }
+          ],
+          "meaning": "to take off something from"
+        }
+      ]
+    }
+  ],
   "му": [
     {
       "ipa": "məwsa",
@@ -125730,6 +122031,91 @@ const circassianDict = {
       ]
     }
   ],
+  "иӏ": [
+    {
+      "etymology": "From и- (inside preposition prefix) + ӏэбэн (to reach out)",
+      "ipa": "jəʔaban",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "иӏэбэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Уиӏэбэныр| гъуанэ горэм уӏэхъуамбэ е зыгорэ ибгъэхьаныр",
+              "translation": "|Poking inside| is puting your finger or something inside some hole."
+            },
+            {
+              "sentence": "Упэгъуанэ |уиӏэбэжьыныр| дахэп",
+              "translation": "It is not appropriate |to poke inside| your nostril."
+            },
+            {
+              "sentence": "Гъуанэм |уиӏэбэн|",
+              "translation": "|To poke inside| a hole."
+            },
+            {
+              "sentence": "Докторыр счый |къиӏэбагъ|",
+              "translation": "The doctor |poked inside| my throat."
+            },
+            {
+              "sentence": "Гъуанэм |сеӏэбэм| цыгъо исыр къысэцэкъагъ",
+              "translation": "|When I poked inside| the hole, the mouse inside bited me."
+            }
+          ],
+          "meaning": "to poke inside; to put hands inside something"
+        }
+      ]
+    },
+    {
+      "ipa": "jəʔan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "иӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ахъщэ макӏ |иӏэр|",
+              "translation": "The boy |has| few money."
+            },
+            {
+              "sentence": "Кӏалэм ахъщэу |иӏэр| ахъщэ макӏ",
+              "translation": "The money the boy |has| is few money."
+            },
+            {
+              "sentence": "ӏинтернет |уиӏа|?",
+              "translation": "Do you |have| internet?"
+            },
+            {
+              "sentence": "Уатэ |шъуиӏа|?",
+              "translation": "Do you |have| a hammer?"
+            },
+            {
+              "sentence": "Сабыйхэр |уиӏэха?|",
+              "translation": "Do you |have| children?"
+            },
+            {
+              "sentence": "|Сиӏ| унэ дахэ",
+              "translation": "|I have| a beautiful house."
+            },
+            {
+              "sentence": "|Сиӏэп| колэ",
+              "translation": "|I don\u0027t have| Coke."
+            },
+            {
+              "sentence": "Кӏалэм ныбджэгъу |иӏэпышъ|, езэщы",
+              "translation": "Because the boy |has no| friends, he is bored."
+            },
+            {
+              "sentence": "Бзыур тамэ |ымыӏэу| быбышъущтэп",
+              "translation": "A bird cannot fly |without having| a wing."
+            }
+          ],
+          "meaning": "to have"
+        }
+      ]
+    }
+  ],
   "не": [
     {
       "ipa": "najt",
@@ -125915,20 +122301,6 @@ const circassianDict = {
       ]
     }
   ],
-  "-ӏ": [
-    {
-      "ipa": "-ʔʷa",
-      "lang": "Adyghe",
-      "type": "suffix",
-      "word": "-ӏо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "slightly too much; (more common in adjectives) a suffix that designates slight excessiveness, meaning, the condition of slightly going or slightly being beyond what is needed, desired, or appropriate."
-        }
-      ]
-    }
-  ],
   "ну": [
     {
       "ipa": "nəwħ",
@@ -125969,7 +122341,7 @@ const circassianDict = {
               "translation": "The man while working thought what he will do after he |done| working."
             },
             {
-              "sentence": "Лӏыр лэжьэ|гъах|",
+              "sentence": "Лӏым лэжьэ|гъах|",
               "translation": "The man |done| working."
             },
             {
@@ -126269,6 +122641,43 @@ const circassianDict = {
             }
           ],
           "meaning": "(added to nouns) the directional case (a grammatical case used to indicate a direction)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏон - икӏуакӏэ",
+              "translation": "(S)he goes - the way (s)he goes."
+            },
+            {
+              "sentence": "Тхэн - итхакӏэ",
+              "translation": "(S)he writes - the way (s)he writes."
+            },
+            {
+              "sentence": "Угущыӏа|кӏэ| сикӏасэп, ухъонэзэпыт",
+              "translation": "I don\u0027t like |how| you speak, you always swear."
+            },
+            {
+              "sentence": "Лӏым игущыӏа|кӏэ| ӏэшӏэхэу къыбгурыӏонэу щыт",
+              "translation": "The |way| the man speaks is easy to understand."
+            },
+            {
+              "sentence": "Адыгабзэкӏэ еджа|кӏэ| сышӏэрэп",
+              "translation": "I do not know |how| to speak Circassian."
+            },
+            {
+              "sentence": "Ку фы|кӏэ| сышӏэрэп",
+              "translation": "I do not know |how| to drive a car."
+            },
+            {
+              "sentence": "Тха|кӏэ| сэшӏы",
+              "translation": "I know |how| to write."
+            },
+            {
+              "sentence": "Уитха|кӏэ| дахэ",
+              "translation": "The |way| you write is beautiful."
+            }
+          ],
+          "meaning": "(added to verrbs) a verbal suffix which is appended to verbs to form nouns meaning: the manner in which someone did the action"
         }
       ]
     }
@@ -127316,6 +123725,10 @@ const circassianDict = {
             {
               "sentence": "Бэрэ уеджэ|мэ| экзаменыр къыпфэшӏыщт",
               "translation": "|If| you study a lot you could do the exam."
+            },
+            {
+              "sentence": "Седжэнэу сыфэещтыгъэ|мэ| седжэщтыгъэба?",
+              "translation": "|If| I wanted to study wouldn\u0027t I study?"
             }
           ],
           "meaning": "(added to any word) if (conditional mood)"
@@ -128951,7 +125364,7 @@ const circassianDict = {
         {
           "examples": [
             {
-              "sentence": "Лӏыжъым ибэщ ежь |нэӏэбэшъурэп|",
+              "sentence": "Лӏыжъым ибэщ ежь |нэӏэбэсышъурэп|",
               "translation": "The old man |can\u0027t reach| his stick."
             },
             {
@@ -130164,6 +126577,37 @@ const circassianDict = {
       ]
     }
   ],
+  "-р": [
+    {
+      "ipa": "-raːʁʷ",
+      "lang": "Adyghe",
+      "type": "suffix",
+      "word": "-рагъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Тучаным сыкӏо|рагъу|",
+              "translation": "I |want| to go to the shop."
+            },
+            {
+              "sentence": "Сылэжьэ|рагъо|п",
+              "translation": "I do not |want| to work."
+            },
+            {
+              "sentence": "Ныпчыхьэ укъэшхэ|рагъу|а?",
+              "translation": "Do you |want| to eat tonight?"
+            },
+            {
+              "sentence": "Седжэ|рэгъо|щтыгъэмэ седжэщтыгъэба?",
+              "translation": "If I |wanted| to study wouldn\u0027t I study?"
+            }
+          ],
+          "meaning": "(Shapsug dialect) a verbal suffix that indicates the desirement to do that action"
+        }
+      ]
+    }
+  ],
   "ог": [
     {
       "ipa": "waʁʷərɮə",
@@ -130455,6 +126899,51 @@ const circassianDict = {
           "tags": [
             "added to verbs"
           ]
+        }
+      ]
+    },
+    {
+      "ipa": "-xə",
+      "lang": "Adyghe",
+      "type": "suffix",
+      "word": "-хы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мао - ео|хы|",
+              "translation": "Shoots - shoots |downward|."
+            },
+            {
+              "sentence": "Едзы - редзы|хы|",
+              "translation": "Throws - throws |downward|."
+            },
+            {
+              "sentence": "Мапкӏэ - епкӏэ|хы|",
+              "translation": "Jumps - jumps |downward|."
+            },
+            {
+              "sentence": "Мэджыдж - еджыджэ|хы|",
+              "translation": "Rolls - rolls |downward|."
+            },
+            {
+              "sentence": "Кӏалэр унашъхьэм къеплъэ|хы|гъ",
+              "translation": "The boy looked |downward| from the roof."
+            },
+            {
+              "sentence": "Лӏыр къушъхьэм къечъэ|хы|гъ",
+              "translation": "The man ran |down| from the mountain"
+            },
+            {
+              "sentence": "Сшы тучаным есэ|щэ|хы",
+              "translation": "I am talking my brother |down| to the shop."
+            },
+            {
+              "sentence": "Кӏашъор къехьэ|х|",
+              "translation": "|Lower| the ceiling."
+            }
+          ],
+          "meaning": "a verbal suffix that indicates that the action is directed downward"
         }
       ]
     }
@@ -132858,578 +129347,6 @@ const circassianDict = {
       ]
     }
   ],
-  "пӏ": [
-    {
-      "ipa": "pʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "|Пӏэм| сыхэлъ",
-              "translation": "I am lying on |the bed|."
-            }
-          ],
-          "meaning": "bed (a piece of furniture to sleep on)"
-        },
-        {
-          "examples": [],
-          "meaning": "sheath, scabbard"
-        }
-      ]
-    },
-    {
-      "ipa": "pˤʼaːstˤʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏастӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "kasha (dish of cooked grain or groats)"
-        },
-        {
-          "examples": [],
-          "meaning": "oatmeal"
-        },
-        {
-          "examples": [],
-          "meaning": "porridge"
-        }
-      ]
-    },
-    {
-      "shapsug": "пӏакӏэ",
-      "kabardian": "пӏащӏэ",
-      "ipa": "pʷʼaːt͡ʃa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "пӏуакӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пицэр |пӏуакӏэу| къэшӏ",
-              "translation": "Make the pizza |thin|."
-            },
-            {
-              "sentence": "Чхыӏан |пӏуакӏ| къэтелъыр",
-              "translation": "There is a |thin| blanked on me."
-            },
-            {
-              "sentence": "Пхъэ |пӏуакӏэм| утеуцомэ зэпыкӏыщт",
-              "translation": "If you step on the |thin| wood it will snap."
-            }
-          ],
-          "meaning": "thin"
-        }
-      ]
-    },
-    {
-      "shapsug": "пӏын",
-      "ipa": "pʷʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "пӏун",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Сэ мы кӏалэ |сыпӏущт|",
-              "translation": "|I will adopt| this boy."
-            },
-            {
-              "sentence": "Аслъаным Куджаныр |ыпӏугъ|",
-              "translation": "Aslan |raised| Kujan."
-            },
-            {
-              "sentence": "Мы кӏалэр |апӏугъ|",
-              "translation": "|They adopted/raised| this boy."
-            },
-            {
-              "sentence": "Мауглир шъао тыгъужъхэмэ |апӏужьыгъэу| мэзым",
-              "translation": "Mowgli is a boy |that was raised| by the wolves in the forest."
-            }
-          ],
-          "meaning": "to raise, to adopt"
-        }
-      ]
-    },
-    {
-      "ipa": "pʷʼaːbɮa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏуаблэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "mat"
-        }
-      ]
-    },
-    {
-      "ipa": "pʷʼər",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏур",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "pupil"
-        }
-      ]
-    },
-    {
-      "kabardian": "пӏащӏэ",
-      "ipa": "pʷʼaːnt͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "пӏуанкӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"пӏуакӏэ\""
-        }
-      ]
-    },
-    {
-      "shapsug": "пӏэсхъэн",
-      "ipa": "pʼastχan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "пӏэстхъэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чэтыур |мэпӏастхъэ|",
-              "translation": "The cat |is scratching|."
-            },
-            {
-              "sentence": "Чэтыур кӏалэм |епӏэстхъыгъ|",
-              "translation": "The cat |scratched| the boy."
-            }
-          ],
-          "meaning": "to scratch (with fingernails, foot-nails or claws)"
-        }
-      ]
-    },
-    {
-      "ipa": "pʼasχan",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "пӏэсхъэн",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"пӏэстхъэн\""
-        }
-      ]
-    },
-    {
-      "ipa": "pˈastˈat͡ʃaʃəp",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏэстӏэкӏэшып",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "cockroach"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "гъолъыпӏэ",
-        "ошэкур"
-      ],
-      "ipa": "pʼakʷʼar",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏэкӏор",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |пӏэкӏорым| хэлъ",
-              "translation": "The boy is in |the bed|."
-            },
-            {
-              "sentence": "Кӏалэр |пӏэкӏорым| хэгъолъхьагъ",
-              "translation": "The boy lied in |the bed|."
-            }
-          ],
-          "meaning": "bed"
-        }
-      ]
-    },
-    {
-      "kabardian": "пӏащӏэ",
-      "ipa": "pʼaːt͡ʃa",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "пӏакӏэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"пӏуакӏэ\""
-        }
-      ]
-    },
-    {
-      "ipa": "pʼən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "пӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"пӏун\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "ӏэгуау",
-        "топ"
-      ],
-      "ipa": "pʼəraːɡʷ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏырагу",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэр |пӏырагум| ешъутырыгъ",
-              "translation": "The boy kicked |the ball|."
-            },
-            {
-              "sentence": "Кӏалэхэр |пӏырагум| реджэгух",
-              "translation": "The boy are playing with |the ball|."
-            },
-            {
-              "sentence": "|Пӏырагур| къыслъыгъакӏу",
-              "translation": "Pass|the ball| to me."
-            }
-          ],
-          "meaning": "ball (object, generally spherical, used for playing games)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "уахътэ"
-      ],
-      "ipa": "pʼaːɬa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏалъэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "appointment"
-        },
-        {
-          "examples": [],
-          "meaning": "date (A pre-arranged meeting)"
-        }
-      ]
-    },
-    {
-      "ipa": "pʼastχən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "пӏэстхъэн",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Чэтыур |мэпӏастхъэ|",
-              "translation": "The cat |is scratching|."
-            }
-          ],
-          "meaning": "to scratch someone (With fingernails or foot-nails)"
-        }
-      ]
-    },
-    {
-      "ipa": "pʼaːsta",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏастэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "porridge (dish of cooked grain or groats)"
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "пӏэтехъо",
-        "чхыӏан"
-      ],
-      "ipa": "pʼated͡za",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏэтедзэ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "coverlet; sheet; bed-sheet"
-        }
-      ]
-    },
-    {
-      "kabardian": "пӏэтепхъуэ",
-      "synonyms": [
-        "пӏэтедзэ",
-        "чхыӏан"
-      ],
-      "ipa": "pʼateχʷa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏэтехъо",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Бзылъфыгъэм пӏэм |пӏэтехъо| фыжь тырихъуагъ",
-              "translation": "The woman covered the bed with a white |bedspread|."
-            }
-          ],
-          "meaning": "bedspread, bedcover (topmost covering of a bed)"
-        }
-      ]
-    },
-    {
-      "ipa": "pʷʼanə",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏоны",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Пцэжъыем |пӏонхэр| иӏэх",
-              "translation": "The fish has |scales|."
-            }
-          ],
-          "meaning": "scales (of fish, reptiles, etc.)"
-        }
-      ]
-    },
-    {
-      "ipa": "pʷʼəpt͡ʃʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏупкӏэ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Лӏэу гокӏыжьыгъэм сабыер |пӏупкӏэ| шъузым ритыгъ",
-              "translation": "The divorced man gave the child to the |alimony| woman."
-            }
-          ],
-          "meaning": "alimony"
-        }
-      ]
-    },
-    {
-      "ipa": "pʼəsən",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "пӏысын",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Кӏалэм адрэр |ыпӏысыгъ|",
-              "translation": "The young man |fucked| the other one."
-            },
-            {
-              "sentence": "Кӏалэр къалэм |дэпӏысэхьэу| дэт",
-              "translation": "The young man is in the town |fucking around|."
-            },
-            {
-              "sentence": "|Усэпӏыс|",
-              "translation": "|Fuck you|."
-            },
-            {
-              "sentence": "|Шъосэпӏыс| зыр зырэу",
-              "translation": "|Fuck you all|, each one of you."
-            },
-            {
-              "sentence": "Джэгумкӏэ |шъукъапӏысыгъа|?",
-              "translation": "|Did they fucked you guys| in the game?"
-            },
-            {
-              "sentence": "|Усыпӏысыщт| джы сыкъэбгъэгубжымэ",
-              "translation": "|I gonna fuck you| if you now gonna make me angry."
-            },
-            {
-              "sentence": "Ар сыдэу ӏаеу |къыдапӏысыхьэгъ|",
-              "translation": "They |fucked him| so bad."
-            },
-            {
-              "sentence": "|Cэпӏыс| а кӏалэм ыӏорэр",
-              "translation": "|Screw| what that boy says."
-            },
-            {
-              "sentence": "ӏофымкӏэ шъутыкӏэ |тапӏысыгъ|",
-              "translation": "In work, |they fucked us| in the ass."
-            }
-          ],
-          "meaning": "(vulgar) to fuck"
-        }
-      ]
-    },
-    {
-      "ipa": "pʼəsəʁaʐ",
-      "lang": "Adyghe",
-      "type": "adj",
-      "word": "пӏысыгъэжъ",
-      "definitions": [
-        {
-          "examples": [
-            {
-              "sentence": "Ар |пӏысыгъэжъ|",
-              "translation": "He is |fucked|."
-            },
-            {
-              "sentence": "Кӏэлэ |пӏысыгъэжъ|",
-              "translation": "|Fucking| boy."
-            }
-          ],
-          "meaning": "(vulgar) screwed, fucked"
-        }
-      ]
-    },
-    {
-      "ipa": "ɬəʔaban",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "пӏыртӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to squeeze"
-        }
-      ]
-    },
-    {
-      "ipa": "pʼəsaːkʷʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏысакӏо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "fucker"
-        }
-      ]
-    },
-    {
-      "shapsug": "пӏэркӏьын",
-      "kabardian": "пӏэнкӏын",
-      "ipa": "pʷʼant͡ʃʼəm",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "пӏонкӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "to pop, to burst (to break from internal pressure)"
-        },
-        {
-          "examples": [
-            {
-              "sentence": "Псыр угъэплъымэ |пӏонкӏэу| ежьэ",
-              "translation": "When you heat up water it start |bubbling up|."
-            },
-            {
-              "sentence": "Псыр |мэпӏонкӏы|",
-              "translation": "The water |is bubbling up|."
-            },
-            {
-              "sentence": "Псыр |гъэпӏонкӏ|",
-              "translation": "|Bubble up| the water."
-            }
-          ],
-          "meaning": "to bubble up from heat"
-        }
-      ]
-    },
-    {
-      "kabardian": "пӏэнкӏын",
-      "synonyms": [
-        "пӏонкӏын"
-      ],
-      "ipa": "pʼankʲʼəm",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "пӏэркӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"пӏонкӏын\""
-        }
-      ]
-    },
-    {
-      "kabardian": "пӏэнкӏын",
-      "synonyms": [
-        "пӏонкӏын"
-      ],
-      "ipa": "pʼankʲʼəm",
-      "lang": "Adyghe",
-      "type": "verb",
-      "word": "пӏэнкӏын",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "alternative form of \"пӏонкӏын\""
-        }
-      ]
-    },
-    {
-      "synonyms": [
-        "тепӏо",
-        "шъхьатепӏо",
-        "шъхьэтэпӏ"
-      ],
-      "ipa": "pʷʼa",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏо",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "lid (The top or cover of a container); alternative form of \"шъхьатепӏо\""
-        }
-      ]
-    },
-    {
-      "ipa": "pʼaʂħaːʁ",
-      "lang": "Adyghe",
-      "type": "noun",
-      "word": "пӏэшъхьагъ",
-      "definitions": [
-        {
-          "examples": [],
-          "meaning": "headboard"
-        },
-        {
-          "examples": [],
-          "meaning": "head of the bed"
-        }
-      ]
-    }
-  ],
   "ят": [
     {
       "ipa": "jaːtʼa",
@@ -133556,6 +129473,3713 @@ const circassianDict = {
         {
           "examples": [],
           "meaning": "alternative form of \"аужым\""
+        }
+      ]
+    }
+  ],
+  "кӏ": [
+    {
+      "ipa": "t͡ʃʼapt͡s",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэпц",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "thigh"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэ (tail); кӏэ (new)",
+      "kabardian": "щӏэ (new); кӏэ (tail)",
+      "etymology": "From Proto-Circassian кӏьэ [kʲʼa] \"tail\" and from the Proto-Circassian кӏэ [t͡ʃʼa] \"new\".",
+      "ipa": "t͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Хьэм |ыкӏэ| утемыпкӏ",
+              "translation": "Don\u0027t jump on the dog\u0027s |tail|."
+            },
+            {
+              "sentence": "Хьэм |ыкӏэ| егъэсысы",
+              "translation": "The dog shakes its |tail|."
+            },
+            {
+              "sentence": "Цӏыфым |кӏэ| иӏэп",
+              "translation": "A human has no |tail|."
+            },
+            {
+              "sentence": "Чэтыум |ыкӏэ| утеуцомэ къыопӏэстхъыщт",
+              "translation": "If you step on the cat\u0027s |tail| it will scratch you."
+            }
+          ],
+          "meaning": "tail"
+        },
+        {
+          "examples": [],
+          "meaning": "tip"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Ятӏэм |кӏэхэр| халъхьэх",
+              "translation": "Put |the seeds| inside the dirt."
+            }
+          ],
+          "meaning": "seed"
+        },
+        {
+          "examples": [],
+          "meaning": "(Kfar Kama dialect) (vulgar slang) dick (penis)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏэла|кӏэ|",
+              "translation": "A |new| boy."
+            },
+            {
+              "sentence": "ӏана|кӏэр| къэхь",
+              "translation": "Bring the |new| table."
+            },
+            {
+              "sentence": "Уна|кӏэ| сыщэфыгъ",
+              "translation": "I bought a |new| house."
+            },
+            {
+              "sentence": "Ку |кӏэ| сиӏ",
+              "translation": "I have a |new| car."
+            },
+            {
+              "sentence": "Сику жъы асти |кӏэ| къаӏысхыгъ",
+              "translation": "I gave them my old car and took a |new| one."
+            }
+          ],
+          "meaning": "new"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьакӏьэ",
+      "kabardian": "джэдыкӏэ",
+      "ipa": "t͡ʃʼant͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэнкӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чэтым |кӏэнкӏэ| къекӏэцӏы",
+              "translation": "The chicken lays |egg|."
+            },
+            {
+              "sentence": "Куджаным |кӏэнкӏэ| егъажъэ",
+              "translation": "Kujan is boiling |an egg|."
+            },
+            {
+              "sentence": "Лыр |кӏэнкӏэм| хэсэгъао",
+              "translation": "I am dipping the meat in |the egg|."
+            },
+            {
+              "sentence": "|Кӏэнкӏэ| цӏыкӏужъый",
+              "translation": "A tiny |egg|."
+            },
+            {
+              "sentence": "Чэтыр |кӏэнкӏэхэмэ| атес",
+              "translation": "The chicken is sitting on |the eggs|."
+            },
+            {
+              "sentence": "Кӏалэм жъапхъэкӏэ |кӏэнкӏэ| ыгъэжъагъ",
+              "translation": "The boy cooked |egg| with a pan."
+            }
+          ],
+          "meaning": "egg"
+        },
+        {
+          "examples": [],
+          "meaning": "(informal) testicle"
+        }
+      ]
+    },
+    {
+      "etymology": "From кӏэрэхъо (gun) + щэ (bullet)",
+      "ipa": "t͡ʃʼaraχʷaːɕa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэрэхъуащэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "bullet of a gun"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼapχ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэпхъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "squirrel"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaxat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэхэкӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to experience; to experience or be subjected to (something, typically something unpleasant, painful, or arduous)"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр Америкэм |макӏо|",
+              "translation": "The boy |is going| to America."
+            },
+            {
+              "sentence": "Лӏыр тучаным |кӏуагъэ|",
+              "translation": "The man |went| to the shop."
+            },
+            {
+              "sentence": "Тыдэ |укӏуагъ|?",
+              "translation": "Where did |you go|?"
+            },
+            {
+              "sentence": "Университетым |сыкӏощт| седжэнэу",
+              "translation": "|I will go to| the university to study."
+            },
+            {
+              "sentence": "Непэ ӏофым |укӏуагъа|?",
+              "translation": "|Did you go to| work today?"
+            },
+            {
+              "sentence": "Еджапӏэм непэ |сыкӏуагъэпи|, зырагъэджагъэхэр сышӏэрэп",
+              "translation": "|Because I did not go to| school today, I don\u0027t know what they taught."
+            },
+            {
+              "sentence": "Къалэм |сыкӏогъагъ| сыкъэщэфэнэу",
+              "translation": "|I had gone to| the city for shopping."
+            },
+            {
+              "sentence": "Аужым чэщдэсым |сыкӏожьыгъагъэп|, сыпшъыгъэщагъ",
+              "translation": "In the end |I have not went to| the party, I was too tired."
+            },
+            {
+              "sentence": "Мафэ къэсы ӏофым |сэкӏо| пчэдыжьым",
+              "translation": "|I go to| work every day in the morning."
+            },
+            {
+              "sentence": "Европа |сыкӏонэу| сыфай",
+              "translation": "|I want to go| to Europa."
+            },
+            {
+              "sentence": "Чэщдэсым некӏо |тызэдэкӏощт|",
+              "translation": "Let\u0027s |go together| to the party."
+            },
+            {
+              "sentence": "Сшынахьыжъ еджапӏэм |кӏуагъэпышъ|, сэри |сыкӏонэу| сыфаеп",
+              "translation": "|Because| my older brother |did not went| to schoo, I also don\u0027t want |to go|."
+            },
+            {
+              "sentence": "Пасэу сычъыежьын фай неущы ӏофым пасэу |сыкӏощтышъ|",
+              "translation": "I need to sleep early |because I go| early |to| work tomorrow."
+            },
+            {
+              "sentence": "Сянэ пасэу сыкъигъэтэджыгъ еджапӏэм |сыкӏон| фаети",
+              "translation": "My mom made me get out of bed early because |I| need |to go| to school."
+            }
+          ],
+          "meaning": "to go"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |макӏо|",
+              "translation": "The boy |walks|."
+            },
+            {
+              "sentence": "Кӏалэр уиунэ |макӏо|",
+              "translation": "The boy |is walking| to your house."
+            },
+            {
+              "sentence": "Лӏыжъыр |кӏошъурэпи|, пӏэм къыхэкӏырэп",
+              "translation": "|Because| the old man |can\u0027t walk|, he does not get off the bed."
+            },
+            {
+              "sentence": "Сэ бэрэ |сэкӏо|",
+              "translation": "|I walk| a lot."
+            },
+            {
+              "sentence": "Лъакӏокӏэ мазэм |ушӏошъущтэп|",
+              "translation": "|You cannot walk to| the moon."
+            }
+          ],
+          "meaning": "to walk"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaːlat͡sʼəkʷʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлэцӏыкӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏэлэцӏыкӏур| джэгуалъэм реджэгу",
+              "translation": "|The little boy| is playing with the toy."
+            },
+            {
+              "sentence": "|Кӏэлэцӏыкӏумэ| зачъэхьажьы",
+              "translation": "|The little boys| are running around."
+            },
+            {
+              "sentence": "|Кӏэлэцӏыкӏухэр| ощэха паркым?",
+              "translation": "Are you taking |the little kids| to the park?"
+            },
+            {
+              "sentence": "|Кӏэлэцӏыкӏум| осылӏ осым хешӏыхьэ",
+              "translation": "|The boy| makes a snowman in the snow."
+            },
+            {
+              "sentence": "|Кӏэлэцӏыкӏум| сымаджэу зешӏы еджапӏэм амыгъэкӏон пае",
+              "translation": "|The little boy| pretends to be sick, so he won\u0027t be sent to school."
+            }
+          ],
+          "meaning": "little kid; young boy; little boy"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏалэ",
+      "ipa": "t͡ʃʼaːla",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏалэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏалэр| макӏо",
+              "translation": "|The boy| is going."
+            },
+            {
+              "sentence": "|Кӏалэм| зегъасэ",
+              "translation": "The |boy| is doing exercise."
+            }
+          ],
+          "meaning": "boy"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏалэхэр| мэлажьэх",
+              "translation": "|The young men| are working."
+            },
+            {
+              "sentence": "|Кӏалэм| мэлыхэр егъэхъух",
+              "translation": "|The young man| is herding the sheeps."
+            },
+            {
+              "sentence": "|Кӏэлэ| ныбжьыкӏэхэр къалэхэмэ адэтӏысхьажьых",
+              "translation": "The young |men| are settling in the cities."
+            }
+          ],
+          "meaning": "young man"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|Уикӏалэ| къищэщт",
+              "translation": "|Your son| is going to marry her."
+            },
+            {
+              "sentence": "Ахэмэ |акӏалэ| сыдеджэ",
+              "translation": "I am studying with |their son|."
+            }
+          ],
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэрахъо",
+      "kabardian": "кӏэрахъуэ",
+      "ipa": "t͡ʃʼaraːχʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэрахъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым |икӏэрахъохэр| кӏэрэхъуалъэм |илъых|",
+              "translation": "The man\u0027s |guns| are in the holster."
+            },
+            {
+              "sentence": "|Кӏэрэхъо| фэшъхьаф къахь",
+              "translation": "Bring a different |gun|."
+            },
+            {
+              "sentence": "Шакӏом |кӏэрахъор| тхьакӏумкӏыхьэм фигъэзагъ",
+              "translation": "The hunter pointed |the gun| toward the rabbit."
+            },
+            {
+              "sentence": "Дзэкӏолӏым |икӏэрахъо| ыузэндыгъ",
+              "translation": "The soldier loaded |his gun|."
+            },
+            {
+              "sentence": "Лӏым |кӏэрахъокӏэ| къеохи пылӏыкӏыгъ",
+              "translation": "They shot the man |with a gun| and he died from bleeding."
+            },
+            {
+              "sentence": "|Кӏэрахъом| щэ дэлъа?",
+              "translation": "Is there a bullet in |the gun|?"
+            }
+          ],
+          "meaning": "gun"
+        },
+        {
+          "examples": [],
+          "meaning": "rifle; alternative form of \"шхонч\""
+        },
+        {
+          "examples": [],
+          "meaning": "fire arm"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɕən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэщын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Псынэм| кӏуи псы къыкӏэщ",
+              "translation": "Go to |the well| and extract water from it."
+            },
+            {
+              "sentence": "Чэмым щэ |къыкӏэщын|",
+              "translation": "|To extract| milk from a cow."
+            },
+            {
+              "sentence": "Кӏалэм щэ пчэным |къыкӏещы|",
+              "translation": "The boy |is extracting| milk from the goat."
+            },
+            {
+              "sentence": "Кӏалэм псы хъэдэн цӏынэм |къыкӏещы|",
+              "translation": "The boy |is squeezing| water out of the wet rag."
+            }
+          ],
+          "meaning": "to squeeze from, to extract from, to emulsify from"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏэдэӏукӏьын",
+      "etymology": "From кӏэ- (under preposition prefix) + ӏун (to hear) + -кӏы (away movement suffix)",
+      "ipa": "t͡ʃʼadaʔʷət͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэдэӏукӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сянэрэ сятэрэ къаӏотагъэм шъэфэу |сыкӏэдэӏукӏыгъ|",
+              "translation": "|I listened| to what my mother and father said quietly"
+            },
+            {
+              "sentence": "Кӏалэр тикъэбар |кӏэдэӏукӏыгъ|",
+              "translation": "The boy |listened| to our conversation."
+            }
+          ],
+          "meaning": "to listen to someone very carefully (note: can also be used for listening to someone unnoticeably or secretly)"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьапсэ",
+      "ipa": "t͡ʃʼaːpsa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏапсэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏапсэр| кӏыхьэ",
+              "translation": "|The rope| is long."
+            },
+            {
+              "sentence": "|Кӏапсэр| къедзых",
+              "translation": "Throw |the rope| down."
+            },
+            {
+              "sentence": "|Кӏапсэр| гъэлэнлэн",
+              "translation": "To loosen |the rope|."
+            },
+            {
+              "sentence": "|Кӏапсэ| пхыкӏэ зэсэгъашӏэ",
+              "translation": "I am learning how to tie |a rope|."
+            },
+            {
+              "sentence": "|Кӏапсэкӏэ| хьэр пкъэум есыпхыгъ",
+              "translation": "I tied the dog to the column |with a rope|."
+            },
+            {
+              "sentence": "|Кӏапсэкӏэ| къушъхьэм лӏыр дэкӏоягъ",
+              "translation": "The man climbed up the mountain |with a rope|."
+            },
+            {
+              "sentence": "Дзэкӏолӏым пыир |кӏапсэкӏэ| зэкӏоцӏипхагъ",
+              "translation": "The soldier tied up the enemy |with a rope|."
+            }
+          ],
+          "meaning": "rope"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼapxən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэпхын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "skirt"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏьэй",
+        "лъэгу"
+      ],
+      "ipa": "t͡ʃʼaj",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэй",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏэим| сехыщт",
+              "translation": "I will go down |to the vale|."
+            },
+            {
+              "sentence": "|Кӏэим| дэсхэр",
+              "translation": "the people that are settling |in the vale|."
+            },
+            {
+              "sentence": "|Кӏэим| тыдэт",
+              "translation": "We are in |the vale|."
+            }
+          ],
+          "meaning": "vale, dale"
+        },
+        {
+          "examples": [],
+          "meaning": "valley"
+        },
+        {
+          "examples": [],
+          "meaning": "lowland"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaːx",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏах",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "lower, down (from a higher to a lower position, downwards)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaħə",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏэхьы",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏыхьэ\""
+        }
+      ]
+    },
+    {
+      "kabardian": "кӏапсэрыкӏо",
+      "ipa": "t͡ʃʼaːpsarəkʷʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏапсэрыкӏо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏэпсэрыкӏо\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏэпсэрышъу"
+      ],
+      "ipa": "t͡ʃʼapsarəkʷʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэпсэрыкӏо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "ropewalker; rope-walker; tightrope walker, funambulist"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏэпсэрыкӏо"
+      ],
+      "ipa": "t͡ʃʼapsarəʃʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэпсэрышъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "rope-walker"
+        }
+      ]
+    },
+    {
+      "ipa": "bʒaːma",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэпсэжъый",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "packthread"
+        },
+        {
+          "examples": [],
+          "meaning": "small rope"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʁʷətħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэгъутхьан",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to wet (to accidentally/uncontrollably urinate)"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏымахуэ",
+      "ipa": "t͡ʃʼəmaːfa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏымафэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏымафэм| къэучъыӏы",
+              "translation": "|In winter| it becomes cold."
+            },
+            {
+              "sentence": "|Кӏымафэм| чъыгыхэр пцӏанэх",
+              "translation": "|In winter| the trees are naked."
+            },
+            {
+              "sentence": "|Кӏымафэм| Туркуям тыкӏощт",
+              "translation": "|In winter| we will go to Turkey."
+            },
+            {
+              "sentence": "Унэр |кӏымафэм| фэдгъэхьазырын фай",
+              "translation": "We need to prepare the house for |winter|."
+            },
+            {
+              "sentence": "Гъопэкӏыхьэр гъэмафэм фэшӏ, гъопэкӏако |кӏымафэм| фэшӏ",
+              "translation": "long-sleeved shirt is for the summer and short-sleeved shirt is for |winter|."
+            },
+            {
+              "sentence": "Зыфэдгъэхьазырын фай |кӏымафэм|",
+              "translation": "We need to prepare ourselves for |winter|."
+            }
+          ],
+          "meaning": "winter"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼala",
+      "lang": "Adyghe",
+      "type": "intj",
+      "word": "кӏэлэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏэлэ!|, сэры къыпдэӏэпыӏагъэ",
+              "translation": "|Oi!| I was the one that was helping you."
+            },
+            {
+              "sentence": "|Кӏэлэ!|, экзамыным бэ къисхыгъ",
+              "translation": "|Oi!| I got high [grade] on the exam."
+            },
+            {
+              "sentence": "|Кӏэлэ!|, джы сыд ушӏэжьыщтыр",
+              "translation": "|Oh man!|, now what are you gonna do?"
+            },
+            {
+              "sentence": "|Кӏэлэ!|, кӏалэр укӏыкӏаеу уукӏыщт",
+              "translation": "|Oh man!|, the boy is going to kill you [brutally]."
+            }
+          ],
+          "meaning": "oi; oh man; said to get someone\u0027s attention to point something angrily, sarcastically or excitingly"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼarəpt͡ʃʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэрыпкӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to stick all over (with), to paste all over (with); to cover (with), to plaster (with)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "къарыу"
+      ],
+      "ipa": "kʷʼaːt͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏуачӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |кӏуачӏэ|, онтэгъухэр къештэшъу",
+              "translation": "The boy |is strong|, he can lift heavy stuff."
+            },
+            {
+              "sentence": "Онтэгъухэр къэбыштэхэу нахь |кӏуачӏэу| ухъущт",
+              "translation": "By lifting heavy stuff you will become |stronger|."
+            },
+            {
+              "sentence": "Шъуащыщэу хэт анахь |кӏуачӏэр|?",
+              "translation": "Among you who is the |strongest|?"
+            },
+            {
+              "sentence": "Кӏалэр |кӏуачӏэти| ӏофыр псынкӏэу ешӏэ",
+              "translation": "|Because| the boy |is strong, he does the work fast."
+            }
+          ],
+          "meaning": "strong"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэгъуэжын",
+      "ipa": "t͡ʃaʁʷaʑən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэгъожьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |кӏэгъожьы|",
+              "translation": "The boy |is regretting|."
+            },
+            {
+              "sentence": "|Сыкӏэгъожьы| ахъщэ зэрэисылъхьагъэр",
+              "translation": "|I am regretting| I betted with money."
+            },
+            {
+              "sentence": "|Сыкӏэгъожьы| икъунэу зэрэсемыджагъэр",
+              "translation": "|I am regretting| I did not study enough."
+            },
+            {
+              "sentence": "|Укӏэмыгъожь| гъогоу уздэкӏуагъэмкӏэ",
+              "translation": "|Don\u0027t regret| the path you went with."
+            }
+          ],
+          "meaning": "to regret"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏэтыгъукӏьын",
+      "ipa": "t͡ʃʼatəʁʷət͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэтыгъукӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр тучаным |кӏэтыгъукӏэу| къаубытыгъ",
+              "translation": "The boy was caught |stealing from| the shop."
+            }
+          ],
+          "meaning": "to steal something from a shop"
+        },
+        {
+          "examples": [],
+          "meaning": "to steal something from under something"
+        }
+      ]
+    },
+    {
+      "ipa": "bad͡zaʁaːɬʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэмгуябз",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "stereotypical Chemgui"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏэдэн"
+      ],
+      "ipa": "t͡ʃʼabzan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэбзэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to sew a sole on, to sole (a shoe)"
+        },
+        {
+          "examples": [],
+          "meaning": "to sew from below"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏэбзэн"
+      ],
+      "ipa": "t͡ʃʼadan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэдэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чэмышъор цуакъэм |кӏадэ|",
+              "translation": "Cowskin is |sole| under a shoe."
+            }
+          ],
+          "meaning": "to sew a sole on, to sole (a shoe)"
+        },
+        {
+          "examples": [],
+          "meaning": "to sew from below"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaːbz",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏабз",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "backing (material added behind or underneath)"
+        },
+        {
+          "examples": [],
+          "meaning": "lining, cushion"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʔʷəɬʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэӏулӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to resole (shoes)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏэлъыон"
+      ],
+      "ipa": "t͡ʃʼaɬəwən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэлъыун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏэлъыон\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɕaːkʷʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэщакӏо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "leading singer (e.g. in a choir)"
+        },
+        {
+          "examples": [],
+          "meaning": "organizer, mastermind"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəʂʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏышъо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "skin"
+        },
+        {
+          "examples": [],
+          "meaning": "crust (of Earth)"
+        },
+        {
+          "examples": [],
+          "meaning": "bark (of trees)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "(Shapsug) ныпсӏэ"
+      ],
+      "ipa": "t͡ʃatʼaj",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэтӏэй",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "intestine"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏэлэегъагь",
+      "synonyms": [
+        "егъэджакӏо"
+      ],
+      "ipa": "t͡ʃʼaɮaʁaːd͡ʒ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлэегъадж",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мыр Адыгабзэм |икӏэлэегъадж|",
+              "translation": "(S)he is |the teacher| of Circassian language."
+            },
+            {
+              "sentence": "|Кӏэлэегъаджэм| студентыхэр регъаджэх",
+              "translation": "The |teacher| teaches the students."
+            },
+            {
+              "sentence": "|Кӏэлэегъаджэм| псынкӏащэу етхи егъэушӏои, иуахътэкӏэ тесытхыкӏышъурэп",
+              "translation": "|The teacher| writes and erases too fast, I cannot copy him in time."
+            }
+          ],
+          "meaning": "teacher"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʁanaːɬa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэгъэналъэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏэгъэналъэкӏэ| тутыным машӏо пыгъэнэн",
+              "translation": "To lit the cigarette |with a lighter|."
+            },
+            {
+              "sentence": "|Кӏэгъэналъэ| шъуӏыгъа?",
+              "translation": "Do you have |a lighter|?"
+            }
+          ],
+          "meaning": "lighter"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼanan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэнэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to get ignited; alternative form of \"машӏо кӏэнэн\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʁanan",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэгъэнэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кур |зэкӏэгъан|",
+              "translation": "|Turn on| the car."
+            }
+          ],
+          "meaning": "to turn on"
+        },
+        {
+          "examples": [],
+          "meaning": "to ignite; alternative form of \"машӏо кӏэгъэнэн\""
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэхьы",
+      "kabardian": "кӏыхь",
+      "ipa": "t͡ʃʼəħa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏыхьэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Гъогу |кӏыхьэ|",
+              "translation": "|Long| path."
+            },
+            {
+              "sentence": "кӏалэм ышъхьэцы |кӏыхьэ|",
+              "translation": "The boy\u0027s hair |is long|."
+            },
+            {
+              "sentence": "уижакӏэ |кӏыхьэу| хъугъэ",
+              "translation": "Your beard became |long|."
+            },
+            {
+              "sentence": "пхъэр |кӏыхьэ|",
+              "translation": "The wood |is long|."
+            },
+            {
+              "sentence": "Удэбзыкъухэр |кӏыхьэу| хъугъэх",
+              "translation": "Your sideburns became |long|."
+            },
+            {
+              "sentence": "Кӏалэм  ыцӏэ |кӏыхьэ|",
+              "translation": "The boy\u0027s name is |long|."
+            }
+          ],
+          "meaning": "long"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "лӏыр |кӏыхьэ|",
+              "translation": "The man |is tall|."
+            }
+          ],
+          "meaning": "tall"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼat͡ʃʼ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏэкӏ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Гъогу |кӏэкӏ|",
+              "translation": "|Short| path."
+            }
+          ],
+          "meaning": "short"
+        },
+        {
+          "examples": [],
+          "meaning": "a kind of women suit made of velvet or black dense silk"
+        },
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ӏабг\""
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьако (short); сако (jacket)",
+      "kabardian": "кӏагуэ (short); цакуэ (jacket)",
+      "ipa": "t͡ʃʼaːkʷa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏако",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏэлэ |кӏако|",
+              "translation": "|Short| boy."
+            },
+            {
+              "sentence": "Мы пхъэр |кӏэкуащэ|",
+              "translation": "This wood |is too short|."
+            },
+            {
+              "sentence": "Тӏэкӏу нахь |кӏакоу|, хъущтмэ",
+              "translation": "A bit |shorter|, please."
+            },
+            {
+              "sentence": "Сижакӏэ |кӏако|, уахътэ блэкӏымэ нахь кӏыхьэу хъущт",
+              "translation": "My beard |is short|, with time it will become long."
+            },
+            {
+              "sentence": "Кӏалэм ышъхьацы |кӏакоу| ышӏыгъ",
+              "translation": "The boy made his hair |short|."
+            }
+          ],
+          "meaning": "short"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Насыпкӏэ |кӏако| зыщыслъагъ, амырмэ чъыӏэ сылӏэщтыгъ",
+              "translation": "Luckily I wore |a coat|, otherwise I would be cold."
+            }
+          ],
+          "meaning": "jacket; coat"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼat͡ʃʼaːʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏочӏагъэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым |кӏочӏагъэ| бэ хэлъ",
+              "translation": "The man have a lot |strength|."
+            }
+          ],
+          "meaning": "strength"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaraχʷat͡sʼəkʷʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэрэхъоцӏыкӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "handgun, pistol"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaːnɬa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏанлъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏэнлъэ\""
+        }
+      ]
+    },
+    {
+      "kabardian": "кӏуэдын",
+      "synonyms": [
+        "бзэхын"
+      ],
+      "ipa": "kʷʼadən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏодын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр уфае зыхъукӏэ |мэкӏоды|",
+              "translation": "The boy |disappears| when you need him."
+            },
+            {
+              "sentence": "Лӏыр |къэкӏодыгъэ|",
+              "translation": "The man |vanished|."
+            }
+          ],
+          "meaning": "to disappear; to vanish"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |кӏодыгъэ|, къагъотыжьырэп",
+              "translation": "The boy |is missing|, they can\u0027t find him"
+            },
+            {
+              "sentence": "Сисыхьат |кӏодыгъэ|",
+              "translation": "My watch |gone missing|."
+            }
+          ],
+          "meaning": "to go missing"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр мэзым |хэкӏодагъ|",
+              "translation": "The boy |got lost| in the forest."
+            },
+            {
+              "sentence": "Кӏэлэцӏыкӏум наӏэ тетымыгъэтымэ |къэтшӏокӏодыщт|",
+              "translation": "If we don\u0027t protest the little boy |he will get lost from us|."
+            },
+            {
+              "sentence": "Cи къэлэм дахэ |кӏодыгъэ|",
+              "translation": "My beautiful pencil |got lost|."
+            },
+            {
+              "sentence": "Кӏалэр |кӏодыгъэ|",
+              "translation": "The boy |is lost|."
+            }
+          ],
+          "meaning": "to get lost"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Щэр |кӏодыгъэ|",
+              "translation": "The milk |got spoiled|."
+            }
+          ],
+          "meaning": "to get spoiled (food)"
+        }
+      ]
+    },
+    {
+      "ipa": "dawan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэдэун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм тхылъыр къыратыжьынэу |кӏэдэуагъ|",
+              "translation": "The boy |demanded them| to return the book."
+            }
+          ],
+          "meaning": "to demand"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Акъо адэжь къэкӏожьыным янэ-ятэхэр кӏэдэущтыгъэх",
+              "translation": "The parents insisted that their son to come home."
+            }
+          ],
+          "meaning": "to insist; to persist; to press on"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэупщӏэн",
+      "ipa": "t͡ʃʼawpt͡ʃʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэупкӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏэупчӏэн\""
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэупщӏэн",
+      "ipa": "t͡ʃʼawpt͡ʂʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэупчӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|къыкӏэупчӏ| лӏыхэр псы фаехэмэ",
+              "translation": "|Ask| if the men want water."
+            },
+            {
+              "sentence": "кӏалэр |кӏаупчӏэ| тыдэ щыӏ мэшӏокур",
+              "translation": "The boy |asks around| where is the train."
+            },
+            {
+              "sentence": "|укъыкӏэмыупчӏ| тыдэ тэкӏо",
+              "translation": "|Don\u0027t ask| where we are going."
+            }
+          ],
+          "meaning": "to ask around"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼərəpɬən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏырыплъын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "кӏэлэцӏыкӏухэр янэ-ятэмэ |акӏырэплъых|",
+              "translation": "Children |take| their parents |as models| (to imitate)."
+            }
+          ],
+          "meaning": "to imitate, to take as a model, to take as an example"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏыб",
+      "ipa": "t͡ʃʼəb",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏыб",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Сыкӏыб| мэхъу",
+              "translation": "|My back| is aching."
+            },
+            {
+              "sentence": "Унэм |ыкӏыб| дэт кӏалэр",
+              "translation": "The boy |is behind| the house."
+            },
+            {
+              "sentence": "|Сыкӏыб| къыдэуцу",
+              "translation": "Stand |behind me|."
+            },
+            {
+              "sentence": "Сиджанэ пчъэм |ыкӏыб| пылъагъ, къэсфэхь",
+              "translation": "My shirt is hanged |behind| the door, bring it to me."
+            },
+            {
+              "sentence": "Куджаныр кӏалэхэмэ |акӏыб| ит",
+              "translation": "Kujan |is behind| the boys."
+            },
+            {
+              "sentence": "Матиматикэмкӏэ |ыкӏыб| сыкъинагъ",
+              "translation": "I was left |behind| in math."
+            }
+          ],
+          "meaning": "behind"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Унэм |ыкӏыбы| хьанцэр дэт",
+              "translation": "The shovel is |behind| the house."
+            },
+            {
+              "sentence": "Кум |ыкӏыбыкӏэ| псыхэр дэлъых",
+              "translation": "The water is in |the back| of the car."
+            },
+            {
+              "sentence": "|Сыкӏыб| мэузы",
+              "translation": "|My back| hurts."
+            },
+            {
+              "sentence": "|Укӏыбыкӏэ| еплъ",
+              "translation": "Look |behind your back|."
+            },
+            {
+              "sentence": "|Укӏыбыкӏэ| сыкъакӏо",
+              "translation": "I am coming |from your back|."
+            },
+            {
+              "sentence": "Гъогумкӏэ, сакӏыб дэт кур |скӏыбы| къехьэ",
+              "translation": "On the road, the car behind me is coming to my rear."
+            },
+            {
+              "sentence": "Кум |ыкӏыбы| уимыхь",
+              "translation": "Don\u0027t get close to the car\u0027s |rear|."
+            },
+            {
+              "sentence": "Кӏалэм |ыкӏыбы| уитэу лъыкӏу",
+              "translation": "Follow the boy while being close to |his back|."
+            },
+            {
+              "sentence": "Кур |укӏыбкӏэ| къыпжэхэхьагъ",
+              "translation": "The car collided against you |from the back|."
+            },
+            {
+              "sentence": "Кӏалэхэр |зэкӏыбы| итыхэу макӏох",
+              "translation": "The boys are going one after the other\u0027s |back|."
+            }
+          ],
+          "meaning": "back, rear"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "гу рихьан",
+        "шӏулъэгъун",
+        "гопэн"
+      ],
+      "ipa": "t͡ʃʼasan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэсэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Музикэр |уикӏаса?|",
+              "translation": "Do you |like| music?"
+            },
+            {
+              "sentence": "Сэ кӏалэр |сикӏас|",
+              "translation": "|I like| the boy."
+            },
+            {
+              "sentence": "Кӏалэм пшъашъэр |икӏас|",
+              "translation": "The boy |likes| the girl."
+            },
+            {
+              "sentence": "Сэ |усикӏас|",
+              "translation": "|I like you|."
+            },
+            {
+              "sentence": "Тутын сешъоныр |сикӏэсагъ|",
+              "translation": "|I liked| to smoke."
+            },
+            {
+              "sentence": "Щаем шъоу хэсылъхьаныр |сикӏас|",
+              "translation": "|I like| putting honey into the tea."
+            },
+            {
+              "sentence": "Пцэжъые сышхыныр |сикӏас|",
+              "translation": "|I like| eating fish."
+            }
+          ],
+          "meaning": "to like"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэкӏьэжъапхъэ",
+      "ipa": "t͡ʃʼant͡ʃʼaʐaːpχa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэнкӏэжъапхъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "omelette"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏакӏуэ",
+      "ipa": "t͡ʃaːkʷʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏакӏо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "felt cloak"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьасэ",
+      "ipa": "t͡ʃʼaːsa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏасэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏасэу| сыкъэкӏожьы сшӏоигъоп",
+              "translation": "I don’t want to arrive |late|."
+            },
+            {
+              "sentence": "|Кӏасэ| хъугъэ",
+              "translation": "It is already |late|."
+            },
+            {
+              "sentence": "Сызыкӏежьэжьыгъэр |кӏасэ| хъугъэшъ ары",
+              "translation": "I’m going| because it is |late| already."
+            }
+          ],
+          "meaning": "late"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼawpχʷəħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэупхъухьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сшъхьац |къысфыкӏэупхъухьан| плъэкӏыщта?",
+              "translation": "Can you |cut| my hair?"
+            },
+            {
+              "sentence": "Кӏалэм |кӏиупхъухьагъ|",
+              "translation": "The boy |took a haircut|."
+            },
+            {
+              "sentence": "|кӏэсыупхъухьэщт|",
+              "translation": "|I will take a haircut|."
+            },
+            {
+              "sentence": "Хабзэ щыӏ, зышъхьац |зыкӏиупхъухьагъэм| ыпшъэбы даохэу",
+              "translation": "There is a tradition in which they slap the neck of |a person that took a haircut|."
+            }
+          ],
+          "meaning": "to take a haircut"
+        }
+      ]
+    },
+    {
+      "ipa": "makʷʼasan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏосэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Машӏор |мэкӏуасэ|",
+              "translation": "The fire |is extinguishing|."
+            },
+            {
+              "sentence": "Тыгъэр |кӏосэщтэп|",
+              "translation": "The sun |will not extinguish|."
+            }
+          ],
+          "meaning": "to be extinguished"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кур |мэкӏуасэ|",
+              "translation": "The car |is turning off|."
+            },
+            {
+              "sentence": "Компыютэрыр |къэкӏосагъ|",
+              "translation": "The computer |turned off|."
+            },
+            {
+              "sentence": "Ламбэр |кӏосагъ|",
+              "translation": "The lamp |turned off|."
+            },
+            {
+              "sentence": "Нэфынэр |мэкӏуасэ|",
+              "translation": "The light |is turning off|."
+            }
+          ],
+          "meaning": "to be turned off"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaħə-ɮaħ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏэхьы-лэхь",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏыхьэ-лыхь\""
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэлъыкӏон",
+      "synonyms": [
+        "лъыкӏон"
+      ],
+      "ipa": "t͡ʃaɬəkʷʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэлъыкӏон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр лӏым |кӏэлъыкӏо|",
+              "translation": "The boy |is following| the man."
+            }
+          ],
+          "meaning": "to follow, to walk after"
+        }
+      ]
+    },
+    {
+      "ipa": "jakʷʼaɬʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏолӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"екӏолӏэн\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaːpa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏапэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "fat tail"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼat͡sʼəɕəħan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏоцӏыщыхьэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "сабыир чыхӏэным бзылъфыгъэм кӏоцӏещыхьэ",
+              "translation": "The woman |wraps| the child in a blanket."
+            }
+          ],
+          "meaning": "to enwrap, to envelope, to wrap"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэлэгъу",
+      "ipa": "t͡ʃalaʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлэгъу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Сикӏэлэгъукӏэ| чылэм бэрэ тыщыджэгущтыгъ",
+              "translation": "|In my childhood| we used to play a lot in the village."
+            }
+          ],
+          "meaning": "childhood"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Ащ |икӏэлэгъум| лӏыгъэ зэрихьагъ",
+              "translation": "|In his youth|, he displayed courage."
+            }
+          ],
+          "meaning": "youth"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəʔʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏыӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"ыкӏыӏу\""
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ехъопсэн"
+      ],
+      "ipa": "t͡ʃʼaχʷapsəːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэхъопсын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэр ыянэ |кӏэхъопсы|",
+              "translation": "The girl |misses| her mother."
+            },
+            {
+              "sentence": "Пшъашъэм кӏалэр |кӏэхъопсы|",
+              "translation": "The boy |is missing| the girl."
+            },
+            {
+              "sentence": "Сянэ |сыкӏэхъопсыжьы|",
+              "translation": "|I miss| my mother."
+            },
+            {
+              "sentence": "Уиныбджэгъухэмэ |уакӏэхъопса?|",
+              "translation": "|Do you miss| your friends."
+            },
+            {
+              "sentence": "Гонахьыхэмэ |уакӏэмыхъопс|",
+              "translation": "|Don\u0027t miss| doing sinful actions/stuff."
+            },
+            {
+              "sentence": "|Шъускӏэхъопсыжьыгъ|",
+              "translation": "|I missed you guys|."
+            },
+            {
+              "sentence": "Ащ ышхын |сыкӏэхъопсырэп|",
+              "translation": "|I don\u0027t miss| his food."
+            },
+            {
+              "sentence": "|Ускӏэхъопсыщт|",
+              "translation": "|I gonna miss you|."
+            },
+            {
+              "sentence": "Ащ ыкӏалэхэр ежь |кӏэхъопсыгъэх|",
+              "translation": "His boys |missed him|."
+            }
+          ],
+          "meaning": "to long for, to miss someone (to feel the absence of someone or something)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Джэкӏуакӏоу хъуным ар |кӏэхъопсы|",
+              "translation": "|He dreams| of becoming an actor."
+            }
+          ],
+          "meaning": "to fantasize; to dream for; to look forward to"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼabɣəqʷ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏэбгыкъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "beam, girder, bar, baulk"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəjtχʷən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏитхъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |кӏетхъу|",
+              "translation": "The boy |is scurrying|."
+            },
+            {
+              "sentence": "Кӏалэм кумкӏэ |кӏитхъугъ|",
+              "translation": "The boy |accelerated| with the car."
+            },
+            {
+              "sentence": "|Кӏэтхъу!|",
+              "translation": "|Accelerate!|"
+            },
+            {
+              "sentence": "Кум |зыкӏитхъушъурэп|",
+              "translation": "The car |can\u0027t accelerate|"
+            },
+            {
+              "sentence": "А кӏалэхэмэ зэралъэгъоу |зыкӏатхъугъ|",
+              "translation": "The boys |dashed away| once they saw me."
+            },
+            {
+              "sentence": "Тхьакӏумкӏыхьым шакӏор зелъэгъум, |кӏитхъугъ|",
+              "translation": "When the rabbit saw the hunter, |it dashed off|."
+            }
+          ],
+          "meaning": "to accelerate; to scurry; to scurry away; to dash away"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəjtχʷən",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏиӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |кӏетхъу|",
+              "translation": "The boy |is scurrying|."
+            },
+            {
+              "sentence": "Кӏалэм кумкӏэ |кӏитхъугъ|",
+              "translation": "The boy |accelerated| with the car."
+            },
+            {
+              "sentence": "|Кӏэтхъу!|",
+              "translation": "|Accelerate!|"
+            },
+            {
+              "sentence": "Кум |зыкӏитхъушъурэп|",
+              "translation": "The car |can\u0027t accelerate|"
+            },
+            {
+              "sentence": "А кӏалэхэмэ зэралъэгъоу |зыкӏатхъугъ|",
+              "translation": "The boys |dashed away| once they saw me."
+            },
+            {
+              "sentence": "Тхьакӏумкӏыхьым шакӏор зелъэгъум, |кӏиӏагъ|",
+              "translation": "When the rabbit saw the hunter, |it dashed off|."
+            }
+          ],
+          "meaning": "to accelerate; to scurry; to dash"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏьэмгуе"
+      ],
+      "ipa": "t͡ʃʼamɡʷəja",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэмгуе",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "Temirgoy (Circassian tribe)"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏэфызыкӏьын",
+      "ipa": "t͡ʃʼafəzət͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэфызыкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сэнашӏэм саным ипсыхэр |къыкӏифызыкӏыгъэх|.",
+              "translation": "The winemaker |squeezed out| the grape\u0027s liquid."
+            },
+            {
+              "sentence": "Кӏалэм псыр ӏаплъэкӏым |къыкӏефызыкӏы|.",
+              "translation": "The boy |squeezes| the water |out| of the towel."
+            }
+          ],
+          "meaning": "to squeeze out, to press out"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼat͡sʼən͡",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэцӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"къэкӏэцӏын\""
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьашъо",
+      "ipa": "t͡ʃʼaːʃʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏашъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыр кӏашъом дэкӏоягъ",
+              "translation": "The man went up |the ceiling|."
+            },
+            {
+              "sentence": "|Кӏашъом| еплъ",
+              "translation": "Look at |the ceiling|."
+            },
+            {
+              "sentence": "Тиунэ |икӏашъо| псы къыпэчъы",
+              "translation": "Water is dripping from my house\u0027s |ceiling|."
+            }
+          ],
+          "meaning": "ceiling"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэпщы",
+      "synonyms": [
+        "кӏэнлъэ",
+        "къамыщ",
+        "шыукъамыщ"
+      ],
+      "ipa": "t͡ʃʼapɕə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэпщы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыр шым |кӏэпщыкӏэ| ео",
+              "translation": "The man is striking the horse |with a horsewhip|."
+            }
+          ],
+          "meaning": "horsewhip"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэнлъэ",
+      "synonyms": [
+        "кӏэпщы",
+        "къамыщ",
+        "шыукъамыщ"
+      ],
+      "ipa": "t͡ʃʼanɬa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэнлъэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Шыур |\u0027кӏэнлъэмкӏэ| шым еуагъ",
+              "translation": "The horseman stroke the horse |with a whip|."
+            },
+            {
+              "sentence": "Шыкуаор |кӏэнлъэкӏэ| шымэ яо",
+              "translation": "The wagoner is striking the horses |with a whip|."
+            },
+            {
+              "sentence": "Лӏыр пщылӏым |кӏэнлъэкӏэ| ео",
+              "translation": "The man is striking the slave |with a whip|."
+            }
+          ],
+          "meaning": "(Shapsug) whip"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼapɕ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэпщ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏэпщы\""
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэхьы-лэхь",
+      "ipa": "t͡ʃʼəħa-ɮəħa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏыхьэ-лыхь",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мы филымыр сыдэу |кӏыхьэ-лыхь|",
+              "translation": "This film is so |long|."
+            },
+            {
+              "sentence": "Лӏым иӏофы |кӏыхьэ-лыхьэу| ешӏы",
+              "translation": "The man does his work |sluggishly|."
+            },
+            {
+              "sentence": "Лӏым ӏофыр |кӏыхьэ-лыхьэ| ымышӏэу псынкӏэу зэшӏуихыгъ",
+              "translation": "The man not doing his work |sluggishly|, did it fast."
+            }
+          ],
+          "meaning": "sluggish; slow and prolonged"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏэлэегьакӏо",
+      "ipa": "t͡ʃʼaɮajad͡ʒaːkʷʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлэеджакӏо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏэлэеджакӏохэр| экзаменым феджэх",
+              "translation": "|The students| are studying for the exam."
+            }
+          ],
+          "meaning": "pupil; student"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəpʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏыпӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "fold, plait, crease"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaːj",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏай",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏаир| дэгъоу мэсты",
+              "translation": "|Ash-tree| burns good."
+            }
+          ],
+          "meaning": "ash-tree"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʃʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэшӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to hang up"
+        },
+        {
+          "examples": [],
+          "meaning": "to connect something under something"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼaʑən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏожьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Укъыздэкӏыгъэм |кӏожь|",
+              "translation": "|Return| from where you came."
+            },
+            {
+              "sentence": "Кӏалэр уиунэ |мэкӏожьы|",
+              "translation": "The boy |is returning| to your house."
+            },
+            {
+              "sentence": "Кӏалэр |мэкӏожьы|",
+              "translation": "The boy |is returning|."
+            },
+            {
+              "sentence": "Сэ тӏэкӏу шӏэмэ |сыкъэкӏожьыщт|",
+              "translation": "|I will come back| soon."
+            },
+            {
+              "sentence": "Кӏалэр яунэ |кӏожьи|, ахъщэ къишти, тадэжь |къэкӏожьыгъ|",
+              "translation": "The boy |returned home|, took money and |returned back| to us."
+            },
+            {
+              "sentence": "Кӏалэр гъэу яунэ |кӏожьыгъ|",
+              "translation": "The boy |returned| home crying."
+            }
+          ],
+          "meaning": "to return (there; from which one came)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "къарыунчъэ"
+      ],
+      "ipa": "kʷʼaːt͡ʂʼaːd͡ʒ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏочӏадж",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Гъогур |кӏуаджэу| хъугъэ",
+              "translation": "The road became |flooded|."
+            },
+            {
+              "sentence": "Уаем гъогур |кӏуаджэу| ышӏыгъ",
+              "translation": "The strong rain |flooded| the road."
+            },
+            {
+              "sentence": "Гъогур |кӏуаджэшъ| ухэкӏын плъэкӏыщтэп",
+              "translation": "Because the road |is flooded|, you cannot pass it."
+            }
+          ],
+          "meaning": "impassable road, flooded road"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼaːd͡ʒ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏуадж",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Гъогур |кӏуаджэу| хъугъэ",
+              "translation": "The road became |flooded|."
+            },
+            {
+              "sentence": "Уаем гъогур |кӏуаджэу| ышӏыгъ",
+              "translation": "The strong rain |flooded| the road."
+            },
+            {
+              "sentence": "Гъогур |кӏуаджэшъ| ухэкӏын плъэкӏыщтэп",
+              "translation": "Because the road |is flooded|, you cannot pass it."
+            }
+          ],
+          "meaning": "impassable road, flooded road"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼaːpʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏуапӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мы чӏыпӏэр кӏэлэ-гъолэ |кӏуапӏэу| хъугъэ",
+              "translation": "This place became |a gathering place| for youngers."
+            },
+            {
+              "sentence": "Ащ еджапӏэр |кӏуапӏэу| ышӏыгъ",
+              "translation": "(S)he made school |the gathering place|."
+            }
+          ],
+          "meaning": "gathering place (a place where a group goes to or gathers)"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼatan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏотэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Дзэр |кӏотэнэу| ежьагъэ",
+              "translation": "The army started |to advance|."
+            },
+            {
+              "sentence": "Уӏагъэм щэр бэрэ хэлъмэ |кӏотэнкӏэ| щынагъо",
+              "translation": "It is dangerous if the bullet stays for too long in the wound and |it moves deeper|."
+            }
+          ],
+          "meaning": "to advance, to move/push forward/on/further, to gain/make ground, to make headway"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼat͡sʼə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏоцӏы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Унэм |ыкӏоцӏы| ихь",
+              "translation": "Go |inside| the house."
+            },
+            {
+              "sentence": "Унэр |ыкӏоцӏыкӏэ| алагъ",
+              "translation": "They painted the horse |from inside|."
+            },
+            {
+              "sentence": "Гъуанэм |ыкӏоцӏы| идз мыжъохэр",
+              "translation": "Throw the rocks |inside| the hole."
+            },
+            {
+              "sentence": "Бым |ыкӏоцӏы| къекӏы баджэр",
+              "translation": "The fox is coming out from |inside| the burrow."
+            },
+            {
+              "sentence": "Мыӏэрысым |ыкӏоцӏы| хэлъ хьамлыу",
+              "translation": "There is a worm |inside| the apple."
+            },
+            {
+              "sentence": "Пхъуантэм |ыкӏоцӏы| илъыхэр къихых",
+              "translation": "Take out the stuff |inside| the box."
+            },
+            {
+              "sentence": "Унэ |кӏоцӏыр| чъыӏэ",
+              "translation": "It is cold |inside| the house."
+            }
+          ],
+          "meaning": "inside"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼanat͡ʼaːɬ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэнэкӏалъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏэнэкӏалъэ| хъугъа джы ар?!",
+              "translation": "Did he became a |laughing stock| now?"
+            },
+            {
+              "sentence": "Ащ кӏалэр |кӏэнэкӏалъэ| ышӏыгъ",
+              "translation": "(S)he made the boy a |laughing stock|"
+            }
+          ],
+          "meaning": "laughing stock"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏьыин"
+      ],
+      "ipa": "mat͡ʃʼəjən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏыин",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэр |мэкӏыи|",
+              "translation": "The girl |is screaming|."
+            },
+            {
+              "sentence": "Стхьакӏумэ |укъекӏые|",
+              "translation": "|You\u0027re screaming into| my eat."
+            },
+            {
+              "sentence": "Пшъэшъэ цӏыкӏухэмэ яфэдэ |кӏыегъ|",
+              "translation": "(S)he |screamed| like a little girl."
+            }
+          ],
+          "meaning": "to scream"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэлъыон",
+      "synonyms": [
+        "кӏэнэкӏэн"
+      ],
+      "ipa": "t͡ʃʼaɬəwən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэлъыон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр лӏым |кӏэлъыо|",
+              "translation": "The boy |is scoffing| at the man."
+            },
+            {
+              "sentence": "Кӏалэр къакӏуи |къэткӏэлъыо|",
+              "translation": "The boy came and |started scoffing us|."
+            }
+          ],
+          "meaning": "to scoff someone"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏэгьэн",
+      "ipa": "t͡ʃʼad͡ʒan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэджэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Тидин |шъукӏадж|",
+              "translation": "|Inform widely about| our religion."
+            },
+            {
+              "sentence": "Кӏалэм къищэтышъ иныбджэгъухэр |фэкӏаджэх|",
+              "translation": "Because the young man going to merry, his friends are |informing widely about it for him|."
+            }
+          ],
+          "meaning": "to inform widely about"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ин"
+      ],
+      "ipa": "t͡ʃʼajan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэен",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым кӏашъор кӏэи",
+              "translation": "The man |is coating| the ceiling."
+            }
+          ],
+          "meaning": "to coat under something; to daub under something; to stucco under something; to plaster under something"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "хэнэжьын"
+      ],
+      "ipa": "t͡ʃʼanaʑən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэнэжьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сэ тутын сешъоу |кӏэснэжьыгъ|",
+              "translation": "|I quit| smoking cigarettes."
+            },
+            {
+              "sentence": "А шэн ӏаер |кӏэнэжь|",
+              "translation": "|Quit| that bad behaving."
+            },
+            {
+              "sentence": "Уӏэхъуамбэмэ уацэкъэу |кӏэбнэжьын| фай",
+              "translation": "|You must quit| biting your teeth."
+            },
+            {
+              "sentence": "|Кӏэмынэжь| ащтэу пшӏэу",
+              "translation": "|Don\u0027t quit| doing that."
+            },
+            {
+              "sentence": "Кӏалэм |кӏинэжьыгъ| чъэу",
+              "translation": "The boy |stopped| [the habit of] running."
+            }
+          ],
+          "meaning": "to quit doing something, to get out of the habit (of), to break oneself of the habit (of)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʁaɕən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэгъэщын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"къыкӏэгъэщын\""
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьыщ",
+      "kabardian": "кӏыщ",
+      "ipa": "t͡ʃʼəɕ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏыщ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏыщым| гъукӏэр щэгъукӏэ",
+              "translation": "The blacksmith is forging in |the smithy|."
+            },
+            {
+              "sentence": "Гъукӏэр гъукӏэнэу |кӏыщым| кӏуагъэ",
+              "translation": "The blacksmith went to |the smithy| to forge."
+            },
+            {
+              "sentence": "Сыдж тео макъэр |кӏыщым| къыщэӏу",
+              "translation": "Anvil striking sound was heard from |the smithy|."
+            }
+          ],
+          "meaning": "smithy, farriery, forge"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼat͡sʼəɬħan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏоцӏылъхьан",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to wrap"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʁaʁʷaʑən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэгъэгъожьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |сыкӏигъэгъожьыгъ|",
+              "translation": "The boy |made me regret it|."
+            },
+            {
+              "sentence": "Кӏалэр |кӏэбгъэгъожьыгъ|",
+              "translation": "|You made| the boy |regret|."
+            },
+            {
+              "sentence": "|Сыкӏэмыгъэгъожь|",
+              "translation": "|Don\u0027t make me regret|."
+            }
+          ],
+          "meaning": "to make someone regret"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэрыт",
+      "ipa": "kʲʼarət",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэрыт",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ку |кӏьэрыт|",
+              "translation": "|Bad| car."
+            },
+            {
+              "sentence": "Пчъэр |кӏьэрытэу| хъугъэ",
+              "translation": "The door became |bad|."
+            },
+            {
+              "sentence": "Цӏыф |кӏьэрыт|",
+              "translation": "|Worthless| person."
+            },
+            {
+              "sentence": "Гонахьхэр |умыгъэкӏьэрытых|",
+              "translation": "|Don\u0027t make| sins |worthless| (Don\u0027t take sins lightly)"
+            }
+          ],
+          "meaning": "worthless"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼarawan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэрэон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыр |кӏэраоу| макӏо",
+              "translation": "The man is going while |swaying|."
+            },
+            {
+              "sentence": "Щалъэр |кӏэрэонэу| ежьагъ",
+              "translation": "The bucket started to |sway|."
+            }
+          ],
+          "meaning": "to rock; to cause to shake or sway"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏубырылъ"
+      ],
+      "ipa": "ʔʷbərəɬ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэрэхъуалъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏэрэхъуалъэр| кӏэрахъор зэрылърэ шъор ары",
+              "translation": "|A holster| is the leather where the gun is stored."
+            },
+            {
+              "sentence": "Лӏым икӏэрахъохэр |кӏэрэхъуалъэм| илъых",
+              "translation": "The man\u0027s guns are in |the holster|."
+            }
+          ],
+          "meaning": "holster"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏэӏотыкӏьын",
+      "ipa": "t͡ʂʼaʔʷatət͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэӏотыкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм пшъашъэм ышӏагъэхэр |къыкӏиӏутыкӏыгъэх| кӏэлэегъаджэм ыпашъхьэкӏэ",
+              "translation": "The boy |revealed| the girl\u0027s doings in front of the teacher."
+            },
+            {
+              "sentence": "|Сыкӏэмыӏотыкӏ|",
+              "translation": "|Don\u0027t tell on me."
+            }
+          ],
+          "meaning": "to tell on, to reveal, to rat out, to make something known (especially a secret)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼapxan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэпхэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм пцыкъур |кӏипхи| осым хэхьагъ",
+              "translation": "The boy |tied| snowshoe |under| [his feet] and he entered the snow."
+            }
+          ],
+          "meaning": "to tie under"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəm-səm",
+      "lang": "Adyghe",
+      "type": "init",
+      "word": "кӏым-сым",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Чэщ |кӏы-сым|",
+              "translation": "A silent |night|."
+            },
+            {
+              "sentence": "Кӏым-сым, зыгори къэӏурэп",
+              "translation": "|Silent|, nothing was heard."
+            }
+          ],
+          "meaning": "an expression of silence"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼarəstəħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэрыстыхьан",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to burn under"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼaʂan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏошъэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Шакӏор |мэкӏуашъэ|",
+              "translation": "The hunter |is sneaking up|."
+            }
+          ],
+          "meaning": "alternative form of \"мэкӏошъэн\""
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏэщыкӏьын",
+      "ipa": "tʂaɕəkʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэщыкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Пшъашъэр |кӏэбэщыкӏьы|",
+              "translation": "|You are eloping| the girl."
+            },
+            {
+              "sentence": "Дэхэосыр |кӏащыкӏьыгъ|",
+              "translation": "Daxawas was |eloped|."
+            }
+          ],
+          "meaning": "to elope; to run away secretly for the purpose of getting married with one\u0027s intended spouse"
+        }
+      ]
+    },
+    {
+      "kabardian": "кӏуэдыгъуафӏэ",
+      "ipa": "kʷʼadəʑəʁʷaʃʷʼ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏодыжьыгъошӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏодыгъошӏу\""
+        }
+      ]
+    },
+    {
+      "kabardian": "кӏуэдыгъуафӏэ",
+      "ipa": "kʷʼadəʁʷaʃʷʼ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏодыгъошӏу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мастэр |кӏодыгъошӏу|",
+              "translation": "A needle is |easily losable|."
+            }
+          ],
+          "meaning": "easily losable; something or someone that is easy to lose"
+        },
+        {
+          "examples": [],
+          "meaning": "something or someone that is easy to extinc"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɮaʁʷaːɮaxar",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлэгъуалэхэр",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏэлэ-гъуалэхэр\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɮaʁʷaːɮaxar",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏалэгъуалэхэр",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"кӏэлэ-гъуалэхэр\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɮaʁʷaːɮaxar",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлэгъуалэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "youth folk; usaully in the plural form \"кӏэлэ-гъуалэхэр\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɮaʁʷaːɮaxar",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏалэгъуалэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "youth folk; usaully in the plural form \"кӏэлэ-гъуалэхэр\""
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэлэ-гъуалэхэр",
+      "ipa": "t͡ʃʼaɮa ʁʷaːɮaxar",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлэ-гъуалэхэр",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏэлэ-гъуалэхэр| къалэм ехыгъэх",
+              "translation": "|The youth| went to the city."
+            },
+            {
+              "sentence": "|Кӏэлэ-гъуалэхэр| кӏэим щешъох",
+              "translation": "|The youth| are drinking in the valley."
+            },
+            {
+              "sentence": "Тыдэ щыӏэх |кӏэлэ-гъуалэхэр|?",
+              "translation": "Where are |the youth|?"
+            },
+            {
+              "sentence": "Тыдэ |кӏэлэ-гъуалэхэр| чэщыхэмкӏэ щэӏэх?",
+              "translation": "Where are |the youth| in the nights?"
+            },
+            {
+              "sentence": "Чылэ гупчэм |кӏэлэ-гъуалэхэр| щызэӏукӏэх",
+              "translation": "|The youth| are meeting up in the center of the village."
+            }
+          ],
+          "meaning": "youth; youth folk"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼajaʁʷəɬən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэегъулъын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to jump aside"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼawəx",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэух",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мазэм |икӏэух|",
+              "translation": "|End of| the month."
+            },
+            {
+              "sentence": "Фылымым |икӏэух| зэщыгъо",
+              "translation": "|The end of| the film is boring."
+            }
+          ],
+          "meaning": "end"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|Кӏэух| псалъэ",
+              "translation": "|Closing| word."
+            }
+          ],
+          "meaning": "closing, conclusive"
+        },
+        {
+          "examples": [],
+          "meaning": "(literally) tail end (the last part of a period of time, event, or situation; the concluding or final part)"
+        }
+      ]
+    },
+    {
+      "shapsug": "ӏукӏэхьан",
+      "kabardian": "щӏэхьэн",
+      "synonyms": [
+        "ӏукӏэхьан"
+      ],
+      "ipa": "t͡ʃʼəħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр ыпэ итым |кӏэхьан|",
+              "translation": "The boy |to catch up with| the one in front of him."
+            },
+            {
+              "sentence": "ӏофышӏэ пэрытым |кӏэхьан|",
+              "translation": "|To catch up with| an advanced worker."
+            },
+            {
+              "sentence": "Шыр адрэ шым |кӏэхьанкӏэ| тӏэкӏу нахь иӏэжьэп",
+              "translation": "There is not that much for the horse |to catch up with| the other horse."
+            },
+            {
+              "sentence": "Псынкӏащэу очъэти |ускӏэхьашъурэп|",
+              "translation": "Because you are running too fast |I can\u0027t catch up with you|."
+            },
+            {
+              "sentence": "Кӏалэр лӏым |кӏэхьагъ|",
+              "translation": "The boy |caught up with| the man."
+            },
+            {
+              "sentence": "Нахь псынкӏэу сычъэмэ |ускӏэхьащт|",
+              "translation": "If I run faster |I will overtake| you."
+            },
+            {
+              "sentence": "Кӏэлэцӏкӏур |къыскӏэхьашъурэп|",
+              "translation": "The little boy |can\u0027t catch up| with me."
+            },
+            {
+              "sentence": "Ливилкӏэ Томэр |къыскӏэхьагъ|",
+              "translation": "Tom |caught up and surpassed me| in the level."
+            },
+            {
+              "sentence": "Кур жъажъэ нэмыӏэкӏэ автобус |къэткӏэхьагъ|",
+              "translation": "The car was so slow |we were overtaken by| a bus."
+            },
+            {
+              "sentence": "Мышъэм ушӏуежьэжьын пӏомэ |къыпкӏэхьэщт|",
+              "translation": "If you try to flee from a bear, |it will catch up to you|."
+            }
+          ],
+          "meaning": "to catch up with someone, to reach something that had been ahead"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɮaχʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлэхъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "boy"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɮaχʷt͡sʼəkʷʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлэхъуцӏыкӏу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "little boy"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʃʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэшъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Вампирым улъ |кӏишъущт|",
+              "translation": "The vampire |will suck| the blood out of you."
+            },
+            {
+              "sentence": "Лӏым псыр турбэм |кӏыпшъугъ|",
+              "translation": "The man |sucks| the water out of the pipe."
+            },
+            {
+              "sentence": "Къэгъагъэм псы |кӏэшъун|",
+              "translation": "|To suck| the water out of a flower."
+            }
+          ],
+          "meaning": "to suck (to draw something into the mouth by inhaling)"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым уцым псы |кӏешъу|",
+              "translation": "The man |extracts| the water out of the plant."
+            }
+          ],
+          "meaning": "to drain by extracting water"
+        },
+        {
+          "examples": [],
+          "meaning": "(vulgar) to perform oral sex"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɬanəqʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлъэныкъо",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Нашэм |ыкӏэлъэныкъо| шъугъэ",
+              "translation": "|One half| of the melon is rotten."
+            }
+          ],
+          "meaning": "half of; one side of"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэн",
+      "ipa": "t͡ʃʼan",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Мэл |кӏэн|",
+              "translation": "Sheep |knucklebone|."
+            },
+            {
+              "sentence": "|Кӏэным| кӏалэхэр рэджэгух",
+              "translation": "The boys are playing |with the knucklebone|."
+            }
+          ],
+          "meaning": "knucklebone"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым |икӏэн| агощыгъ",
+              "translation": "They split the man\u0027s |inheritance|."
+            }
+          ],
+          "meaning": "inheritance"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼarət͡ʃʼaw",
+      "lang": "Adyghe",
+      "type": "adv",
+      "word": "кӏэрыкӏэу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр джэгум |кӏэрыкӏэу| мэджэгу",
+              "translation": "The boy is playing the game |again|."
+            },
+            {
+              "sentence": "Джы ӏофыр |кӏэрыкӏэу| тышӏэжьын фай",
+              "translation": "Now we need to do the task |again from the beginning|."
+            },
+            {
+              "sentence": "Некӏо фылымым |кӏэрыкӏэу| теплъыщт",
+              "translation": "Let\u0027s watch the film |again|."
+            }
+          ],
+          "meaning": "again (from the beginning, from scratch)"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaxən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэхын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"чӏэхын\""
+        }
+      ]
+    },
+    {
+      "kabardian": "кӏуэцӏышыхьын",
+      "synonyms": [
+        "щыхьан",
+        "къещэкӏын",
+        "къещыхьакӏын"
+      ],
+      "ipa": "kʷʼat͡sʼəɕəħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏоцӏыщыхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сэтэнае мыжъор хъэдэн фабэм |кӏоцӏыщыхьагъ|",
+              "translation": "Sataney |wrapped| the hot stone in a rag."
+            },
+            {
+              "sentence": "Бзылъфыгъэм сабиер чхыӏан |кӏоцӏыщыхьагъ|",
+              "translation": "The woman |wrapped| the infant in a blanket."
+            },
+            {
+              "sentence": "Тхылъыпӏэм тхылъхэр сэ |кӏоцӏысыщыхьэх|",
+              "translation": "|I enveloped| the books with paper."
+            }
+          ],
+          "meaning": "to wrap in; to envelope"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɬaʔʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэлъэӏун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр ӏэпыӏэгъум |кӏэлъэӏугъ|",
+              "translation": "The boy |called| for help."
+            }
+          ],
+          "meaning": "to call for, to ask for, to beg for"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "губжыгъошӏу",
+        "губжыл"
+      ],
+      "ipa": "ɡʷəbʒəpx",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏэжъукӏыжьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыр губжыпх, ау а сыхьатым |кӏэжъукӏыжьы|",
+              "translation": "The man is hot-tempered, but on that hour |he calms down|."
+            }
+          ],
+          "meaning": "to calm down, to quiet down"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼat͡sʼə",
+      "lang": "Adyghe",
+      "type": "prefix",
+      "word": "кӏоцӏы-",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "(added to verbs) within inside"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəfə",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏыфы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ынэгу |кӏыфэу| хъугъэ",
+              "translation": "The boy\u0027s cheeks became |pale|."
+            },
+            {
+              "sentence": "Лӏыр зэсымаджэм, ышъо |кӏыфэу| хъугъэ",
+              "translation": "When the man became sick, his skin became |pale|."
+            }
+          ],
+          "meaning": "pale"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏыгъун",
+      "synonyms": [
+        "гъусэн"
+      ],
+      "ipa": "t͡ʃʼəʁʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏыгъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм ихьэ закъо щэхъу |кӏымыгъоу| ежьагъ",
+              "translation": "The boy went off without anyone accompanying him expect his dog."
+            },
+            {
+              "sentence": "Лӏыжъым изакъоу кӏощтэп, зыгорэ |кӏыгъун| фае",
+              "translation": "The old man can\u0027t go alone, someone needs |to escort| him."
+            }
+          ],
+          "meaning": "to accompany, to escort"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Шъузыр лӏым |кӏыгъун| ыдэрэп",
+              "translation": "The woman doesn\u0027t accept |to live with| the man."
+            }
+          ],
+          "meaning": "to live with"
+        }
+      ]
+    },
+    {
+      "kabardian": "кӏуэцӏыхьэн",
+      "ipa": "kʷʼat͡sʼəħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏоцӏыхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр дэпкъым |кӏоцӏыхьагъ|",
+              "translation": "The boy |collide into| the wall."
+            }
+          ],
+          "meaning": "to collide into; to crash into"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Шэр пхъэм |кӏоцӏыхьан|",
+              "translation": "The bullet |to penetrate into| the wood."
+            },
+            {
+              "sentence": "Шэр ашъокум |кӏоцӏыхьашъущтэп|",
+              "translation": "The bullet |cannot penetrate| a tank."
+            }
+          ],
+          "meaning": "to penetrate into"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Тхьапш шхынэу |къыпкӏоцӏыхьэрэр?|",
+              "translation": "How much food |goes into you?|"
+            }
+          ],
+          "meaning": "to go within inside something"
+        }
+      ]
+    },
+    {
+      "ipa": "tʃʼəʑən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏыжьын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to heal (a wound); to grow again"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"къикӏын\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼərəwən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏырыун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Тутарыщыр шхомлакӏэм |къыкӏырыуи|, шыр пхэкӏыкӏэ къызэхигъэтӏысхьэу къызэтыригъэуцуагъ.",
+              "translation": "Totrash |tugged| with the bridle, and he stopped the horse and made it sit down on its back."
+            }
+          ],
+          "meaning": "to tug (to pull hard)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ежьэжьын",
+        "кӏэӏэн",
+        "кӏэтхъун"
+      ],
+      "ipa": "t͡ʃʼaʔaʑən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэӏэжьын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Шым |кӏеӏэжьы|.",
+              "translation": "The horse |runs away|."
+            }
+          ],
+          "meaning": "to run away, to make off, to flee"
+        }
+      ]
+    },
+    {
+      "kabardian": "щӏэп",
+      "ipa": "t͡ʃʼap",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэп",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "(plant) cannabis, hemp",
+          "tags": [
+            "plant"
+          ]
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼatχʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэтхъун",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to scoop out; to dig out; to shovel out, to rake out, to remove by shoveling or raking"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэлъырыгъэуцон",
+      "ipa": "t͡ʃʼaɬərəʁawt͡ʃʷan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэлъырыгъэуцон",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм пхъэнтӏэкӏухэр ӏанэм |кӏэлъырыгъэуцуагъэх|",
+              "translation": "The boy |placed| the chairs |next to| the table."
+            }
+          ],
+          "meaning": "to put/place something next to"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "кӏэлъыон",
+        "дэхьащхын"
+      ],
+      "ipa": "t͡ʃʼanat͡ʃʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэнэкӏэн",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to ridicule, to mock, to make fun of, to scoff, to make a little joke, to poke fun"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʁaɮat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэгъэлыкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Африкэмкӏэ, шакӏомэ анэхэр шӏуцӏэкӏэ |кӏагъэлыкӏых|",
+              "translation": "In Afrika, the huntets |color beneath| their eyes in black."
+            },
+            {
+              "sentence": "Унэм ыкӏашъо лӏым |кӏигъэлыкӏыгъ| фыжьыкӏэ",
+              "translation": "The man |colored| the ceiling in white."
+            }
+          ],
+          "meaning": "to color beneath; to paint beneath"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɮat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэлыкӏын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Африкэмкӏэ, шакӏомэ анэхэр шӏуцӏэкӏэ |кӏалыкӏых|",
+              "translation": "In Afrika, the huntets |color beneath| their eyes in black."
+            },
+            {
+              "sentence": "Унэм ыкӏашъо лӏым |кӏилыкӏыгъ| фыжьыкӏэ",
+              "translation": "The man |colored| the ceiling in white."
+            }
+          ],
+          "meaning": "to color beneath; to paint beneath"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaraːt͡ʃʼ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏэракӏ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏэлэм |кӏэракӏ|",
+              "translation": "|well-dressed| young man."
+            }
+          ],
+          "meaning": "well-dressed (of a person)"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "течъын",
+        "ыпэ ишъын"
+      ],
+      "ipa": "kʷʼat͡ʃʼa tajt͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏокӏэ текӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to outrun, to outdistance"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬanəqʷaːɕ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "кӏэлъэныкъуащ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "ӏанэр |кӏэлъэныкъуащэу| щыт",
+              "translation": "The table is standing |crookedly|."
+            }
+          ],
+          "meaning": "crooked, curved"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ежьэжьын",
+        "кӏэӏэжьын"
+      ],
+      "ipa": "t͡ʃʼaʔan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм кумкӏэ |кӏиӏагъ|.",
+              "translation": "The boy |accelerated| with the car."
+            }
+          ],
+          "meaning": "to speed up instantly; to accelerate instantly; to run off quickly"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Шым |кӏиӏагъ|.",
+              "translation": "The horse |fled|."
+            },
+            {
+              "sentence": "Кӏалэм хьэр зелъэгъум |кӏиӏагъ|.",
+              "translation": "When the boy saw the dog, |he fled|."
+            }
+          ],
+          "meaning": "to run away, to flee"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏэкӏьэн",
+      "ipa": "t͡ʃʼat͡ʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэкӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм къэгъагъэмэ псы |акӏекӏэ|",
+              "translation": "The boy |pours| water |into| the flowers."
+            },
+            {
+              "sentence": "Къэгъагъэм псы бащэ |кӏэмыкӏ|",
+              "translation": "|Don\u0027t pour| too much water |into| the flower."
+            },
+            {
+              "sentence": "Псы ӏанэм сымышӏахэу |кӏэскӏагъ|",
+              "translation": "|I spilled|\u0027 water |under| the table by mistake."
+            }
+          ],
+          "meaning": "to pour liquid under, to spill liquid under"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʁat͡ʃʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэгъэкӏын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"чӏэгъэкӏын\""
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaɮa ʁʷəsa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэлэ гъусэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"гъусэ кӏалэ\""
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼaχʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏохъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |кӏохъуи| гъогур шӏокӏодыгъ",
+              "translation": "The boy |went the wrong way and| lost the road."
+            }
+          ],
+          "meaning": "to go the go way"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaʃʼəħaːn",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэшӏыхьан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым пхъэ унэ чъыгы чӏэгъым |кӏишӏыхьагъ|",
+              "translation": "The man |constructed| a wooden house under the tree."
+            }
+          ],
+          "meaning": "to construct under"
+        },
+        {
+          "examples": [],
+          "meaning": "to make under"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaːd",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏад",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "cask; barrel"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼaːd͡za",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏадзэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "sweat-cloth"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəʔʷtajɬ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏыӏутелъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "щыгъын кӏыӏутелъ",
+              "translation": "outerwear."
+            }
+          ],
+          "meaning": "outer"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼatəkʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэтыку",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "a small valley between a hill/river and a river"
+        }
+      ]
+    },
+    {
+      "ipa": "kʷʼən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр пшъыгъэ, гъогууанэ |ыкӏугъ|",
+              "translation": "The boy got tired, he |went| a long distance."
+            },
+            {
+              "sentence": "Кӏалэм километыритф |ыкӏугъ|",
+              "translation": "The boy |walked| five kilometers."
+            }
+          ],
+          "meaning": "to walk a certain distance, to go a certain distance, to pass a certain distance"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼəʃʷaʔʷat",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏышъоӏот",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "bath loofah"
+        }
+      ]
+    },
+    {
+      "shapsug": "кӏьэзэзын",
+      "ipa": "t͡ʃʼazazən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэзэзын",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр |мэкӏэзэзэ|",
+              "translation": "The boy |shivers|."
+            },
+            {
+              "sentence": "Пшъашъэр мэзахэм |кӏэзэзэу| хэт",
+              "translation": "The girl |is trembling| in the dark."
+            },
+            {
+              "sentence": "Сэ чъыӏэ сылӏэшъ |сэкӏэзэзы|",
+              "translation": "Because the I am feeling cold, |I shiver|."
+            },
+            {
+              "sentence": "Кӏалэр щынэм къыхэкӏэу |кӏэзэзыгъ|",
+              "translation": "The boy |trembled| out of fear."
+            },
+            {
+              "sentence": "Кӏалэр чъыӏэм |егъэкӏэзэзы|",
+              "translation": "The cold |trembles| the boy."
+            }
+          ],
+          "meaning": "to shiver, to tremble"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼazaz",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "кӏэзэз",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "tremble"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼapə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэпы",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "hemp"
+        },
+        {
+          "examples": [],
+          "meaning": "cannabis"
+        }
+      ]
+    },
+    {
+      "ipa": "t͡ʃʼapət͡ʃʼ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "кӏэпыкӏ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "hemp seed"
         }
       ]
     }
@@ -134248,6 +133872,23 @@ const circassianDict = {
         {
           "examples": [],
           "meaning": "to jump rapidly"
+        }
+      ]
+    },
+    {
+      "ipa": "pt͡ʃʼəħ ɬaʁʷən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пкӏыхь лъэгъун",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Пкӏыхь слъэгъугъ| сыбыбэу",
+              "translation": "|I saw a dream| of me flying."
+            }
+          ],
+          "meaning": "to dream; to see a dream"
         }
       ]
     }
@@ -137691,6 +137332,18 @@ const circassianDict = {
       ]
     },
     {
+      "ipa": "pxərətχən",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "пхырытхъын",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "to break through; to breach"
+        }
+      ]
+    },
+    {
       "ipa": "pχataqaʐ",
       "lang": "Adyghe",
       "type": "noun",
@@ -138227,7 +137880,7 @@ const circassianDict = {
           "examples": [
             {
               "sentence": "Пшъашъэм |пцӏы еусы|",
-              "translation": "The boy |is lying|."
+              "translation": "The girl |is lying|."
             },
             {
               "sentence": "Кӏалэр ыянэ |пцӏы феусы|",
@@ -140076,7 +139729,7 @@ const circassianDict = {
           "examples": [
             {
               "sentence": "|Пщэрыхьапӏэм| шхын щысышӏыгъ",
-              "translation": "I made foood in |the kitchen|"
+              "translation": "I made food in |the kitchen|"
             },
             {
               "sentence": "О |пщэрыхьапӏэ| кӏэу уиӏа?",
@@ -140494,24 +140147,23 @@ const circassianDict = {
   ],
   "пы": [
     {
-      "ipa": "pəʁat͡ʃarazan",
+      "ipa": "pəl",
       "lang": "Adyghe",
-      "type": "verb",
-      "shapsug": "пыгъэкьэрэзэн",
-      "word": "пыгъэчэрэзэн",
+      "type": "noun",
+      "word": "пыл",
       "definitions": [
         {
           "examples": [],
-          "meaning": "to screw on"
+          "meaning": "elephant"
         }
       ]
     },
     {
-      "ipa": "pəʁat͡ʃarazəħaːn",
+      "shapsug": "пыгъэкьэрэзэн",
+      "ipa": "pəʁat͡ʃarazan",
       "lang": "Adyghe",
       "type": "verb",
-      "shapsug": "пыгъэкьэрэзэхьын",
-      "word": "пыгъэчэрэзыхьан",
+      "word": "пыгъэчэрэзэн",
       "definitions": [
         {
           "examples": [],
@@ -140532,14 +140184,15 @@ const circassianDict = {
       ]
     },
     {
-      "ipa": "pəl",
+      "shapsug": "пыгъэкьэрэзэхьын",
+      "ipa": "pəʁat͡ʃarazəħaːn",
       "lang": "Adyghe",
-      "type": "noun",
-      "word": "пыл",
+      "type": "verb",
+      "word": "пыгъэчэрэзыхьан",
       "definitions": [
         {
           "examples": [],
-          "meaning": "elephant"
+          "meaning": "to screw on"
         }
       ]
     },
@@ -140857,7 +140510,7 @@ const circassianDict = {
           "examples": [
             {
               "sentence": "|Пытым| шхын щысышӏыгъ",
-              "translation": "I made foood in |the kitchen|"
+              "translation": "I made food in |the kitchen|"
             },
             {
               "sentence": "|Пытым| сыщэпщэрыхьы",
@@ -143523,6 +143176,697 @@ const circassianDict = {
             }
           ],
           "meaning": "that place; there (place)"
+        }
+      ]
+    }
+  ],
+  "лӏ": [
+    {
+      "ipa": "ɬˤʼaːʁa",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "лӏагъэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "died; simple past tense of \"лӏэн\""
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Силӏ| ӏофым щыӏ",
+              "translation": "|My husband| at work."
+            },
+            {
+              "sentence": "Бзылъфыгъэр |илӏ| къыдэкӏуагъ",
+              "translation": "The woman came with |her husband|."
+            },
+            {
+              "sentence": "Бзылъфыгъэм |лӏы| иӏэп",
+              "translation": "The woman has no |husband|."
+            },
+            {
+              "sentence": "Бзылъфыгъэу |илӏ| зылӏагъэм шъузабэ раӏо",
+              "translation": "A woman that lost |her husband| is called widow."
+            }
+          ],
+          "meaning": "husband"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "|Лӏыр| фабрикэм щылажьэ",
+              "translation": "|The man| is working in the factory."
+            },
+            {
+              "sentence": "|Лӏыр| заом хэхьагъ",
+              "translation": "|The man| joined the war."
+            }
+          ],
+          "meaning": "man"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼawʒəʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэужыгъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"лӏэужыгъо\""
+        }
+      ]
+    },
+    {
+      "ipa": "ɬˤʼanəʁ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэныгъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "kabardian": "лӏыжьы",
+      "etymology": "From лӏы (man) + жъы (old)",
+      "ipa": "ɬʼəʐə",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏыжъы",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Лӏыжъыр| лӏэу ыныбжь зыхэкӏотагъэр",
+              "translation": "|An old man| is man which had his age proceeded."
+            },
+            {
+              "sentence": "Лӏым ыныбжь хэкӏуатэзэ |лӏыжъэу| хъугъэ",
+              "translation": "\u0027The man\u0027s age proceeded and he became |an old man|."
+            },
+            {
+              "sentence": "|Лӏыжъэу| ебэджыгъэр цӏыфыхэмэ къагъэтэджэжьыгъ",
+              "translation": "The people lifted |the old-man| that fell [on the ground]."
+            },
+            {
+              "sentence": "|Лӏыжъыр| бэщкӏэ макӏо",
+              "translation": "|The old man| is going with a cane."
+            },
+            {
+              "sentence": "|Лӏыжъым| ытхьакӏумэхэмэ ерагъэу яӏу",
+              "translation": "|The old man\u0027s| ears barely hear."
+            }
+          ],
+          "meaning": "old man; old-man"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼan",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "лӏэн",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Лӏыжъыр |малӏэ |",
+              "translation": "The old-man |is dying|."
+            },
+            {
+              "sentence": "Лӏыжъыр |лӏэщт|",
+              "translation": "The old-man |will die|."
+            },
+            {
+              "sentence": "Е |улӏэн| е улӏын",
+              "translation": "|Die| or be a man."
+            },
+            {
+              "sentence": "|Улӏэнэу| уфая?",
+              "translation": "Do you want |to die|?"
+            },
+            {
+              "sentence": "Чэтыeр уфызмэ |лӏэщт|",
+              "translation": "If you squeeze the cat |it will die|."
+            },
+            {
+              "sentence": "Лӏы бэу заом |хэлӏыхьагъэх|",
+              "translation": "Many men |died in| the war."
+            },
+            {
+              "sentence": "Блэр къысаом |сэлӏэ| пэтыгъ",
+              "translation": "When the snake bited me, |I| almost |died|."
+            },
+            {
+              "sentence": "Цӏыфыр |зылӏэкӏэ| ыпсэ хэкӏы",
+              "translation": "|When| a person |dies| his soul comes out from him."
+            }
+          ],
+          "meaning": "to die"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼaʃʼaʁʷnəqʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэшӏэгъуныкъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "half a century (50 years)"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼaʃʼaʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэшӏэгъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "century (ӏ00 years)"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼəbɮaːn",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏыблан",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Ар заом |лӏыбланэу| щызэуагъ",
+              "translation": "He fought |bravely| in the war."
+            }
+          ],
+          "meaning": "courageous; brave"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼabɮaːn",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэблан",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"лӏыблан\""
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼaːpʼa",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "лӏапӏэ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "death location"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "жъыгъэ",
+        "жъыгъо",
+        "лӏыжъыгъу",
+        "лӏыжъыпӏ",
+        "жъышъхьэ"
+      ],
+      "ipa": "ɬʼəʐəʂ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏыжъышъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "very old"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "жъыгъэ",
+        "жъыгъо",
+        "жъышъхьэ"
+      ],
+      "ipa": "ɬʼəʐəʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏыжъыгъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "old age; one\u0027s old age"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼəkʷʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏыкӏо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "messenger"
+        },
+        {
+          "examples": [],
+          "meaning": "mediator, intermediary, negotiator"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Хэгъэгум |лӏыкӏо| ыгъэкӏуагъ",
+              "translation": "The country sent a |ambassador|."
+            }
+          ],
+          "meaning": "legate; ambassador"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэр лӏым |илӏыкӏо|",
+              "translation": "The boy is the man\u0027s |delegate|."
+            },
+            {
+              "sentence": "Мыр тхьэм |илӏыкӏо|",
+              "translation": "This is God\u0027s |delegate|."
+            }
+          ],
+          "meaning": "delegate; representative"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "лӏыхъужъ"
+      ],
+      "ipa": "ɬʼəχʷ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "лӏыхъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "valiant"
+        },
+        {
+          "examples": [],
+          "meaning": "hero"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "лӏыхъу"
+      ],
+      "ipa": "ɬʼəχʷəʐ",
+      "lang": "Adyghe",
+      "type": "adj",
+      "word": "лӏыхъужъ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "valiant"
+        },
+        {
+          "examples": [],
+          "meaning": "hero"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼəʁa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏыгъэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сэ |лӏыгъэ| къэсхэлъ",
+              "translation": "I am |brave| (literally: I bear |bravery|)."
+            },
+            {
+              "sentence": "|Лӏыгъэ| къыпхэлъыба?",
+              "translation": "Aren\u0027t you |brave| (literally: Don\u0027t you bear |bravery|?)."
+            },
+            {
+              "sentence": "Саусырыкъо заом |лӏыгъэшхо| щызэрихьагъ",
+              "translation": "Susroku displayed |great bravery| in the battle."
+            }
+          ],
+          "meaning": "bravery; courage"
+        },
+        {
+          "examples": [],
+          "meaning": "manliness"
+        }
+      ]
+    },
+    {
+      "shapsug": "лӏыгъэгьэ",
+      "ipa": "ɬʼəʁat͡ʃʼa",
+      "lang": "Adyghe",
+      "type": "adv",
+      "word": "лӏыгъэкӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Кӏэлэцӏыкӏум |лӏыгъэкӏэ| къештэшъу ӏанэ иныр",
+              "translation": "The little boy can |barely| lift the large table."
+            }
+          ],
+          "meaning": "barely"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Кӏалэм |лӏыгъэкӏэ| мыжъор мэу къихьыгъ",
+              "translation": "The boy |with great difficulty| brought the stone."
+            }
+          ],
+          "meaning": "with great difficulty"
+        },
+        {
+          "examples": [
+            {
+              "sentence": "Лӏым |лӏыгъэкӏэ| хэсигъэхын еӏо",
+              "translation": "The man is |forcefully| trying to make me pick."
+            },
+            {
+              "sentence": "Кӏэлэцӏыкӏур |лӏыгъэкӏэ| агъэлажьэ",
+              "translation": "They are |forcefully| making the little boy work."
+            }
+          ],
+          "meaning": "forcefully"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼawəʑ",
+      "lang": "Adyghe",
+      "type": "pron",
+      "word": "лӏэужь",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Лӏэужь| уцӏэ?",
+              "translation": "|what| is your name |again|?"
+            },
+            {
+              "sentence": "|Лӏэужь| пшӏэрэр?",
+              "translation": "|what| are you doing |again|?"
+            },
+            {
+              "sentence": "|Лӏэужь| уӏорэр?",
+              "translation": "|what| are you saying |again|?"
+            }
+          ],
+          "meaning": "(Shapsug) what again"
+        }
+      ]
+    },
+    {
+      "kabardian": "лӏэкъуэцӏэ",
+      "synonyms": [
+        "унэгъуацӏэ"
+      ],
+      "ipa": "ɬʼaqʷaːt͡sʼa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэкъуацӏэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Сыд |уилӏэкъуацӏэ|?",
+              "translation": "What\u0027s |your family name|"
+            },
+            {
+              "sentence": "Сэ |силӏэкъуацӏэ| Абрэдж",
+              "translation": "|My family name| is Abredj"
+            }
+          ],
+          "meaning": "family name; surname; last name"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "сыдэу"
+      ],
+      "ipa": "ɬawʑəməj",
+      "lang": "Adyghe",
+      "type": "pron",
+      "word": "лӏэужьэу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "(Shapsug) alternative form of \"сыдэу\""
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼaʁapaːɬ",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "лӏэгъэпалъ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|Лӏэгъэпалъэр| цӏыфэу лӏагъэм фэдэу къэлъагъорэр",
+              "translation": "(S)he is well yet |corpselike|."
+            },
+            {
+              "sentence": "Ар псэу шъхьакӏэм |лӏэгъэпалъ|",
+              "translation": "(S)he is well yet |corpselike|."
+            }
+          ],
+          "meaning": "corpselike; a person that looks like a corpse"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼaʁapaːpt͡ʃʼ",
+      "lang": "Adyghe",
+      "type": "verb",
+      "word": "лӏэгъэпапкӏ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"лӏэгъэпалъ\""
+        }
+      ]
+    },
+    {
+      "kabardian": "лӏо",
+      "ipa": "ɬʼaw",
+      "lang": "Adyghe",
+      "type": "pron",
+      "word": "лӏэу",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "|лӏэу| хъугъэр?",
+              "translation": "|what| happened?"
+            },
+            {
+              "sentence": "|лӏэу| пшӏырэ?",
+              "translation": "|what| are you doing?"
+            },
+            {
+              "sentence": "|лӏэу| кӏалэм къыӏуагъэр?",
+              "translation": "|What| did the boy say?"
+            }
+          ],
+          "meaning": "(archaic or dialectal) what"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "укӏакӏо",
+        "мэхъаджэ"
+      ],
+      "ipa": "maχaːd͡ʒa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏыукӏ",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "murderer"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "лӏэужьыгъо"
+      ],
+      "ipa": "ɬʼawʑəʁʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэужьыгъо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "alternative form of \"лӏэужыгъо\""
+        }
+      ]
+    },
+    {
+      "kabardian": "лӏэужьыгъуэ",
+      "ipa": "ɬʼawʒəʁʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэужыгъо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "the thing one is made of"
+        },
+        {
+          "examples": [],
+          "meaning": "kin (from which one is originated); origin"
+        },
+        {
+          "examples": [],
+          "meaning": "race (a group of sentient beings, particularly people, distinguished by common ancestry, heritage or characteristics)"
+        },
+        {
+          "examples": [],
+          "meaning": "type, kind, species"
+        }
+      ]
+    },
+    {
+      "kabardian": "лӏэужь",
+      "ipa": "ɬʼawəʒ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэуж",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "posterity"
+        },
+        {
+          "examples": [],
+          "meaning": "descendants"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼəʔʷa-ɬʼəʃʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏыӏо-лӏышъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "masculine appearance"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "ӏэшъхьэтет",
+        "пащ"
+      ],
+      "ipa": "ɬʼəʂħa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏышъхьэ",
+      "definitions": [
+        {
+          "examples": [
+            {
+              "sentence": "Къэралым |илӏышъхь|",
+              "translation": "|Head of| the state."
+            }
+          ],
+          "meaning": "head of; chief"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬaqʷaɬaʃ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэкъолъэш",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "noble, nobleman (a man of noble rank)"
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼaːqʷa",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏакъо",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "clan"
+        },
+        {
+          "examples": [],
+          "meaning": "kind"
+        }
+      ]
+    },
+    {
+      "synonyms": [
+        "хьадэгъу"
+      ],
+      "ipa": "ɬʼaʁʷ",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэгъу",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "death time, time of death; alternative form of \"хьадэгъу\""
+        }
+      ]
+    },
+    {
+      "ipa": "ɬʼaʁʷaːb",
+      "lang": "Adyghe",
+      "type": "noun",
+      "word": "лӏэгъуаб",
+      "definitions": [
+        {
+          "examples": [],
+          "meaning": "widower"
         }
       ]
     }

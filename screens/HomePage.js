@@ -1,22 +1,27 @@
 import { useState, useEffect } from 'react';
-import React from 'react';
-import { View, Text, StyleSheet, ToastAndroid, StatusBar, BackHandler, Alert, ScrollView } from 'react-native';
+import * as React from 'react';
+import { View, StyleSheet, ToastAndroid, StatusBar, BackHandler, Alert } from 'react-native';
 import AutocompleteSection from './AutocompleteSection.js';
+import SettingsSection from './SettingsSection.js';
 import CircassianWordSection from './CircassianWordSection.js';
 import EnglishWordSection from './EnglishWordSection.js';
+import MenuView from './MenuView.js';
 import circassianDict from './../dictionary/CircassianDict.js';
 import englishDict from './../dictionary/EnglishDict.js';
-import { SearchBar } from 'react-native-elements';
+import { Searchbar } from 'react-native-paper';
+import { isWordInEnglish } from './GlobalFunctions.js';
 
 const HomePage = () => {
     const [searchedText, setSearchedText] = useState('');
     const [selectedWordObj, setSelectedWordObj] = useState({});
     const [showAutocomplete, setShowAutocomplete] = useState(false);
+    const [showSettings, setShowSettings] = useState(false);
+    const [checkedShowLatin, setCheckedShowLatin] = useState(false);
     const [historyOfSearchedWords, setHistoryOfSearchedWords] = useState([]);
     const [numberOfEnglishWords, setNumberOfEnglishWords] = useState(0);
     const [numberOfCircassianWords, setNumberOfCircassianWords] = useState(0);
 
-    const appVersion = "v1.0.2";
+    const appVersion = "v1.0.5";
 
     /**
      * a function that handles the phone's back button press event
@@ -42,11 +47,9 @@ const HomePage = () => {
         return true;
     };
 
-    // handle the phone's back button press event
-    useEffect(() => {
-        BackHandler.addEventListener("hardwareBackPress", backAction);
-        return () => BackHandler.removeEventListener("hardwareBackPress", backAction);
-    }, [historyOfSearchedWords]);
+    const changeCheckedShowLatin = () => {
+        setCheckedShowLatin(!checkedShowLatin);
+    }
 
     // calculate the number words in both Circassian and English dictionaries
     useEffect(() => {
@@ -62,11 +65,18 @@ const HomePage = () => {
         setNumberOfEnglishWords(engWord);
     }, []);
 
+    // handle the phone's back button press event
+    useEffect(() => {
+        BackHandler.addEventListener("hardwareBackPress", backAction);
+        return () => BackHandler.removeEventListener("hardwareBackPress", backAction);
+    }, [historyOfSearchedWords]);
+
     /**
      * a funciton that handles the inserted text in the search bar
      * @param {string} insertedText - the inserted text in the search-bar
      */
     const updateSearch = (insertedText) => {
+        setShowSettings(false);
         setSearchedText(insertedText)
         if (insertedText.length > 0) {
             setShowAutocomplete(true);
@@ -114,17 +124,6 @@ const HomePage = () => {
     };
 
     /**
-     * a funtion that checks if the given word is in the English language,
-     * the way the function determines that is, it checks if the given word
-     * starts in the latin alphabat
-     * @param {string} wordToCheck - the word to check
-     */
-    const isWordInEnglish = (wordToCheck) => {
-        const firstLetter = wordToCheck.charAt(0).toLowerCase();
-        return firstLetter.match(/[a-z]/i);
-    }
-
-    /**
      * a function that checks if the given word is in English or Circassian,
      * and returns the appropiate dictionary json
      * @param {string} wordToCheck - the word to check from which dictionary it is
@@ -158,17 +157,30 @@ const HomePage = () => {
         text = text.toLowerCase().trim().split("1").join("ӏ");
         let filteredWords = [];
         if (text.length >= 1) {
-            let key = getJsonKey(text);
-            if (getFittingDictionary(text).hasOwnProperty(key)) {
-                getFittingDictionary(text)[key].forEach((wordObj) => {
-                    if (wordObj['word'].toLowerCase().startsWith(text)) {
-                        filteredWords.push(wordObj['word']);
-                    }
-                });
+            let regular = [], get = [], be = [], become = [];
+            regular = getWordsFromDictionaryThatStartWith(text);
+            if (text.length >= 2) {
+                get = text.startsWith('get ') ? [] : getWordsFromDictionaryThatStartWith("get " + text);
+                become = text.startsWith('become ') ? [] : getWordsFromDictionaryThatStartWith("become " + text);
+                be = text.startsWith('be ') ? [] : getWordsFromDictionaryThatStartWith("be " + text);
             }
+            filteredWords = [...regular, ...get, ...become, ...be];
+            filteredWords.sort();
         }
-        filteredWords.sort();
         return filteredWords;
+    }
+
+    const getWordsFromDictionaryThatStartWith = (word) => {
+        let wordsToReturn = [];
+        const key = getJsonKey(word);
+        if (getFittingDictionary(word).hasOwnProperty(key)) {
+            getFittingDictionary(word)[key].forEach((wordObj) => {
+                if (wordObj['word'].toLowerCase().startsWith(word)) {
+                    wordsToReturn.push(wordObj['word']);
+                }
+            });
+        }
+        return wordsToReturn;
     }
 
     /**
@@ -176,27 +188,30 @@ const HomePage = () => {
      * there are in both English & Circassian dicitonary
      */
     const numberOfWordsView = () => {
-        if (numberOfEnglishWords == 0) {
-            return <Text style={styles.numberOfWordsText}>Loading...</Text>
-        }
-        return (
-            <View style={{ flex: 1 }}>
-                <ScrollView>
-                    <Text selectable={true} style={styles.homePageTitle}>The English-Circassian dicitonary</Text>
-                    <Text selectable={true} style={styles.numberOfWordsText}>Number of Circassian words: {numberOfEnglishWords}</Text>
-                    <Text selectable={true} style={styles.numberOfWordsText}>Number of English words: {numberOfCircassianWords}</Text>
-                </ScrollView>
-                <View><Text style={styles.versionText}>{appVersion}</Text></View>
-            </View>
-        )
+        return <MenuView
+            numberOfCircassianWords={numberOfCircassianWords}
+            numberOfEnglishWords={numberOfEnglishWords}
+            version={appVersion} />;
     }
 
     /**
      * a function that returns the AutocompleteSection component with its fitting parameters
      */
     const autocompleteView = () => {
-        return <AutocompleteSection data={getFilteredWordsInAutocomplete(searchedText)}
+        return <AutocompleteSection
+            checkedShowLatin={checkedShowLatin}
+            data={getFilteredWordsInAutocomplete(searchedText)}
             selectNewWord={newWordSelectionHandlder} />;
+    }
+
+    /**
+     * a function that returns the SettingsSection component
+     */
+    const settingsView = () => {
+        return <SettingsSection
+            goBack={setShowSettings}
+            checkedShowLatin={checkedShowLatin}
+            changeCheckedShowLatin={changeCheckedShowLatin} />;
     }
 
     /**
@@ -204,31 +219,46 @@ const HomePage = () => {
      * containing the details of the selected word 
      */
     const displayedSection = () => {
-        if (showAutocomplete) {
+        if (showSettings) {
+            return settingsView();
+        } else if (showAutocomplete) {
             return autocompleteView();
         } else if (Object.keys(selectedWordObj).length === 0 && selectedWordObj.constructor === Object) {
             return numberOfWordsView();
         } else {
             if (isWordInEnglish(selectedWordObj['word'])) {
-                return <EnglishWordSection selectNewWord={newWordSelectionHandlder} selectedWordObj={selectedWordObj} />
+                return <EnglishWordSection
+                    checkedShowLatin={checkedShowLatin}
+                    selectNewWord={newWordSelectionHandlder}
+                    selectedWordObj={selectedWordObj} />
             } else {
-                return <CircassianWordSection selectNewWord={newWordSelectionHandlder} selectedWordObj={selectedWordObj} />
+                return <CircassianWordSection
+                    checkedShowLatin={checkedShowLatin}
+                    selectNewWord={newWordSelectionHandlder}
+                    selectedWordObj={selectedWordObj} />
             }
         }
     };
 
     return (
         <View style={{ flex: 1 }}>
-            <View style={styles.statusBarHeight}>
+            <View style={{ flex: 1 }} style={styles.statusBarHeight}>
                 <StatusBar barStyle="dark-content" hidden={false} backgroundColor="gray" translucent={true} />
             </View>
-            <SearchBar
-                lightTheme
-                placeholder="Type Here..."
-                onChangeText={updateSearch}
-                value={searchedText}
-            />
-            {displayedSection()}
+            <View style={{ flex: 1 }} style={{ flexDirection: 'row' }}>
+                <View style={{ flex: 1 }}>
+                    <Searchbar
+                        placeholder="Search"
+                        onChangeText={updateSearch}
+                        value={searchedText}
+                        icon={{ source: 'settings', direction: 'auto' }}
+                        onIconPress={() => setShowSettings(!showSettings)}
+                    />
+                </View>
+            </View>
+            <View style={{ flex: 1 }}>
+                {displayedSection()}
+            </View>
         </View>
     );
 }
@@ -240,22 +270,11 @@ const styles = StyleSheet.create({
     statusBarHeight: {
         height: (Platform.OS === 'ios') ? 20 : StatusBar.currentHeight
     },
-    numberOfWordsText: {
-        padding: 20,
-        fontSize: 20
-    },
-    homePageTitle: {
-        padding: 20,
-        fontSize: 26,
-        fontWeight: "bold"
-    },
-    versionText: {
-        textAlign: 'right',
-        alignSelf: 'stretch',
-        color: "gray",
-        fontSize: 20,
+    iconContainer: {
+        backgroundColor: 'gray',
         padding: 10
     }
 });
+
 
 export default HomePage;

@@ -1,28 +1,38 @@
 import React from 'react';
 import { FlatList, View, Text, StyleSheet } from 'react-native';
 import { ListItem } from 'react-native-elements';
+import { convertToLatin } from './GlobalFunctions.js';
 
 const EnglishWordSection = (props) => {
     const wordObj = props.selectedWordObj;
 
     const renderWords = ({ item, index }) => {
+        let latinText = null;
+        if (props.checkedShowLatin) {
+            latinText = (
+                <Text
+                    style={styles.latinText}>{props.checkedShowLatin ? convertToLatin(removeTextBetweenBrackets((item))) : null}
+                </Text>
+            );
+        }
         return (
             <ListItem onPress={() => props.selectNewWord(removeTextBetweenBrackets(item))}>
                 <ListItem.Content>
                     <ListItem.Title style={styles.meaningText}>
                         {(index + 1) + '. ' + item}
                     </ListItem.Title>
+                    {latinText}
                 </ListItem.Content>
             </ListItem>
         );
     }
     const createHeader = (title) => (
-            <View>
-                <Text style={styles.header}>
-                    <Text style={styles.word}>{title}</Text>
-                </Text>
-                <View style={styles.hr} />
-            </View>
+        <View>
+            <Text style={styles.header}>
+                <Text style={styles.word}>{title}</Text>
+            </Text>
+            <View style={styles.hr} />
+        </View>
     );
 
     const listOfLemmmas = () => {
@@ -72,6 +82,10 @@ const styles = StyleSheet.create({
         borderBottomWidth: 1,
         marginLeft: 10,
         marginRight: 20
+    },
+    latinText: {
+        color: '#33CC33',
+        fontSize: 20
     }
 });
 

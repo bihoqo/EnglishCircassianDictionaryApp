@@ -1076,17 +1076,6 @@ const englishDict = {
       "word": "qafe"
     }
   ],
-  "ӏ0": [
-    {
-      "meaning": {
-        "lemmas": [
-          "лӏэшӏэгъу"
-        ],
-        "verbs": []
-      },
-      "word": "ӏ00 years"
-    }
-  ],
   "ab": [
     {
       "meaning": {
@@ -2463,6 +2452,17 @@ const englishDict = {
     },
     {
       "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "дэн (to allow)",
+          "фэдэн (to allow to)",
+          "гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
+        ]
+      },
+      "word": "allow"
+    },
+    {
+      "meaning": {
         "lemmas": [
           "гъэсэкӏэн"
         ],
@@ -2999,7 +2999,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "екӏун / екӏолӏэн (to approach someone)",
+          "екӏун (to approach someone)",
+          "екӏолӏэн (to approach someone)",
           "еблэгъэн (to get closer)",
           "ыдэжь кӏон (to go near someone)",
           "ӏухьан (to go near a certain place such as a shop)",
@@ -3102,6 +3103,16 @@ const englishDict = {
         "verbs": []
       },
       "word": "apple juice"
+    },
+    {
+      "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "къыфигъэгъунэу риӏон (to tell someone to excuse him/her)",
+          "къыфигъэгъуным кӏэлъэӏун (to beg someone to excuse him/her)"
+        ]
+      },
+      "word": "apologize"
     },
     {
       "meaning": {
@@ -4153,6 +4164,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
+          "шӏошӏын",
           "енэгуен (to think but not be absolutely sure)",
           "гущыӏэм фэӏон (to presume, to assume or suggest to be true (without proof))"
         ]
@@ -4859,7 +4871,8 @@ const englishDict = {
           "кӏэу",
           "бэ блэмыкӏэу",
           "бэ мышӏэу",
-          "джырэблагъэ"
+          "джырэблагъэ",
+          "-гъакӏ (verbal suffix that means that the action was done just recently)"
         ],
         "verbs": []
       },
@@ -5680,7 +5693,8 @@ const englishDict = {
         "verbs": [
           "шӏокӏын (to successfully avoid)",
           "емыблэгъэн (to not get close to)",
-          "зыщыдзыен (to avoid)"
+          "зыщыдзыен (to avoid)",
+          "щыгъэзыен (to neglect, to move something aside and avoiding it)"
         ]
       },
       "word": "avoid"
@@ -8662,7 +8676,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "щытын / щылъын (to be a, to be the)",
+          "щытын",
           "тетын / телъын (to be on)",
           "чӏэтын / чӏэлъын (to be unber, to be beneath)",
           "итын / илъын (to be in)",
@@ -11292,7 +11306,8 @@ const englishDict = {
           "гъэжъон (to boil something)",
           "пщтэн (to be boiled (milk))",
           "гъэпщтэн (to boil milk)",
-          "быжъутэн (to boil up)"
+          "быжъутэн (to boil up)",
+          "гъэпӏонкӏын (to boil liquid until it starts to burst)"
         ]
       },
       "word": "boil"
@@ -11451,6 +11466,19 @@ const englishDict = {
         "verbs": []
       },
       "word": "boyfriend"
+    },
+    {
+      "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "дэпкӏэен",
+          "дэлъэтэен",
+          "дэгъэпкӏэен (to cause something to bounce)",
+          "дэгъэлъэтэен (to cause something to bounce)",
+          "тецӏэшъутыкӏын (to bounce off)"
+        ]
+      },
+      "word": "bounce"
     },
     {
       "meaning": {
@@ -12364,10 +12392,20 @@ const englishDict = {
           "зэпыутын (to break off from itself)",
           "шӏоубэтэн (to destroy/break someone\u0027s property)",
           "укъон (to change money for lesser units)",
-          "сэкъатын / зэӏыхьан / зэщыкъон (to become dysfunctional (device, machine, etc))"
+          "сэкъатын / зэӏыхьан / зэщыкъон (to become dysfunctional (device, machine, etc))",
+          "пхырытхъын (to break through, to breach)"
         ]
       },
       "word": "break"
+    },
+    {
+      "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "пхырытхъын (to break through, to breach)"
+        ]
+      },
+      "word": "breach"
     },
     {
       "meaning": {
@@ -13002,6 +13040,17 @@ const englishDict = {
     },
     {
       "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "(vulgar) хэгъэцӏэн",
+          "хэгъэумэнэн",
+          "хегъэлъхьан"
+        ]
+      },
+      "word": "screw over"
+    },
+    {
+      "meaning": {
         "lemmas": [
           "блабжъ (fish and snakes)"
         ],
@@ -13175,9 +13224,9 @@ const englishDict = {
           "джамбырыу"
         ],
         "verbs": [
-          "пыгъэчэрэзэн",
-          "пыгъэчэрэгъон",
-          "пыгъэчэрэзыхьан"
+          "пыгъэчэрэзэн (to screw on)",
+          "пыгъэчэрэгъон (to screw on)",
+          "пыгъэчэрэзыхьан (to screw on)"
         ]
       },
       "word": "screw"
@@ -14651,9 +14700,10 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "пӏонкӏын (to bubble up from heat)",
-          "гъэпӏонкӏын (to cause to burst)",
-          "(Shapsug) гъэпӏэркӏын"
+          "пӏонкӏын (to burst during boiling)",
+          "гъэпӏонкӏын (to cause to burst during boiling)",
+          "(Shapsug) гъэпӏэркӏын",
+          "пхырытхъын (to burst open)"
         ]
       },
       "word": "burst"
@@ -19108,7 +19158,8 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэгъэфын"
+          "къэгъэфын (to make something happen)",
+          "гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
         ]
       },
       "word": "cause"
@@ -23504,7 +23555,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын",
+          "къэгупшысын",
+          "къычӏэхын",
           "зэхэлъхьан (to put together)",
           "къэгупшысын (to come up with an idea or concept)"
         ]
@@ -23515,7 +23568,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын",
+          "къэгупшысын",
+          "къычӏэхын",
           "зэхэлъхьан (to put together)"
         ]
       },
@@ -23781,6 +23836,30 @@ const englishDict = {
         "verbs": []
       },
       "word": "copper yellow"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "тхьэмэтагъэ",
+          "пэщагъ"
+        ],
+        "verbs": [
+          "унашъо шӏын",
+          "гъэӏорышӏэн",
+          "гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
+        ]
+      },
+      "word": "command"
+    },
+    {
+      "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "гъэӏорышӏэн",
+          "гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
+        ]
+      },
+      "word": "compel"
     },
     {
       "meaning": {
@@ -24958,16 +25037,6 @@ const englishDict = {
         ]
       },
       "word": "come true"
-    },
-    {
-      "meaning": {
-        "lemmas": [
-          "тхьэмэтагъэ",
-          "пэщагъ"
-        ],
-        "verbs": []
-      },
-      "word": "command"
     },
     {
       "meaning": {
@@ -27489,7 +27558,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысыгъэ",
+          "къэгупшысыгъэ",
+          "къычӏэхыгъэ",
           "зэхэлъхьан (to put together)"
         ]
       },
@@ -29803,7 +29874,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын",
+          "къэгупшысын",
+          "къычӏэхын",
           "зэхэлъхьан (to put together)"
         ]
       },
@@ -29965,6 +30038,17 @@ const englishDict = {
     },
     {
       "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "мыдэн (to not agree)",
+          "дэмыштэн (to not agree with)",
+          "емыуцолӏэн (to not agree with)"
+        ]
+      },
+      "word": "deny"
+    },
+    {
+      "meaning": {
         "lemmas": [
           "бзаджэ"
         ],
@@ -30103,6 +30187,16 @@ const englishDict = {
     },
     {
       "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "фэен (to want)",
+          "енэцӏын (to desire something that one does not have)"
+        ]
+      },
+      "word": "desire"
+    },
+    {
+      "meaning": {
         "lemmas": [
           "гугъу"
         ],
@@ -30229,7 +30323,9 @@ const englishDict = {
         "lemmas": [
           "фэшъуаш"
         ],
-        "verbs": []
+        "verbs": [
+          "фэшъошэн"
+        ]
       },
       "word": "deserve"
     },
@@ -30267,6 +30363,16 @@ const englishDict = {
         ]
       },
       "word": "deal with"
+    },
+    {
+      "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "къэӏотэн",
+          "фэкъэӏотэн (to describe to)"
+        ]
+      },
+      "word": "describe"
     },
     {
       "meaning": {
@@ -31371,6 +31477,15 @@ const englishDict = {
     },
     {
       "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "тегущыӏэн / къытегущыӏэн (to discuss on)"
+        ]
+      },
+      "word": "discuss"
+    },
+    {
+      "meaning": {
         "lemmas": [
           "къины",
           "хьылъэ"
@@ -32199,11 +32314,23 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ыхэ"
+          "ыхэ",
+          "ыхэкӏэ (downward)",
+          "-хы (a verbal suffix that means downward)"
         ],
         "verbs": []
       },
       "word": "down"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "ыхэкӏэ",
+          "-хы (a verbal suffix that means downward)"
+        ],
+        "verbs": []
+      },
+      "word": "downward"
     },
     {
       "meaning": {
@@ -32356,8 +32483,10 @@ const englishDict = {
           "гъугъэ (plant)"
         ],
         "verbs": [
-          "гъушъын / гъэгъушъын (clothes, objects and body parts)",
-          "гъун / гъэгъун (plants)",
+          "гъушъын (to get dried: clothes, objects and body parts)",
+          "гъэгъушъын (to dry: clothes, objects and body parts)",
+          "гъун (to get dried: plants)",
+          "гъэгъун (to dry plants)",
           "гъонлэн"
         ]
       },
@@ -32467,6 +32596,18 @@ const englishDict = {
     },
     {
       "meaning": {
+        "lemmas": [
+          "пкӏыхь",
+          "пкӏыхьапӏэ"
+        ],
+        "verbs": [
+          "пкӏыхь лъэгъун (to see a dream)"
+        ]
+      },
+      "word": "dream"
+    },
+    {
+      "meaning": {
         "lemmas": [],
         "verbs": [
           "тӏэтӏэн (to be drizzling)",
@@ -32546,16 +32687,6 @@ const englishDict = {
         ]
       },
       "word": "drive off"
-    },
-    {
-      "meaning": {
-        "lemmas": [
-          "пкӏыхь",
-          "пкӏыхьапӏэ"
-        ],
-        "verbs": []
-      },
-      "word": "dream"
     },
     {
       "meaning": {
@@ -33876,11 +34007,23 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ыпшъэ"
+          "ыпшъэ",
+          "ыпшъэкӏэ (upward)",
+          "дэ-ен (a verbal affix that means upward)"
         ],
         "verbs": []
       },
       "word": "up"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "ыпшъэкӏэ",
+          "дэ-ен (a verbal affix that means upward)"
+        ],
+        "verbs": []
+      },
+      "word": "upward"
     },
     {
       "meaning": {
@@ -35656,7 +35799,7 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "гъушъын",
-          "гъэгъушъын"
+          "гъэгъушъын (to make something evaporate)"
         ]
       },
       "word": "evaporate"
@@ -36079,7 +36222,9 @@ const englishDict = {
           "шъхьаусыгъу",
           "ушъхьагъу"
         ],
-        "verbs": []
+        "verbs": [
+          "фэгъэгъун (to forgive someone)"
+        ]
       },
       "word": "excuse"
     },
@@ -36743,7 +36888,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэжьапӏэ",
+          "лэжьапӏэ",
           "фабрикэ"
         ],
         "verbs": []
@@ -36775,7 +36920,8 @@ const englishDict = {
         "verbs": [
           "бзэхын",
           "кӏодын",
-          "гъонлэн / гъун (to fate, to dry out)"
+          "гъонлэн (to fate, to dry out)",
+          "гъун (to fate, to dry out)"
         ]
       },
       "word": "fade"
@@ -39454,7 +39600,8 @@ const englishDict = {
         ],
         "verbs": [
           "егъэзын",
-          "егъэзыгъэкӏэ егъэшӏэн (to forcefully make someone do something)"
+          "егъэзыгъэкӏэ егъэшӏэн (to forcefully make someone do something)",
+          "гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
         ]
       },
       "word": "force"
@@ -40005,7 +40152,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "фэен",
-          "шӏоигъон (very polite)"
+          "шӏоигъон (very polite)",
+          "(Shapsug) -рагъу (a verbal suffix that indicates the desirement to do that action)"
         ]
       },
       "word": "want"
@@ -40192,7 +40340,8 @@ const englishDict = {
           "гъогу",
           "лъагъо",
           "амал (method, way, means)",
-          "зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done)"
+          "зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done)",
+          "-кӏэ (a verbal suffix which is appended to verbs to form nouns meaning: the manner in which someone did the action, how someone did the action, the way someone did the action)"
         ],
         "verbs": []
       },
@@ -40818,7 +40967,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "пхъэшъхьэмышъхь",
+          "пхъэшъхьэмышъхьэ",
           "пкӏышъхьэмышъхьэ"
         ],
         "verbs": []
@@ -42585,14 +42734,14 @@ const englishDict = {
       "meaning": {
         "lemmas": [
           "ӏофы (work, job)",
-          "лъэжьапӏэ (workplace, worksite)",
+          "лэжьапӏэ (workplace, worksite)",
           "пшъэрылъ (task)",
           "ӏофшӏэн (work to do, tasks)",
           "хъызмэт (chores, housework)"
         ],
         "verbs": [
           "ӏоф шӏэн (to do work)",
-          "лъэжьэн / къэлэжьэн (to work)",
+          "лэжьэн / къэлэжьэн (to work)",
           "пылэжьэхьан (to work on something)"
         ]
       },
@@ -42610,7 +42759,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэжьапӏэ"
+          "лэжьапӏэ"
         ],
         "verbs": []
       },
@@ -42619,7 +42768,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "лъэжьапӏэ"
+          "лэжьапӏэ"
         ],
         "verbs": []
       },
@@ -43426,6 +43575,17 @@ const englishDict = {
         ]
       },
       "word": "get prepared"
+    },
+    {
+      "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "(vulgar) хэцӏэн",
+          "хэумэнэн",
+          "хэлъхьан"
+        ]
+      },
+      "word": "get screwed over"
     },
     {
       "meaning": {
@@ -47089,14 +47249,6 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сэлам"
-        ]
-      },
-      "word": "hello"
-    },
-    {
-      "meaning": {
-        "lemmas": [
           "ӏэхъогъу",
           "ӏэхъогъу"
         ],
@@ -47830,14 +47982,6 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "сэлам"
-        ]
-      },
-      "word": "hi"
-    },
-    {
-      "meaning": {
-        "lemmas": [
           "ко"
         ],
         "verbs": []
@@ -48399,7 +48543,8 @@ const englishDict = {
           "таущтэу",
           "тэщтэу",
           "сыдэущтэу",
-          "зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done)"
+          "зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done)",
+          "-кӏэ (a verbal suffix which is appended to verbs to form nouns meaning: the manner in which someone did the action, how someone did the action, the way someone did the action)"
         ],
         "verbs": []
       },
@@ -50194,7 +50339,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын",
+          "къэгупшысын",
+          "къычӏэхын",
           "зэхэлъхьан (to put together)"
         ]
       },
@@ -50203,7 +50350,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэугупшысыгъэ / къэгупшысыгъэ / къычӏэхыгъэ",
+          "къэугупшысыгъэ",
+          "къэгупшысыгъэ",
+          "къычӏэхыгъэ",
           "къэгупшысыгъэ"
         ],
         "verbs": []
@@ -51740,6 +51889,17 @@ const englishDict = {
       "word": "jinn"
     }
   ],
+  "ӏ0": [
+    {
+      "meaning": {
+        "lemmas": [
+          "лӏэшӏэгъу"
+        ],
+        "verbs": []
+      },
+      "word": "ӏ00 years"
+    }
+  ],
   "jo": [
     {
       "meaning": {
@@ -52371,15 +52531,6 @@ const englishDict = {
         ]
       },
       "word": "kick out"
-    },
-    {
-      "meaning": {
-        "lemmas": [],
-        "verbs": [
-          "(vulgar) шъутыкӏэ гъэкӏон"
-        ]
-      },
-      "word": "kick ass"
     },
     {
       "meaning": {
@@ -53927,7 +54078,17 @@ const englishDict = {
         ],
         "verbs": []
       },
-      "word": "Linotype, literature"
+      "word": "linotype"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "бзэшэн",
+          "литератур"
+        ],
+        "verbs": []
+      },
+      "word": "literature"
     },
     {
       "meaning": {
@@ -55502,7 +55663,8 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шэн"
+          "шэн",
+          "-кӏэ (a verbal suffix which is appended to verbs to form nouns meaning: the manner in which someone did the action, how someone did the action, the way someone did the action)"
         ],
         "verbs": []
       },
@@ -55544,7 +55706,9 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "къэугупшысын / къэгупшысын / къычӏэхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one\u0027s mind)",
+          "къэугупшысын",
+          "къэгупшысын",
+          "къычӏэхын",
           "зэхэлъхьан (to put together)"
         ]
       },
@@ -55553,7 +55717,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "къэугупшысыгъэ / къэгупшысыгъэ / къычӏэхыгъэ"
+          "къэугупшысыгъэ",
+          "къэгупшысыгъэ",
+          "къычӏэхыгъэ"
         ],
         "verbs": []
       },
@@ -56044,8 +56210,18 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
+          "гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, manipulated to do, given the opportunity to, etc.)"
+        ]
+      },
+      "word": "manipulate"
+    },
+    {
+      "meaning": {
+        "lemmas": [],
+        "verbs": [
           "шӏын",
           "фэшӏын (to make for)",
+          "гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)",
           "зэхэшӏыхьан (to make something using, to make something from)",
           "кӏэшӏыхьан (to make under something)",
           "тешӏыхьан (to make on something)",
@@ -59100,6 +59276,7 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
+          "щыгъэзыен",
           "пхъатэ пэмыхьын / пхъатэ емытын (to deliberately pay no attention to)",
           "нэмыплъ ехын"
         ]
@@ -59435,6 +59612,15 @@ const englishDict = {
         "verbs": []
       },
       "word": "not long ago"
+    },
+    {
+      "meaning": {
+        "lemmas": [
+          "-жьырэп (a verbal suffix that convey the meaning of: no longer)"
+        ],
+        "verbs": []
+      },
+      "word": "no longer"
     },
     {
       "meaning": {
@@ -60675,6 +60861,17 @@ const englishDict = {
         "verbs": []
       },
       "word": "organizer"
+    },
+    {
+      "meaning": {
+        "lemmas": [],
+        "verbs": [
+          "унашъо шӏын",
+          "гъэӏорышӏэн",
+          "гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
+        ]
+      },
+      "word": "order"
     },
     {
       "meaning": {
@@ -61958,7 +62155,8 @@ const englishDict = {
         "lemmas": [],
         "verbs": [
           "дэн",
-          "фэдэн (to permit to)"
+          "фэдэн (to permit to)",
+          "гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
         ]
       },
       "word": "permit"
