@@ -14,6 +14,14 @@ const SettingsSection = (props) => {
                         </View>
                     </View>
                 </TouchableRipple>
+                <TouchableRipple onPress={() => props.changeCheckedShowKabardian()}>
+                    <View style={styles.row}>
+                        <Paragraph style={styles.paragraphContainer}>Include eastern dicitonary (alpha)</Paragraph>
+                        <View pointerEvents="none">
+                            <Checkbox status={props.checkedShowKabardian ? 'checked' : 'unchecked'} />
+                        </View>
+                    </View>
+                </TouchableRipple>
             </View>
             <View style={styles.goBackContainer}>
                 <Button onPress={() => props.goBack(false)}>Go back</Button>

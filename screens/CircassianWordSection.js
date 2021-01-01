@@ -50,17 +50,56 @@ const CircassianWordSection = (props) => {
         );
     }
 
-    const header = (
-        <View>
-            <Text selectable={true} style={styles.header}>
-                <Text style={styles.word}>{wordObj['word']}</Text>
-                {props.checkedShowLatin ? <Text style={styles.wordInLatin}> {convertToLatin(wordObj['word'])}</Text> : null}
-                <Text>  [{wordObj['ipa']}]</Text>
-                <Text> ({wordObj['type']})</Text>
-            </Text>
-            <View style={styles.hr} />
-        </View>
-    );
+    const adygheHeader = (numberOfWords) => {
+        let adygheHeaderTitle = null;
+        if (numberOfWords > 0) {
+            adygheHeaderTitle = (
+                <Text selectable={true} style={styles.header}>
+                    <Text style={styles.langHeaderText}>Western:</Text>
+                </Text>
+            );
+        }
+        return (
+            <View>
+                <Text selectable={true} style={styles.header}>
+                    <Text style={styles.wordScreenHeaderText}>{wordObj['word']}</Text>
+                    {props.checkedShowLatin ? <Text style={styles.wordInLatin}> {convertToLatin(wordObj['word'])}</Text> : null}
+                    <Text>  [{wordObj['ipa']}]</Text>
+                    <Text> ({wordObj['type']})</Text>
+                </Text>
+                <View style={styles.hr} />
+                {adygheHeaderTitle}
+            </View>
+        )
+    };
+
+    const kabardianHeader = (numberOfWords) => {
+        let kabardianHeaderTitle = null;
+        if (numberOfWords > 0) {
+            kabardianHeaderTitle = (
+                <Text selectable={true} style={styles.header}>
+                    <Text style={styles.langHeaderText}>Eastern:</Text>
+                </Text>
+            );
+        }
+        return (
+            <View>
+                {kabardianHeaderTitle}
+            </View>
+        )
+    };
+
+    const kabardianSection = () => {
+        return (
+            <FlatList
+                ListHeaderComponent={kabardianHeader(wordObj['kbdDefinitions'].length)}
+                ListFooterComponent={footerFun()}
+                removeClippedSubviews={false}
+                data={wordObj['kbdDefinitions']}
+                keyExtractor={(item, index) => index.toString()}
+                renderItem={renderDefinitions} />
+        );
+    };
 
     const footerFun = () => {
         const shapsugWord = wordObj['shapsug'] != null ? wordObj['shapsug'] : '-';
@@ -77,10 +116,10 @@ const CircassianWordSection = (props) => {
 
     return (
         <FlatList
-            ListHeaderComponent={header}
-            ListFooterComponent={footerFun()}
+            ListHeaderComponent={adygheHeader(wordObj['adyDefinitions'].length)}
+            ListFooterComponent={kabardianSection()}
             removeClippedSubviews={false}
-            data={wordObj['definitions']}
+            data={wordObj['adyDefinitions']}
             keyExtractor={(item, index) => index.toString()}
             renderItem={renderDefinitions} />
     );
@@ -95,9 +134,14 @@ const styles = StyleSheet.create({
         paddingLeft: 10,
         paddingRight: 3
     },
-    word: {
+    wordScreenHeaderText: {
         fontSize: 30,
         fontWeight: "bold"
+    },
+    langHeaderText: {
+        fontSize: 25,
+        fontWeight: "bold",
+        textDecorationLine: 'underline'
     },
     wordInLatin: {
         fontSize: 30,

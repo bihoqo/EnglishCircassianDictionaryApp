@@ -8411,7 +8411,7 @@ const englishDict = {
           "гузэжъон"
         ]
       },
-      "word": "be uneasy "
+      "word": "be uneasy"
     },
     {
       "meaning": {
@@ -8703,7 +8703,6 @@ const englishDict = {
       "meaning": {
         "lemmas": [],
         "verbs": [
-          "шӏошӏу мэхъун",
           "шӏошъ хъун"
         ]
       },
@@ -14592,12 +14591,7 @@ const englishDict = {
           "тегъэстыкӏын (to burn off something)",
           "хэгъэстыкӏын (to burn into something)",
           "хэстыхьан (to burn in fire, to burn in an area with a hot mass)",
-          "машӏо хэнэн / машӏо кӏэнэн (to catch fire",
-          "to combust",
-          "to get ignited",
-          "to begin to burn",
-          "to inflame",
-          "to go up in flames)",
+          "машӏо хэнэн / машӏо кӏэнэн (to catch fire, to combust, to get ignited, to begin to burn, to inflame, to go up in flames)",
           "машӏо хэгъэнэн / машӏо кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire)",
           "зэхэнэн / зэкӏэнэн (to catch fire by itself)",
           "пыстыкӏын (to burn off the tip of)"
@@ -23742,7 +23736,7 @@ const englishDict = {
         ],
         "verbs": []
       },
-      "word": "coolness "
+      "word": "coolness"
     },
     {
       "meaning": {
@@ -27200,7 +27194,7 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "ӏудан"
+          "ӏуданэ"
         ],
         "verbs": []
       },
@@ -30491,11 +30485,12 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
+          "хьадэгъу",
           "лӏэгъу"
         ],
         "verbs": []
       },
-      "word": "death time, time of death"
+      "word": "death time"
     },
     {
       "meaning": {
@@ -39468,7 +39463,9 @@ const englishDict = {
     {
       "meaning": {
         "lemmas": [
-          "шхыны, гъомыл, гъомлапхъэ (foodstuff)",
+          "шхыны",
+          "гъомыл",
+          "гъомлапхъэ (foodstuff)",
           "пчэдыжьышхэ (breakfast)",
           "щэджэгъуашхэ (launch)",
           "пчыхьэшъхьашхэ (supper, dinner for evening)",
@@ -43257,15 +43254,6 @@ const englishDict = {
         "verbs": []
       },
       "word": "galop"
-    },
-    {
-      "meaning": {
-        "lemmas": [
-          "хэкӏ"
-        ],
-        "verbs": []
-      },
-      "word": "garbage; debris"
     },
     {
       "meaning": {
@@ -53496,7 +53484,7 @@ const englishDict = {
         ],
         "verbs": []
       },
-      "word": "leopard "
+      "word": "leopard"
     },
     {
       "meaning": {
@@ -54316,7 +54304,7 @@ const englishDict = {
         ],
         "verbs": []
       },
-      "word": "little bit "
+      "word": "little bit"
     },
     {
       "meaning": {
@@ -55982,7 +55970,7 @@ const englishDict = {
         ],
         "verbs": []
       },
-      "word": "Marjoram "
+      "word": "Marjoram"
     },
     {
       "meaning": {
@@ -56533,15 +56521,6 @@ const englishDict = {
         "verbs": []
       },
       "word": "matter"
-    },
-    {
-      "meaning": {
-        "lemmas": [],
-        "verbs": [
-          "ӏохъун"
-        ]
-      },
-      "word": "make a slip in speaking; say something mistakenly"
     },
     {
       "meaning": {
@@ -60617,7 +60596,7 @@ const englishDict = {
         ],
         "verbs": []
       },
-      "word": "a bit "
+      "word": "a bit"
     },
     {
       "meaning": {
@@ -62584,7 +62563,7 @@ const englishDict = {
         ],
         "verbs": []
       },
-      "word": "pin "
+      "word": "pin"
     },
     {
       "meaning": {

@@ -6,18 +6,25 @@ import { convertToLatin, isWordInEnglish } from './GlobalFunctions.js';
 const AutocompleteSection = (props) => {
 
     const renderWords = ({ item }) => {
-        let latinTextSeciton = null;
-        if (!isWordInEnglish(item)) {
-            latinTextSeciton = (
-                <Text style={styles.latinText}>  {props.checkedShowLatin ? convertToLatin(item) : null}</Text>
+        const wordItem = item['word'];
+        const langItem = item['lang'];
+        let latinTextSection = null;
+        let langTextSection = null;
+        if (!isWordInEnglish(wordItem)) {
+            latinTextSection = (
+                <Text style={styles.latinText}>  {props.checkedShowLatin ? convertToLatin(wordItem) : null}</Text>
+            )
+            langTextSection = (
+                <Text style={styles.lang}>  {"[" + langItem + "]"}</Text>
             )
         }
         return (
-            <ListItem onPress={() => wordOnPressHandler(item)}>
+            <ListItem onPress={() => wordOnPressHandler(wordItem)}>
                 <ListItem.Content>
                     <ListItem.Title style={styles.suggestedWordStyle}>
-                        {item}
-                        {latinTextSeciton}
+                        {wordItem}
+                        {latinTextSection}
+                        {langTextSection}
                     </ListItem.Title>
                 </ListItem.Content>
             </ListItem>
@@ -44,6 +51,10 @@ const styles = StyleSheet.create({
     },
     suggestedWordStyle: {
         fontSize: 18
+    },
+    lang: {
+        color: 'crimson',
+        fontSize: 14
     }
 });
 

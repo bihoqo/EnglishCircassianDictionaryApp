@@ -17,11 +17,13 @@ const HomePage = () => {
     const [showAutocomplete, setShowAutocomplete] = useState(false);
     const [showSettings, setShowSettings] = useState(false);
     const [checkedShowLatin, setCheckedShowLatin] = useState(false);
+    const [checkedShowKabardian, setCheckedShowKabardian] = useState(true);
     const [historyOfSearchedWords, setHistoryOfSearchedWords] = useState([]);
     const [numberOfEnglishWords, setNumberOfEnglishWords] = useState(0);
-    const [numberOfCircassianWords, setNumberOfCircassianWords] = useState(0);
+    const [numberOfAdygheWords, setNumberOfAdygheWords] = useState(0);
+    const [numberOfKabardianWords, setNumberOfKabardianWords] = useState(0);
 
-    const appVersion = "v1.0.5";
+    const appVersion = "v1.0.6";
 
     /**
      * a function that handles the phone's back button press event
@@ -51,14 +53,27 @@ const HomePage = () => {
         setCheckedShowLatin(!checkedShowLatin);
     }
 
+    const changeCheckedShowKabardian = () => {
+        setCheckedShowKabardian(!checkedShowKabardian);
+    }
+
     // calculate the number words in both Circassian and English dictionaries
     useEffect(() => {
-        let cirWords = 0;
+        let adyWords = 0;
+        let kbdWords = 0;
         let engWord = 0;
         Object.keys(circassianDict).forEach((key) => {
-            cirWords += circassianDict[key].length;
+            circassianDict[key].forEach((cirWordObj) => {
+                if (cirWordObj['adyDefinitions'].length > 0) {
+                    adyWords += 1;
+                }
+                if (cirWordObj['kbdDefinitions'].length > 0) {
+                    kbdWords += 1;
+                }
+            });
         });
-        setNumberOfCircassianWords(cirWords);
+        setNumberOfAdygheWords(adyWords);
+        setNumberOfKabardianWords(kbdWords);
         Object.keys(englishDict).forEach((key) => {
             engWord += englishDict[key].length;
         });
@@ -165,9 +180,21 @@ const HomePage = () => {
                 be = text.startsWith('be ') ? [] : getWordsFromDictionaryThatStartWith("be " + text);
             }
             filteredWords = [...regular, ...get, ...become, ...be];
-            filteredWords.sort();
+            filteredWords = sortArrayOfObjectsByKey(filteredWords, "word");
         }
         return filteredWords;
+    }
+
+    /**
+     * a function that sorts an array of objects by indicated key
+     * @param {array} array - an array of objects
+     * @param {string} key - the key to sort by
+     */
+    const sortArrayOfObjectsByKey = (array, key) => {
+        return array.sort((a, b) => {
+            var x = a[key]; var y = b[key];
+            return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+        });
     }
 
     const getWordsFromDictionaryThatStartWith = (word) => {
@@ -176,7 +203,20 @@ const HomePage = () => {
         if (getFittingDictionary(word).hasOwnProperty(key)) {
             getFittingDictionary(word)[key].forEach((wordObj) => {
                 if (wordObj['word'].toLowerCase().startsWith(word)) {
-                    wordsToReturn.push(wordObj['word']);
+                    if (!checkedShowKabardian && wordObj['adyDefinitions'].length === 0) {
+                        // skip if does not include Kabardian words
+                    } else {
+                        let wordLang = "";
+                        // if word is Circassian add which dialect it belongs to (ady or kbd or both)
+                        if (!isWordInEnglish(wordObj['word'])) {
+                            let langsArr = [];
+                            wordObj['adyDefinitions'].length > 0 ? langsArr.push('ady') : null;
+                            wordObj['kbdDefinitions'].length > 0 ? langsArr.push('kbd') : null;
+                            wordLang = langsArr.join('/');
+                        }
+                        wordObj = { word: wordObj['word'], lang: wordLang };
+                        wordsToReturn.push(wordObj);
+                    }
                 }
             });
         }
@@ -189,7 +229,8 @@ const HomePage = () => {
      */
     const numberOfWordsView = () => {
         return <MenuView
-            numberOfCircassianWords={numberOfCircassianWords}
+            numberOfAdygheWords={numberOfAdygheWords}
+            numberOfKabardianWords={numberOfKabardianWords}
             numberOfEnglishWords={numberOfEnglishWords}
             version={appVersion} />;
     }
@@ -211,7 +252,9 @@ const HomePage = () => {
         return <SettingsSection
             goBack={setShowSettings}
             checkedShowLatin={checkedShowLatin}
-            changeCheckedShowLatin={changeCheckedShowLatin} />;
+            changeCheckedShowLatin={changeCheckedShowLatin}
+            checkedShowKabardian={checkedShowKabardian}
+            changeCheckedShowKabardian={changeCheckedShowKabardian} />;
     }
 
     /**
