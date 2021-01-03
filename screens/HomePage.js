@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react';
 import * as React from 'react';
 import { View, StyleSheet, ToastAndroid, StatusBar, BackHandler, Alert } from 'react-native';
+import { Footer, FooterTab, Button } from 'native-base';
+import Icon from 'react-native-vector-icons/Octicons';
 import AutocompleteSection from './AutocompleteSection.js';
 import SettingsSection from './SettingsSection.js';
 import CircassianWordSection from './CircassianWordSection.js';
@@ -23,7 +25,7 @@ const HomePage = () => {
     const [numberOfAdygheWords, setNumberOfAdygheWords] = useState(0);
     const [numberOfKabardianWords, setNumberOfKabardianWords] = useState(0);
 
-    const appVersion = "v1.0.6";
+    const appVersion = "v1.0.7";
 
     /**
      * a function that handles the phone's back button press event
@@ -210,8 +212,8 @@ const HomePage = () => {
                         // if word is Circassian add which dialect it belongs to (ady or kbd or both)
                         if (!isWordInEnglish(wordObj['word'])) {
                             let langsArr = [];
-                            wordObj['adyDefinitions'].length > 0 ? langsArr.push('ady') : null;
-                            wordObj['kbdDefinitions'].length > 0 ? langsArr.push('kbd') : null;
+                            wordObj['adyDefinitions'].length > 0 ? langsArr.push('west') : null;
+                            wordObj['kbdDefinitions'].length > 0 ? langsArr.push('east') : null;
                             wordLang = langsArr.join('/');
                         }
                         wordObj = { word: wordObj['word'], lang: wordLang };
@@ -294,13 +296,23 @@ const HomePage = () => {
                         placeholder="Search"
                         onChangeText={updateSearch}
                         value={searchedText}
-                        icon={{ source: 'settings', direction: 'auto' }}
-                        onIconPress={() => setShowSettings(!showSettings)}
                     />
                 </View>
             </View>
             <View style={{ flex: 1 }}>
                 {displayedSection()}
+            </View>
+            <View style={{ flex: 0 }}>
+                <Footer>
+                    <FooterTab>
+                        <Button style={styles.footerButton} onPress={() => backAction()}>
+                            <Icon name="chevron-left" size={30} color="white" />
+                        </Button>
+                        <Button style={styles.footerButton}  onPress={() => setShowSettings(!showSettings)} >
+                            <Icon name="gear" size={30} color="white" />
+                        </Button>
+                    </FooterTab>
+                </Footer>
             </View>
         </View>
     );
@@ -316,6 +328,9 @@ const styles = StyleSheet.create({
     iconContainer: {
         backgroundColor: 'gray',
         padding: 10
+    },
+    footerButton: {
+        backgroundColor: 'gray'
     }
 });
 

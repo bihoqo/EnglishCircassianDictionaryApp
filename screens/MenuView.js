@@ -8,18 +8,13 @@ const MenuView = (props) => {
         return (
             <View style={{ flex: 1 }}>
                 <ScrollView>
-                    <Text selectable={true} style={styles.homePageTitle}>
-                        The English-Circassian dictionary
-                    </Text>
+                    <Text selectable={true} style={styles.homePageTitle}>The English-Circassian dictionary</Text>
+                    <Text selectable={true} style={styles.numberOfWordsText}>Number of Western words: {props.numberOfAdygheWords}</Text>
                     <Text selectable={true} style={styles.numberOfWordsText}>
-                        Number of Western words: {props.numberOfAdygheWords}
+                        Number of Eastern words: {props.numberOfKabardianWords}.
+                        Note this is Amjad Jaimoukha's unedited dictionary and it requires a bit of a clean up.
                     </Text>
-                    <Text selectable={true} style={styles.numberOfWordsText}>
-                        Number of Eastern words: {props.numberOfKabardianWords} from Amjad Jaimoukha's dictionary
-                    </Text>
-                    <Text selectable={true} style={styles.numberOfWordsText}>
-                        Number of English words: {props.numberOfEnglishWords}
-                    </Text>
+                    <Text selectable={true} style={styles.numberOfWordsText}>Number of English words: {props.numberOfEnglishWords}</Text>
                     <Text selectable={true} style={styles.numberOfWordsText}>
                         To search for words with the letter palochka "ӏ" you can use "1" instead, for example searching "к1алэ" instead of "кӏалэ".
                     </Text>
